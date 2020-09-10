@@ -8,13 +8,13 @@ clonesite:
 	rm -fr site/
 	git clone -b master git@ch4zm.github.com:ch4zm/ch4zm.github.io site
 
-setup_cinder:
-	wget https://github.com/chrissimpkins/cinder/archive/v1.0.4.zip
-	unzip v1.0.4.zip
-	mv cinder-1.0.4/cinder cinder
-	rm -fr cinder-1.0.4
-	rm -f v1.0.4.zip
+clean:
+	rm -fr site/*
 
-site:
-	rm -fr output/*
+build: clean
 	mkdocs build
+
+gen:
+	./scripts/gen_site.sh
+
+all: gen build
