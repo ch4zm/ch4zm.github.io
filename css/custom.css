@@ -1,0 +1,7 @@
+.md-typeset a {
+    /*color: #c00;*/
+    color: #a70;
+}
+.md-nav__link--active {
+    color: #a70;
+}
