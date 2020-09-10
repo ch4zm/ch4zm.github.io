@@ -1,15 +1,77 @@
-site_name: ch4zm of hellmouth
+site_name: Ch4zm of Hellmouth - Blaseball Data Witch
 site_url: https://ch4zm.github.io
 
 nav:
-  - Home: index.md
-  - Stuff: other.md
+  - Homepage: index.md
+  - Streaks:
+    - All Time Winning Streaks: wstreaks_alltime.md
+    - Winning Streaks by Season:
+      - Season 1 Winning Streaks: wstreaks_season1.md
+      - Season 2 Winning Streaks: wstreaks_season2.md
+      - Season 3 Winning Streaks: wstreaks_season3.md
+      - Season 4 Winning Streaks: wstreaks_season4.md
+      - Season 5 Winning Streaks: wstreaks_season5.md
+    - Winning Streaks by Team: wstreaks_team.md
+    - All Time Losing Streaks: lstreaks_alltime.md
+    - Losing Streaks by Season: lstreaks_season.md
+      - Season 1 Losing Streaks: lstreaks_season1.md
+      - Season 2 Losing Streaks: lstreaks_season2.md
+      - Season 3 Losing Streaks: lstreaks_season3.md
+      - Season 4 Losing Streaks: lstreaks_season4.md
+      - Season 5 Losing Streaks: lstreaks_season5.md
+    - Losing Streaks by Team: lstreaks_team.md
+  - Shutouts:
+    - All Time Shutouts: shutouts_alltime.md
+    - Shutouts by Season:
+      - Season 1 Shutouts: shutouts_season1.md
+      - Season 2 Shutouts: shutouts_season2.md
+      - Season 3 Shutouts: shutouts_season3.md
+      - Season 4 Shutouts: shutouts_season4.md
+      - Season 5 Shutouts: shutouts_season5.md
+    - Shutouts by Team: shutouts_team.md
+    - Postseason Shutouts: shutouts_postseason.md
+  - Blowouts:
+    - All Time Blowouts: blowouts_alltime.md
+    - Blowouts by Season:
+      - Season 1 Blowouts: blowouts_season1.md
+      - Season 2 Blowouts: blowouts_season2.md
+      - Season 3 Blowouts: blowouts_season3.md
+      - Season 4 Blowouts: blowouts_season4.md
+      - Season 5 Blowouts: blowouts_season5.md
+    - Blowouts by Team: blowouts_team.md
+    - Postseason Blowouts: blowouts_postseason.md
+  - Underdog Wins:
+    - All Time Underdog Wins: underdog_alltime.md
+    - Underdog Wins by Season:
+      - Season 1 Underdog Wins: underdog_season1.md
+      - Season 2 Underdog Wins: underdog_season2.md
+      - Season 3 Underdog Wins: underdog_season3.md
+      - Season 4 Underdog Wins: underdog_season4.md
+      - Season 5 Underdog Wins: underdog_season5.md
+    - Underdog Wins by Team: underdog_team.md
+    - Postseason Underdog Wins: underdog_postseason.md
+  - Shame Wins:
+    - All Time Shame Wins: shame_alltime.md
+    - Shame Wins by Season:
+      - Season 1 Shame Wins: shame_season1.md
+      - Season 2 Shame Wins: shame_season2.md
+      - Season 3 Shame Wins: shame_season3.md
+      - Season 4 Shame Wins: shame_season4.md
+      - Season 5 Shame Wins: shame_season5.md
+    - Shame Wins by Team: shame_team.md
+    - Postseason Shame Wins: shame_postseason.md
 
 docs_dir: docs
 site_dir: site
+extra_css:
+  - css/custom.css
 
 theme:
   name: material
+  palette:
+    primary: amber
+  icon: 
+    logo: fontawesome/solid/sun
 
 markdown_extensions:
   - admonition
