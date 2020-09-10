@@ -1,14 +1,20 @@
-## Ch4zm of Hellmouth III
+![Portrait of Ch4zm of Hellmouth](img/avatar.jpg)
 
-**Ch4zm of Hellmouth III, D.W.E.R.P.**
+# Ch4zm of Hellmouth
 
-Professor, Department of Metablaseballical Studies, Hellmouth Institute of Technolology
+* I am a **Data Witch** for the **Hellmouth Sunbeams**
+* I am also a professor of **Blaseball Studies** at the **Hellmouth Institute of Technology**
+* Occasionally I also dabble in philolosophy.
+* The department recently named me the **Rhys Trombone Endowed Chair of Metablaseballical Studies**
 
-Adjunct Professor, Department of Philolosophy, Hellmouth Institute of Technolology
+You can find me on the web:
 
-Rhys Trombone Endowed Chair of Blaseballical Alchemy
+* [Github: @ch4zm](https://github.com/ch4zm)
+* [Twitter: @ch4zm_of_hell](https://twitter.com/ch4zm_of_hell)
 
 ## Tools
+
+Most of these tools are useful command-line utilities to explore 
 
 * [interesting-blaseball-games](https://github.com/ch4zm/interesting-blaseball-games) - 
   a command-line tool for finding interesting blaseball games
@@ -18,11 +24,17 @@ Rhys Trombone Endowed Chair of Blaseballical Alchemy
 
 ## Stats
 
-Streaks:
+Winning Streaks:
 
-* [All-Time Blaseball Streaks](streaks_alltime.md)
-* [Streaks by Season](streaks_season.md)
-* [Streaks by Team](streaks_team.md)
+* [All-Time Blaseball Winning Streaks](wstreaks_alltime.md)
+* [Winning Streaks by Season](wstreaks_season.md)
+* [Winning Streaks by Team](wstreaks_team.md)
+
+Losing Streaks:
+
+* [All-Time Blaseball Losing Steraks](lstreaks_alltime.md)
+* [Losing Steraks by Season](lstreaks_season.md)
+* [Losing Steraks by Team](lstreaks_team.md)
 
 Shutouts:
 
