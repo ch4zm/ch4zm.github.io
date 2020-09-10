@@ -30,10 +30,10 @@ echo "(Through Season $LASTSEASON)" >> $OUT
 echo "" >> $OUT
 echo "## Summary" >> $OUT
 echo "" >> $OUT
-$STREAK_FINDER --winning --short --markdown --min 8 >> $OUT
+$STREAK_FINDER --winning --short --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
 echo "" >> $OUT
 echo "## Details" >> $OUT
-$STREAK_FINDER --winning --long --markdown --min 8 >> $OUT
+$STREAK_FINDER --winning --long --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -49,11 +49,11 @@ for i in $(seq 1 $LASTSEASON); do
     echo "Working on season $i"
     echo "## Season $i Winning Streaks Summary" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --winning --season $i --short --markdown --min 7 >> $OUT
+    $STREAK_FINDER --winning --season $i --short --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
     echo "## Season $i Winning Streaks Details" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --winning --season $i --long --markdown --min 7 >> $OUT
+    $STREAK_FINDER --winning --season $i --long --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
 done
 echo "Done."
@@ -70,11 +70,11 @@ cat $ROOT_DIR/../list_of_teams | sort | while read team; do
     echo "Working on team $team"
     echo "## $team Winning Streaks Summary" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --winning --team "$team" --short --markdown --min 4 >> $OUT
+    $STREAK_FINDER --winning --team "$team" --short --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
     echo "## $team Winning Streaks Details" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --winning --team "$team" --long --markdown --min 4 >> $OUT
+    $STREAK_FINDER --winning --team "$team" --long --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
 done
 
@@ -91,10 +91,10 @@ echo "(Through Season $LASTSEASON)" >> $OUT
 echo "" >> $OUT
 echo "## Summary" >> $OUT
 echo "" >> $OUT
-$STREAK_FINDER --losing --short --markdown --min 8 >> $OUT
+$STREAK_FINDER --losing --short --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
 echo "" >> $OUT
 echo "## Details" >> $OUT
-$STREAK_FINDER --losing --long --markdown --min 8 >> $OUT
+$STREAK_FINDER --losing --long --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -111,11 +111,11 @@ for i in $(seq 1 $LASTSEASON); do
     echo "Working on season $i"
     echo "## Season $i Summary" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --losing --season $i --short --markdown --min 7 >> $OUT
+    $STREAK_FINDER --losing --season $i --short --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
     echo "## Season $i Details" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --losing --season $i --long --markdown --min 7 >> $OUT
+    $STREAK_FINDER --losing --season $i --long --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
 done
 echo "Done."
@@ -130,16 +130,18 @@ echo "" >> $OUT
 cat /dev/null > $OUT
 cat $ROOT_DIR/../list_of_teams | sort | while read team; do
     echo "Working on team $team"
-    echo "## $team Team Summary" >> $OUT
+    echo "## $team Losing Streaks Summary" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --losing --team "$team" --short --markdown --min 4 >> $OUT
+    $STREAK_FINDER --losing --team "$team" --short --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
-    echo "## Season $i Details" >> $OUT
+    echo "## $team Losing Streaks Details" >> $OUT
     echo "" >> $OUT
-    $STREAK_FINDER --losing --team "$team" --long --markdown --min 4 >> $OUT
+    $STREAK_FINDER --losing --team "$team" --long --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
     echo "" >> $OUT
 done
 echo "Done."
+
+exit 1;
 
 ########################## interesting-games-finder #######################################
 
