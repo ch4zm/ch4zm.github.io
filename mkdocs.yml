@@ -1,5 +1,7 @@
 site_name: Ch4zm of Hellmouth - Blaseball Data Witch
 site_url: https://ch4zm.github.io
+repo_name: ch4zm.github.io
+repo_url: https://github.com/ch4zm/ch4zm.github.io
 
 nav:
   - Homepage: index.md
@@ -194,6 +196,7 @@ theme:
   favicon: img/favicon.png
   icon: 
     logo: fontawesome/solid/sun
+    repo: fontawesome/brands/git-alt
 
 markdown_extensions:
   - admonition
