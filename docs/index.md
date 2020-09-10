@@ -27,7 +27,12 @@ Most of these tools are useful command-line utilities to explore
 Winning Streaks:
 
 * [All-Time Blaseball Winning Streaks](wstreaks_alltime.md)
-* [Winning Streaks by Season](wstreaks_season.md)
+* Winning Streaks by Season:
+    * [Season 1 Winning Streaks](wstreaks_season1.md)
+    * [Season 2 Winning Streaks](wstreaks_season2.md)
+    * [Season 3 Winning Streaks](wstreaks_season3.md)
+    * [Season 4 Winning Streaks](wstreaks_season4.md)
+    * [Season 5 Winning Streaks](wstreaks_season5.md)
 * [Winning Streaks by Team](wstreaks_team.md)
 
 Losing Streaks:
