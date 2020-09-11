@@ -4,7 +4,7 @@
 
 * **Data Witch** for the **Hellmouth Sunbeams**
 * Founding member, **Fellowship of the Mysteries of Light (FML)**
-* Adjunct Professor of **Blaseball Alchemy** at the **Hellmouth Institute of Technology**
+* Adjunct Professor of **Blaseball Alchemy** at the **Hellmouth Institute of Technolology**
 * Named the **Rhys Trombone Endowed Chair of Metablaseballical Studies** by the Department of Blaseball Studies
 
 Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method listed here:
@@ -13,7 +13,7 @@ Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method list
 * [Twitter: @ch4zm_of_hell](https://twitter.com/ch4zm_of_hell)
 * [Blaseball Wiki: @Ch4zmOfHellmouth](https://blaseball.fandom.com/wiki/User:Ch4zmOfHellmouth)
 
-## Teaching at the Hellmouth Institute of Technology
+## Teaching at the Hellmouth Institute of Technolology
 
 Teaching schedule for Fall 2020: [Teaching](teaching.md)
 
