@@ -188,7 +188,7 @@ exploring blaseball games and teams:
     * [Wild Wings Underdog Wins](underdog_team_wild_wings.md)
 * [Postseason Underdog Wins](underdog_postseason.md)
 
-### Shame Wins
+### Shame Games
 
 * [All-Time Shame Games](shame_alltime.md)
 * Shame Games by Season:
