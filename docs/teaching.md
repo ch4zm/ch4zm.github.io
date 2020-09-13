@@ -15,10 +15,9 @@ A list of courses Ch4zm is teaching in Fall 2020:
 
 **Course Location:** Room 5778A, Internet Hall, Hellmouth Institute of Technolology (South Campus)
 
-**Course Description:** What is blaseball? Yes! And in this course we will ask many
-other silly questions that don't matter. The only thing that matters is the Sun.
-In this course you will come away with a deep reverence for the sun and a tendency
-to worship the most supreme high-density ball of burning gas.
+**Course Description:** What is blaseball? Yes! The only thing that matters is the Sun.
+In this course you will STARE INTO THE SUN and come away with a deep reverence for the 
+sun and a tendency to worship the most supreme high-density ball of burning gas.
 
 -----
 
@@ -28,17 +27,16 @@ to worship the most supreme high-density ball of burning gas.
 
 **Course Location:** Room 5778B, Sunbeam Hall, Hellmouth Institute of Technolology (South Campus)
 
-**Course Description:** What is metablaseball? Yes! Despite this recent development,
-we discuss current meta-blaseballical topics and participate in applied, hands-on
-capstone clomputational projects.
+**Course Description:** Seminar discussions of current meta-blaseballical topics, including 
+applied, hands-on capstone clomputational projects.
 
 -----
 
-### Blaseball 303: Modeling the Blaseball Universe
+### Blaseball 233: Modeling the Blaseball Universe
 
-**Course Code:** BLAB 303
+**Course Code:** BLAB 233
 
-**Course Location:** Room 5778A, Sunbeam Hall, Hellmouth Institute of Technolology (South Campus)
+**Course Location:** Room 5778A, Sunbeam Hall, Hellmouth Community College
 
 **Course Description:** A recently-published proof by Butt et al has demonstrated the logical 
 possibility that the entire blaseball universe is merely a simulation inside of a computer - the 
@@ -48,11 +46,11 @@ including clomputational strategies.
 
 -----
 
-### Blaseball 384: Applied Blaseball Mathematics
+### Blaseball 284: Applied Blaseball Mathematics
 
-**Course Code:** BLAB 384
+**Course Code:** BLAB 284
 
-**Course Location:** Room 5778, Trombone Memorial Tower, Hellmouth Institute of Technolology (Main Campus)
+**Course Location:** Room 5778, Trombone Memorial Tower, Hellmouth Community College 
 
 **Course Description:** We apply mathematics to explore fundamental questions of blaseball,
 such as, what was blaseball before it was blaseball? What is the topology of the interdimensional
@@ -65,7 +63,7 @@ and yet only have room for one cat at a time?
 
 **Course Code:** ████
 
-**Course Location:** Room 5778, ██████████ Building, Hellmouth █████ute o██████lol███
+**Course Location:** Room 5778, ██████████ Building, Hellmouth █████unity C██████
 
 **Course Description:** ██████████████████████ █████████ ███████████████ ██████████████
 ██████ ███████████████████ ████████████████████ ███████████████ ██████ ████████████████
