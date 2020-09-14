@@ -10,12 +10,15 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 96 | San Francisco Lovers | 23 - 12 | Kansas City Breath Mints | 
 | 3 | 57 | Kansas City Breath Mints | 21 - 16 | Charleston Shoe Thieves | 
 | 2 | 76 | Yellowstone Magic | 19 - 3 | Kansas City Breath Mints | 
+| 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 3 | 65 | Yellowstone Magic | 17 - 11 | Kansas City Breath Mints | 
 | 5 | 51 | Kansas City Breath Mints | 16 - 1 | Unlimited Tacos | 
 | 1 | 3 | Boston Flowers | 16 - 5 | Kansas City Breath Mints | 
+| 6 | 103* | Hades Tigers | 16 - 6 | Kansas City Breath Mints | 
 | 1 | 43 | Boston Flowers | 15 - 3 | Kansas City Breath Mints | 
 | 1 | 93 | Yellowstone Magic | 15 - 4 | Kansas City Breath Mints | 
 | 4 | 37 | Kansas City Breath Mints | 15 - 5 | Charleston Shoe Thieves | 
+| 6 | 30 | Kansas City Breath Mints | 15 - 8 | Canada Moist Talkers | 
 | 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
 | 4 | 14 | San Francisco Lovers | 14 - 3 | Kansas City Breath Mints | 
 | 3 | 95 | San Francisco Lovers | 14 - 4 | Kansas City Breath Mints | 
@@ -29,8 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
 | 1 | 13 | Charleston Shoe Thieves | 13 - 6 | Kansas City Breath Mints | 
 | 1 | 98 | Kansas City Breath Mints | 13 - 7 | Boston Flowers | 
-| 3 | 36 | Dallas Steaks | 13 - 8 | Kansas City Breath Mints | 
-| 3 | 75 | Hawaii Fridays | 13 - 11 | Kansas City Breath Mints | 
-| 1 | 49 | Charleston Shoe Thieves | 12 - 0 | Kansas City Breath Mints | 
 
 

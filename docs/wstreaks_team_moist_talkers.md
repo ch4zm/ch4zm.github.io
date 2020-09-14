@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -20,6 +20,7 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 5          | 4          | 8, 9, 10, 11, 12 |
 | Moist Talkers                  | 5          | 5          | 45, 46, 47, 48, 49 |
 | Moist Talkers                  | 5          | 5          | 55, 56, 57, 58, 59 |
+| Moist Talkers                  | 5          | 6          | 58, 59, 60, 61, 62 |
 | Moist Talkers                  | 4          | 1          | 12, 13, 14, 15 |
 | Moist Talkers                  | 4          | 1          | 52, 53, 54, 55 |
 | Moist Talkers                  | 4          | 2          | 17, 18, 19, 20 |
@@ -29,6 +30,9 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 4          | 3          | 45, 46, 47, 48 |
 | Moist Talkers                  | 4          | 4          | 55, 56, 57, 58 |
 | Moist Talkers                  | 4          | 4          | 76, 77, 78, 79 |
+| Moist Talkers                  | 4          | 6          | 53, 54, 55, 56 |
+| Moist Talkers                  | 4          | 6          | 66, 67, 68, 69 |
+| Moist Talkers                  | 4          | 6          | 85, 86, 87, 88 |
 
 
 
@@ -154,6 +158,17 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 <br />
 
+| 5 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 6 Games 57, 58, 59, 60, 61 |
+| G1: Season 6 Game 58: Moist Talkers 2  @  1 Breath Mints |
+| G2: Season 6 Game 59: Moist Talkers 11 @  2 Breath Mints |
+| G3: Season 6 Game 60: Moist Talkers 4  @  2 Breath Mints |
+| G4: Season 6 Game 61: Tigers 0  @  3 Moist Talkers |
+| G5: Season 6 Game 62: Tigers 2  @  8 Moist Talkers |
+
+<br />
+
 | 4 Game Winning Streak by the Moist Talkers |
 | ----- |
 | Season 1 Games 11, 12, 13, 14 |
@@ -241,6 +256,36 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 4 Game 77: Firefighters 0  @  3 Moist Talkers |
 | G3: Season 4 Game 78: Firefighters 1  @  3 Moist Talkers |
 | G4: Season 4 Game 79: Garages 8  @ 11 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 6 Games 52, 53, 54, 55 |
+| G1: Season 6 Game 53: Magic 1  @  3 Moist Talkers |
+| G2: Season 6 Game 54: Magic 5  @  6 Moist Talkers |
+| G3: Season 6 Game 55: Moist Talkers 3  @  1 Pies |
+| G4: Season 6 Game 56: Moist Talkers 8  @  5 Pies |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 6 Games 65, 66, 67, 68 |
+| G1: Season 6 Game 66: Moist Talkers 6  @  4 Pies |
+| G2: Season 6 Game 67: Tigers 3  @  7 Moist Talkers |
+| G3: Season 6 Game 68: Tigers 4  @  5 Moist Talkers |
+| G4: Season 6 Game 69: Tigers 8  @  9 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 6 Games 84, 85, 86, 87 |
+| G1: Season 6 Game 85: Tigers 2  @  3 Moist Talkers |
+| G2: Season 6 Game 86: Tigers 0  @  3 Moist Talkers |
+| G3: Season 6 Game 87: Tigers 3  @  6 Moist Talkers |
+| G4: Season 6 Game 88: Breath Mints 7  @  8 Moist Talkers |
 
 
 

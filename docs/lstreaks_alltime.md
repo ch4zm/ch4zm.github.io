@@ -1,5 +1,5 @@
 # All-Time Blaseball Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -12,17 +12,21 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Lovers                         | 16         | 2          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |
 | Tacos                          | 14         | 5          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
+| Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Dalé                           | 12         | 3          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
 | Spies                          | 11         | 4          | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 |
 | Spies                          | 11         | 5          | 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65 |
 | Spies                          | 10         | 4          | 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 |
 | Tacos                          | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Sunbeams                       | 10         | 5          | 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 |
+| Tacos                          | 10         | 6          | 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Sunbeams                       | 9          | 1          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Sunbeams                       | 9          | 5          | 81, 82, 83, 84, 85, 86, 87, 88, 89 |
+| Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
 | Tacos                          | 8          | 1          | 19, 20, 21, 22, 23, 24, 25, 26 |
 | Flowers                        | 8          | 1          | 62, 63, 64, 65, 66, 67, 68, 69 |
 | Crabs                          | 8          | 1          | 80, 81, 82, 83, 84, 85, 86, 87 |
@@ -83,6 +87,26 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G12: Season 5 Game 18: Tacos 1  @  6 Lovers |
 | G13: Season 5 Game 19: Tacos 1  @  7 Flowers |
 | G14: Season 5 Game 20: Tacos 0  @  8 Flowers |
+
+<br />
+
+| 14 Game Losing Streak by the Fridays |
+| ----- |
+| Season 6 Games 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
+| G1: Season 6 Game 28: Pies 5  @  1 Fridays |
+| G2: Season 6 Game 29: Pies 8  @  1 Fridays |
+| G3: Season 6 Game 30: Pies 6  @  0 Fridays |
+| G4: Season 6 Game 31: Pies 7  @  3 Fridays |
+| G5: Season 6 Game 32: Pies 10 @  6 Fridays |
+| G6: Season 6 Game 33: Pies 7  @  2 Fridays |
+| G7: Season 6 Game 34: Shoe Thieves 5  @  0 Fridays |
+| G8: Season 6 Game 35: Shoe Thieves 4  @  3 Fridays |
+| G9: Season 6 Game 36: Shoe Thieves 9  @  2 Fridays |
+| G10: Season 6 Game 37: Fridays 5  @  7 Pies |
+| G11: Season 6 Game 38: Fridays 5  @  6 Pies |
+| G12: Season 6 Game 39: Fridays 3  @  4 Pies |
+| G13: Season 6 Game 40: Shoe Thieves 5  @  3 Fridays |
+| G14: Season 6 Game 41: Shoe Thieves 7  @  4 Fridays |
 
 <br />
 
@@ -186,6 +210,22 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
+| 10 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| G1: Season 6 Game 70: Tacos 1  @  5 Sunbeams |
+| G2: Season 6 Game 71: Tacos 1  @  4 Sunbeams |
+| G3: Season 6 Game 72: Tacos 1  @  8 Sunbeams |
+| G4: Season 6 Game 73: Tacos 2  @  9 Lovers |
+| G5: Season 6 Game 74: Tacos 1  @  4 Lovers |
+| G6: Season 6 Game 75: Tacos 5  @  6 Lovers |
+| G7: Season 6 Game 76: Tacos 4  @  5 Flowers |
+| G8: Season 6 Game 77: Tacos 0  @  5 Flowers |
+| G9: Season 6 Game 78: Tacos 1  @  2 Flowers |
+| G10: Season 6 Game 79: Tacos 1  @  9 Crabs |
+
+<br />
+
 | 9 Game Losing Streak by the Sunbeams |
 | ----- |
 | Season 1 Games 1, 2, 3, 4, 5, 6, 7, 8, 9 |
@@ -258,6 +298,36 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
 | G8: Season 5 Game 88: Dalé 9  @  7 Sunbeams |
 | G9: Season 5 Game 89: Dalé 4  @  3 Sunbeams |
+
+<br />
+
+| 9 Game Losing Streak by the Millennials |
+| ----- |
+| Season 6 Games 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| G1: Season 6 Game 7: Millennials 2  @  4 Crabs |
+| G2: Season 6 Game 8: Millennials 3  @  4 Crabs |
+| G3: Season 6 Game 9: Millennials 6  @  7 Crabs |
+| G4: Season 6 Game 10: Millennials 6  @  8 Crabs |
+| G5: Season 6 Game 11: Millennials 2  @  6 Crabs |
+| G6: Season 6 Game 12: Millennials 4  @ 10 Crabs |
+| G7: Season 6 Game 13: Millennials 3  @  5 Firefighters |
+| G8: Season 6 Game 14: Millennials 2  @  6 Firefighters |
+| G9: Season 6 Game 15: Millennials 2  @  5 Firefighters |
+
+<br />
+
+| 9 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 49, 50, 51, 52, 53, 54, 55, 56, 57 |
+| G1: Season 6 Game 50: Crabs 5  @  1 Dalé |
+| G2: Season 6 Game 51: Crabs 6  @  3 Dalé |
+| G3: Season 6 Game 52: Dalé 5  @  7 Jazz Hands |
+| G4: Season 6 Game 53: Dalé 2  @  6 Jazz Hands |
+| G5: Season 6 Game 54: Dalé 4  @  7 Jazz Hands |
+| G6: Season 6 Game 55: Dalé 4  @ 10 Crabs |
+| G7: Season 6 Game 56: Dalé 4  @  5 Crabs |
+| G8: Season 6 Game 57: Dalé 2  @ 11 Crabs |
+| G9: Season 6 Game 58: Dalé 6  @ 10 Jazz Hands |
 
 <br />
 

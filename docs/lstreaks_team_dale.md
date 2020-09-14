@@ -1,5 +1,5 @@
 # Dale Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -11,15 +11,21 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Dalé                           | 12         | 3          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
+| Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
 | Dalé                           | 8          | 5          | 21, 22, 23, 24, 25, 26, 27, 28 |
 | Dalé                           | 7          | 4          | 7, 8, 9, 10, 11, 12, 13 |
+| Dalé                           | 7          | 6          | 69, 70, 71, 72, 73, 74, 75 |
 | Dalé                           | 6          | 2          | 21, 22, 23, 24, 25, 26 |
 | Dalé                           | 6          | 3          | 29, 30, 31, 32, 33, 34 |
+| Dalé                           | 6          | 6          | 11, 12, 13, 14, 15, 16 |
 | Dalé                           | 5          | 1          | 50, 51, 52, 53, 54 |
 | Dalé                           | 5          | 2          | 75, 76, 77, 78, 79 |
 | Dalé                           | 5          | 4          | 49, 50, 51, 52, 53 |
 | Dalé                           | 5          | 4          | 76, 77, 78, 79, 88 |
 | Dalé                           | 5          | 5          | 10, 11, 12, 13, 14 |
+| Dalé                           | 5          | 6          | 1, 2, 3, 4, 5 |
+| Dalé                           | 5          | 6          | 27, 28, 29, 30, 31 |
+| Dalé                           | 5          | 6          | 84, 85, 86, 87, 88 |
 | Dalé                           | 4          | 1          | 12, 13, 14, 15 |
 | Dalé                           | 4          | 1          | 85, 86, 87, 88 |
 | Dalé                           | 4          | 1          | 90, 91, 92, 93 |
@@ -62,6 +68,21 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 
 <br />
 
+| 9 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 49, 50, 51, 52, 53, 54, 55, 56, 57 |
+| G1: Season 6 Game 50: Crabs 5  @  1 Dalé |
+| G2: Season 6 Game 51: Crabs 6  @  3 Dalé |
+| G3: Season 6 Game 52: Dalé 5  @  7 Jazz Hands |
+| G4: Season 6 Game 53: Dalé 2  @  6 Jazz Hands |
+| G5: Season 6 Game 54: Dalé 4  @  7 Jazz Hands |
+| G6: Season 6 Game 55: Dalé 4  @ 10 Crabs |
+| G7: Season 6 Game 56: Dalé 4  @  5 Crabs |
+| G8: Season 6 Game 57: Dalé 2  @ 11 Crabs |
+| G9: Season 6 Game 58: Dalé 6  @ 10 Jazz Hands |
+
+<br />
+
 | 8 Game Losing Streak by the Dalé |
 | ----- |
 | Season 5 Games 20, 21, 22, 23, 24, 25, 26, 27 |
@@ -89,6 +110,19 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 
 <br />
 
+| 7 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 68, 69, 70, 71, 72, 73, 74 |
+| G1: Season 6 Game 69: Flowers 6  @  5 Dalé |
+| G2: Season 6 Game 70: Dalé 0  @  4 Crabs |
+| G3: Season 6 Game 71: Dalé 1  @  6 Crabs |
+| G4: Season 6 Game 72: Dalé 2  @  9 Crabs |
+| G5: Season 6 Game 73: Flowers 8  @  6 Dalé |
+| G6: Season 6 Game 74: Flowers 6  @  3 Dalé |
+| G7: Season 6 Game 75: Flowers 4  @  3 Dalé |
+
+<br />
+
 | 6 Game Losing Streak by the Dalé |
 | ----- |
 | Season 2 Games 20, 21, 22, 23, 24, 25 |
@@ -110,6 +144,18 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | G4: Season 3 Game 32: Dalé 3  @  7 Moist Talkers |
 | G5: Season 3 Game 33: Dalé 4  @ 10 Moist Talkers |
 | G6: Season 3 Game 34: Spies 6  @  3 Dalé |
+
+<br />
+
+| 6 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 10, 11, 12, 13, 14, 15 |
+| G1: Season 6 Game 11: Lovers 7  @  1 Dalé |
+| G2: Season 6 Game 12: Lovers 11 @  2 Dalé |
+| G3: Season 6 Game 13: Crabs 9  @  3 Dalé |
+| G4: Season 6 Game 14: Crabs 5  @  0 Dalé |
+| G5: Season 6 Game 15: Crabs 10 @  0 Dalé |
+| G6: Season 6 Game 16: Dalé 4  @  9 Tacos |
 
 <br />
 
@@ -165,6 +211,39 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | G3: Season 5 Game 12: Crabs 8  @  1 Dalé |
 | G4: Season 5 Game 13: Dalé 2  @  6 Wild Wings |
 | G5: Season 5 Game 14: Dalé 1  @  5 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 0, 1, 2, 3, 4 |
+| G1: Season 6 Game 1: Flowers 9  @  3 Dalé |
+| G2: Season 6 Game 2: Flowers 7  @  0 Dalé |
+| G3: Season 6 Game 3: Flowers 7  @  4 Dalé |
+| G4: Season 6 Game 4: Dalé 6  @  9 Spies |
+| G5: Season 6 Game 5: Dalé 2  @  3 Spies |
+
+<br />
+
+| 5 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 26, 27, 28, 29, 30 |
+| G1: Season 6 Game 27: Flowers 14 @  4 Dalé |
+| G2: Season 6 Game 28: Millennials 7  @  0 Dalé |
+| G3: Season 6 Game 29: Millennials 4  @  2 Dalé |
+| G4: Season 6 Game 30: Millennials 14 @  4 Dalé |
+| G5: Season 6 Game 31: Tacos 3  @  1 Dalé |
+
+<br />
+
+| 5 Game Losing Streak by the Dalé |
+| ----- |
+| Season 6 Games 83, 84, 85, 86, 87 |
+| G1: Season 6 Game 84: Dalé 5  @ 10 Sunbeams |
+| G2: Season 6 Game 85: Dalé 4  @  8 Jazz Hands |
+| G3: Season 6 Game 86: Dalé 1  @ 13 Jazz Hands |
+| G4: Season 6 Game 87: Dalé 1  @  9 Jazz Hands |
+| G5: Season 6 Game 88: Dalé 1  @  2 Crabs |
 
 <br />
 

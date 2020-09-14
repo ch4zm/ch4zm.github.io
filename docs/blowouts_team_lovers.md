@@ -15,11 +15,14 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
 | 2 | 78 | San Francisco Lovers | 18 - 4 | New York Millennials | 
 | 5 | 73 | New York Millennials | 17 - 4 | San Francisco Lovers | 
+| 6 | 60 | Baltimore Crabs | 16 - 1 | San Francisco Lovers | 
+| 6 | 53 | Boston Flowers | 16 - 4 | San Francisco Lovers | 
 | 4 | 60 | San Francisco Lovers | 15 - 6 | Unlimited Tacos | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
 | 4 | 14 | San Francisco Lovers | 14 - 3 | Kansas City Breath Mints | 
 | 3 | 95 | San Francisco Lovers | 14 - 4 | Kansas City Breath Mints | 
 | 4 | 67 | New York Millennials | 14 - 4 | San Francisco Lovers | 
+| 6 | 55 | San Francisco Lovers | 14 - 4 | Charleston Shoe Thieves | 
 | 3 | 3 | San Francisco Lovers | 14 - 5 | Hawaii Fridays | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 2 | 86 | San Francisco Lovers | 14 - 11 | New York Millennials | 
@@ -29,8 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 80 | Charleston Shoe Thieves | 13 - 6 | San Francisco Lovers | 
 | 1 | 55 | Charleston Shoe Thieves | 13 - 9 | San Francisco Lovers | 
 | 1 | 71 | Charleston Shoe Thieves | 13 - 9 | San Francisco Lovers | 
-| 3 | 30 | San Francisco Lovers | 13 - 10 | Boston Flowers | 
-| 1 | 50 | San Francisco Lovers | 13 - 12 | Boston Flowers | 
-| 3 | 26 | Kansas City Breath Mints | 12 - 1 | San Francisco Lovers | 
 
 

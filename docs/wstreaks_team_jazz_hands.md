@@ -1,5 +1,5 @@
 # Jazz Hands Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -17,6 +17,7 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 7          | 4          | 75, 76, 77, 78, 79, 88, 89 |
 | Jazz Hands                     | 7          | 5          | 60, 61, 62, 63, 64, 65, 66 |
 | Jazz Hands                     | 6          | 2          | 37, 38, 39, 40, 41, 42 |
+| Jazz Hands                     | 6          | 6          | 50, 51, 52, 53, 54, 55 |
 | Jazz Hands                     | 5          | 1          | 90, 91, 92, 93, 94 |
 | Jazz Hands                     | 5          | 2          | 4, 5, 6, 7, 8 |
 | Jazz Hands                     | 5          | 3          | 12, 13, 14, 15, 16 |
@@ -36,6 +37,8 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 5          | 32, 33, 34, 35 |
 | Jazz Hands                     | 4          | 5          | 42, 43, 44, 45 |
 | Jazz Hands                     | 4          | 5          | 86, 87, 88, 89 |
+| Jazz Hands                     | 4          | 6          | 29, 30, 31, 32 |
+| Jazz Hands                     | 4          | 6          | 43, 44, 45, 46 |
 
 
 
@@ -138,6 +141,18 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G4: Season 2 Game 40: Jazz Hands 8  @  5 Garages |
 | G5: Season 2 Game 41: Jazz Hands 9  @  5 Garages |
 | G6: Season 2 Game 42: Jazz Hands 6  @  4 Garages |
+
+<br />
+
+| 6 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 6 Games 49, 50, 51, 52, 53, 54 |
+| G1: Season 6 Game 50: Tacos 1  @  5 Jazz Hands |
+| G2: Season 6 Game 51: Tacos 2  @  6 Jazz Hands |
+| G3: Season 6 Game 52: Dalé 5  @  7 Jazz Hands |
+| G4: Season 6 Game 53: Dalé 2  @  6 Jazz Hands |
+| G5: Season 6 Game 54: Dalé 4  @  7 Jazz Hands |
+| G6: Season 6 Game 55: Millennials 5  @ 11 Jazz Hands |
 
 <br />
 
@@ -332,6 +347,26 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 5 Game 87: Wild Wings 2  @  7 Jazz Hands |
 | G3: Season 5 Game 88: Jazz Hands 6  @  4 Spies |
 | G4: Season 5 Game 89: Jazz Hands 8  @  5 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 6 Games 28, 29, 30, 31 |
+| G1: Season 6 Game 29: Lovers 4  @  5 Jazz Hands |
+| G2: Season 6 Game 30: Lovers 5  @  8 Jazz Hands |
+| G3: Season 6 Game 31: Sunbeams 6  @  7 Jazz Hands |
+| G4: Season 6 Game 32: Sunbeams 2  @  4 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 6 Games 42, 43, 44, 45 |
+| G1: Season 6 Game 43: Jazz Hands 4  @  2 Sunbeams |
+| G2: Season 6 Game 44: Jazz Hands 7  @  6 Sunbeams |
+| G3: Season 6 Game 45: Jazz Hands 5  @  1 Sunbeams |
+| G4: Season 6 Game 46: Jazz Hands 4  @  3 Lovers |
 
 
 

@@ -1,5 +1,5 @@
 # Tacos Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Tacos                          | 14         | 5          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | Tacos                          | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
+| Tacos                          | 10         | 6          | 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Tacos                          | 8          | 1          | 19, 20, 21, 22, 23, 24, 25, 26 |
 | Tacos                          | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Tacos                          | 8          | 5          | 75, 76, 77, 78, 79, 80, 81, 82 |
@@ -25,14 +26,20 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 6          | 4          | 25, 26, 27, 28, 29, 30 |
 | Tacos                          | 6          | 4          | 38, 39, 40, 41, 42, 43 |
 | Tacos                          | 6          | 5          | 22, 23, 24, 25, 26, 27 |
+| Tacos                          | 6          | 6          | 24, 25, 26, 27, 28, 29 |
 | Tacos                          | 5          | 2          | 52, 53, 54, 55, 56 |
 | Tacos                          | 5          | 3          | 72, 73, 74, 75, 76 |
 | Tacos                          | 5          | 3          | 80, 81, 82, 83, 84 |
 | Tacos                          | 5          | 5          | 49, 50, 51, 52, 53 |
+| Tacos                          | 5          | 6          | 40, 41, 42, 43, 44 |
+| Tacos                          | 5          | 6          | 90, 91, 92, 93, 94 |
 | Tacos                          | 4          | 1          | 8, 9, 10, 11 |
 | Tacos                          | 4          | 1          | 85, 86, 87, 88 |
 | Tacos                          | 4          | 2          | 6, 7, 8, 9 |
 | Tacos                          | 4          | 5          | 1, 2, 3, 4 |
+| Tacos                          | 4          | 6          | 60, 61, 62, 63 |
+| Tacos                          | 4          | 6          | 65, 66, 67, 68 |
+| Tacos                          | 4          | 6          | 81, 82, 83, 84 |
 
 
 
@@ -77,6 +84,22 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G8: Season 5 Game 38: Firefighters 6  @  1 Tacos |
 | G9: Season 5 Game 39: Firefighters 12 @  1 Tacos |
 | G10: Season 5 Game 40: Tacos 2  @  9 Magic |
+
+<br />
+
+| 10 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| G1: Season 6 Game 70: Tacos 1  @  5 Sunbeams |
+| G2: Season 6 Game 71: Tacos 1  @  4 Sunbeams |
+| G3: Season 6 Game 72: Tacos 1  @  8 Sunbeams |
+| G4: Season 6 Game 73: Tacos 2  @  9 Lovers |
+| G5: Season 6 Game 74: Tacos 1  @  4 Lovers |
+| G6: Season 6 Game 75: Tacos 5  @  6 Lovers |
+| G7: Season 6 Game 76: Tacos 4  @  5 Flowers |
+| G8: Season 6 Game 77: Tacos 0  @  5 Flowers |
+| G9: Season 6 Game 78: Tacos 1  @  2 Flowers |
+| G10: Season 6 Game 79: Tacos 1  @  9 Crabs |
 
 <br />
 
@@ -248,6 +271,18 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 23, 24, 25, 26, 27, 28 |
+| G1: Season 6 Game 24: Tacos 2  @  5 Dalé |
+| G2: Season 6 Game 25: Firefighters 10 @  2 Tacos |
+| G3: Season 6 Game 26: Firefighters 7  @  2 Tacos |
+| G4: Season 6 Game 27: Firefighters 7  @  1 Tacos |
+| G5: Season 6 Game 28: Tacos 3  @  6 Spies |
+| G6: Season 6 Game 29: Tacos 1  @  2 Spies |
+
+<br />
+
 | 5 Game Losing Streak by the Tacos |
 | ----- |
 | Season 2 Games 51, 52, 53, 54, 55 |
@@ -292,6 +327,28 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 39, 40, 41, 42, 43 |
+| G1: Season 6 Game 40: Dalé 3  @  2 Tacos |
+| G2: Season 6 Game 41: Dalé 8  @  6 Tacos |
+| G3: Season 6 Game 42: Dalé 11 @  0 Tacos |
+| G4: Season 6 Game 43: Dalé 5  @  3 Tacos |
+| G5: Season 6 Game 44: Dalé 5  @  3 Tacos |
+
+<br />
+
+| 5 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 89, 90, 91, 92, 93 |
+| G1: Season 6 Game 90: Tacos 2  @  3 Spies |
+| G2: Season 6 Game 91: Firefighters 2  @  1 Tacos |
+| G3: Season 6 Game 92: Firefighters 14 @  0 Tacos |
+| G4: Season 6 Game 93: Firefighters 5  @  2 Tacos |
+| G5: Season 6 Game 94: Flowers 5  @  3 Tacos |
+
+<br />
+
 | 4 Game Losing Streak by the Tacos |
 | ----- |
 | Season 1 Games 7, 8, 9, 10 |
@@ -329,6 +386,36 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 5 Game 2: Lovers 7  @  2 Tacos |
 | G3: Season 5 Game 3: Lovers 10 @  0 Tacos |
 | G4: Season 5 Game 4: Firefighters 5  @  4 Tacos |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 59, 60, 61, 62 |
+| G1: Season 6 Game 60: Tacos 0  @  2 Firefighters |
+| G2: Season 6 Game 61: Tacos 4  @  6 Millennials |
+| G3: Season 6 Game 62: Tacos 3  @  5 Millennials |
+| G4: Season 6 Game 63: Tacos 2  @  7 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 64, 65, 66, 67 |
+| G1: Season 6 Game 65: Flowers 3  @  2 Tacos |
+| G2: Season 6 Game 66: Flowers 5  @  2 Tacos |
+| G3: Season 6 Game 67: Tacos 2  @ 10 Millennials |
+| G4: Season 6 Game 68: Tacos 1  @  4 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 6 Games 80, 81, 82, 83 |
+| G1: Season 6 Game 81: Tacos 6  @ 11 Crabs |
+| G2: Season 6 Game 82: Tacos 1  @ 12 Garages |
+| G3: Season 6 Game 83: Tacos 1  @  5 Garages |
+| G4: Season 6 Game 84: Tacos 4  @  5 Garages |
 
 
 

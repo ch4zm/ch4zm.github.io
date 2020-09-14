@@ -1,5 +1,5 @@
 # Lovers Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -28,6 +28,7 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 4          | 64, 65, 66, 67 |
 | Lovers                         | 4          | 5          | 44, 45, 46, 47 |
 | Lovers                         | 4          | 5          | 51, 52, 53, 54 |
+| Lovers                         | 4          | 6          | 87, 88, 89, 90 |
 
 
 
@@ -240,6 +241,16 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 5 Game 52: Fridays 2  @  0 Lovers |
 | G3: Season 5 Game 53: Fridays 4  @  3 Lovers |
 | G4: Season 5 Game 54: Fridays 4  @  2 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Lovers |
+| ----- |
+| Season 6 Games 86, 87, 88, 89 |
+| G1: Season 6 Game 87: Lovers 7  @  8 Crabs |
+| G2: Season 6 Game 88: Lovers 0  @  6 Firefighters |
+| G3: Season 6 Game 89: Lovers 5  @  7 Firefighters |
+| G4: Season 6 Game 90: Lovers 5  @  8 Firefighters |
 
 
 

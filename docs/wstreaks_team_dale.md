@@ -1,5 +1,5 @@
 # Dale Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -12,10 +12,12 @@ Winning streaks of 4 or more games for Dale versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Dalé                           | 9          | 3          | 74, 75, 76, 77, 78, 79, 80, 81, 82 |
 | Dalé                           | 6          | 2          | 34, 35, 36, 37, 38, 39 |
+| Dalé                           | 6          | 6          | 39, 40, 41, 42, 43, 44 |
 | Dalé                           | 5          | 1          | 80, 81, 82, 83, 84 |
 | Dalé                           | 5          | 2          | 48, 49, 50, 51, 52 |
 | Dalé                           | 5          | 4          | 42, 43, 44, 45, 46 |
 | Dalé                           | 5          | 4          | 66, 67, 68, 69, 70 |
+| Dalé                           | 5          | 6          | 76, 77, 78, 79, 80 |
 | Dalé                           | 4          | 1          | 19, 20, 21, 22 |
 | Dalé                           | 4          | 1          | 75, 76, 77, 78 |
 | Dalé                           | 4          | 5          | 39, 40, 41, 42 |
@@ -54,6 +56,18 @@ Winning streaks of 4 or more games for Dale versus all teams for all time
 | G4: Season 2 Game 37: Crabs 2  @  3 Dalé |
 | G5: Season 2 Game 38: Crabs 3  @  5 Dalé |
 | G6: Season 2 Game 39: Crabs 2  @  5 Dalé |
+
+<br />
+
+| 6 Game Winning Streak by the Dalé |
+| ----- |
+| Season 6 Games 38, 39, 40, 41, 42, 43 |
+| G1: Season 6 Game 39: Spies 3  @  5 Dalé |
+| G2: Season 6 Game 40: Dalé 3  @  2 Tacos |
+| G3: Season 6 Game 41: Dalé 8  @  6 Tacos |
+| G4: Season 6 Game 42: Dalé 11 @  0 Tacos |
+| G5: Season 6 Game 43: Dalé 5  @  3 Tacos |
+| G6: Season 6 Game 44: Dalé 5  @  3 Tacos |
 
 <br />
 
@@ -98,6 +112,17 @@ Winning streaks of 4 or more games for Dale versus all teams for all time
 | G3: Season 4 Game 68: Crabs 6  @  7 Dalé |
 | G4: Season 4 Game 69: Crabs 1  @  9 Dalé |
 | G5: Season 4 Game 70: Dalé 5  @  2 Crabs |
+
+<br />
+
+| 5 Game Winning Streak by the Dalé |
+| ----- |
+| Season 6 Games 75, 76, 77, 78, 79 |
+| G1: Season 6 Game 76: Spies 0  @  4 Dalé |
+| G2: Season 6 Game 77: Spies 1  @  2 Dalé |
+| G3: Season 6 Game 78: Spies 3  @ 10 Dalé |
+| G4: Season 6 Game 79: Flowers 6  @  9 Dalé |
+| G5: Season 6 Game 80: Flowers 2  @  6 Dalé |
 
 <br />
 

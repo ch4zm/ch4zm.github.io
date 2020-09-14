@@ -1,5 +1,5 @@
 # Steaks Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -22,6 +22,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 6          | 2          | 56, 57, 58, 59, 60, 61 |
 | Steaks                         | 5          | 2          | 87, 88, 89, 90, 91 |
 | Steaks                         | 5          | 3          | 49, 50, 51, 52, 53 |
+| Steaks                         | 5          | 6          | 70, 71, 72, 73, 74 |
 | Steaks                         | 4          | 1          | 3, 4, 5, 6 |
 | Steaks                         | 4          | 1          | 85, 86, 87, 88 |
 | Steaks                         | 4          | 2          | 78, 79, 80, 81 |
@@ -33,6 +34,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 5          | 44, 45, 46, 47 |
 | Steaks                         | 4          | 5          | 70, 71, 72, 73 |
 | Steaks                         | 4          | 5          | 97, 98, 99, 100 |
+| Steaks                         | 4          | 6          | 94, 95, 96, 97 |
 
 
 
@@ -206,6 +208,17 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Steaks |
+| ----- |
+| Season 6 Games 69, 70, 71, 72, 73 |
+| G1: Season 6 Game 70: Moist Talkers 4  @  7 Steaks |
+| G2: Season 6 Game 71: Moist Talkers 2  @  5 Steaks |
+| G3: Season 6 Game 72: Moist Talkers 5  @  9 Steaks |
+| G4: Season 6 Game 73: Pies 2  @  3 Steaks |
+| G5: Season 6 Game 74: Pies 5  @ 10 Steaks |
+
+<br />
+
 | 4 Game Winning Streak by the Steaks |
 | ----- |
 | Season 1 Games 2, 3, 4, 5 |
@@ -313,6 +326,16 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 5 Game 98: Jazz Hands 6  @  9 Steaks |
 | G3: Season 5 Game 99: Jazz Hands 0  @  3 Steaks |
 | G4: Season 5 Game 100: Steaks 5  @  2 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Steaks |
+| ----- |
+| Season 6 Games 93, 94, 95, 96 |
+| G1: Season 6 Game 94: Steaks 16 @  3 Moist Talkers |
+| G2: Season 6 Game 95: Steaks 8  @  1 Moist Talkers |
+| G3: Season 6 Game 96: Steaks 2  @  0 Moist Talkers |
+| G4: Season 6 Game 97: Steaks 4  @  2 Fridays |
 
 
 

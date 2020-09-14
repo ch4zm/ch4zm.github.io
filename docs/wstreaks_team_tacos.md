@@ -1,5 +1,5 @@
 # Tacos Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -14,6 +14,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 5          | 4          | 53, 54, 55, 56, 57 |
 | Tacos                          | 4          | 1          | 49, 50, 51, 52 |
 | Tacos                          | 4          | 2          | 44, 45, 46, 47 |
+| Tacos                          | 4          | 6          | 53, 54, 55, 56 |
 
 
 
@@ -64,6 +65,16 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 2 Game 45: Tacos 1  @  0 Magic |
 | G3: Season 2 Game 46: Tacos 4  @  3 Lovers |
 | G4: Season 2 Game 47: Tacos 1  @  0 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
+| Season 6 Games 52, 53, 54, 55 |
+| G1: Season 6 Game 53: Tacos 7  @  4 Sunbeams |
+| G2: Season 6 Game 54: Tacos 4  @  1 Sunbeams |
+| G3: Season 6 Game 55: Firefighters 5  @  6 Tacos |
+| G4: Season 6 Game 56: Firefighters 1  @  7 Tacos |
 
 
 

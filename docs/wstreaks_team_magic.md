@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -29,6 +29,7 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 3          | 54, 55, 56, 57 |
 | Magic                          | 4          | 5          | 53, 54, 55, 56 |
 | Magic                          | 4          | 5          | 73, 74, 75, 76 |
+| Magic                          | 4          | 6          | 33, 34, 35, 36 |
 
 
 
@@ -248,6 +249,16 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 5 Game 74: Magic 4  @  1 Fridays |
 | G3: Season 5 Game 75: Magic 8  @  1 Fridays |
 | G4: Season 5 Game 76: Fridays 0  @  6 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 6 Games 32, 33, 34, 35 |
+| G1: Season 6 Game 33: Shoe Thieves 1  @  2 Magic |
+| G2: Season 6 Game 34: Moist Talkers 4  @  5 Magic |
+| G3: Season 6 Game 35: Moist Talkers 11 @ 15 Magic |
+| G4: Season 6 Game 36: Moist Talkers 4  @  5 Magic |
 
 
 

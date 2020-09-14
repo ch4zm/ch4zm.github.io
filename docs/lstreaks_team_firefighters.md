@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -15,6 +15,8 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 5          | 2          | 32, 33, 34, 35, 36 |
 | Firefighters                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Firefighters                   | 5          | 4          | 74, 75, 76, 77, 78 |
+| Firefighters                   | 5          | 6          | 29, 30, 31, 32, 33 |
+| Firefighters                   | 5          | 6          | 74, 75, 76, 77, 78 |
 | Firefighters                   | 4          | 1          | 34, 35, 36, 37 |
 | Firefighters                   | 4          | 3          | 33, 34, 35, 36 |
 | Firefighters                   | 4          | 3          | 46, 47, 48, 49 |
@@ -22,6 +24,7 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 4          | 3          | 74, 75, 76, 77 |
 | Firefighters                   | 4          | 5          | 14, 15, 16, 17 |
 | Firefighters                   | 4          | 5          | 33, 34, 35, 36 |
+| Firefighters                   | 4          | 6          | 83, 84, 85, 86 |
 
 
 
@@ -93,6 +96,28 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 6 Games 28, 29, 30, 31, 32 |
+| G1: Season 6 Game 29: Crabs 7  @  5 Firefighters |
+| G2: Season 6 Game 30: Crabs 4  @  3 Firefighters |
+| G3: Season 6 Game 31: Crabs 6  @  2 Firefighters |
+| G4: Season 6 Game 32: Crabs 3  @  1 Firefighters |
+| G5: Season 6 Game 33: Crabs 4  @  0 Firefighters |
+
+<br />
+
+| 5 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 6 Games 73, 74, 75, 76, 77 |
+| G1: Season 6 Game 74: Firefighters 5  @  8 Millennials |
+| G2: Season 6 Game 75: Firefighters 4  @  7 Millennials |
+| G3: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
+| G4: Season 6 Game 77: Firefighters 1  @  2 Crabs |
+| G5: Season 6 Game 78: Firefighters 2  @  7 Crabs |
+
+<br />
+
 | 4 Game Losing Streak by the Firefighters |
 | ----- |
 | Season 1 Games 33, 34, 35, 36 |
@@ -160,6 +185,16 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G2: Season 5 Game 34: Lovers 9  @  7 Firefighters |
 | G3: Season 5 Game 35: Lovers 4  @  2 Firefighters |
 | G4: Season 5 Game 36: Lovers 3  @  2 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 6 Games 82, 83, 84, 85 |
+| G1: Season 6 Game 83: Lovers 7  @  5 Firefighters |
+| G2: Season 6 Game 84: Lovers 4  @  2 Firefighters |
+| G3: Season 6 Game 85: Firefighters 2  @  4 Sunbeams |
+| G4: Season 6 Game 86: Firefighters 4  @  5 Sunbeams |
 
 
 

@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -19,6 +19,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 3          | 62, 63, 64, 65 |
 | Steaks                         | 4          | 3          | 98, 99, 100, 101 |
 | Steaks                         | 4          | 5          | 16, 17, 18, 19 |
+| Steaks                         | 4          | 6          | 75, 76, 77, 78 |
 
 
 
@@ -123,6 +124,16 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 5 Game 17: Millennials 11 @  3 Steaks |
 | G3: Season 5 Game 18: Millennials 8  @  4 Steaks |
 | G4: Season 5 Game 19: Lovers 6  @  3 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 6 Games 74, 75, 76, 77 |
+| G1: Season 6 Game 75: Pies 6  @  2 Steaks |
+| G2: Season 6 Game 76: Breath Mints 9  @  5 Steaks |
+| G3: Season 6 Game 77: Breath Mints 2  @  1 Steaks |
+| G4: Season 6 Game 78: Breath Mints 2  @  1 Steaks |
 
 
 

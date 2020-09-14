@@ -1,5 +1,5 @@
 # Pies Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -21,6 +21,7 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 2          | 47, 48, 49, 50 |
 | Pies                           | 4          | 3          | 49, 50, 51, 52 |
 | Pies                           | 4          | 5          | 44, 45, 46, 47 |
+| Pies                           | 4          | 6          | 47, 48, 55, 56 |
 
 
 
@@ -151,6 +152,16 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 5 Game 45: Pies 3  @  5 Dalé |
 | G3: Season 5 Game 46: Tigers 3  @  2 Pies |
 | G4: Season 5 Game 47: Tigers 3  @  2 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 6 Games 46, 47, 54, 55 |
+| G1: Season 6 Game 47: Pies 1  @  5 Steaks |
+| G2: Season 6 Game 48: Pies 4  @  7 Steaks |
+| G3: Season 6 Game 55: Moist Talkers 3  @  1 Pies |
+| G4: Season 6 Game 56: Moist Talkers 8  @  5 Pies |
 
 
 

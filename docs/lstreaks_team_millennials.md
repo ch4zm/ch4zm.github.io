@@ -1,5 +1,5 @@
 # Millennials Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -10,6 +10,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Millennials                    | 7          | 1          | 15, 16, 17, 18, 19, 20, 21 |
 | Millennials                    | 7          | 2          | 37, 38, 39, 40, 41, 42, 43 |
 | Millennials                    | 6          | 1          | 41, 42, 43, 44, 45, 46 |
@@ -17,6 +18,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 5          | 1          | 57, 58, 59, 60, 61 |
 | Millennials                    | 5          | 2          | 67, 68, 69, 70, 71 |
 | Millennials                    | 5          | 4          | 55, 56, 57, 58, 59 |
+| Millennials                    | 5          | 6          | 69, 70, 71, 72, 73 |
 | Millennials                    | 4          | 2          | 75, 76, 77, 78 |
 | Millennials                    | 4          | 3          | 21, 22, 23, 24 |
 | Millennials                    | 4          | 4          | 92, 93, 94, 95 |
@@ -32,6 +34,21 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Millennials versus all teams for all time
+
+| 9 Game Losing Streak by the Millennials |
+| ----- |
+| Season 6 Games 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| G1: Season 6 Game 7: Millennials 2  @  4 Crabs |
+| G2: Season 6 Game 8: Millennials 3  @  4 Crabs |
+| G3: Season 6 Game 9: Millennials 6  @  7 Crabs |
+| G4: Season 6 Game 10: Millennials 6  @  8 Crabs |
+| G5: Season 6 Game 11: Millennials 2  @  6 Crabs |
+| G6: Season 6 Game 12: Millennials 4  @ 10 Crabs |
+| G7: Season 6 Game 13: Millennials 3  @  5 Firefighters |
+| G8: Season 6 Game 14: Millennials 2  @  6 Firefighters |
+| G9: Season 6 Game 15: Millennials 2  @  5 Firefighters |
+
+<br />
 
 | 7 Game Losing Streak by the Millennials |
 | ----- |
@@ -113,6 +130,17 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 4 Game 57: Steaks 7  @  3 Millennials |
 | G4: Season 4 Game 58: Millennials 2  @  3 Firefighters |
 | G5: Season 4 Game 59: Millennials 2  @  7 Firefighters |
+
+<br />
+
+| 5 Game Losing Streak by the Millennials |
+| ----- |
+| Season 6 Games 68, 69, 70, 71, 72 |
+| G1: Season 6 Game 69: Tacos 3  @  1 Millennials |
+| G2: Season 6 Game 70: Millennials 2  @  4 Lovers |
+| G3: Season 6 Game 71: Millennials 0  @  6 Lovers |
+| G4: Season 6 Game 72: Millennials 2  @  3 Lovers |
+| G5: Season 6 Game 73: Firefighters 5  @  3 Millennials |
 
 <br />
 

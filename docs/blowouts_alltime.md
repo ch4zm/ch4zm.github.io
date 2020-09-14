@@ -1,5 +1,5 @@
 # All-Time Blaseball Blowouts
-(Through season 5)
+(Through season 6)
 
 ## Summary
 
@@ -24,16 +24,16 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 76 | Yellowstone Magic | 19 - 3 | Kansas City Breath Mints | 
 | 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
 | 3 | 38 | Philly Pies | 19 - 9 | Hellmouth Sunbeams | 
+| 6 | 79 | Dallas Steaks | 19 - 13 | Canada Moist Talkers | 
 | 1 | 16 | Boston Flowers | 18 - 0 | Charleston Shoe Thieves | 
 | 4 | 69 | Yellowstone Magic | 18 - 1 | Hawaii Fridays | 
 | 2 | 96 | Canada Moist Talkers | 18 - 3 | Seattle Garages | 
+| 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 2 | 78 | San Francisco Lovers | 18 - 4 | New York Millennials | 
 | 3 | 25 | Hellmouth Sunbeams | 18 - 6 | Philly Pies | 
 | 5 | 26 | Seattle Garages | 18 - 6 | Houston Spies | 
 | 5 | 27 | Hawaii Fridays | 18 - 6 | Charleston Shoe Thieves | 
+| 6 | 24 | Charleston Shoe Thieves | 18 - 7 | Canada Moist Talkers | 
 | 4 | 16 | Hades Tigers | 18 - 8 | Mexico City Wild Wings | 
-| 4 | 50 | Charleston Shoe Thieves | 18 - 8 | Boston Flowers | 
-| 2 | 66 | Philly Pies | 17 - 1 | Mexico City Wild Wings | 
-| 3 | 94 | Hades Tigers | 17 - 1 | Canada Moist Talkers | 
 
 

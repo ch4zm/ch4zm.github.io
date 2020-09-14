@@ -1,5 +1,5 @@
 # Garages Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -10,6 +10,7 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Garages                        | 7          | 6          | 99, 100, 101, 102, 105, 106, 107 |
 | Garages                        | 6          | 1          | 60, 61, 62, 63, 64, 65 |
 | Garages                        | 6          | 2          | 29, 30, 31, 32, 33, 34 |
 | Garages                        | 6          | 5          | 89, 90, 91, 92, 93, 94 |
@@ -17,12 +18,17 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 5          | 3          | 56, 57, 58, 59, 60 |
 | Garages                        | 5          | 4          | 63, 64, 65, 66, 67 |
 | Garages                        | 5          | 5          | 76, 77, 78, 79, 80 |
+| Garages                        | 5          | 6          | 41, 42, 43, 44, 45 |
+| Garages                        | 5          | 6          | 81, 82, 83, 84, 85 |
 | Garages                        | 4          | 2          | 36, 37, 38, 39 |
 | Garages                        | 4          | 3          | 49, 50, 51, 52 |
 | Garages                        | 4          | 4          | 36, 37, 38, 39 |
 | Garages                        | 4          | 4          | 72, 73, 74, 75 |
 | Garages                        | 4          | 4          | 94, 95, 96, 97 |
 | Garages                        | 4          | 5          | 71, 72, 73, 74 |
+| Garages                        | 4          | 6          | 12, 16, 17, 18 |
+| Garages                        | 4          | 6          | 61, 62, 63, 64 |
+| Garages                        | 4          | 6          | 87, 91, 92, 93 |
 
 
 
@@ -33,6 +39,19 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Garages versus all teams for all time
+
+| 7 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 98, 99, 100, 101, 104, 105, 106 |
+| G1: Season 6 Game 99: Garages 17 @  3 Pies |
+| G2: Season 6 Game 100: Garages 9  @  2 Pies |
+| G3: Season 6 Game 101: Garages 12 @  3 Pies |
+| G4: Season 6 Game 102: Garages 5  @  2 Pies |
+| G5: Season 6 Game 105: Tigers 2  @  3 Garages |
+| G6: Season 6 Game 106: Tigers 2  @  7 Garages |
+| G7: Season 6 Game 107: Tigers 2  @  7 Garages |
+
+<br />
 
 | 6 Game Winning Streak by the Garages |
 | ----- |
@@ -114,6 +133,28 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 40, 41, 42, 43, 44 |
+| G1: Season 6 Game 41: Garages 8  @  6 Tigers |
+| G2: Season 6 Game 42: Garages 2  @  1 Tigers |
+| G3: Season 6 Game 43: Garages 12 @  0 Magic |
+| G4: Season 6 Game 44: Garages 8  @  0 Magic |
+| G5: Season 6 Game 45: Garages 10 @  0 Magic |
+
+<br />
+
+| 5 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 80, 81, 82, 83, 84 |
+| G1: Season 6 Game 81: Fridays 7  @  9 Garages |
+| G2: Season 6 Game 82: Tacos 1  @ 12 Garages |
+| G3: Season 6 Game 83: Tacos 1  @  5 Garages |
+| G4: Season 6 Game 84: Tacos 4  @  5 Garages |
+| G5: Season 6 Game 85: Garages 10 @  2 Pies |
+
+<br />
+
 | 4 Game Winning Streak by the Garages |
 | ----- |
 | Season 2 Games 35, 36, 37, 38 |
@@ -171,6 +212,36 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 5 Game 72: Pies 5  @  7 Garages |
 | G3: Season 5 Game 73: Garages 9  @  7 Jazz Hands |
 | G4: Season 5 Game 74: Garages 2  @  1 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 11, 15, 16, 17 |
+| G1: Season 6 Game 12: Moist Talkers 4  @  6 Garages |
+| G2: Season 6 Game 16: Garages 10 @  6 Magic |
+| G3: Season 6 Game 17: Garages 14 @ 11 Magic |
+| G4: Season 6 Game 18: Garages 8  @  4 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 60, 61, 62, 63 |
+| G1: Season 6 Game 61: Garages 5  @  3 Magic |
+| G2: Season 6 Game 62: Garages 5  @  1 Magic |
+| G3: Season 6 Game 63: Garages 9  @  3 Magic |
+| G4: Season 6 Game 64: Garages 12 @  5 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 86, 90, 91, 92 |
+| G1: Season 6 Game 87: Garages 15 @  3 Pies |
+| G2: Season 6 Game 91: Fridays 7  @ 11 Garages |
+| G3: Season 6 Game 92: Fridays 0  @ 12 Garages |
+| G4: Season 6 Game 93: Fridays 1  @  4 Garages |
 
 
 

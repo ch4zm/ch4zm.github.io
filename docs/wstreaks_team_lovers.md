@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -15,6 +15,8 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 7          | 5          | 21, 22, 23, 24, 25, 26, 27 |
 | Lovers                         | 6          | 3          | 14, 15, 16, 17, 18, 19 |
 | Lovers                         | 6          | 3          | 43, 44, 45, 46, 47, 48 |
+| Lovers                         | 6          | 6          | 54, 55, 56, 57, 58, 59 |
+| Lovers                         | 6          | 6          | 70, 71, 72, 73, 74, 75 |
 | Lovers                         | 5          | 1          | 14, 15, 16, 17, 18 |
 | Lovers                         | 5          | 3          | 64, 65, 66, 67, 68 |
 | Lovers                         | 5          | 3          | 95, 96, 97, 98, 99 |
@@ -22,6 +24,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 4          | 56, 57, 58, 59, 60 |
 | Lovers                         | 5          | 4          | 74, 75, 76, 77, 78 |
 | Lovers                         | 5          | 5          | 5, 6, 7, 8, 9 |
+| Lovers                         | 5          | 6          | 63, 64, 65, 66, 67 |
 | Lovers                         | 4          | 1          | 47, 48, 49, 50 |
 | Lovers                         | 4          | 2          | 75, 76, 77, 78 |
 | Lovers                         | 4          | 3          | 27, 28, 29, 30 |
@@ -109,6 +112,30 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Lovers |
+| ----- |
+| Season 6 Games 53, 54, 55, 56, 57, 58 |
+| G1: Season 6 Game 54: Lovers 7  @  2 Flowers |
+| G2: Season 6 Game 55: Shoe Thieves 4  @ 14 Lovers |
+| G3: Season 6 Game 56: Shoe Thieves 0  @  8 Lovers |
+| G4: Season 6 Game 57: Shoe Thieves 0  @  1 Lovers |
+| G5: Season 6 Game 58: Crabs 3  @  4 Lovers |
+| G6: Season 6 Game 59: Crabs 4  @  5 Lovers |
+
+<br />
+
+| 6 Game Winning Streak by the Lovers |
+| ----- |
+| Season 6 Games 69, 70, 71, 72, 73, 74 |
+| G1: Season 6 Game 70: Millennials 2  @  4 Lovers |
+| G2: Season 6 Game 71: Millennials 0  @  6 Lovers |
+| G3: Season 6 Game 72: Millennials 2  @  3 Lovers |
+| G4: Season 6 Game 73: Tacos 2  @  9 Lovers |
+| G5: Season 6 Game 74: Tacos 1  @  4 Lovers |
+| G6: Season 6 Game 75: Tacos 5  @  6 Lovers |
+
+<br />
+
 | 5 Game Winning Streak by the Lovers |
 | ----- |
 | Season 1 Games 13, 14, 15, 16, 17 |
@@ -183,6 +210,17 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 5 Game 7: Flowers 1  @  8 Lovers |
 | G4: Season 5 Game 8: Flowers 2  @  9 Lovers |
 | G5: Season 5 Game 9: Flowers 4  @  6 Lovers |
+
+<br />
+
+| 5 Game Winning Streak by the Lovers |
+| ----- |
+| Season 6 Games 62, 63, 64, 65, 66 |
+| G1: Season 6 Game 63: Sunbeams 2  @  5 Lovers |
+| G2: Season 6 Game 64: Lovers 5  @  2 Spies |
+| G3: Season 6 Game 65: Lovers 5  @  4 Spies |
+| G4: Season 6 Game 66: Lovers 8  @  1 Spies |
+| G5: Season 6 Game 67: Lovers 3  @  1 Spies |
 
 <br />
 

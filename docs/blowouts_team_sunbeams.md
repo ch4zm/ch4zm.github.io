@@ -14,11 +14,13 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 12 | Breckenridge Jazz Hands | 16 - 3 | Hellmouth Sunbeams | 
 | 4 | 8 | Baltimore Crabs | 16 - 4 | Hellmouth Sunbeams | 
 | 1 | 96 | Breckenridge Jazz Hands | 15 - 5 | Moab Sunbeams | 
+| 6 | 76 | Breckenridge Jazz Hands | 15 - 7 | Hellmouth Sunbeams | 
 | 3 | 18 | Hellmouth Sunbeams | 15 - 10 | Boston Flowers | 
 | 2 | 69 | Philly Pies | 14 - 1 | Hellmouth Sunbeams | 
 | 3 | 48 | Hades Tigers | 14 - 1 | Hellmouth Sunbeams | 
 | 3 | 74 | Hades Tigers | 14 - 1 | Hellmouth Sunbeams | 
 | 3 | 93 | Mexico City Wild Wings | 14 - 2 | Hellmouth Sunbeams | 
+| 6 | 98 | Unlimited Tacos | 14 - 4 | Hellmouth Sunbeams | 
 | 4 | 1 | Hellmouth Sunbeams | 14 - 5 | Hades Tigers | 
 | 4 | 47 | Hellmouth Sunbeams | 14 - 6 | Miami Dalé | 
 | 5 | 99 | Chicago Firefighters | 14 - 6 | Hellmouth Sunbeams | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 39 | Houston Spies | 13 - 5 | Hellmouth Sunbeams | 
 | 1 | 59 | Moab Sunbeams | 13 - 6 | Mexico City Wild Wings | 
 | 3 | 44 | Charleston Shoe Thieves | 13 - 6 | Hellmouth Sunbeams | 
-| 3 | 1 | Seattle Garages | 13 - 7 | Hellmouth Sunbeams | 
-| 5 | 90 | Hellmouth Sunbeams | 13 - 7 | Miami Dalé | 
 
 

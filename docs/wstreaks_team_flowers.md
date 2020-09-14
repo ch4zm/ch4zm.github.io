@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 7          | 1          | 24, 25, 26, 27, 28, 29, 30 |
 | Flowers                        | 6          | 1          | 81, 82, 83, 84, 85, 86 |
 | Flowers                        | 6          | 3          | 93, 94, 95, 96, 97, 98 |
+| Flowers                        | 6          | 6          | 73, 74, 75, 76, 77, 78 |
 | Flowers                        | 5          | 3          | 21, 22, 23, 24, 25 |
 | Flowers                        | 5          | 5          | 65, 66, 67, 68, 69 |
 | Flowers                        | 4          | 1          | 18, 19, 20, 21 |
@@ -67,6 +68,18 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G4: Season 3 Game 96: Flowers 3  @  0 Firefighters |
 | G5: Season 3 Game 97: Flowers 15 @  9 Magic |
 | G6: Season 3 Game 98: Flowers 4  @  2 Magic |
+
+<br />
+
+| 6 Game Winning Streak by the Flowers |
+| ----- |
+| Season 6 Games 72, 73, 74, 75, 76, 77 |
+| G1: Season 6 Game 73: Flowers 8  @  6 Dalé |
+| G2: Season 6 Game 74: Flowers 6  @  3 Dalé |
+| G3: Season 6 Game 75: Flowers 4  @  3 Dalé |
+| G4: Season 6 Game 76: Tacos 4  @  5 Flowers |
+| G5: Season 6 Game 77: Tacos 0  @  5 Flowers |
+| G6: Season 6 Game 78: Tacos 1  @  2 Flowers |
 
 <br />
 

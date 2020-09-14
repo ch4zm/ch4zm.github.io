@@ -1,5 +1,5 @@
 # Sunbeams Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -16,6 +16,7 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 4          | 4, 5, 6, 7 |
 | Sunbeams                       | 4          | 4          | 90, 91, 92, 93 |
 | Sunbeams                       | 4          | 5          | 93, 94, 95, 96 |
+| Sunbeams                       | 4          | 6          | 69, 70, 71, 72 |
 
 
 
@@ -86,6 +87,16 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 5 Game 94: Sunbeams 9  @  3 Tigers |
 | G3: Season 5 Game 95: Sunbeams 7  @  4 Tigers |
 | G4: Season 5 Game 96: Sunbeams 3  @  1 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 6 Games 68, 69, 70, 71 |
+| G1: Season 6 Game 69: Sunbeams 7  @  6 Firefighters |
+| G2: Season 6 Game 70: Tacos 1  @  5 Sunbeams |
+| G3: Season 6 Game 71: Tacos 1  @  4 Sunbeams |
+| G4: Season 6 Game 72: Tacos 1  @  8 Sunbeams |
 
 
 

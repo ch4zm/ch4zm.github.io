@@ -13,7 +13,9 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 51 | Kansas City Breath Mints | 16 - 1 | Unlimited Tacos | 
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
 | 4 | 60 | San Francisco Lovers | 15 - 6 | Unlimited Tacos | 
+| 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
 | 4 | 15 | Chicago Firefighters | 14 - 3 | Unlimited Tacos | 
+| 6 | 98 | Unlimited Tacos | 14 - 4 | Hellmouth Sunbeams | 
 | 5 | 64 | New York Millennials | 14 - 5 | Unlimited Tacos | 
 | 4 | 10 | Kansas City Breath Mints | 14 - 6 | Unlimited Tacos | 
 | 5 | 60 | Boston Flowers | 14 - 12 | Unlimited Tacos | 
@@ -25,12 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
 | 5 | 25 | San Francisco Lovers | 12 - 1 | Unlimited Tacos | 
 | 5 | 39 | Chicago Firefighters | 12 - 1 | Unlimited Tacos | 
+| 6 | 82 | Seattle Garages | 12 - 1 | Unlimited Tacos | 
 | 1 | 69 | Los Angeles Tacos | 12 - 2 | San Francisco Lovers | 
 | 2 | 74 | Los Angeles Tacos | 12 - 2 | Hawaii Fridays | 
 | 3 | 80 | Yellowstone Magic | 12 - 2 | Los Angeles Tacos | 
 | 3 | 81 | Yellowstone Magic | 12 - 2 | Los Angeles Tacos | 
-| 3 | 83 | Charleston Shoe Thieves | 12 - 2 | Los Angeles Tacos | 
-| 2 | 31 | Chicago Firefighters | 12 - 3 | Los Angeles Tacos | 
-| 1 | 6 | Kansas City Breath Mints | 12 - 4 | Los Angeles Tacos | 
 
 

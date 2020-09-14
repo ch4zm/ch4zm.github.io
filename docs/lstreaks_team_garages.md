@@ -1,5 +1,5 @@
 # Garages Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -15,6 +15,7 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 7          | 4          | 40, 41, 42, 43, 44, 45, 46 |
 | Garages                        | 6          | 3          | 61, 62, 63, 64, 65, 66 |
 | Garages                        | 6          | 4          | 12, 13, 14, 15, 16, 17 |
+| Garages                        | 6          | 6          | 27, 28, 29, 30, 31, 32 |
 | Garages                        | 5          | 1          | 25, 26, 27, 28, 29 |
 | Garages                        | 5          | 2          | 56, 57, 58, 59, 60 |
 | Garages                        | 5          | 2          | 83, 84, 85, 86, 87 |
@@ -95,6 +96,18 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G4: Season 4 Game 15: Pies 5  @  3 Garages |
 | G5: Season 4 Game 16: Jazz Hands 8  @  6 Garages |
 | G6: Season 4 Game 17: Jazz Hands 4  @  2 Garages |
+
+<br />
+
+| 6 Game Losing Streak by the Garages |
+| ----- |
+| Season 6 Games 26, 27, 28, 29, 30, 31 |
+| G1: Season 6 Game 27: Magic 6  @  5 Garages |
+| G2: Season 6 Game 28: Tigers 1  @  0 Garages |
+| G3: Season 6 Game 29: Tigers 8  @  2 Garages |
+| G4: Season 6 Game 30: Tigers 4  @  0 Garages |
+| G5: Season 6 Game 31: Breath Mints 9  @  1 Garages |
+| G6: Season 6 Game 32: Breath Mints 8  @  2 Garages |
 
 <br />
 

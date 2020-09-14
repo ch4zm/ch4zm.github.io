@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -14,10 +14,12 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 5          | 1          | 50, 51, 52, 53, 54 |
 | Spies                          | 5          | 1          | 66, 67, 68, 69, 70 |
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
+| Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
 | Spies                          | 4          | 5          | 41, 42, 43, 44 |
+| Spies                          | 4          | 6          | 68, 69, 70, 71 |
 
 
 
@@ -73,6 +75,17 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 6 Games 11, 12, 13, 14, 15 |
+| G1: Season 6 Game 12: Spies 6  @  0 Sunbeams |
+| G2: Season 6 Game 13: Spies 5  @  0 Flowers |
+| G3: Season 6 Game 14: Spies 10 @  6 Flowers |
+| G4: Season 6 Game 15: Spies 9  @  4 Flowers |
+| G5: Season 6 Game 16: Flowers 2  @  5 Spies |
+
+<br />
+
 | 4 Game Winning Streak by the Spies |
 | ----- |
 | Season 3 Games 40, 41, 42, 43 |
@@ -110,6 +123,16 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 5 Game 42: Pies 1  @  3 Spies |
 | G3: Season 5 Game 43: Moist Talkers 2  @  3 Spies |
 | G4: Season 5 Game 44: Moist Talkers 3  @ 11 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 6 Games 67, 68, 69, 70 |
+| G1: Season 6 Game 68: Lovers 7  @  9 Spies |
+| G2: Season 6 Game 69: Lovers 4  @  8 Spies |
+| G3: Season 6 Game 70: Firefighters 1  @  3 Spies |
+| G4: Season 6 Game 71: Firefighters 1  @  6 Spies |
 
 
 

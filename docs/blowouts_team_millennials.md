@@ -17,9 +17,11 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 49 | New York Millennials | 15 - 11 | Chicago Firefighters | 
 | 3 | 94 | Hawaii Fridays | 15 - 13 | New York Millennials | 
 | 4 | 67 | New York Millennials | 14 - 4 | San Francisco Lovers | 
+| 6 | 30 | New York Millennials | 14 - 4 | Miami Dalé | 
 | 5 | 64 | New York Millennials | 14 - 5 | Unlimited Tacos | 
 | 3 | 1 | New York Millennials | 14 - 6 | Charleston Shoe Thieves | 
 | 5 | 95 | New York Millennials | 14 - 6 | Yellowstone Magic | 
+| 6 | 21 | New York Millennials | 14 - 8 | Boston Flowers | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 2 | 86 | San Francisco Lovers | 14 - 11 | New York Millennials | 
 | 3 | 63 | New York Millennials | 14 - 12 | Dallas Steaks | 
@@ -27,10 +29,8 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 65 | New York Millennials | 13 - 2 | Unlimited Tacos | 
 | 4 | 78 | Charleston Shoe Thieves | 13 - 4 | New York Millennials | 
 | 5 | 25 | New York Millennials | 13 - 5 | Boston Flowers | 
+| 6 | 27 | Breckenridge Jazz Hands | 13 - 5 | New York Millennials | 
 | 2 | 38 | Chicago Firefighters | 13 - 6 | New York Millennials | 
 | 1 | 51 | Yellowstone Magic | 13 - 8 | New York Millennials | 
-| 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
-| 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
-| 5 | 26 | New York Millennials | 12 - 1 | Boston Flowers | 
 
 

@@ -14,6 +14,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 103* | San Francisco Lovers | 20 - 6 | Charleston Shoe Thieves | 
 | 1 | 16 | Boston Flowers | 18 - 0 | Charleston Shoe Thieves | 
 | 5 | 27 | Hawaii Fridays | 18 - 6 | Charleston Shoe Thieves | 
+| 6 | 24 | Charleston Shoe Thieves | 18 - 7 | Canada Moist Talkers | 
 | 4 | 50 | Charleston Shoe Thieves | 18 - 8 | Boston Flowers | 
 | 4 | 16 | Yellowstone Magic | 17 - 5 | Charleston Shoe Thieves | 
 | 3 | 93 | Charleston Shoe Thieves | 17 - 11 | Dallas Steaks | 
@@ -25,12 +26,11 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 47 | Boston Flowers | 15 - 7 | Charleston Shoe Thieves | 
 | 5 | 97 | Mexico City Wild Wings | 15 - 8 | Charleston Shoe Thieves | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
+| 6 | 55 | San Francisco Lovers | 14 - 4 | Charleston Shoe Thieves | 
 | 1 | 48 | Boston Flowers | 14 - 6 | Charleston Shoe Thieves | 
 | 3 | 1 | New York Millennials | 14 - 6 | Charleston Shoe Thieves | 
 | 1 | 37 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 3 | 90 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 1 | 29 | Charleston Shoe Thieves | 14 - 11 | Chicago Firefighters | 
-| 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
-| 2 | 1 | Boston Flowers | 13 - 0 | Charleston Shoe Thieves | 
 
 

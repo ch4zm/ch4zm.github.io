@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -12,8 +12,10 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | ----- | ----- | ----- | ----- |
 | Firefighters                   | 11         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 |
 | Firefighters                   | 8          | 4          | 6, 7, 8, 9, 10, 11, 12, 13 |
+| Firefighters                   | 8          | 6          | 87, 88, 89, 90, 91, 92, 93, 94 |
 | Firefighters                   | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
 | Firefighters                   | 7          | 5          | 94, 95, 96, 97, 98, 99, 100 |
+| Firefighters                   | 7          | 6          | 11, 12, 13, 14, 15, 16, 17 |
 | Firefighters                   | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Firefighters                   | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Firefighters                   | 6          | 2          | 12, 13, 14, 15, 16, 17 |
@@ -35,6 +37,7 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 5          | 18, 19, 20, 21 |
 | Firefighters                   | 4          | 5          | 75, 76, 77, 78 |
 | Firefighters                   | 4          | 5          | 85, 86, 87, 88 |
+| Firefighters                   | 4          | 6          | 25, 26, 27, 28 |
 
 
 
@@ -77,6 +80,20 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 
 <br />
 
+| 8 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 6 Games 86, 87, 88, 89, 90, 91, 92, 93 |
+| G1: Season 6 Game 87: Firefighters 11 @  5 Sunbeams |
+| G2: Season 6 Game 88: Lovers 0  @  6 Firefighters |
+| G3: Season 6 Game 89: Lovers 5  @  7 Firefighters |
+| G4: Season 6 Game 90: Lovers 5  @  8 Firefighters |
+| G5: Season 6 Game 91: Firefighters 2  @  1 Tacos |
+| G6: Season 6 Game 92: Firefighters 14 @  0 Tacos |
+| G7: Season 6 Game 93: Firefighters 5  @  2 Tacos |
+| G8: Season 6 Game 94: Lovers 3  @  5 Firefighters |
+
+<br />
+
 | 7 Game Winning Streak by the Firefighters |
 | ----- |
 | Season 2 Games 24, 25, 26, 27, 28, 29, 30 |
@@ -100,6 +117,19 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G5: Season 5 Game 98: Firefighters 1  @  0 Sunbeams |
 | G6: Season 5 Game 99: Firefighters 14 @  6 Sunbeams |
 | G7: Season 5 Game 100: Firefighters 9  @  5 Millennials |
+
+<br />
+
+| 7 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 6 Games 10, 11, 12, 13, 14, 15, 16 |
+| G1: Season 6 Game 11: Jazz Hands 7  @  8 Firefighters |
+| G2: Season 6 Game 12: Jazz Hands 2  @  7 Firefighters |
+| G3: Season 6 Game 13: Millennials 3  @  5 Firefighters |
+| G4: Season 6 Game 14: Millennials 2  @  6 Firefighters |
+| G5: Season 6 Game 15: Millennials 2  @  5 Firefighters |
+| G6: Season 6 Game 16: Pies 0  @  1 Firefighters |
+| G7: Season 6 Game 17: Pies 3  @  4 Firefighters |
 
 <br />
 
@@ -321,6 +351,16 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 5 Game 86: Tacos 5  @  9 Firefighters |
 | G3: Season 5 Game 87: Tacos 1  @ 11 Firefighters |
 | G4: Season 5 Game 88: Steaks 4  @  5 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 6 Games 24, 25, 26, 27 |
+| G1: Season 6 Game 25: Firefighters 10 @  2 Tacos |
+| G2: Season 6 Game 26: Firefighters 7  @  2 Tacos |
+| G3: Season 6 Game 27: Firefighters 7  @  1 Tacos |
+| G4: Season 6 Game 28: Crabs 2  @  4 Firefighters |
 
 
 

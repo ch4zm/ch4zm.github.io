@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -24,6 +24,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 6          | 1          | 71, 72, 73, 74, 75, 76 |
 | Tigers                         | 6          | 1          | 95, 96, 97, 98, 99, 100 |
 | Tigers                         | 6          | 2          | 21, 22, 23, 24, 25, 26 |
+| Tigers                         | 6          | 6          | 93, 94, 95, 96, 97, 98 |
 | Tigers                         | 5          | 1          | 23, 24, 25, 26, 27 |
 | Tigers                         | 5          | 2          | 14, 15, 16, 17, 18 |
 | Tigers                         | 5          | 3          | 1, 2, 3, 4, 5 |
@@ -45,6 +46,9 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 4          | 4          | 57, 58, 59, 60 |
 | Tigers                         | 4          | 4          | 77, 78, 79, 88 |
 | Tigers                         | 4          | 5          | 81, 82, 83, 84 |
+| Tigers                         | 4          | 6          | 23, 24, 25, 26 |
+| Tigers                         | 4          | 6          | 48, 49, 50, 51 |
+| Tigers                         | 4          | 6          | 63, 64, 65, 66 |
 
 
 
@@ -244,6 +248,18 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G4: Season 2 Game 24: Crabs 2  @  9 Tigers |
 | G5: Season 2 Game 25: Breath Mints 4  @  6 Tigers |
 | G6: Season 2 Game 26: Breath Mints 4  @  7 Tigers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 6 Games 92, 93, 94, 95, 96, 97 |
+| G1: Season 6 Game 93: Tigers 4  @  3 Moist Talkers |
+| G2: Season 6 Game 94: Magic 2  @  4 Tigers |
+| G3: Season 6 Game 95: Magic 3  @ 11 Tigers |
+| G4: Season 6 Game 96: Magic 5  @  7 Tigers |
+| G5: Season 6 Game 97: Breath Mints 4  @  5 Tigers |
+| G6: Season 6 Game 98: Breath Mints 1  @  5 Tigers |
 
 <br />
 
@@ -462,6 +478,36 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 5 Game 82: Pies 3  @  6 Tigers |
 | G3: Season 5 Game 83: Pies 3  @  5 Tigers |
 | G4: Season 5 Game 84: Pies 2  @  9 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 6 Games 22, 23, 24, 25 |
+| G1: Season 6 Game 23: Garages 1  @  2 Tigers |
+| G2: Season 6 Game 24: Garages 5  @  7 Tigers |
+| G3: Season 6 Game 25: Tigers 8  @  3 Steaks |
+| G4: Season 6 Game 26: Tigers 5  @  1 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 6 Games 47, 48, 49, 50 |
+| G1: Season 6 Game 48: Tigers 8  @  3 Fridays |
+| G2: Season 6 Game 49: Shoe Thieves 0  @  3 Tigers |
+| G3: Season 6 Game 50: Shoe Thieves 5  @  8 Tigers |
+| G4: Season 6 Game 51: Shoe Thieves 6  @  7 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 6 Games 62, 63, 64, 65 |
+| G1: Season 6 Game 63: Tigers 4  @  0 Moist Talkers |
+| G2: Season 6 Game 64: Shoe Thieves 2  @  3 Tigers |
+| G3: Season 6 Game 65: Shoe Thieves 9  @ 13 Tigers |
+| G4: Season 6 Game 66: Shoe Thieves 5  @  6 Tigers |
 
 
 

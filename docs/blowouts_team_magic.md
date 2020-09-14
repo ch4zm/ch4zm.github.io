@@ -18,19 +18,19 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 90 | Hawaii Fridays | 15 - 4 | Yellowstone Magic | 
 | 2 | 22 | Yellowstone Magic | 15 - 7 | Mexico City Wild Wings | 
 | 3 | 97 | Boston Flowers | 15 - 9 | Yellowstone Magic | 
+| 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
 | 2 | 75 | Boston Flowers | 14 - 2 | Yellowstone Magic | 
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
+| 6 | 47 | Seattle Garages | 14 - 5 | Yellowstone Magic | 
 | 5 | 95 | New York Millennials | 14 - 6 | Yellowstone Magic | 
+| 6 | 29 | Yellowstone Magic | 14 - 6 | Dallas Steaks | 
 | 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
 | 1 | 37 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 3 | 90 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 4 | 72 | Yellowstone Magic | 14 - 8 | Hawaii Fridays | 
+| 6 | 17 | Seattle Garages | 14 - 11 | Yellowstone Magic | 
+| 6 | 7 | Philly Pies | 13 - 2 | Yellowstone Magic | 
 | 3 | 88 | Yellowstone Magic | 13 - 3 | Charleston Shoe Thieves | 
 | 5 | 72 | Miami Dalé | 13 - 3 | Yellowstone Magic | 
-| 4 | 35 | Charleston Shoe Thieves | 13 - 5 | Yellowstone Magic | 
-| 2 | 99 | Yellowstone Magic | 13 - 6 | Los Angeles Tacos | 
-| 1 | 51 | Yellowstone Magic | 13 - 8 | New York Millennials | 
-| 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
-| 1 | 35 | Hawaii Fridays | 13 - 10 | Yellowstone Magic | 
 
 

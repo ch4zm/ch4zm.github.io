@@ -9,6 +9,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | ------ |------ |------ |------ |------ |
 | 4 | 3 | Hawaii Fridays | 23 - 8 | Charleston Shoe Thieves | 
 | 4 | 69 | Yellowstone Magic | 18 - 1 | Hawaii Fridays | 
+| 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 5 | 27 | Hawaii Fridays | 18 - 6 | Charleston Shoe Thieves | 
 | 3 | 55 | Hawaii Fridays | 17 - 2 | New York Millennials | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
@@ -26,11 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 4 | Chicago Firefighters | 13 - 8 | Hawaii Fridays | 
 | 1 | 35 | Hawaii Fridays | 13 - 10 | Yellowstone Magic | 
 | 3 | 75 | Hawaii Fridays | 13 - 11 | Kansas City Breath Mints | 
+| 6 | 56 | Dallas Steaks | 13 - 11 | Hawaii Fridays | 
+| 6 | 92 | Seattle Garages | 12 - 0 | Hawaii Fridays | 
 | 2 | 74 | Los Angeles Tacos | 12 - 2 | Hawaii Fridays | 
 | 3 | 46 | Hawaii Fridays | 12 - 2 | Chicago Firefighters | 
 | 5 | 82 | Hawaii Fridays | 12 - 2 | Charleston Shoe Thieves | 
-| 1 | 65 | Yellowstone Magic | 12 - 3 | Hawaii Fridays | 
-| 5 | 26 | Hawaii Fridays | 12 - 3 | Charleston Shoe Thieves | 
-| 2 | 12 | New York Millennials | 12 - 4 | Hawaii Fridays | 
 
 

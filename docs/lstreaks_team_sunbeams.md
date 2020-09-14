@@ -1,5 +1,5 @@
 # Sunbeams Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -30,6 +30,9 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 3          | 57, 58, 59, 60 |
 | Sunbeams                       | 4          | 4          | 8, 9, 10, 11 |
 | Sunbeams                       | 4          | 4          | 33, 34, 35, 36 |
+| Sunbeams                       | 4          | 6          | 42, 43, 44, 45 |
+| Sunbeams                       | 4          | 6          | 73, 74, 75, 76 |
+| Sunbeams                       | 4          | 6          | 89, 90, 91, 92 |
 
 
 
@@ -272,6 +275,36 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 4 Game 34: Tigers 8  @  2 Sunbeams |
 | G3: Season 4 Game 35: Tigers 5  @  3 Sunbeams |
 | G4: Season 4 Game 36: Tigers 3  @  1 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 6 Games 41, 42, 43, 44 |
+| G1: Season 6 Game 42: Flowers 9  @  8 Sunbeams |
+| G2: Season 6 Game 43: Jazz Hands 4  @  2 Sunbeams |
+| G3: Season 6 Game 44: Jazz Hands 7  @  6 Sunbeams |
+| G4: Season 6 Game 45: Jazz Hands 5  @  1 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 6 Games 72, 73, 74, 75 |
+| G1: Season 6 Game 73: Sunbeams 2  @  3 Crabs |
+| G2: Season 6 Game 74: Sunbeams 6  @  9 Crabs |
+| G3: Season 6 Game 75: Sunbeams 2  @  6 Crabs |
+| G4: Season 6 Game 76: Jazz Hands 15 @  7 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 6 Games 88, 89, 90, 91 |
+| G1: Season 6 Game 89: Sunbeams 7  @  9 Jazz Hands |
+| G2: Season 6 Game 90: Sunbeams 3  @  5 Jazz Hands |
+| G3: Season 6 Game 91: Flowers 8  @  7 Sunbeams |
+| G4: Season 6 Game 92: Flowers 10 @  3 Sunbeams |
 
 
 

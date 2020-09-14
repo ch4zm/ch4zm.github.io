@@ -1,5 +1,5 @@
 # Spies Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -13,9 +13,14 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 11         | 4          | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 |
 | Spies                          | 11         | 5          | 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65 |
 | Spies                          | 10         | 4          | 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 |
+| Spies                          | 7          | 6          | 50, 51, 52, 53, 54, 55, 56 |
 | Spies                          | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Spies                          | 5          | 1          | 32, 33, 34, 35, 36 |
 | Spies                          | 5          | 1          | 83, 84, 85, 86, 87 |
+| Spies                          | 5          | 6          | 19, 20, 21, 22, 23 |
+| Spies                          | 5          | 6          | 58, 59, 60, 61, 62 |
+| Spies                          | 5          | 6          | 75, 76, 77, 78, 79 |
+| Spies                          | 5          | 6          | 93, 94, 95, 96, 97 |
 | Spies                          | 4          | 1          | 97, 98, 99, 100 |
 | Spies                          | 4          | 2          | 25, 26, 27, 28 |
 | Spies                          | 4          | 2          | 35, 36, 37, 38 |
@@ -26,6 +31,7 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 3          | 63, 64, 65, 66 |
 | Spies                          | 4          | 4          | 3, 4, 5, 6 |
 | Spies                          | 4          | 5          | 23, 24, 25, 26 |
+| Spies                          | 4          | 6          | 64, 65, 66, 67 |
 
 
 
@@ -87,6 +93,19 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
+| 7 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 49, 50, 51, 52, 53, 54, 55 |
+| G1: Season 6 Game 50: Spies 2  @  3 Millennials |
+| G2: Season 6 Game 51: Spies 4  @ 12 Millennials |
+| G3: Season 6 Game 52: Spies 1  @  3 Firefighters |
+| G4: Season 6 Game 53: Spies 2  @  7 Firefighters |
+| G5: Season 6 Game 54: Spies 3  @  5 Firefighters |
+| G6: Season 6 Game 55: Sunbeams 5  @  3 Spies |
+| G7: Season 6 Game 56: Sunbeams 8  @  2 Spies |
+
+<br />
+
 | 6 Game Losing Streak by the Spies |
 | ----- |
 | Season 2 Games 1, 2, 3, 4, 5, 6 |
@@ -118,6 +137,50 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 1 Game 85: Sunbeams 6  @  5 Spies |
 | G4: Season 1 Game 86: Sunbeams 6  @  2 Spies |
 | G5: Season 1 Game 87: Sunbeams 4  @  3 Spies |
+
+<br />
+
+| 5 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 18, 19, 20, 21, 22 |
+| G1: Season 6 Game 19: Spies 2  @  3 Crabs |
+| G2: Season 6 Game 20: Spies 1  @  7 Crabs |
+| G3: Season 6 Game 21: Spies 1  @  9 Crabs |
+| G4: Season 6 Game 22: Flowers 4  @  2 Spies |
+| G5: Season 6 Game 23: Flowers 7  @  1 Spies |
+
+<br />
+
+| 5 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 57, 58, 59, 60, 61 |
+| G1: Season 6 Game 58: Sunbeams 9  @  2 Spies |
+| G2: Season 6 Game 59: Sunbeams 13 @  7 Spies |
+| G3: Season 6 Game 60: Sunbeams 6  @  5 Spies |
+| G4: Season 6 Game 61: Flowers 8  @  1 Spies |
+| G5: Season 6 Game 62: Flowers 3  @  2 Spies |
+
+<br />
+
+| 5 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 74, 75, 76, 77, 78 |
+| G1: Season 6 Game 75: Jazz Hands 5  @  0 Spies |
+| G2: Season 6 Game 76: Spies 0  @  4 Dalé |
+| G3: Season 6 Game 77: Spies 1  @  2 Dalé |
+| G4: Season 6 Game 78: Spies 3  @ 10 Dalé |
+| G5: Season 6 Game 79: Spies 2  @  8 Sunbeams |
+
+<br />
+
+| 5 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 92, 93, 94, 95, 96 |
+| G1: Season 6 Game 93: Dalé 6  @  2 Spies |
+| G2: Season 6 Game 94: Millennials 6  @  2 Spies |
+| G3: Season 6 Game 95: Millennials 6  @  5 Spies |
+| G4: Season 6 Game 96: Millennials 6  @  5 Spies |
+| G5: Season 6 Game 97: Spies 1  @  3 Dalé |
 
 <br />
 
@@ -218,6 +281,16 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 5 Game 24: Wild Wings 4  @  0 Spies |
 | G3: Season 5 Game 25: Garages 11 @  4 Spies |
 | G4: Season 5 Game 26: Garages 18 @  6 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
+| Season 6 Games 63, 64, 65, 66 |
+| G1: Season 6 Game 64: Lovers 5  @  2 Spies |
+| G2: Season 6 Game 65: Lovers 5  @  4 Spies |
+| G3: Season 6 Game 66: Lovers 8  @  1 Spies |
+| G4: Season 6 Game 67: Lovers 3  @  1 Spies |
 
 
 

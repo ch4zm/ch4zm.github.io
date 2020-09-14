@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -28,6 +28,8 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 4          | 4          | 58, 59, 60, 61 |
 | Shoe Thieves                   | 4          | 5          | 14, 15, 16, 17 |
 | Shoe Thieves                   | 4          | 5          | 92, 93, 94, 95 |
+| Shoe Thieves                   | 4          | 6          | 11, 12, 13, 14 |
+| Shoe Thieves                   | 4          | 6          | 34, 35, 36, 37 |
 
 
 
@@ -228,6 +230,26 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G2: Season 5 Game 93: Shoe Thieves 5  @  1 Tacos |
 | G3: Season 5 Game 94: Fridays 1  @  2 Shoe Thieves |
 | G4: Season 5 Game 95: Fridays 6  @  7 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 6 Games 10, 11, 12, 13 |
+| G1: Season 6 Game 11: Pies 2  @  3 Shoe Thieves |
+| G2: Season 6 Game 12: Pies 2  @ 13 Shoe Thieves |
+| G3: Season 6 Game 13: Magic 2  @  3 Shoe Thieves |
+| G4: Season 6 Game 14: Magic 4  @  7 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 6 Games 33, 34, 35, 36 |
+| G1: Season 6 Game 34: Shoe Thieves 5  @  0 Fridays |
+| G2: Season 6 Game 35: Shoe Thieves 4  @  3 Fridays |
+| G3: Season 6 Game 36: Shoe Thieves 9  @  2 Fridays |
+| G4: Season 6 Game 37: Garages 1  @  2 Shoe Thieves |
 
 
 

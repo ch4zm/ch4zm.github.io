@@ -1,5 +1,5 @@
 # Tigers Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Tigers versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Tigers                         | 7          | 2          | 57, 58, 59, 60, 61, 62, 63 |
 | Tigers                         | 5          | 5          | 54, 55, 56, 57, 58 |
+| Tigers                         | 5          | 6          | 84, 85, 86, 87, 88 |
 | Tigers                         | 4          | 2          | 92, 93, 94, 95 |
 | Tigers                         | 4          | 4          | 43, 44, 45, 46 |
 | Tigers                         | 4          | 5          | 2, 3, 4, 5 |
@@ -48,6 +49,17 @@ Losing streaks of 4 or more games for Tigers versus all teams for all time
 | G3: Season 5 Game 56: Moist Talkers 3  @  1 Tigers |
 | G4: Season 5 Game 57: Moist Talkers 7  @  5 Tigers |
 | G5: Season 5 Game 58: Tigers 2  @  3 Crabs |
+
+<br />
+
+| 5 Game Losing Streak by the Tigers |
+| ----- |
+| Season 6 Games 83, 84, 85, 86, 87 |
+| G1: Season 6 Game 84: Tigers 2  @  7 Magic |
+| G2: Season 6 Game 85: Tigers 2  @  3 Moist Talkers |
+| G3: Season 6 Game 86: Tigers 0  @  3 Moist Talkers |
+| G4: Season 6 Game 87: Tigers 3  @  6 Moist Talkers |
+| G5: Season 6 Game 88: Tigers 3  @  4 Steaks |
 
 <br />
 

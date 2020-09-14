@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 

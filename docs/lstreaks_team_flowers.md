@@ -1,5 +1,5 @@
 # Flowers Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -18,6 +18,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 5          | 3          | 4, 5, 6, 7, 8 |
 | Flowers                        | 5          | 5          | 75, 76, 77, 78, 79 |
 | Flowers                        | 5          | 5          | 90, 91, 92, 93, 94 |
+| Flowers                        | 5          | 6          | 12, 13, 14, 15, 16 |
 | Flowers                        | 4          | 1          | 4, 5, 6, 7 |
 | Flowers                        | 4          | 2          | 44, 45, 46, 47 |
 | Flowers                        | 4          | 3          | 28, 29, 30, 31 |
@@ -30,6 +31,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 5          | 6, 7, 8, 9 |
 | Flowers                        | 4          | 5          | 41, 42, 43, 44 |
 | Flowers                        | 4          | 5          | 70, 71, 72, 73 |
+| Flowers                        | 4          | 6          | 29, 30, 31, 32 |
 
 
 
@@ -134,6 +136,17 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G3: Season 5 Game 92: Flowers 2  @  6 Millennials |
 | G4: Season 5 Game 93: Flowers 2  @  9 Millennials |
 | G5: Season 5 Game 94: Flowers 2  @  6 Breath Mints |
+
+<br />
+
+| 5 Game Losing Streak by the Flowers |
+| ----- |
+| Season 6 Games 11, 12, 13, 14, 15 |
+| G1: Season 6 Game 12: Tacos 5  @  3 Flowers |
+| G2: Season 6 Game 13: Spies 5  @  0 Flowers |
+| G3: Season 6 Game 14: Spies 10 @  6 Flowers |
+| G4: Season 6 Game 15: Spies 9  @  4 Flowers |
+| G5: Season 6 Game 16: Flowers 2  @  5 Spies |
 
 <br />
 
@@ -254,6 +267,16 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 5 Game 71: Flowers 1  @  5 Steaks |
 | G3: Season 5 Game 72: Flowers 4  @  5 Steaks |
 | G4: Season 5 Game 73: Firefighters 13 @  2 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Flowers |
+| ----- |
+| Season 6 Games 28, 29, 30, 31 |
+| G1: Season 6 Game 29: Sunbeams 7  @  6 Flowers |
+| G2: Season 6 Game 30: Sunbeams 6  @  1 Flowers |
+| G3: Season 6 Game 31: Lovers 6  @  1 Flowers |
+| G4: Season 6 Game 32: Lovers 5  @  2 Flowers |
 
 
 

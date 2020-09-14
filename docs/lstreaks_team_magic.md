@@ -1,5 +1,5 @@
 # Magic Losing Streaks
-(Through season 5)
+(Through season 6)
 ## Summary
 
 
@@ -26,6 +26,8 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 5          | 10, 11, 12, 13 |
 | Magic                          | 4          | 5          | 30, 31, 32, 33 |
 | Magic                          | 4          | 5          | 93, 94, 95, 96 |
+| Magic                          | 4          | 6          | 61, 62, 63, 67 |
+| Magic                          | 4          | 6          | 77, 78, 82, 83 |
 
 
 
@@ -208,6 +210,26 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 5 Game 94: Millennials 3  @  2 Magic |
 | G3: Season 5 Game 95: Millennials 14 @  6 Magic |
 | G4: Season 5 Game 96: Millennials 5  @  1 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 6 Games 60, 61, 62, 66 |
+| G1: Season 6 Game 61: Garages 5  @  3 Magic |
+| G2: Season 6 Game 62: Garages 5  @  1 Magic |
+| G3: Season 6 Game 63: Garages 9  @  3 Magic |
+| G4: Season 6 Game 67: Magic 6  @  8 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 6 Games 76, 77, 81, 82 |
+| G1: Season 6 Game 77: Tigers 6  @  0 Magic |
+| G2: Season 6 Game 78: Tigers 6  @  1 Magic |
+| G3: Season 6 Game 82: Tigers 6  @  0 Magic |
+| G4: Season 6 Game 83: Tigers 3  @  1 Magic |
 
 
 
