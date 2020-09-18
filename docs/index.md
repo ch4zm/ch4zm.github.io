@@ -21,18 +21,23 @@ Teaching schedule for Fall 2020: [Teaching](teaching.md)
 These are a few blaseball clomputational tools published by Ch4zm of Hellmouth, useful for
 exploring blaseball games and teams:
 
-* [blaseball-core-game-data](https://github.com/ch4zm/blaseball-core-game-data) - 
+* [blaseball-core-game-data](https://github.com/ch4zm/blaseball-core-game-data) -
   a simple Python library that wraps a JSON object containing data about blaseball games
 
-* [interesting-blaseball-games](https://github.com/ch4zm/interesting-blaseball-games) - 
+* [interesting-blaseball-games](https://github.com/ch4zm/interesting-blaseball-games) -
   a command-line tool for finding interesting blaseball games (shutouts, blowouts,
   shame games, and underdog wins)
 
-* [blaseball-streak-finder](https://github.com/ch4zm/blaseball-streak-finder) - 
+* [blaseball-streak-finder](https://github.com/ch4zm/blaseball-streak-finder) -
   a command-line tool for finding blaseball winning and losing streaks
 
-* [blaseball-game-finder](https://github.com/ch4zm/blaseball-game-finder) - 
+* [blaseball-game-finder](https://github.com/ch4zm/blaseball-game-finder) -
   a command-line tool for finding blaseball game IDs matching certain conditions
+
+* [blaseball-game-summary](https://github.com/ch4zm/blaseball-game-summary) -
+  a command-line tool for summarizing blaseball games by ID, including box score,
+  line score, pitching summary, batting summary, baserunning summary, and weather
+  events; provides output in raw JSON, plain text, rich text, or Markdown.
 
 
 ## Blaseball Stats
