@@ -6,7 +6,6 @@
 # blaseball stats.
 
 ROOT_DIR=$(dirname $(readlink -f "$0"))
-STREAK_FINDER="$ROOT_DIR/../vp/bin/streak-finder"
 INTERESTING="$ROOT_DIR/../vp/bin/interesting-blaseball-games"
 ACTIVATE_SCRIPT="$ROOT_DIR/../vp/bin/activate"
 
@@ -14,123 +13,6 @@ LASTSEASON=6
 
 # Enter the virtual environment
 source $ACTIVATE_SCRIPT
-
-
-
-########################## blaseball-streak-finder #######################################
-
-
-
-echo "############################################"
-echo "# Winning Streaks:"
-
-# All-time
-echo "Creating all-time winning streaks page..."
-OUT=$ROOT_DIR/../docs/wstreaks_alltime.md
-echo "Working on page: $(basename $OUT)"
-
-cat /dev/null > $OUT
-echo "# All-Time Blaseball Winning Streaks" >> $OUT
-echo "(Through season $LASTSEASON)" >> $OUT
-echo "## Summary" >> $OUT
-$STREAK_FINDER --winning --short --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
-echo "" >> $OUT
-echo "## Details" >> $OUT
-$STREAK_FINDER --winning --long --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
-echo "" >> $OUT
-echo "Done."
-
-# By Season
-echo "Creating season-by-season winning streaks page..."
-for i in $(seq 1 $LASTSEASON); do 
-    OUT=$ROOT_DIR/../docs/wstreaks_season$i.md
-    echo "Working on season $i: $(basename $OUT)"
-
-    cat /dev/null > $OUT
-    echo "# Season $i Winning Streaks" >> $OUT
-    echo "## Summary" >> $OUT
-    $STREAK_FINDER --winning --season $i --short --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-    echo "## Details" >> $OUT
-    $STREAK_FINDER --winning --season $i --long --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-done
-echo "Done."
-
-# By Team
-echo "Creating team-by-team winning streaks page..."
-cat $ROOT_DIR/../list_of_teams | sort | while read team; do
-    lower_team=$(echo $team | awk '{print tolower($0)}' | sed 's/ /_/g' )
-    OUT=$ROOT_DIR/../docs/wstreaks_team_${lower_team}.md
-    echo "Working on team $team: $(basename $OUT)"
-
-    cat /dev/null > $OUT
-    echo "# $team Winning Streaks" >> $OUT
-    echo "(Through season $LASTSEASON)" >> $OUT
-    echo "## Summary" >> $OUT
-    $STREAK_FINDER --winning --team "$team" --short --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-    echo "## Details" >> $OUT
-    $STREAK_FINDER --winning --team "$team" --long --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-done
-
-
-
-echo "############################################"
-echo "# Losing Streaks:"
-
-# All-time
-echo "Creating all-time losing streaks page..."
-OUT=$ROOT_DIR/../docs/lstreaks_alltime.md
-echo "Working on page: $(basename $OUT)"
-
-cat /dev/null > $OUT
-echo "# All-Time Blaseball Losing Streaks" >> $OUT
-echo "(Through season $LASTSEASON)" >> $OUT
-echo "## Summary" >> $OUT
-$STREAK_FINDER --losing --short --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
-echo "" >> $OUT
-echo "## Details" >> $OUT
-$STREAK_FINDER --losing --long --markdown --min 8 | $ROOT_DIR/split_tables.py >> $OUT
-echo "" >> $OUT
-echo "Done."
-
-# By Season
-echo "Creating season-by-season losing streaks page..."
-for i in $(seq 1 $LASTSEASON); do 
-    OUT=$ROOT_DIR/../docs/lstreaks_season$i.md
-    echo "Working on season $i: $(basename $OUT)"
-
-    cat /dev/null > $OUT
-    echo "# Season $i Losing Streaks" >> $OUT
-    echo "## Summary" >> $OUT
-    $STREAK_FINDER --losing --season $i --short --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-    echo "## Details" >> $OUT
-    $STREAK_FINDER --losing --season $i --long --markdown --min 7 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-done
-echo "Done."
-
-# By Team
-echo "Creating team-by-team losing streaks page..."
-cat $ROOT_DIR/../list_of_teams | sort | while read team; do
-    lower_team=$(echo $team | awk '{print tolower($0)}' | sed 's/ /_/g' )
-    OUT=$ROOT_DIR/../docs/lstreaks_team_${lower_team}.md
-    echo "Working on team $team: $(basename $OUT)"
-
-    cat /dev/null > $OUT
-    echo "# $team Losing Streaks" >> $OUT
-    echo "(Through season $LASTSEASON)" >> $OUT
-    echo "## Summary" >> $OUT
-    $STREAK_FINDER --losing --team "$team" --short --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-    echo "## Details" >> $OUT
-    $STREAK_FINDER --losing --team "$team" --long --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
-    echo "" >> $OUT
-done
-echo "Done."
 
 
 
@@ -367,3 +249,120 @@ echo "(Through season $LASTSEASON)" >> $OUT
 $INTERESTING --reason shame --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
+
+
+
+echo "############################################"
+echo "# Maxed Out:"
+
+# All-time
+echo "Creating all-time maxedout page..."
+OUT=$ROOT_DIR/../docs/maxedout_alltime.md
+echo "Working on page: $(basename $OUT)"
+
+cat /dev/null > $OUT
+echo "# All-Time Blaseball Maxed Out Games" >> $OUT
+echo "(Through season $LASTSEASON)" >> $OUT
+echo "" >> $OUT
+echo "## Summary" >> $OUT
+$INTERESTING --reason maxedout --name-style long --markdown --n-results 25 >> $OUT
+echo "" >> $OUT
+echo "Done."
+
+# By Season
+echo "Creating season-by-season maxedout page..."
+for i in $(seq 1 $LASTSEASON); do 
+    OUT=$ROOT_DIR/../docs/maxedout_season$i.md
+    echo "Working on season $i: $(basename $OUT)"
+
+    cat /dev/null > $OUT
+    echo "## Season $i Maxed Out Games" >> $OUT
+    $INTERESTING --season $i --reason maxedout --name-style long --markdown --n-results 25 >> $OUT
+    echo "" >> $OUT
+done
+echo "Done."
+
+# By Team
+echo "Creating team-by-team maxedout page..."
+cat $ROOT_DIR/../list_of_teams | sort | while read team; do
+    lower_team=$(echo $team | awk '{print tolower($0)}' | sed 's/ /_/g' )
+    OUT=$ROOT_DIR/../docs/maxedout_team_${lower_team}.md
+    echo "Working on team $team: $(basename $OUT)"
+
+    cat /dev/null > $OUT
+    echo "## $team Maxed Out Games Summary" >> $OUT
+    $INTERESTING --team "$team" --reason maxedout --name-style long --markdown --n-results 25 >> $OUT
+    echo "" >> $OUT
+done
+echo "Done."
+
+# Postseason
+echo "Creating postseason maxedout page..."
+OUT=$ROOT_DIR/../docs/maxedout_postseason.md
+echo "Working on page: $(basename $OUT)"
+
+cat /dev/null > $OUT
+echo "# Blaseball Postseason Maxed Out Games" >> $OUT
+echo "(Through season $LASTSEASON)" >> $OUT
+$INTERESTING --reason maxedout --name-style long --markdown --n-results 25 >> $OUT
+echo "" >> $OUT
+echo "Done."
+
+
+
+echo "############################################"
+echo "# Defensive:"
+
+# All-time
+echo "Creating all-time defensive page..."
+OUT=$ROOT_DIR/../docs/defensive_alltime.md
+echo "Working on page: $(basename $OUT)"
+
+cat /dev/null > $OUT
+echo "# All-Time Blaseball Defensive Games" >> $OUT
+echo "(Through season $LASTSEASON)" >> $OUT
+echo "" >> $OUT
+echo "## Summary" >> $OUT
+$INTERESTING --reason defensive --name-style long --markdown --n-results 25 >> $OUT
+echo "" >> $OUT
+echo "Done."
+
+# By Season
+echo "Creating season-by-season defensive page..."
+for i in $(seq 1 $LASTSEASON); do 
+    OUT=$ROOT_DIR/../docs/defensive_season$i.md
+    echo "Working on season $i: $(basename $OUT)"
+
+    cat /dev/null > $OUT
+    echo "## Season $i Defensive Games" >> $OUT
+    $INTERESTING --season $i --reason defensive --name-style long --markdown --n-results 25 >> $OUT
+    echo "" >> $OUT
+done
+echo "Done."
+
+# By Team
+echo "Creating team-by-team defensive page..."
+cat $ROOT_DIR/../list_of_teams | sort | while read team; do
+    lower_team=$(echo $team | awk '{print tolower($0)}' | sed 's/ /_/g' )
+    OUT=$ROOT_DIR/../docs/defensive_team_${lower_team}.md
+    echo "Working on team $team: $(basename $OUT)"
+
+    cat /dev/null > $OUT
+    echo "## $team Defensive Games Summary" >> $OUT
+    $INTERESTING --team "$team" --reason defensive --name-style long --markdown --n-results 25 >> $OUT
+    echo "" >> $OUT
+done
+echo "Done."
+
+# Postseason
+echo "Creating postseason defensive page..."
+OUT=$ROOT_DIR/../docs/defensive_postseason.md
+echo "Working on page: $(basename $OUT)"
+
+cat /dev/null > $OUT
+echo "# Blaseball Postseason Defensive Games" >> $OUT
+echo "(Through season $LASTSEASON)" >> $OUT
+$INTERESTING --reason defensive --name-style long --markdown --n-results 25 >> $OUT
+echo "" >> $OUT
+echo "Done."
+
