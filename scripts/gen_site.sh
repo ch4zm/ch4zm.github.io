@@ -10,7 +10,7 @@ STREAK_FINDER="$ROOT_DIR/../vp/bin/streak-finder"
 INTERESTING="$ROOT_DIR/../vp/bin/interesting-blaseball-games"
 ACTIVATE_SCRIPT="$ROOT_DIR/../vp/bin/activate"
 
-LASTSEASON=5
+LASTSEASON=6
 
 # Enter the virtual environment
 source $ACTIVATE_SCRIPT
