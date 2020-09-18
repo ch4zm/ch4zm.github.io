@@ -4,7 +4,7 @@
 
 * **Data Witch** for the **Hellmouth Sunbeams**
 * Founding member, **Fellowship of the Mysteries of Light (FML)**
-* **Blaseball Physics** instructor at the **Hellmouth Institute of Technolology**
+* **Blaseball Physics** instructor at the **Hellmouth Community College**
 
 Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method listed here:
 
@@ -12,7 +12,7 @@ Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method list
 * [Twitter: @ch4zm_of_hell](https://twitter.com/ch4zm_of_hell)
 * [Blaseball Wiki: @Ch4zmOfHellmouth](https://blaseball.fandom.com/wiki/User:Ch4zmOfHellmouth)
 
-## Teaching at the Hellmouth Institute of Technolology
+## Teaching at the Hellmouth Community College
 
 Teaching schedule for Fall 2020: [Teaching](teaching.md)
 
@@ -40,7 +40,7 @@ exploring blaseball games and teams:
   events; provides output in raw JSON, plain text, rich text, or Markdown.
 
 
-## Blaseball Stats
+## Blaseball Streaks
 
 ### Winning Streaks
 
@@ -105,6 +105,8 @@ exploring blaseball games and teams:
     * [Tacos Losing Streaks](lstreaks_team_tacos.md)
     * [Tigers Losing Streaks](lstreaks_team_tigers.md)
     * [Wild Wings Losing Streaks](lstreaks_team_wild_wings.md)
+
+## Interesting Blaseball Games
 
 ### Shutouts
 
@@ -237,4 +239,70 @@ exploring blaseball games and teams:
     * [Tigers Shame Games](shame_team_tigers.md)
     * [Wild Wings Shame Games](shame_team_wild_wings.md)
 * [Postseason Shame Games](shame_postseason.md)
+
+### Maxed Out Games
+
+* [All-Time Maxed Out Games](maxedout_alltime.md)
+* Maxed Out Games by Season:
+    * [Season 1 Maxed Out Games](maxedout_season1.md)
+    * [Season 2 Maxed Out Games](maxedout_season2.md)
+    * [Season 3 Maxed Out Games](maxedout_season3.md)
+    * [Season 4 Maxed Out Games](maxedout_season4.md)
+    * [Season 5 Maxed Out Games](maxedout_season5.md)
+    * [Season 6 Maxed Out Games](maxedout_season6.md)
+* Maxed Out Games by Team:
+    * [Breath Mints Maxed Out Games](maxedout_team_breath_mints.md)
+    * [Crabs Maxed Out Games](maxedout_team_crabs.md)
+    * [Dale Maxed Out Games](maxedout_team_dale.md)
+    * [Firefighters Maxed Out Games](maxedout_team_firefighters.md)
+    * [Flowers Maxed Out Games](maxedout_team_flowers.md)
+    * [Fridays Maxed Out Games](maxedout_team_fridays.md)
+    * [Garages Maxed Out Games](maxedout_team_garages.md)
+    * [Jazz Hands Maxed Out Games](maxedout_team_jazz_hands.md)
+    * [Lovers Maxed Out Games](maxedout_team_lovers.md)
+    * [Magic Maxed Out Games](maxedout_team_magic.md)
+    * [Millennials Maxed Out Games](maxedout_team_millennials.md)
+    * [Moist Talkers Maxed Out Games](maxedout_team_moist_talkers.md)
+    * [Pies Maxed Out Games](maxedout_team_pies.md)
+    * [Shoe Thieves Maxed Out Games](maxedout_team_shoe_thieves.md)
+    * [Spies Maxed Out Games](maxedout_team_spies.md)
+    * [Steaks Maxed Out Games](maxedout_team_steaks.md)
+    * [Sunbeams Maxed Out Games](maxedout_team_sunbeams.md)
+    * [Tacos Maxed Out Games](maxedout_team_tacos.md)
+    * [Tigers Maxed Out Games](maxedout_team_tigers.md)
+    * [Wild Wings Maxed Out Games](maxedout_team_wild_wings.md)
+* [Postseason Maxed Out Games](maxedout_postseason.md)
+
+### Defensive Games
+
+* [All-Time Defensive Games](defensive_alltime.md)
+* Defensive Games by Season:
+    * [Season 1 Defensive Games](defensive_season1.md)
+    * [Season 2 Defensive Games](defensive_season2.md)
+    * [Season 3 Defensive Games](defensive_season3.md)
+    * [Season 4 Defensive Games](defensive_season4.md)
+    * [Season 5 Defensive Games](defensive_season5.md)
+    * [Season 6 Defensive Games](defensive_season6.md)
+* Defensive Games by Team:
+    * [Breath Mints Defensive Games](defensive_team_breath_mints.md)
+    * [Crabs Defensive Games](defensive_team_crabs.md)
+    * [Dale Defensive Games](defensive_team_dale.md)
+    * [Firefighters Defensive Games](defensive_team_firefighters.md)
+    * [Flowers Defensive Games](defensive_team_flowers.md)
+    * [Fridays Defensive Games](defensive_team_fridays.md)
+    * [Garages Defensive Games](defensive_team_garages.md)
+    * [Jazz Hands Defensive Games](defensive_team_jazz_hands.md)
+    * [Lovers Defensive Games](defensive_team_lovers.md)
+    * [Magic Defensive Games](defensive_team_magic.md)
+    * [Millennials Defensive Games](defensive_team_millennials.md)
+    * [Moist Talkers Defensive Games](defensive_team_moist_talkers.md)
+    * [Pies Defensive Games](defensive_team_pies.md)
+    * [Shoe Thieves Defensive Games](defensive_team_shoe_thieves.md)
+    * [Spies Defensive Games](defensive_team_spies.md)
+    * [Steaks Defensive Games](defensive_team_steaks.md)
+    * [Sunbeams Defensive Games](defensive_team_sunbeams.md)
+    * [Tacos Defensive Games](defensive_team_tacos.md)
+    * [Tigers Defensive Games](defensive_team_tigers.md)
+    * [Wild Wings Defensive Games](defensive_team_wild_wings.md)
+* [Postseason Defensive Games](defensive_postseason.md)
 

@@ -1,6 +1,6 @@
 ## Ch4zm of Hellmouth Teaching Page
 
-Ch4zm of Hellmouth teaches at the Hellmouth Institute of Technolology,
+Ch4zm of Hellmouth teaches at the Hellmouth Community College,
 where the motto is, **it's hard to be bright in Hellmouth!**
 
 ## Fall 2020 Teaching Schedule
@@ -13,7 +13,7 @@ A list of courses Ch4zm is teaching in Fall 2020:
 
 **Course Code:** BLAB 101
 
-**Course Location:** Room 5778A, Internet Hall, Hellmouth Institute of Technolology (South Campus)
+**Course Location:** Room 5778A, Internet Hall, Hellmouth Community College
 
 **Course Description:** What is blaseball? Yes! The only thing that matters is the Sun.
 In this course you will STARE INTO THE SUN and come away with a deep reverence for the 
@@ -25,7 +25,7 @@ sun and a tendency to worship the most supreme high-density ball of burning gas.
 
 **Course Code:** BLAB 207
 
-**Course Location:** Room 5778B, Sunbeam Hall, Hellmouth Institute of Technolology (South Campus)
+**Course Location:** Room 5778B, Sunbeam Hall, Hellmouth Community College
 
 **Course Description:** Seminar discussions of current meta-blaseballical topics, including 
 applied, hands-on capstone clomputational projects.
