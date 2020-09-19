@@ -1,4 +1,4 @@
-## Fridays Maxed Out Games Summary
+# Fridays Maxed Out Summary
 
 
 

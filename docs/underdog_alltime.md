@@ -1,4 +1,4 @@
-# All-Time Blaseball Underdog Wins
+# All-Time Underdog Wins
 (Through season 6)
 
 ## Summary

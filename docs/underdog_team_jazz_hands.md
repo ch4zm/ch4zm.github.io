@@ -1,4 +1,4 @@
-## Jazz Hands Underdog Win Summary
+# Jazz Hands Underdog Wins Summary
 
 
 

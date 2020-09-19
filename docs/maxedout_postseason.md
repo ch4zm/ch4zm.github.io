@@ -1,4 +1,4 @@
-# Blaseball Postseason Maxed Out Games
+# Blaseball Postseason Maxed Out
 (Through season 6)
 
 

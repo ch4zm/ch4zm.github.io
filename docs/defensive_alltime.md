@@ -1,4 +1,4 @@
-# All-Time Blaseball Defensive Games
+# All-Time Defensive Games
 (Through season 6)
 
 ## Summary

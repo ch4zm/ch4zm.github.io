@@ -1,4 +1,4 @@
-## Fridays shame Win Summary
+# Fridays Shame Runs Summary
 
 
 

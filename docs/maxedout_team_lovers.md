@@ -1,4 +1,4 @@
-## Lovers Maxed Out Games Summary
+# Lovers Maxed Out Summary
 
 
 

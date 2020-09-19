@@ -1,4 +1,4 @@
-## Firefighters Maxed Out Games Summary
+# Firefighters Maxed Out Summary
 
 
 

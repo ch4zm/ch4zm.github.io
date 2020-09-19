@@ -1,4 +1,4 @@
-## Season 1 Maxed Out Games
+# Season 1 Maxed Out
 
 
 

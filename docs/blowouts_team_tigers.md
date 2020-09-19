@@ -1,4 +1,4 @@
-## Tigers Blowout Summary
+# Tigers Blowouts Summary
 
 
 

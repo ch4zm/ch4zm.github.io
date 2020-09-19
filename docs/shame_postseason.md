@@ -1,4 +1,4 @@
-# Blaseball Postseason Shame Games
+# Blaseball Postseason Shame Runs
 (Through season 6)
 
 

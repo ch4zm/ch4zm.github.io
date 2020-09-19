@@ -1,4 +1,4 @@
-## Magic shame Win Summary
+# Magic Shame Runs Summary
 
 
 

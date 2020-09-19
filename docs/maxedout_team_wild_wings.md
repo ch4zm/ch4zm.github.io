@@ -1,4 +1,4 @@
-## Wild Wings Maxed Out Games Summary
+# Wild Wings Maxed Out Summary
 
 
 

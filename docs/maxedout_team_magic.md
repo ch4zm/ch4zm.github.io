@@ -1,4 +1,4 @@
-## Magic Maxed Out Games Summary
+# Magic Maxed Out Summary
 
 
 

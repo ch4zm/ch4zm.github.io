@@ -1,4 +1,4 @@
-## Fridays Underdog Win Summary
+# Fridays Underdog Wins Summary
 
 
 

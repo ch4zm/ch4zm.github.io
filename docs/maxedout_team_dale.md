@@ -1,4 +1,4 @@
-## Dale Maxed Out Games Summary
+# Dale Maxed Out Summary
 
 
 

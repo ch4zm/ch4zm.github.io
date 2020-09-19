@@ -1,4 +1,4 @@
-## Moist Talkers Maxed Out Games Summary
+# Moist Talkers Maxed Out Summary
 
 
 

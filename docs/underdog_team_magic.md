@@ -1,4 +1,4 @@
-## Magic Underdog Win Summary
+# Magic Underdog Wins Summary
 
 
 

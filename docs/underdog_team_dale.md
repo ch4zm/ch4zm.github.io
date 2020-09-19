@@ -1,4 +1,4 @@
-## Dale Underdog Win Summary
+# Dale Underdog Wins Summary
 
 
 

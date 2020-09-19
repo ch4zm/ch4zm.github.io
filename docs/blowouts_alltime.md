@@ -1,4 +1,4 @@
-# All-Time Blaseball Blowouts
+# All-Time Blowouts
 (Through season 6)
 
 ## Summary

@@ -1,4 +1,4 @@
-# All-Time Blaseball Shutouts
+# All-Time Shutouts
 (Through season 6)
 
 ## Summary

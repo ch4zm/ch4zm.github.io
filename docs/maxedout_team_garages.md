@@ -1,4 +1,4 @@
-## Garages Maxed Out Games Summary
+# Garages Maxed Out Summary
 
 
 

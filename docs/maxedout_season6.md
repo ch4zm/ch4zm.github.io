@@ -1,4 +1,4 @@
-## Season 6 Maxed Out Games
+# Season 6 Maxed Out
 
 
 

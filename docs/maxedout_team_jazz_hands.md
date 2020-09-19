@@ -1,4 +1,4 @@
-## Jazz Hands Maxed Out Games Summary
+# Jazz Hands Maxed Out Summary
 
 
 

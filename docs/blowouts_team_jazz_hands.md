@@ -1,4 +1,4 @@
-## Jazz Hands Blowout Summary
+# Jazz Hands Blowouts Summary
 
 
 

@@ -1,4 +1,4 @@
-## Season 4 Maxed Out Games
+# Season 4 Maxed Out
 
 
 

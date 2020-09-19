@@ -1,4 +1,4 @@
-## Wild Wings Shutout Summary
+# Wild Wings Shutouts Summary
 
 
 

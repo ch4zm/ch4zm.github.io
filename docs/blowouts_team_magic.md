@@ -1,4 +1,4 @@
-## Magic Blowout Summary
+# Magic Blowouts Summary
 
 
 

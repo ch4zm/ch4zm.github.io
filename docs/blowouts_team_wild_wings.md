@@ -1,4 +1,4 @@
-## Wild Wings Blowout Summary
+# Wild Wings Blowouts Summary
 
 
 

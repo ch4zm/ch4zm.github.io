@@ -1,4 +1,4 @@
-## Breath Mints Maxed Out Games Summary
+# Breath Mints Maxed Out Summary
 
 
 

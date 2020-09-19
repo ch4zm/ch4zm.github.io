@@ -1,4 +1,4 @@
-## Garages Underdog Win Summary
+# Garages Underdog Wins Summary
 
 
 

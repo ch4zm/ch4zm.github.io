@@ -1,4 +1,4 @@
-## Fridays Blowout Summary
+# Fridays Blowouts Summary
 
 
 

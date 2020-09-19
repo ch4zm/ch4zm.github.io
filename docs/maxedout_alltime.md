@@ -1,4 +1,4 @@
-# All-Time Blaseball Maxed Out Games
+# All-Time Maxed Out
 (Through season 6)
 
 ## Summary

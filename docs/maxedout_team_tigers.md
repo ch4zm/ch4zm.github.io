@@ -1,4 +1,4 @@
-## Tigers Maxed Out Games Summary
+# Tigers Maxed Out Summary
 
 
 

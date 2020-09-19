@@ -1,4 +1,4 @@
-## Sunbeams Maxed Out Games Summary
+# Sunbeams Maxed Out Summary
 
 
 

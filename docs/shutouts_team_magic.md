@@ -1,4 +1,4 @@
-## Magic Shutout Summary
+# Magic Shutouts Summary
 
 
 

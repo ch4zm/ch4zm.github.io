@@ -1,4 +1,4 @@
-## Dale Defensive Games Summary
+# Dale Defensive Games Summary
 
 
 

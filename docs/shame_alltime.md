@@ -1,4 +1,4 @@
-# All-Time Blaseball Shame Games
+# All-Time Shame Runs
 (Through season 6)
 
 ## Summary

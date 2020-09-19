@@ -1,4 +1,4 @@
-## Shoe Thieves Maxed Out Games Summary
+# Shoe Thieves Maxed Out Summary
 
 
 

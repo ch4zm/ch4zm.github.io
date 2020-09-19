@@ -1,4 +1,4 @@
-## Season 3 Maxed Out Games
+# Season 3 Maxed Out
 
 
 
