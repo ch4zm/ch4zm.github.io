@@ -72,7 +72,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Shutouts" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason shutout --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason shutout --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -130,7 +130,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Blowouts" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason blowout --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason blowout --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -188,7 +188,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Underdog Wins" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason underdog --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason underdog --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -246,7 +246,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Shame Games" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason shame --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason shame --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -304,7 +304,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Maxed Out Games" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason maxedout --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason maxedout --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 
@@ -362,7 +362,7 @@ echo "Working on page: $(basename $OUT)"
 cat /dev/null > $OUT
 echo "# Blaseball Postseason Defensive Games" >> $OUT
 echo "(Through season $LASTSEASON)" >> $OUT
-$INTERESTING --reason defensive --name-style long --markdown --n-results 25 >> $OUT
+$INTERESTING --reason defensive --postseason --name-style long --markdown --n-results 25 >> $OUT
 echo "" >> $OUT
 echo "Done."
 

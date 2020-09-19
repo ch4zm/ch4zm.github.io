@@ -3,35 +3,35 @@
 
 
 
-Maxed out games (high-scoring one-run games) for all time for all teams (note: all days and seasons displayed are 1-indexed, asterisk indicates a postseason game)
+Maxed out games (high-scoring one-run games) for all time (postseason only) for all teams (note: all days and seasons displayed are 1-indexed, asterisk indicates a postseason game)
 
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
-| 1 | 4 | Hades Tigers | 1 - 0 | Baltimore Crabs | 
-| 1 | 4 | Houston Spies | 1 - 0 | Canada Moist Talkers | 
-| 1 | 14 | Philly Pies | 1 - 0 | Mexico City Wild Wings | 
-| 1 | 21 | Baltimore Crabs | 1 - 0 | Yellowstone Magic | 
-| 1 | 24 | Breckenridge Jazz Hands | 1 - 0 | Houston Spies | 
-| 1 | 37 | Houston Spies | 1 - 0 | Moab Sunbeams | 
-| 1 | 41 | Los Angeles Tacos | 1 - 0 | Yellowstone Magic | 
-| 1 | 43 | Yellowstone Magic | 1 - 0 | Hawaii Fridays | 
-| 1 | 45 | Charleston Shoe Thieves | 1 - 0 | Dallas Steaks | 
-| 1 | 46 | Moab Sunbeams | 1 - 0 | Mexico City Wild Wings | 
-| 1 | 48 | San Francisco Lovers | 1 - 0 | Hawaii Fridays | 
-| 1 | 48 | New York Millennials | 1 - 0 | Dallas Steaks | 
-| 1 | 48 | Baltimore Crabs | 1 - 0 | Philly Pies | 
-| 1 | 59 | Charleston Shoe Thieves | 1 - 0 | New York Millennials | 
-| 1 | 60 | Mexico City Wild Wings | 1 - 0 | Moab Sunbeams | 
-| 1 | 61 | Houston Spies | 1 - 0 | Baltimore Crabs | 
-| 1 | 64 | Philly Pies | 1 - 0 | Baltimore Crabs | 
-| 1 | 65 | Mexico City Wild Wings | 1 - 0 | Canada Moist Talkers | 
-| 1 | 76 | Miami Dalé | 1 - 0 | Mexico City Wild Wings | 
-| 1 | 83 | Canada Moist Talkers | 1 - 0 | Houston Spies | 
-| 1 | 85 | Dallas Steaks | 1 - 0 | Charleston Shoe Thieves | 
-| 1 | 89 | Philly Pies | 1 - 0 | Breckenridge Jazz Hands | 
-| 1 | 90 | Dallas Steaks | 1 - 0 | Chicago Firefighters | 
-| 1 | 92 | Kansas City Breath Mints | 1 - 0 | Yellowstone Magic | 
-| 1 | 94 | Baltimore Crabs | 1 - 0 | Mexico City Wild Wings | 
+| 1 | 102* | Boston Flowers | 1 - 0 | Yellowstone Magic | 
+| 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
+| 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
+| 1 | 101* | Philly Pies | 2 - 1 | Breckenridge Jazz Hands | 
+| 2 | 103* | Chicago Firefighters | 2 - 1 | Boston Flowers | 
+| 3 | 105* | San Francisco Lovers | 2 - 1 | New York Millennials | 
+| 3 | 106* | Hades Tigers | 2 - 1 | Philly Pies | 
+| 5 | 105* | Chicago Firefighters | 2 - 1 | San Francisco Lovers | 
+| 6 | 101* | Hades Tigers | 2 - 1 | Kansas City Breath Mints | 
+| 1 | 101* | Boston Flowers | 3 - 2 | Yellowstone Magic | 
+| 1 | 103* | Hades Tigers | 3 - 2 | Houston Spies | 
+| 1 | 104* | Houston Spies | 3 - 2 | Hades Tigers | 
+| 1 | 111* | Philly Pies | 3 - 2 | Chicago Firefighters | 
+| 4 | 103* | Breckenridge Jazz Hands | 3 - 2 | Philly Pies | 
+| 5 | 104* | San Francisco Lovers | 3 - 2 | Chicago Firefighters | 
+| 5 | 106* | Canada Moist Talkers | 3 - 2 | Breckenridge Jazz Hands | 
+| 5 | 112* | Chicago Firefighters | 3 - 2 | Breckenridge Jazz Hands | 
+| 6 | 104* | Hades Tigers | 3 - 2 | Kansas City Breath Mints | 
+| 6 | 105* | Seattle Garages | 3 - 2 | Hades Tigers | 
+| 1 | 101* | Houston Spies | 4 - 3 | Hades Tigers | 
+| 3 | 100* | Charleston Shoe Thieves | 4 - 3 | San Francisco Lovers | 
+| 4 | 100* | Breckenridge Jazz Hands | 4 - 3 | Philly Pies | 
+| 4 | 102* | Philly Pies | 4 - 3 | Breckenridge Jazz Hands | 
+| 4 | 108* | New York Millennials | 4 - 3 | Chicago Firefighters | 
+| 5 | 107* | Chicago Firefighters | 4 - 3 | San Francisco Lovers | 
 
 

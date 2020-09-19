@@ -3,35 +3,35 @@
 
 
 
-Underdog games (games where the underdog won with large run differential) for all time for all teams (note: all days and seasons displayed are 1-indexed, asterisk indicates a postseason game)
+Underdog games (games where the underdog won with large run differential) for all time (postseason only) for all teams (note: all days and seasons displayed are 1-indexed, asterisk indicates a postseason game)
 
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
-| 2 | 96 | Canada Moist Talkers | 18 - 3 | Seattle Garages | 
-| 3 | 55 | Hawaii Fridays | 17 - 2 | New York Millennials | 
-| 5 | 70 | Hellmouth Sunbeams | 17 - 2 | New York Millennials | 
-| 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
-| 5 | 34 | Seattle Garages | 17 - 3 | Houston Spies | 
-| 1 | 82 | Seattle Garages | 14 - 0 | Mexico City Wild Wings | 
-| 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
-| 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
-| 1 | 88 | Dallas Steaks | 15 - 2 | Chicago Firefighters | 
-| 6 | 82 | Breckenridge Jazz Hands | 14 - 1 | Houston Spies | 
-| 1 | 57 | Baltimore Crabs | 13 - 0 | Hades Tigers | 
-| 3 | 92 | Hades Tigers | 13 - 0 | Breckenridge Jazz Hands | 
-| 5 | 45 | Breckenridge Jazz Hands | 13 - 0 | Hellmouth Sunbeams | 
-| 2 | 75 | Boston Flowers | 14 - 2 | Yellowstone Magic | 
-| 2 | 35 | Canada Moist Talkers | 13 - 1 | Hades Tigers | 
-| 1 | 96 | Chicago Firefighters | 15 - 4 | Yellowstone Magic | 
-| 2 | 18 | New York Millennials | 15 - 4 | Boston Flowers | 
-| 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
-| 4 | 90 | Hawaii Fridays | 15 - 4 | Yellowstone Magic | 
-| 2 | 5 | Breckenridge Jazz Hands | 14 - 3 | Canada Moist Talkers | 
-| 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
-| 1 | 52 | Houston Spies | 13 - 2 | Miami Dalé | 
-| 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
-| 3 | 26 | Kansas City Breath Mints | 12 - 1 | San Francisco Lovers | 
-| 1 | 96 | Breckenridge Jazz Hands | 15 - 5 | Moab Sunbeams | 
+| 2 | 109* | Philly Pies | 12 - 2 | Charleston Shoe Thieves | 
+| 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
+| 5 | 102* | Breckenridge Jazz Hands | 10 - 2 | Hades Tigers | 
+| 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
+| 6 | 100* | Seattle Garages | 9 - 2 | Philly Pies | 
+| 3 | 111* | Hades Tigers | 8 - 1 | New York Millennials | 
+| 2 | 102* | Charleston Shoe Thieves | 7 - 0 | Dallas Steaks | 
+| 3 | 101* | Breckenridge Jazz Hands | 8 - 2 | Hades Tigers | 
+| 1 | 100* | Chicago Firefighters | 10 - 5 | Dallas Steaks | 
+| 2 | 108* | Charleston Shoe Thieves | 9 - 4 | Philly Pies | 
+| 3 | 103* | Philly Pies | 7 - 2 | Canada Moist Talkers | 
+| 3 | 109* | New York Millennials | 7 - 2 | Hades Tigers | 
+| 6 | 106* | Seattle Garages | 7 - 2 | Hades Tigers | 
+| 6 | 107* | Seattle Garages | 7 - 2 | Hades Tigers | 
+| 5 | 104* | Canada Moist Talkers | 9 - 5 | Breckenridge Jazz Hands | 
+| 5 | 107* | Breckenridge Jazz Hands | 6 - 2 | Canada Moist Talkers | 
+| 4 | 100* | Dallas Steaks | 5 - 1 | New York Millennials | 
+| 1 | 110* | Philly Pies | 10 - 7 | Chicago Firefighters | 
+| 2 | 105* | Philly Pies | 10 - 7 | Breckenridge Jazz Hands | 
+| 1 | 107* | Chicago Firefighters | 8 - 5 | Boston Flowers | 
+| 4 | 111* | Hades Tigers | 8 - 5 | New York Millennials | 
+| 4 | 107* | Chicago Firefighters | 7 - 4 | New York Millennials | 
+| 2 | 100* | Breckenridge Jazz Hands | 6 - 3 | Hades Tigers | 
+| 2 | 100* | Philly Pies | 5 - 2 | Canada Moist Talkers | 
+| 5 | 100* | Dallas Steaks | 5 - 2 | San Francisco Lovers | 
 
 
