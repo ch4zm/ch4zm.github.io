@@ -39,8 +39,12 @@ lower_labels[4]="maxedout"
 upper_labels[4]="Maxed Out"
 flag_labels[4]="maxedout"
 
+lower_labels[5]="defensive"
+upper_labels[5]="Defensive Games"
+flag_labels[5]="defensive"
 
-for ((i = 0 ; i <= 4; i++)); do
+
+for ((i = 0 ; i <= 5; i++)); do
 
     echo "===================="
 
