@@ -24,6 +24,7 @@ WMASTER="$ROOT_DIR/../docs/wstreaks.md"
 LMASTER="$ROOT_DIR/../docs/lstreaks.md"
 
 cat /dev/null > $WMASTER
+cat /dev/null > $LMASTER
 echo "# Blaseball Winning Streaks" >> $WMASTER
 echo "" >> $WMASTER
 echo "# Blaseball Losing Streaks" >> $LMASTER
@@ -172,6 +173,7 @@ cat $ROOT_DIR/../list_of_teams | sort | while read team; do
     echo "" >> $LMASTER
 
     cat /dev/null > $OUT
+    echo "# $title" >> $OUT
     echo "(Through season $LASTSEASON)" >> $OUT
     echo "## Summary" >> $OUT
     $STREAK_FINDER --losing --team "$team" --short --markdown --min 4 | $ROOT_DIR/split_tables.py >> $OUT
