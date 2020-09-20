@@ -55,7 +55,7 @@ for ((i = 0 ; i <= 5; i++)); do
     # Prepare the navigation document
     MASTER="$ROOT_DIR/../docs/${lower_label}.md"
     cat /dev/null > $MASTER
-    echo "# Shutouts" >> $MASTER
+    echo "# $upper_label" >> $MASTER
     echo "" >> $MASTER
     
     # All-time
