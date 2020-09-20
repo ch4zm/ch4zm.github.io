@@ -1,4 +1,4 @@
-# Shutouts
+# Blowouts
 
 ## All Time
 
