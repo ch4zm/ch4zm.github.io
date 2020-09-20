@@ -6,6 +6,23 @@ repo_url: https://github.com/ch4zm/ch4zm.github.io
 nav:
   - Homepage: index.md
   - Teaching: teaching.md
+  - Famous Games:
+    - Index: famous.md
+    - SHOE THIEVES HAVE A BBQ: famous_thievesbbq.md
+    - THE DEFLOWERING: famous_deflowering.md
+    - I JUST LOOOVE YOUR SHOES CAN I HAVE THEM: famous_loveyourshoes.md
+    - I HAD SIX BOOTS JUST A SECOND AGO: famous_sixboots.md
+    - THE TALKERS HAVE LEFT THE BUILDING: famous_talkers.md
+    - THE LOVERS HAVE A BBQ: famous_loversbbq.md
+    - FIREFIGHERS EXTINGUISH THE JAZZ HANDS: famous_extinguish.md
+    - GRAB THE TIGERS BY THE HORNE: famous_horne.md
+    - DUDLEY SHAMES DUDLEY: famous_dudley.md
+    - THE INCINERATION OF EMMETT INTERNET: famous_internet.md
+    - THE MILLENNIALS ARE GROUNDED: famous_grounded.md
+    - CAN SOMEONE PLEASE STOP THESE CRABS PART 1: famous_crabs1.md
+    - A FRIENDLY GAME OF PING PONG: famous_pingpong.md
+    - CAN SOMEONE PLEASE STOP THESE CRABS PART 2: famous_crabs2.md
+    - THE INCINERATION OF RANDALL MARIJUANA: famous_marijuana.md
   - Streaks:
     - All Time Winning Streaks: wstreaks_alltime.md
     - Winning Streaks by Season:

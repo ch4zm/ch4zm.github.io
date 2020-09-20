@@ -40,8 +40,6 @@ exploring blaseball games and teams:
   events; provides output in raw JSON, plain text, rich text, or Markdown.
 
 
-## Blaseball Streaks
-
 <style>
   table,
   th,
@@ -51,6 +49,25 @@ exploring blaseball games and teams:
     border-collapse: collapse;
   }
 </style>
+
+## Famous Games
+
+<table class="table">
+<tr>
+<td width="300" style="text-align: center;">
+<b>Famous Games</b>
+</td>
+</tr>
+<tr>
+<td width="300" style="text-align: center;">
+<a href="/famous/">
+<img src="/img/famousgames.jpg" />
+</a>
+</td>
+</tr>
+</table>
+
+## Blaseball Streaks
 
 <table class="table">
 <tr>
