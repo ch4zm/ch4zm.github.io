@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -33,6 +33,7 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 4          | 6          | 53, 54, 55, 56 |
 | Moist Talkers                  | 4          | 6          | 66, 67, 68, 69 |
 | Moist Talkers                  | 4          | 6          | 85, 86, 87, 88 |
+| Moist Talkers                  | 4          | 7          | 6, 7, 8, 9 |
 
 
 
@@ -286,6 +287,16 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 6 Game 86: Tigers 0  @  3 Moist Talkers |
 | G3: Season 6 Game 87: Tigers 3  @  6 Moist Talkers |
 | G4: Season 6 Game 88: Breath Mints 7  @  8 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 7 Games 5, 6, 7, 8 |
+| G1: Season 7 Game 6: Moist Talkers 9  @  5 Steaks |
+| G2: Season 7 Game 7: Moist Talkers 4  @  3 Shoe Thieves |
+| G3: Season 7 Game 8: Moist Talkers 4  @  3 Shoe Thieves |
+| G4: Season 7 Game 9: Moist Talkers 5  @  4 Shoe Thieves |
 
 
 

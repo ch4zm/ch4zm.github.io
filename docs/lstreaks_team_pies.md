@@ -1,5 +1,5 @@
 # Pies Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -11,17 +11,21 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Pies                           | 8          | 5          | 30, 31, 32, 33, 34, 35, 36, 37 |
+| Pies                           | 8          | 7          | 38, 39, 40, 41, 42, 43, 44, 45 |
+| Pies                           | 7          | 7          | 20, 21, 22, 23, 24, 25, 26 |
 | Pies                           | 6          | 2          | 5, 6, 7, 8, 9, 10 |
 | Pies                           | 6          | 4          | 4, 5, 6, 7, 8, 9 |
 | Pies                           | 5          | 1          | 50, 51, 52, 53, 54 |
 | Pies                           | 5          | 4          | 31, 32, 33, 34, 35 |
 | Pies                           | 5          | 4          | 71, 72, 73, 74, 75 |
 | Pies                           | 5          | 5          | 92, 93, 94, 95, 96 |
+| Pies                           | 5          | 7          | 65, 66, 67, 68, 69 |
 | Pies                           | 4          | 1          | 70, 71, 72, 73 |
 | Pies                           | 4          | 2          | 47, 48, 49, 50 |
 | Pies                           | 4          | 3          | 49, 50, 51, 52 |
 | Pies                           | 4          | 5          | 44, 45, 46, 47 |
-| Pies                           | 4          | 6          | 47, 48, 55, 56 |
+| Pies                           | 4          | 7          | 33, 34, 35, 36 |
+| Pies                           | 4          | 7          | 88, 89, 90, 91 |
 
 
 
@@ -44,6 +48,33 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G6: Season 5 Game 35: Pies 1  @  9 Crabs |
 | G7: Season 5 Game 36: Pies 3  @  4 Crabs |
 | G8: Season 5 Game 37: Jazz Hands 4  @  0 Pies |
+
+<br />
+
+| 8 Game Losing Streak by the Pies |
+| ----- |
+| Season 7 Games 37, 38, 39, 40, 41, 42, 43, 44 |
+| G1: Season 7 Game 38: Breath Mints 6  @  1 Pies |
+| G2: Season 7 Game 39: Breath Mints 3  @  2 Pies |
+| G3: Season 7 Game 40: Pies 3  @  5 Shoe Thieves |
+| G4: Season 7 Game 41: Pies 2  @  6 Shoe Thieves |
+| G5: Season 7 Game 42: Pies 3  @  8 Shoe Thieves |
+| G6: Season 7 Game 43: Magic 4  @  3 Pies |
+| G7: Season 7 Game 44: Magic 3  @  1 Pies |
+| G8: Season 7 Game 45: Magic 10 @  6 Pies |
+
+<br />
+
+| 7 Game Losing Streak by the Pies |
+| ----- |
+| Season 7 Games 19, 20, 21, 22, 23, 24, 25 |
+| G1: Season 7 Game 20: Pies 2  @  4 Tigers |
+| G2: Season 7 Game 21: Pies 2  @  5 Tigers |
+| G3: Season 7 Game 22: Pies 2  @  3 Wild Wings |
+| G4: Season 7 Game 23: Pies 2  @ 11 Wild Wings |
+| G5: Season 7 Game 24: Pies 2  @  3 Wild Wings |
+| G6: Season 7 Game 25: Pies 5  @  6 Garages |
+| G7: Season 7 Game 26: Pies 2  @  5 Garages |
 
 <br />
 
@@ -115,6 +146,17 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Pies |
+| ----- |
+| Season 7 Games 64, 65, 66, 67, 68 |
+| G1: Season 7 Game 65: Pies 2  @  5 Shoe Thieves |
+| G2: Season 7 Game 66: Pies 2  @  3 Shoe Thieves |
+| G3: Season 7 Game 67: Shoe Thieves 4  @  3 Pies |
+| G4: Season 7 Game 68: Shoe Thieves 10 @  5 Pies |
+| G5: Season 7 Game 69: Shoe Thieves 7  @  3 Pies |
+
+<br />
+
 | 4 Game Losing Streak by the Pies |
 | ----- |
 | Season 1 Games 69, 70, 71, 72 |
@@ -157,11 +199,21 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 | 4 Game Losing Streak by the Pies |
 | ----- |
-| Season 6 Games 46, 47, 54, 55 |
-| G1: Season 6 Game 47: Pies 1  @  5 Steaks |
-| G2: Season 6 Game 48: Pies 4  @  7 Steaks |
-| G3: Season 6 Game 55: Moist Talkers 3  @  1 Pies |
-| G4: Season 6 Game 56: Moist Talkers 8  @  5 Pies |
+| Season 7 Games 32, 33, 34, 35 |
+| G1: Season 7 Game 33: Garages 13 @  1 Pies |
+| G2: Season 7 Game 34: Crabs 5  @  1 Pies |
+| G3: Season 7 Game 35: Crabs 4  @  0 Pies |
+| G4: Season 7 Game 36: Crabs 4  @  2 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 7 Games 87, 88, 89, 90 |
+| G1: Season 7 Game 88: Pies 3  @  4 Breath Mints |
+| G2: Season 7 Game 89: Pies 1  @  3 Breath Mints |
+| G3: Season 7 Game 90: Pies 4  @ 10 Breath Mints |
+| G4: Season 7 Game 91: Shoe Thieves 1  @  0 Pies |
 
 
 

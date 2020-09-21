@@ -7,10 +7,13 @@ Underdog games (games where the underdog won with large run differential) for al
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 7 | 89 | Hawaii Fridays | 19 - 8 | Charleston Shoe Thieves | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
 | 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
+| 7 | 49 | Hawaii Fridays | 13 - 2 | Charleston Shoe Thieves | 
 | 2 | 109* | Philly Pies | 12 - 2 | Charleston Shoe Thieves | 
 | 4 | 78 | Charleston Shoe Thieves | 13 - 4 | New York Millennials | 
+| 7 | 17 | Dallas Steaks | 12 - 3 | Charleston Shoe Thieves | 
 | 2 | 52 | Kansas City Breath Mints | 12 - 4 | Charleston Shoe Thieves | 
 | 2 | 58 | Dallas Steaks | 11 - 4 | Charleston Shoe Thieves | 
 | 2 | 25 | Hawaii Fridays | 9 - 2 | Charleston Shoe Thieves | 
@@ -27,10 +30,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 93 | Charleston Shoe Thieves | 17 - 11 | Dallas Steaks | 
 | 1 | 37 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 6 | 15 | Yellowstone Magic | 13 - 7 | Charleston Shoe Thieves | 
-| 2 | 84 | Yellowstone Magic | 11 - 5 | Charleston Shoe Thieves | 
-| 4 | 26 | Charleston Shoe Thieves | 10 - 4 | San Francisco Lovers | 
-| 1 | 65 | New York Millennials | 9 - 3 | Charleston Shoe Thieves | 
-| 4 | 11 | Charleston Shoe Thieves | 9 - 3 | Hawaii Fridays | 
-| 6 | 85 | Charleston Shoe Thieves | 7 - 1 | Mexico City Mild Wings | 
+| 7 | 94 | Charleston Shoe Thieves | 13 - 7 | Yellowstone Magic | 
+| 7 | 102* | Seattle Garages | 12 - 6 | Charleston Shoe Thieves | 
 
 

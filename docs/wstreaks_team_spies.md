@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -15,11 +15,13 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 5          | 1          | 66, 67, 68, 69, 70 |
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
 | Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
+| Spies                          | 5          | 7          | 66, 70, 71, 72, 76 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
 | Spies                          | 4          | 5          | 41, 42, 43, 44 |
 | Spies                          | 4          | 6          | 68, 69, 70, 71 |
+| Spies                          | 4          | 7          | 59, 60, 61, 62 |
 
 
 
@@ -86,6 +88,17 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 7 Games 65, 69, 70, 71, 75 |
+| G1: Season 7 Game 66: Spies 7  @  4 Flowers |
+| G2: Season 7 Game 70: Spies 5  @  3 Flowers |
+| G3: Season 7 Game 71: Spies 3  @  1 Flowers |
+| G4: Season 7 Game 72: Spies 11 @  6 Flowers |
+| G5: Season 7 Game 76: Crabs 2  @  3 Spies |
+
+<br />
+
 | 4 Game Winning Streak by the Spies |
 | ----- |
 | Season 3 Games 40, 41, 42, 43 |
@@ -133,6 +146,16 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 6 Game 69: Lovers 4  @  8 Spies |
 | G3: Season 6 Game 70: Firefighters 1  @  3 Spies |
 | G4: Season 6 Game 71: Firefighters 1  @  6 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 7 Games 58, 59, 60, 61 |
+| G1: Season 7 Game 59: Sunbeams 4  @  7 Spies |
+| G2: Season 7 Game 60: Sunbeams 4  @  6 Spies |
+| G3: Season 7 Game 61: Spies 4  @  3 Flowers |
+| G4: Season 7 Game 62: Spies 7  @  1 Flowers |
 
 
 

@@ -1,5 +1,5 @@
 # Pies Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -11,12 +11,12 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Pies                           | 9          | 2          | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
-| Pies                           | 7          | 6          | 18, 28, 29, 30, 31, 32, 33 |
 | Pies                           | 7          | 6          | 35, 36, 37, 38, 39, 40, 41 |
 | Pies                           | 6          | 1          | 33, 34, 35, 36, 37, 38 |
 | Pies                           | 6          | 2          | 100, 101, 102, 105, 106, 107 |
 | Pies                           | 6          | 3          | 30, 31, 32, 33, 34, 35 |
 | Pies                           | 6          | 5          | 48, 49, 50, 51, 52, 53 |
+| Pies                           | 6          | 6          | 28, 29, 30, 31, 32, 33 |
 | Pies                           | 6          | 6          | 90, 91, 92, 93, 94, 95 |
 | Pies                           | 5          | 1          | 17, 18, 19, 20, 21 |
 | Pies                           | 5          | 2          | 71, 72, 73, 74, 75 |
@@ -32,6 +32,8 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 5          | 85, 86, 87, 88 |
 | Pies                           | 4          | 6          | 68, 69, 70, 71 |
 | Pies                           | 4          | 6          | 75, 76, 77, 78 |
+| Pies                           | 4          | 7          | 11, 12, 16, 17 |
+| Pies                           | 4          | 7          | 46, 47, 48, 49 |
 
 
 
@@ -55,19 +57,6 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G7: Season 2 Game 62: Pies 8  @  7 Tigers |
 | G8: Season 2 Game 63: Pies 4  @  3 Tigers |
 | G9: Season 2 Game 64: Pies 4  @  1 Wild Wings |
-
-<br />
-
-| 7 Game Winning Streak by the Pies |
-| ----- |
-| Season 6 Games 17, 27, 28, 29, 30, 31, 32 |
-| G1: Season 6 Game 18: Pies 3  @  2 Firefighters |
-| G2: Season 6 Game 28: Pies 5  @  1 Fridays |
-| G3: Season 6 Game 29: Pies 8  @  1 Fridays |
-| G4: Season 6 Game 30: Pies 6  @  0 Fridays |
-| G5: Season 6 Game 31: Pies 7  @  3 Fridays |
-| G6: Season 6 Game 32: Pies 10 @  6 Fridays |
-| G7: Season 6 Game 33: Pies 7  @  2 Fridays |
 
 <br />
 
@@ -129,6 +118,18 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G4: Season 5 Game 51: Pies 8  @  4 Sunbeams |
 | G5: Season 5 Game 52: Pies 8  @  6 Spies |
 | G6: Season 5 Game 53: Pies 5  @  2 Spies |
+
+<br />
+
+| 6 Game Winning Streak by the Pies |
+| ----- |
+| Season 6 Games 27, 28, 29, 30, 31, 32 |
+| G1: Season 6 Game 28: Pies 5  @  1 Fridays |
+| G2: Season 6 Game 29: Pies 8  @  1 Fridays |
+| G3: Season 6 Game 30: Pies 6  @  0 Fridays |
+| G4: Season 6 Game 31: Pies 7  @  3 Fridays |
+| G5: Season 6 Game 32: Pies 10 @  6 Fridays |
+| G6: Season 6 Game 33: Pies 7  @  2 Fridays |
 
 <br />
 
@@ -286,6 +287,26 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 6 Game 76: Pies 12 @  3 Fridays |
 | G3: Season 6 Game 77: Pies 8  @  4 Fridays |
 | G4: Season 6 Game 78: Pies 11 @  8 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 7 Games 10, 11, 15, 16 |
+| G1: Season 7 Game 11: Pies 9  @  3 Flowers |
+| G2: Season 7 Game 12: Pies 6  @  2 Flowers |
+| G3: Season 7 Game 16: Pies 4  @  3 Fridays |
+| G4: Season 7 Game 17: Pies 13 @  8 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 7 Games 45, 46, 47, 48 |
+| G1: Season 7 Game 46: Pies 4  @  3 Fridays |
+| G2: Season 7 Game 47: Pies 4  @  3 Fridays |
+| G3: Season 7 Game 48: Pies 9  @  6 Fridays |
+| G4: Season 7 Game 49: Wild Wings 3  @  5 Pies |
 
 
 

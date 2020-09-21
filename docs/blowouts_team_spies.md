@@ -14,13 +14,17 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 82 | Breckenridge Jazz Hands | 14 - 1 | Houston Spies | 
 | 3 | 67 | Houston Spies | 14 - 3 | Miami Dalé | 
 | 2 | 89 | Houston Spies | 14 - 4 | Canada Moist Talkers | 
+| 7 | 52 | Houston Spies | 14 - 4 | Boston Flowers | 
 | 4 | 35 | Canada Moist Talkers | 14 - 6 | Houston Spies | 
 | 3 | 86 | Breckenridge Jazz Hands | 14 - 7 | Houston Spies | 
+| 7 | 3 | Hellmouth Sunbeams | 14 - 12 | Houston Spies | 
 | 1 | 52 | Houston Spies | 13 - 2 | Miami Dalé | 
 | 4 | 70 | Hades Tigers | 13 - 2 | Houston Spies | 
 | 4 | 26 | Seattle Garages | 13 - 4 | Houston Spies | 
+| 7 | 82 | Chicago Firefighters | 13 - 4 | Houston Spies | 
 | 5 | 39 | Houston Spies | 13 - 5 | Hellmouth Sunbeams | 
 | 4 | 39 | Houston Spies | 13 - 6 | Philly Pies | 
+| 7 | 83 | Houston Spies | 13 - 6 | Chicago Firefighters | 
 | 6 | 59 | Hellmouth Sunbeams | 13 - 7 | Houston Spies | 
 | 5 | 62 | Breckenridge Jazz Hands | 12 - 1 | Houston Spies | 
 | 2 | 41 | Houston Spies | 12 - 2 | Hades Tigers | 
@@ -28,9 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 65 | Hades Tigers | 12 - 4 | Houston Spies | 
 | 6 | 51 | New York Millennials | 12 - 4 | Houston Spies | 
 | 1 | 17 | Breckenridge Jazz Hands | 12 - 5 | Houston Spies | 
-| 6 | 81 | Hellmouth Sunbeams | 12 - 7 | Houston Spies | 
-| 3 | 99 | Seattle Garages | 12 - 9 | Houston Spies | 
-| 5 | 54 | Houston Spies | 12 - 9 | Philly Pies | 
-| 1 | 84 | Canada Moist Talkers | 11 - 1 | Houston Spies | 
 
 

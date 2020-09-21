@@ -1,5 +1,5 @@
 # Millennials Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Millennials                    | 14         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 |
+| Millennials                    | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
 | Millennials                    | 6          | 3          | 39, 40, 41, 42, 43, 44 |
 | Millennials                    | 6          | 4          | 31, 32, 33, 34, 35, 36 |
 | Millennials                    | 5          | 2          | 62, 63, 64, 65, 66 |
@@ -21,6 +22,8 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 5          | 4          | 24, 25, 26, 27, 28 |
 | Millennials                    | 5          | 4          | 60, 61, 62, 63, 64 |
 | Millennials                    | 5          | 5          | 16, 17, 18, 19, 20 |
+| Millennials                    | 5          | 7          | 49, 50, 51, 55, 56 |
+| Millennials                    | 5          | 7          | 89, 90, 91, 92, 93 |
 | Millennials                    | 4          | 1          | 34, 35, 36, 37 |
 | Millennials                    | 4          | 1          | 92, 93, 94, 95 |
 | Millennials                    | 4          | 2          | 22, 23, 24, 25 |
@@ -39,6 +42,10 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 4          | 6          | 50, 51, 52, 53 |
 | Millennials                    | 4          | 6          | 86, 87, 88, 89 |
 | Millennials                    | 4          | 6          | 94, 95, 96, 97 |
+| Millennials                    | 4          | 7          | 21, 22, 23, 24 |
+| Millennials                    | 4          | 7          | 28, 29, 30, 31 |
+| Millennials                    | 4          | 7          | 43, 44, 45, 46 |
+| Millennials                    | 4          | 7          | 75, 76, 77, 78 |
 
 
 
@@ -67,6 +74,19 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G12: Season 5 Game 95: Millennials 14 @  6 Magic |
 | G13: Season 5 Game 96: Millennials 5  @  1 Magic |
 | G14: Season 5 Game 97: Dalé 3  @  6 Millennials |
+
+<br />
+
+| 7 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 65, 66, 67, 68, 69, 70, 71 |
+| G1: Season 7 Game 66: Millennials 5  @  3 Jazz Hands |
+| G2: Season 7 Game 67: Millennials 2  @  0 Tacos |
+| G3: Season 7 Game 68: Millennials 6  @  3 Tacos |
+| G4: Season 7 Game 69: Millennials 5  @  2 Tacos |
+| G5: Season 7 Game 70: Jazz Hands 2  @  5 Millennials |
+| G6: Season 7 Game 71: Jazz Hands 0  @  5 Millennials |
+| G7: Season 7 Game 72: Jazz Hands 5  @  7 Millennials |
 
 <br />
 
@@ -179,6 +199,28 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 5 Game 18: Millennials 8  @  4 Steaks |
 | G4: Season 5 Game 19: Millennials 3  @  2 Magic |
 | G5: Season 5 Game 20: Millennials 8  @  1 Magic |
+
+<br />
+
+| 5 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 48, 49, 50, 54, 55 |
+| G1: Season 7 Game 49: Flowers 1  @  5 Millennials |
+| G2: Season 7 Game 50: Flowers 2  @  7 Millennials |
+| G3: Season 7 Game 51: Flowers 3  @  5 Millennials |
+| G4: Season 7 Game 55: Millennials 5  @  2 Garages |
+| G5: Season 7 Game 56: Millennials 7  @  1 Garages |
+
+<br />
+
+| 5 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 88, 89, 90, 91, 92 |
+| G1: Season 7 Game 89: Firefighters 5  @ 10 Millennials |
+| G2: Season 7 Game 90: Firefighters 5  @  6 Millennials |
+| G3: Season 7 Game 91: Spies 1  @  2 Millennials |
+| G4: Season 7 Game 92: Spies 4  @  6 Millennials |
+| G5: Season 7 Game 93: Spies 2  @  4 Millennials |
 
 <br />
 
@@ -359,6 +401,46 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G2: Season 6 Game 95: Millennials 6  @  5 Spies |
 | G3: Season 6 Game 96: Millennials 6  @  5 Spies |
 | G4: Season 6 Game 97: Firefighters 1  @  4 Millennials |
+
+<br />
+
+| 4 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 20, 21, 22, 23 |
+| G1: Season 7 Game 21: Millennials 4  @  3 Firefighters |
+| G2: Season 7 Game 22: Millennials 10 @  6 Flowers |
+| G3: Season 7 Game 23: Millennials 7  @  4 Flowers |
+| G4: Season 7 Game 24: Millennials 5  @  2 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 27, 28, 29, 30 |
+| G1: Season 7 Game 28: Millennials 3  @  0 Flowers |
+| G2: Season 7 Game 29: Millennials 6  @  3 Flowers |
+| G3: Season 7 Game 30: Millennials 6  @  2 Flowers |
+| G4: Season 7 Game 31: Firefighters 2  @  6 Millennials |
+
+<br />
+
+| 4 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 42, 43, 44, 45 |
+| G1: Season 7 Game 43: Millennials 9  @  4 Spies |
+| G2: Season 7 Game 44: Millennials 5  @  2 Spies |
+| G3: Season 7 Game 45: Millennials 5  @  4 Spies |
+| G4: Season 7 Game 46: Sunbeams 5  @  9 Millennials |
+
+<br />
+
+| 4 Game Winning Streak by the Millennials |
+| ----- |
+| Season 7 Games 74, 75, 76, 77 |
+| G1: Season 7 Game 75: Jazz Hands 3  @  4 Millennials |
+| G2: Season 7 Game 76: Millennials 3  @  1 Magic |
+| G3: Season 7 Game 77: Millennials 11 @  2 Magic |
+| G4: Season 7 Game 78: Millennials 3  @  2 Magic |
 
 
 

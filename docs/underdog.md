@@ -22,6 +22,8 @@
 
 * [Season 6 Underdog Wins](underdog_postseason.md)
 
+* [Season 7 Underdog Wins](underdog_postseason.md)
+
 ## By Team
 
 * [Breath Mints Underdog Wins Summary](underdog_team_breath_mints.md)

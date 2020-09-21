@@ -1,5 +1,5 @@
 # Millennials Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -15,15 +15,19 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 7          | 2          | 37, 38, 39, 40, 41, 42, 43 |
 | Millennials                    | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Millennials                    | 6          | 2          | 90, 91, 92, 93, 94, 95 |
+| Millennials                    | 6          | 7          | 1, 2, 3, 4, 5, 6 |
 | Millennials                    | 5          | 1          | 57, 58, 59, 60, 61 |
 | Millennials                    | 5          | 2          | 67, 68, 69, 70, 71 |
 | Millennials                    | 5          | 4          | 55, 56, 57, 58, 59 |
 | Millennials                    | 5          | 6          | 69, 70, 71, 72, 73 |
+| Millennials                    | 5          | 7          | 38, 39, 40, 41, 42 |
 | Millennials                    | 4          | 2          | 75, 76, 77, 78 |
 | Millennials                    | 4          | 3          | 21, 22, 23, 24 |
 | Millennials                    | 4          | 4          | 92, 93, 94, 95 |
 | Millennials                    | 4          | 5          | 27, 28, 29, 30 |
 | Millennials                    | 4          | 5          | 45, 46, 47, 48 |
+| Millennials                    | 4          | 7          | 17, 18, 19, 20 |
+| Millennials                    | 4          | 7          | 32, 33, 34, 35 |
 
 
 
@@ -100,6 +104,18 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Millennials |
+| ----- |
+| Season 7 Games 0, 1, 2, 3, 4, 5 |
+| G1: Season 7 Game 1: Millennials 5  @  7 Jazz Hands |
+| G2: Season 7 Game 2: Millennials 2  @  7 Jazz Hands |
+| G3: Season 7 Game 3: Millennials 3  @  4 Jazz Hands |
+| G4: Season 7 Game 4: Lovers 6  @  3 Millennials |
+| G5: Season 7 Game 5: Lovers 3  @  1 Millennials |
+| G6: Season 7 Game 6: Lovers 12 @  4 Millennials |
+
+<br />
+
 | 5 Game Losing Streak by the Millennials |
 | ----- |
 | Season 1 Games 56, 57, 58, 59, 60 |
@@ -141,6 +157,17 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 6 Game 71: Millennials 0  @  6 Lovers |
 | G4: Season 6 Game 72: Millennials 2  @  3 Lovers |
 | G5: Season 6 Game 73: Firefighters 5  @  3 Millennials |
+
+<br />
+
+| 5 Game Losing Streak by the Millennials |
+| ----- |
+| Season 7 Games 37, 38, 39, 40, 41 |
+| G1: Season 7 Game 38: Millennials 2  @  8 Lovers |
+| G2: Season 7 Game 39: Millennials 4  @  6 Lovers |
+| G3: Season 7 Game 40: Crabs 4  @  2 Millennials |
+| G4: Season 7 Game 41: Crabs 12 @  5 Millennials |
+| G5: Season 7 Game 42: Crabs 9  @  1 Millennials |
 
 <br />
 
@@ -191,6 +218,26 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G2: Season 5 Game 46: Millennials 4  @  5 Breath Mints |
 | G3: Season 5 Game 47: Millennials 3  @  9 Breath Mints |
 | G4: Season 5 Game 48: Millennials 3  @  5 Breath Mints |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 7 Games 16, 17, 18, 19 |
+| G1: Season 7 Game 17: Millennials 5  @  8 Jazz Hands |
+| G2: Season 7 Game 18: Millennials 4  @  6 Jazz Hands |
+| G3: Season 7 Game 19: Millennials 4  @  5 Firefighters |
+| G4: Season 7 Game 20: Millennials 2  @  3 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 7 Games 31, 32, 33, 34 |
+| G1: Season 7 Game 32: Firefighters 4  @  3 Millennials |
+| G2: Season 7 Game 33: Firefighters 5  @  3 Millennials |
+| G3: Season 7 Game 34: Millennials 1  @  8 Tacos |
+| G4: Season 7 Game 35: Millennials 1  @  2 Tacos |
 
 
 

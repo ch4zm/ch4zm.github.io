@@ -29,8 +29,8 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 4 | 67 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
 | 5 | 66 | Houston Spies | 7 - 6 | Seattle Garages | 
 | 5 | 91 | Seattle Garages | 7 - 6 | Houston Spies | 
-| 6 | 6 | Seattle Garages | 7 - 6 | Mexico City Mild Wings | 
-| 6 | 89 | Seattle Garages | 7 - 6 | Mexico City Mild Wings | 
-| 1 | 13 | Canada Moist Talkers | 6 - 5 | Seattle Garages | 
+| 6 | 6 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
+| 6 | 89 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
+| 7 | 23 | Yellowstone Magic | 7 - 6 | Seattle Garages | 
 
 

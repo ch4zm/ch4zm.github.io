@@ -1,5 +1,5 @@
 # Sunbeams Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -17,6 +17,10 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 4          | 90, 91, 92, 93 |
 | Sunbeams                       | 4          | 5          | 93, 94, 95, 96 |
 | Sunbeams                       | 4          | 6          | 69, 70, 71, 72 |
+| Sunbeams                       | 4          | 7          | 31, 32, 33, 34 |
+| Sunbeams                       | 4          | 7          | 36, 40, 41, 42 |
+| Sunbeams                       | 4          | 7          | 55, 56, 57, 58 |
+| Sunbeams                       | 4          | 7          | 76, 77, 78, 79 |
 
 
 
@@ -97,6 +101,46 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 6 Game 70: Tacos 1  @  5 Sunbeams |
 | G3: Season 6 Game 71: Tacos 1  @  4 Sunbeams |
 | G4: Season 6 Game 72: Tacos 1  @  8 Sunbeams |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 7 Games 30, 31, 32, 33 |
+| G1: Season 7 Game 31: Sunbeams 7  @  5 Flowers |
+| G2: Season 7 Game 32: Sunbeams 14 @  1 Flowers |
+| G3: Season 7 Game 33: Sunbeams 4  @  2 Flowers |
+| G4: Season 7 Game 34: Sunbeams 8  @  7 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 7 Games 35, 39, 40, 41 |
+| G1: Season 7 Game 36: Sunbeams 9  @  6 Spies |
+| G2: Season 7 Game 40: Sunbeams 5  @  4 Flowers |
+| G3: Season 7 Game 41: Sunbeams 8  @  4 Flowers |
+| G4: Season 7 Game 42: Sunbeams 7  @  2 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 7 Games 54, 55, 56, 57 |
+| G1: Season 7 Game 55: Crabs 5  @  6 Sunbeams |
+| G2: Season 7 Game 56: Crabs 0  @  3 Sunbeams |
+| G3: Season 7 Game 57: Crabs 5  @  6 Sunbeams |
+| G4: Season 7 Game 58: Sunbeams 8  @  0 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 7 Games 75, 76, 77, 78 |
+| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
+| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
+| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
+| G4: Season 7 Game 79: Tacos 2  @  9 Sunbeams |
 
 
 

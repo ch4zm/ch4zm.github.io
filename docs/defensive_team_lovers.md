@@ -15,6 +15,8 @@ Maxed out games (high-scoring one-run games) for all time for team Lovers (note:
 | 5 | 41 | Hades Tigers | 1 - 0 | San Francisco Lovers | 
 | 5 | 64 | Chicago Firefighters | 1 - 0 | San Francisco Lovers | 
 | 6 | 57 | San Francisco Lovers | 1 - 0 | Charleston Shoe Thieves | 
+| 7 | 1 | San Francisco Lovers | 1 - 0 | Baltimore Crabs | 
+| 7 | 71 | San Francisco Lovers | 1 - 0 | Chicago Firefighters | 
 | 1 | 13 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 1 | 14 | San Francisco Lovers | 2 - 1 | Hawaii Fridays | 
 | 1 | 16 | San Francisco Lovers | 2 - 1 | Kansas City Breath Mints | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Lovers (note:
 | 4 | 37 | Unlimited Tacos | 2 - 1 | San Francisco Lovers | 
 | 4 | 65 | Kansas City Breath Mints | 2 - 1 | San Francisco Lovers | 
 | 4 | 97 | Dallas Steaks | 2 - 1 | San Francisco Lovers | 
-| 5 | 44 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
-| 5 | 68 | San Francisco Lovers | 2 - 1 | Kansas City Breath Mints | 
 
 

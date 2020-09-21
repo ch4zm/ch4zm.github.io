@@ -1,5 +1,5 @@
 # Fridays Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -14,6 +14,7 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 6          | 1          | 53, 54, 55, 56, 57, 58 |
 | Fridays                        | 5          | 4          | 2, 3, 4, 5, 6 |
 | Fridays                        | 5          | 5          | 26, 27, 28, 29, 30 |
+| Fridays                        | 5          | 7          | 76, 77, 78, 79, 80 |
 | Fridays                        | 4          | 3          | 35, 36, 37, 38 |
 | Fridays                        | 4          | 3          | 62, 63, 64, 65 |
 | Fridays                        | 4          | 3          | 70, 71, 72, 73 |
@@ -21,6 +22,8 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 4          | 5          | 7, 8, 9, 10 |
 | Fridays                        | 4          | 5          | 51, 52, 53, 54 |
 | Fridays                        | 4          | 5          | 80, 81, 82, 83 |
+| Fridays                        | 4          | 7          | 40, 41, 42, 43 |
+| Fridays                        | 4          | 7          | 49, 50, 51, 52 |
 
 
 
@@ -76,6 +79,17 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | G3: Season 5 Game 28: Fridays 6  @  5 Millennials |
 | G4: Season 5 Game 29: Fridays 2  @  0 Millennials |
 | G5: Season 5 Game 30: Fridays 6  @  5 Millennials |
+
+<br />
+
+| 5 Game Winning Streak by the Fridays |
+| ----- |
+| Season 7 Games 75, 76, 77, 78, 79 |
+| G1: Season 7 Game 76: Fridays 10 @  3 Pies |
+| G2: Season 7 Game 77: Fridays 3  @  1 Pies |
+| G3: Season 7 Game 78: Fridays 3  @  1 Pies |
+| G4: Season 7 Game 79: Steaks 1  @  2 Fridays |
+| G5: Season 7 Game 80: Steaks 3  @  4 Fridays |
 
 <br />
 
@@ -146,6 +160,26 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | G2: Season 5 Game 81: Breath Mints 3  @  4 Fridays |
 | G3: Season 5 Game 82: Shoe Thieves 2  @ 12 Fridays |
 | G4: Season 5 Game 83: Shoe Thieves 1  @  4 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Fridays |
+| ----- |
+| Season 7 Games 39, 40, 41, 42 |
+| G1: Season 7 Game 40: Fridays 3  @  2 Wild Wings |
+| G2: Season 7 Game 41: Fridays 12 @  3 Wild Wings |
+| G3: Season 7 Game 42: Fridays 6  @  5 Wild Wings |
+| G4: Season 7 Game 43: Fridays 3  @  1 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Fridays |
+| ----- |
+| Season 7 Games 48, 49, 50, 51 |
+| G1: Season 7 Game 49: Shoe Thieves 2  @ 13 Fridays |
+| G2: Season 7 Game 50: Shoe Thieves 4  @  5 Fridays |
+| G3: Season 7 Game 51: Shoe Thieves 2  @  3 Fridays |
+| G4: Season 7 Game 52: Fridays 3  @  2 Shoe Thieves |
 
 
 

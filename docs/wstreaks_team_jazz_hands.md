@@ -1,5 +1,5 @@
 # Jazz Hands Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -39,6 +39,8 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 5          | 86, 87, 88, 89 |
 | Jazz Hands                     | 4          | 6          | 29, 30, 31, 32 |
 | Jazz Hands                     | 4          | 6          | 43, 44, 45, 46 |
+| Jazz Hands                     | 4          | 7          | 17, 18, 19, 20 |
+| Jazz Hands                     | 4          | 7          | 47, 48, 49, 50 |
 
 
 
@@ -367,6 +369,26 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 6 Game 44: Jazz Hands 7  @  6 Sunbeams |
 | G3: Season 6 Game 45: Jazz Hands 5  @  1 Sunbeams |
 | G4: Season 6 Game 46: Jazz Hands 4  @  3 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 7 Games 16, 17, 18, 19 |
+| G1: Season 7 Game 17: Millennials 5  @  8 Jazz Hands |
+| G2: Season 7 Game 18: Millennials 4  @  6 Jazz Hands |
+| G3: Season 7 Game 19: Flowers 4  @  5 Jazz Hands |
+| G4: Season 7 Game 20: Flowers 6  @  7 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 7 Games 46, 47, 48, 49 |
+| G1: Season 7 Game 47: Jazz Hands 5  @  3 Lovers |
+| G2: Season 7 Game 48: Jazz Hands 6  @  5 Lovers |
+| G3: Season 7 Game 49: Jazz Hands 5  @  1 Firefighters |
+| G4: Season 7 Game 50: Jazz Hands 3  @  2 Firefighters |
 
 
 

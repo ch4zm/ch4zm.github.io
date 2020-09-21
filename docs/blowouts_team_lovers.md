@@ -26,11 +26,11 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 3 | San Francisco Lovers | 14 - 5 | Hawaii Fridays | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 2 | 86 | San Francisco Lovers | 14 - 11 | New York Millennials | 
+| 7 | 7 | San Francisco Lovers | 14 - 11 | Hellmouth Sunbeams | 
 | 2 | 85 | New York Millennials | 13 - 0 | San Francisco Lovers | 
 | 1 | 51 | Boston Flowers | 13 - 2 | San Francisco Lovers | 
 | 4 | 41 | Dallas Steaks | 13 - 3 | San Francisco Lovers | 
 | 2 | 80 | Charleston Shoe Thieves | 13 - 6 | San Francisco Lovers | 
 | 1 | 55 | Charleston Shoe Thieves | 13 - 9 | San Francisco Lovers | 
-| 1 | 71 | Charleston Shoe Thieves | 13 - 9 | San Francisco Lovers | 
 
 

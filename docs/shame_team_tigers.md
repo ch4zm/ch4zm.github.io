@@ -14,6 +14,7 @@ Shame games (games where the loser was shamed) for all time for team Tigers (not
 | 6 | 54 | Hades Tigers | 9 - 5 | Hawaii Fridays | 
 | 3 | 69 | Hades Tigers | 8 - 4 | Canada Moist Talkers | 
 | 1 | 1 | Houston Spies | 7 - 3 | Hades Tigers | 
+| 7 | 17 | Hades Tigers | 6 - 2 | Seattle Garages | 
 | 3 | 23 | Hades Tigers | 9 - 6 | Seattle Garages | 
 | 1 | 38 | Mexico City Wild Wings | 7 - 4 | Hades Tigers | 
 | 2 | 75 | Hades Tigers | 7 - 4 | Canada Moist Talkers | 
@@ -21,6 +22,7 @@ Shame games (games where the loser was shamed) for all time for team Tigers (not
 | 3 | 6 | Philly Pies | 6 - 3 | Hades Tigers | 
 | 6 | 87 | Canada Moist Talkers | 6 - 3 | Hades Tigers | 
 | 3 | 16 | Dallas Steaks | 5 - 2 | Hades Tigers | 
+| 7 | 92 | Hades Tigers | 10 - 8 | Dallas Steaks | 
 | 1 | 32 | Hades Tigers | 9 - 7 | Baltimore Crabs | 
 | 1 | 2 | Houston Spies | 8 - 6 | Hades Tigers | 
 | 3 | 75 | Hades Tigers | 8 - 6 | Hellmouth Sunbeams | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Tigers (not
 | 2 | 12 | Hades Tigers | 6 - 4 | Canada Moist Talkers | 
 | 2 | 102* | Hades Tigers | 6 - 4 | Breckenridge Jazz Hands | 
 | 3 | 54 | Baltimore Crabs | 6 - 4 | Hades Tigers | 
-| 4 | 10 | Hades Tigers | 6 - 4 | Seattle Garages | 
-| 4 | 102* | Hades Tigers | 6 - 4 | Canada Moist Talkers | 
 
 

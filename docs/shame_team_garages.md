@@ -10,14 +10,17 @@ Shame games (games where the loser was shamed) for all time for team Garages (no
 | 4 | 75 | Seattle Garages | 10 - 4 | Philly Pies | 
 | 1 | 67 | Seattle Garages | 9 - 4 | Mexico City Wild Wings | 
 | 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
+| 7 | 75 | Seattle Garages | 10 - 6 | Canada Moist Talkers | 
 | 3 | 57 | Seattle Garages | 9 - 5 | Breckenridge Jazz Hands | 
 | 3 | 94 | Seattle Garages | 7 - 3 | Houston Spies | 
+| 7 | 17 | Hades Tigers | 6 - 2 | Seattle Garages | 
 | 4 | 79 | Canada Moist Talkers | 11 - 8 | Seattle Garages | 
 | 3 | 23 | Hades Tigers | 9 - 6 | Seattle Garages | 
 | 4 | 63 | Seattle Garages | 8 - 5 | Philly Pies | 
 | 5 | 81 | Houston Spies | 8 - 5 | Seattle Garages | 
 | 3 | 18 | Seattle Garages | 6 - 3 | Breckenridge Jazz Hands | 
 | 5 | 27 | Houston Spies | 6 - 3 | Seattle Garages | 
+| 7 | 51 | Yellowstone Magic | 5 - 2 | Seattle Garages | 
 | 1 | 66 | Moab Sunbeams | 4 - 1 | Seattle Garages | 
 | 1 | 76 | Philly Pies | 10 - 8 | Seattle Garages | 
 | 1 | 14 | Canada Moist Talkers | 8 - 6 | Seattle Garages | 
@@ -29,8 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Garages (no
 | 1 | 47 | Seattle Garages | 5 - 3 | Miami Dalé | 
 | 3 | 84 | Seattle Garages | 5 - 3 | Baltimore Crabs | 
 | 5 | 32 | Seattle Garages | 5 - 3 | Hellmouth Sunbeams | 
-| 5 | 90 | Seattle Garages | 5 - 3 | Philly Pies | 
-| 2 | 65 | Seattle Garages | 4 - 2 | Canada Moist Talkers | 
-| 6 | 15 | Seattle Garages | 4 - 2 | Mexico City Mild Wings | 
 
 

@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -11,11 +11,14 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Shoe Thieves                   | 8          | 3          | 5, 6, 7, 8, 9, 10, 11, 12 |
+| Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
+| Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
 | Shoe Thieves                   | 5          | 2          | 77, 78, 79, 80, 81 |
 | Shoe Thieves                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
+| Shoe Thieves                   | 5          | 7          | 80, 81, 82, 83, 84 |
 | Shoe Thieves                   | 4          | 1          | 7, 8, 9, 10 |
 | Shoe Thieves                   | 4          | 1          | 26, 27, 28, 29 |
 | Shoe Thieves                   | 4          | 1          | 57, 58, 59, 60 |
@@ -55,6 +58,20 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 
 <br />
 
+| 8 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 7 Games 24, 25, 26, 27, 28, 29, 30, 31 |
+| G1: Season 7 Game 25: Magic 4  @  6 Shoe Thieves |
+| G2: Season 7 Game 26: Magic 1  @  4 Shoe Thieves |
+| G3: Season 7 Game 27: Magic 3  @  8 Shoe Thieves |
+| G4: Season 7 Game 28: Shoe Thieves 5  @  4 Tacos |
+| G5: Season 7 Game 29: Shoe Thieves 5  @  4 Tacos |
+| G6: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
+| G7: Season 7 Game 31: Wild Wings 3  @  4 Shoe Thieves |
+| G8: Season 7 Game 32: Wild Wings 3  @  5 Shoe Thieves |
+
+<br />
+
 | 7 Game Winning Streak by the Shoe Thieves |
 | ----- |
 | Season 2 Games 101, 102, 103, 104, 105, 106, 107 |
@@ -77,6 +94,18 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G4: Season 2 Game 7: Shoe Thieves 3  @  2 Breath Mints |
 | G5: Season 2 Game 8: Shoe Thieves 6  @  4 Breath Mints |
 | G6: Season 2 Game 9: Shoe Thieves 5  @  4 Breath Mints |
+
+<br />
+
+| 6 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 7 Games 64, 65, 66, 67, 68, 69 |
+| G1: Season 7 Game 65: Pies 2  @  5 Shoe Thieves |
+| G2: Season 7 Game 66: Pies 2  @  3 Shoe Thieves |
+| G3: Season 7 Game 67: Shoe Thieves 4  @  3 Pies |
+| G4: Season 7 Game 68: Shoe Thieves 10 @  5 Pies |
+| G5: Season 7 Game 69: Shoe Thieves 7  @  3 Pies |
+| G6: Season 7 Game 70: Shoe Thieves 3  @  2 Breath Mints |
 
 <br />
 
@@ -110,6 +139,17 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G3: Season 5 Game 64: Shoe Thieves 6  @  3 Magic |
 | G4: Season 5 Game 65: Shoe Thieves 7  @  5 Magic |
 | G5: Season 5 Game 66: Shoe Thieves 13 @ 10 Magic |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 7 Games 79, 80, 81, 82, 83 |
+| G1: Season 7 Game 80: Wild Wings 2  @  9 Shoe Thieves |
+| G2: Season 7 Game 81: Wild Wings 8  @ 11 Shoe Thieves |
+| G3: Season 7 Game 82: Shoe Thieves 7  @  3 Steaks |
+| G4: Season 7 Game 83: Shoe Thieves 7  @  3 Steaks |
+| G5: Season 7 Game 84: Shoe Thieves 5  @  4 Steaks |
 
 <br />
 

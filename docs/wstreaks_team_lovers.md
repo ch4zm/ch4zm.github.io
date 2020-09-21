@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Lovers                         | 9          | 5          | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
 | Lovers                         | 7          | 5          | 21, 22, 23, 24, 25, 26, 27 |
+| Lovers                         | 7          | 7          | 1, 2, 3, 4, 5, 6, 7 |
 | Lovers                         | 6          | 3          | 14, 15, 16, 17, 18, 19 |
 | Lovers                         | 6          | 3          | 43, 44, 45, 46, 47, 48 |
 | Lovers                         | 6          | 6          | 54, 55, 56, 57, 58, 59 |
@@ -33,6 +34,9 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 5          | 76, 77, 78, 79 |
 | Lovers                         | 4          | 5          | 89, 90, 91, 92 |
 | Lovers                         | 4          | 5          | 101, 102, 103, 104 |
+| Lovers                         | 4          | 7          | 13, 14, 15, 19 |
+| Lovers                         | 4          | 7          | 26, 27, 28, 29 |
+| Lovers                         | 4          | 7          | 68, 69, 70, 71 |
 
 
 
@@ -85,6 +89,19 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G5: Season 5 Game 25: Lovers 12 @  1 Tacos |
 | G6: Season 5 Game 26: Lovers 9  @  1 Tacos |
 | G7: Season 5 Game 27: Lovers 5  @  1 Tacos |
+
+<br />
+
+| 7 Game Winning Streak by the Lovers |
+| ----- |
+| Season 7 Games 0, 1, 2, 3, 4, 5, 6 |
+| G1: Season 7 Game 1: Crabs 0  @  1 Lovers |
+| G2: Season 7 Game 2: Crabs 2  @  5 Lovers |
+| G3: Season 7 Game 3: Crabs 3  @  6 Lovers |
+| G4: Season 7 Game 4: Lovers 6  @  3 Millennials |
+| G5: Season 7 Game 5: Lovers 3  @  1 Millennials |
+| G6: Season 7 Game 6: Lovers 12 @  4 Millennials |
+| G7: Season 7 Game 7: Sunbeams 11 @ 14 Lovers |
 
 <br />
 
@@ -301,6 +318,36 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 5 Game 102: Steaks 2  @  7 Lovers |
 | G3: Season 5 Game 103: Lovers 7  @  4 Steaks |
 | G4: Season 5 Game 104: Firefighters 2  @  3 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 7 Games 12, 13, 14, 18 |
+| G1: Season 7 Game 13: Lovers 5  @  1 Firefighters |
+| G2: Season 7 Game 14: Lovers 4  @  3 Firefighters |
+| G3: Season 7 Game 15: Lovers 9  @  1 Firefighters |
+| G4: Season 7 Game 19: Lovers 3  @  2 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 7 Games 25, 26, 27, 28 |
+| G1: Season 7 Game 26: Jazz Hands 3  @  5 Lovers |
+| G2: Season 7 Game 27: Jazz Hands 5  @  6 Lovers |
+| G3: Season 7 Game 28: Spies 4  @  8 Lovers |
+| G4: Season 7 Game 29: Spies 1  @  2 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 7 Games 67, 68, 69, 70 |
+| G1: Season 7 Game 68: Lovers 7  @  5 Firefighters |
+| G2: Season 7 Game 69: Lovers 7  @  5 Firefighters |
+| G3: Season 7 Game 70: Lovers 5  @  3 Firefighters |
+| G4: Season 7 Game 71: Lovers 1  @  0 Firefighters |
 
 
 

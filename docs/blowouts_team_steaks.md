@@ -14,9 +14,13 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 94 | Dallas Steaks | 16 - 3 | Canada Moist Talkers | 
 | 4 | 23 | Chicago Firefighters | 15 - 0 | Dallas Steaks | 
 | 1 | 88 | Dallas Steaks | 15 - 2 | Chicago Firefighters | 
+| 7 | 30 | Dallas Steaks | 15 - 2 | Philly Pies | 
+| 7 | 71 | Dallas Steaks | 15 - 2 | Mexico City Wild Wings | 
 | 1 | 80 | Dallas Steaks | 15 - 4 | Boston Flowers | 
 | 6 | 29 | Yellowstone Magic | 14 - 6 | Dallas Steaks | 
 | 3 | 63 | New York Millennials | 14 - 12 | Dallas Steaks | 
+| 7 | 49 | Dallas Steaks | 13 - 0 | Hades Tigers | 
+| 7 | 88 | Hades Tigers | 13 - 2 | Dallas Steaks | 
 | 2 | 47 | Dallas Steaks | 13 - 3 | Boston Flowers | 
 | 4 | 41 | Dallas Steaks | 13 - 3 | San Francisco Lovers | 
 | 4 | 53 | Seattle Garages | 13 - 4 | Dallas Steaks | 
@@ -28,9 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 1 | Chicago Firefighters | 12 - 0 | Dallas Steaks | 
 | 3 | 77 | Dallas Steaks | 12 - 1 | Chicago Firefighters | 
 | 4 | 8 | Yellowstone Magic | 12 - 1 | Dallas Steaks | 
-| 4 | 10 | Dallas Steaks | 12 - 1 | San Francisco Lovers | 
-| 1 | 11 | Dallas Steaks | 12 - 3 | Charleston Shoe Thieves | 
-| 4 | 9 | Yellowstone Magic | 12 - 3 | Dallas Steaks | 
-| 5 | 68 | Chicago Firefighters | 12 - 3 | Dallas Steaks | 
 
 

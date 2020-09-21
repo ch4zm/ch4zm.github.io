@@ -1,5 +1,5 @@
 # Crabs Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -26,6 +26,8 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 4          | 2          | 22, 23, 24, 25 |
 | Crabs                          | 4          | 4          | 67, 68, 69, 70 |
 | Crabs                          | 4          | 4          | 72, 73, 74, 75 |
+| Crabs                          | 4          | 7          | 55, 56, 57, 58 |
+| Crabs                          | 4          | 7          | 95, 96, 97, 98 |
 
 
 
@@ -213,6 +215,26 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | G2: Season 4 Game 73: Crabs 3  @  7 Tigers |
 | G3: Season 4 Game 74: Crabs 1  @  5 Tigers |
 | G4: Season 4 Game 75: Crabs 4  @  5 Tigers |
+
+<br />
+
+| 4 Game Losing Streak by the Crabs |
+| ----- |
+| Season 7 Games 54, 55, 56, 57 |
+| G1: Season 7 Game 55: Crabs 5  @  6 Sunbeams |
+| G2: Season 7 Game 56: Crabs 0  @  3 Sunbeams |
+| G3: Season 7 Game 57: Crabs 5  @  6 Sunbeams |
+| G4: Season 7 Game 58: Crabs 3  @  4 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Crabs |
+| ----- |
+| Season 7 Games 94, 95, 96, 97 |
+| G1: Season 7 Game 95: Crabs 2  @  3 Jazz Hands |
+| G2: Season 7 Game 96: Crabs 0  @  1 Jazz Hands |
+| G3: Season 7 Game 97: Crabs 2  @  3 Tacos |
+| G4: Season 7 Game 98: Crabs 3  @  5 Tacos |
 
 
 

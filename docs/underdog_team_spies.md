@@ -20,6 +20,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 51 | Houston Spies | 10 - 2 | Seattle Garages | 
 | 6 | 35 | New York Millennials | 10 - 2 | Houston Spies | 
 | 4 | 33 | Houston Spies | 8 - 0 | Baltimore Crabs | 
+| 7 | 83 | Houston Spies | 13 - 6 | Chicago Firefighters | 
 | 3 | 7 | Houston Spies | 10 - 3 | Canada Moist Talkers | 
 | 1 | 7 | Houston Spies | 9 - 2 | Mexico City Wild Wings | 
 | 1 | 11 | Houston Spies | 9 - 2 | Seattle Garages | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 17 | Houston Spies | 9 - 3 | Hawaii Fridays | 
 | 1 | 96 | Houston Spies | 8 - 2 | Seattle Garages | 
 | 4 | 4 | Hellmouth Sunbeams | 8 - 2 | Houston Spies | 
-| 6 | 79 | Hellmouth Sunbeams | 8 - 2 | Houston Spies | 
 
 

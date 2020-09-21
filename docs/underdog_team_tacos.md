@@ -23,6 +23,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 91 | Unlimited Tacos | 9 - 2 | Charleston Shoe Thieves | 
 | 6 | 34 | Unlimited Tacos | 8 - 1 | Miami Dalé | 
 | 6 | 88 | Houston Spies | 8 - 1 | Unlimited Tacos | 
+| 7 | 34 | Unlimited Tacos | 8 - 1 | New York Millennials | 
 | 6 | 3 | Unlimited Tacos | 10 - 4 | Breckenridge Jazz Hands | 
 | 6 | 49 | Unlimited Tacos | 9 - 3 | Breckenridge Jazz Hands | 
 | 1 | 66 | Kansas City Breath Mints | 8 - 2 | Los Angeles Tacos | 
@@ -30,7 +31,6 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 17 | Unlimited Tacos | 7 - 1 | Chicago Firefighters | 
 | 4 | 48 | Unlimited Tacos | 7 - 1 | Dallas Steaks | 
 | 6 | 56 | Unlimited Tacos | 7 - 1 | Chicago Firefighters | 
-| 1 | 76 | Kansas City Breath Mints | 10 - 5 | Los Angeles Tacos | 
-| 2 | 85 | Boston Flowers | 9 - 4 | Los Angeles Tacos | 
+| 7 | 8 | Houston Spies | 7 - 1 | Unlimited Tacos | 
 
 

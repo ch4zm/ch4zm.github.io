@@ -1,5 +1,5 @@
 # Blaseball Postseason Underdog Wins
-(Through season 6)
+(Through season 7)
 
 
 
@@ -15,7 +15,9 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 100* | Seattle Garages | 9 - 2 | Philly Pies | 
 | 3 | 111* | Hades Tigers | 8 - 1 | New York Millennials | 
 | 2 | 102* | Charleston Shoe Thieves | 7 - 0 | Dallas Steaks | 
+| 7 | 102* | Seattle Garages | 12 - 6 | Charleston Shoe Thieves | 
 | 3 | 101* | Breckenridge Jazz Hands | 8 - 2 | Hades Tigers | 
+| 7 | 109* | San Francisco Lovers | 7 - 1 | Baltimore Crabs | 
 | 1 | 100* | Chicago Firefighters | 10 - 5 | Dallas Steaks | 
 | 2 | 108* | Charleston Shoe Thieves | 9 - 4 | Philly Pies | 
 | 3 | 103* | Philly Pies | 7 - 2 | Canada Moist Talkers | 
@@ -29,9 +31,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 105* | Philly Pies | 10 - 7 | Breckenridge Jazz Hands | 
 | 1 | 107* | Chicago Firefighters | 8 - 5 | Boston Flowers | 
 | 4 | 111* | Hades Tigers | 8 - 5 | New York Millennials | 
+| 7 | 102* | San Francisco Lovers | 8 - 5 | Breckenridge Jazz Hands | 
 | 4 | 107* | Chicago Firefighters | 7 - 4 | New York Millennials | 
-| 2 | 100* | Breckenridge Jazz Hands | 6 - 3 | Hades Tigers | 
-| 2 | 100* | Philly Pies | 5 - 2 | Canada Moist Talkers | 
-| 5 | 100* | Dallas Steaks | 5 - 2 | San Francisco Lovers | 
 
 

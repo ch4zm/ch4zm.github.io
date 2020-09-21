@@ -10,27 +10,27 @@ Shutout games (games where the loser had zero runs) for all time for team Tacos 
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
 | 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
+| 7 | 61 | Breckenridge Jazz Hands | 12 - 0 | Unlimited Tacos | 
 | 6 | 42 | Miami Dalé | 11 - 0 | Unlimited Tacos | 
 | 5 | 10 | Dallas Steaks | 11 - 0 | Unlimited Tacos | 
 | 1 | 46 | Yellowstone Magic | 10 - 0 | Los Angeles Tacos | 
-| 5 | 3 | San Francisco Lovers | 10 - 0 | Unlimited Tacos | 
 | 2 | 55 | Hawaii Fridays | 10 - 0 | Los Angeles Tacos | 
+| 5 | 3 | San Francisco Lovers | 10 - 0 | Unlimited Tacos | 
 | 1 | 16 | Dallas Steaks | 9 - 0 | Los Angeles Tacos | 
-| 2 | 39 | Seattle Garages | 8 - 0 | Los Angeles Tacos | 
-| 5 | 31 | Dallas Steaks | 8 - 0 | Unlimited Tacos | 
-| 5 | 20 | Boston Flowers | 8 - 0 | Unlimited Tacos | 
-| 4 | 65 | Yellowstone Magic | 8 - 0 | Unlimited Tacos | 
 | 1 | 36 | Dallas Steaks | 8 - 0 | Los Angeles Tacos | 
+| 2 | 39 | Seattle Garages | 8 - 0 | Los Angeles Tacos | 
+| 4 | 65 | Yellowstone Magic | 8 - 0 | Unlimited Tacos | 
+| 5 | 20 | Boston Flowers | 8 - 0 | Unlimited Tacos | 
+| 5 | 31 | Dallas Steaks | 8 - 0 | Unlimited Tacos | 
 | 1 | 99 | Hawaii Fridays | 7 - 0 | Los Angeles Tacos | 
 | 3 | 59 | Los Angeles Tacos | 7 - 0 | Chicago Firefighters | 
-| 6 | 17 | Miami Dalé | 6 - 0 | Unlimited Tacos | 
-| 6 | 15 | Philly Pies | 6 - 0 | Unlimited Tacos | 
+| 7 | 22 | Unlimited Tacos | 6 - 0 | San Francisco Lovers | 
+| 4 | 25 | Yellowstone Magic | 6 - 0 | Unlimited Tacos | 
 | 5 | 55 | Dallas Steaks | 6 - 0 | Unlimited Tacos | 
 | 3 | 95 | Dallas Steaks | 6 - 0 | Los Angeles Tacos | 
-| 4 | 25 | Yellowstone Magic | 6 - 0 | Unlimited Tacos | 
-| 3 | 72 | Boston Flowers | 5 - 0 | Los Angeles Tacos | 
-| 3 | 9 | Kansas City Breath Mints | 5 - 0 | Los Angeles Tacos | 
-| 6 | 77 | Boston Flowers | 5 - 0 | Unlimited Tacos | 
-| 3 | 38 | San Francisco Lovers | 5 - 0 | Los Angeles Tacos | 
+| 6 | 17 | Miami Dalé | 6 - 0 | Unlimited Tacos | 
+| 6 | 15 | Philly Pies | 6 - 0 | Unlimited Tacos | 
+| 7 | 74 | Unlimited Tacos | 6 - 0 | Boston Flowers | 
+| 7 | 32 | Miami Dale | 6 - 0 | Unlimited Tacos | 
 
 

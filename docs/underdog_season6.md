@@ -13,11 +13,11 @@ Underdog games (games where the underdog won with large run differential) for se
 | 6 | 59 | Canada Moist Talkers | 11 - 2 | Kansas City Breath Mints | 
 | 6 | 90 | Boston Flowers | 10 - 1 | New York Millennials | 
 | 6 | 27 | Breckenridge Jazz Hands | 13 - 5 | New York Millennials | 
-| 6 | 47 | Canada Moist Talkers | 12 - 4 | Mexico City Mild Wings | 
+| 6 | 47 | Canada Moist Talkers | 12 - 4 | Mexico City Wild Wings | 
 | 6 | 72 | Breckenridge Jazz Hands | 12 - 4 | Boston Flowers | 
 | 6 | 48 | Yellowstone Magic | 11 - 3 | Seattle Garages | 
 | 6 | 35 | New York Millennials | 10 - 2 | Houston Spies | 
-| 6 | 71 | Mexico City Mild Wings | 10 - 2 | Yellowstone Magic | 
+| 6 | 71 | Mexico City Wild Wings | 10 - 2 | Yellowstone Magic | 
 | 6 | 85 | Seattle Garages | 10 - 2 | Philly Pies | 
 | 6 | 31 | Kansas City Breath Mints | 9 - 1 | Seattle Garages | 
 | 6 | 44 | Seattle Garages | 8 - 0 | Yellowstone Magic | 

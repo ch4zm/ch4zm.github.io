@@ -7,6 +7,7 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 7 | 38 | San Francisco Lovers | 8 - 2 | New York Millennials | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 4 | 99 | Chicago Firefighters | 11 - 6 | New York Millennials | 
 | 1 | 84 | Los Angeles Tacos | 6 - 1 | New York Millennials | 
@@ -26,11 +27,10 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 | 1 | 66 | Charleston Shoe Thieves | 8 - 6 | New York Millennials | 
 | 3 | 30 | Charleston Shoe Thieves | 8 - 6 | New York Millennials | 
 | 3 | 64 | Charleston Shoe Thieves | 7 - 5 | New York Millennials | 
+| 7 | 72 | New York Millennials | 7 - 5 | Breckenridge Jazz Hands | 
 | 2 | 19 | Chicago Firefighters | 6 - 4 | New York Millennials | 
 | 4 | 42 | New York Millennials | 6 - 4 | Unlimited Tacos | 
-| 1 | 69 | New York Millennials | 4 - 2 | Dallas Steaks | 
-| 6 | 70 | San Francisco Lovers | 4 - 2 | New York Millennials | 
-| 2 | 89 | New York Millennials | 3 - 1 | Hawaii Fridays | 
-| 5 | 45 | Boston Flowers | 12 - 11 | New York Millennials | 
+| 7 | 82 | New York Millennials | 6 - 4 | Hellmouth Sunbeams | 
+| 7 | 92 | New York Millennials | 6 - 4 | Houston Spies | 
 
 

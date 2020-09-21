@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -23,6 +23,7 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 3          | 36, 37, 38, 39 |
 | Flowers                        | 4          | 3          | 62, 63, 64, 65 |
 | Flowers                        | 4          | 3          | 80, 81, 82, 83 |
+| Flowers                        | 4          | 7          | 91, 92, 93, 94 |
 
 
 
@@ -172,6 +173,16 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 3 Game 81: Breath Mints 5  @  6 Flowers |
 | G3: Season 3 Game 82: Flowers 7  @  5 Steaks |
 | G4: Season 3 Game 83: Flowers 13 @  5 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 7 Games 90, 91, 92, 93 |
+| G1: Season 7 Game 91: Tacos 0  @  2 Flowers |
+| G2: Season 7 Game 92: Tacos 8  @ 11 Flowers |
+| G3: Season 7 Game 93: Tacos 5  @ 10 Flowers |
+| G4: Season 7 Game 94: Flowers 10 @  7 Lovers |
 
 
 

@@ -30,7 +30,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 72 | Yellowstone Magic | 14 - 8 | Hawaii Fridays | 
 | 6 | 17 | Seattle Garages | 14 - 11 | Yellowstone Magic | 
 | 6 | 7 | Philly Pies | 13 - 2 | Yellowstone Magic | 
+| 7 | 87 | Charleston Shoe Thieves | 13 - 2 | Yellowstone Magic | 
 | 3 | 88 | Yellowstone Magic | 13 - 3 | Charleston Shoe Thieves | 
-| 5 | 72 | Miami Dalé | 13 - 3 | Yellowstone Magic | 
 
 

@@ -27,10 +27,10 @@ Maxed out games (high-scoring one-run games) for all time for team Steaks (note:
 | 4 | 21 | Boston Flowers | 7 - 6 | Dallas Steaks | 
 | 5 | 48 | San Francisco Lovers | 7 - 6 | Dallas Steaks | 
 | 6 | 49 | Hawaii Fridays | 7 - 6 | Dallas Steaks | 
+| 7 | 24 | Dallas Steaks | 7 - 6 | Kansas City Breath Mints | 
+| 7 | 43 | Dallas Steaks | 7 - 6 | Canada Moist Talkers | 
+| 7 | 75 | Philly Pies | 7 - 6 | Dallas Steaks | 
 | 1 | 34 | Dallas Steaks | 6 - 5 | Los Angeles Tacos | 
 | 2 | 3 | Los Angeles Tacos | 6 - 5 | Dallas Steaks | 
-| 2 | 4 | Dallas Steaks | 6 - 5 | Yellowstone Magic | 
-| 2 | 8 | Dallas Steaks | 6 - 5 | San Francisco Lovers | 
-| 4 | 1 | Dallas Steaks | 6 - 5 | Chicago Firefighters | 
 
 

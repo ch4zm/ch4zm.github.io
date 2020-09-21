@@ -9,6 +9,8 @@ Blowout games (games with high scores and high run differentials) for all time f
 | ------ |------ |------ |------ |------ |
 | 5 | 81 | San Francisco Lovers | 20 - 6 | Chicago Firefighters | 
 | 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
+| 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
+| 7 | 45 | Breckenridge Jazz Hands | 17 - 5 | Chicago Firefighters | 
 | 4 | 10 | Chicago Firefighters | 16 - 7 | Boston Flowers | 
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
 | 4 | 23 | Chicago Firefighters | 15 - 0 | Dallas Steaks | 
@@ -19,18 +21,16 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 105* | Chicago Firefighters | 15 - 10 | Boston Flowers | 
 | 4 | 49 | New York Millennials | 15 - 11 | Chicago Firefighters | 
 | 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
+| 7 | 27 | Chicago Firefighters | 14 - 2 | Boston Flowers | 
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 4 | 15 | Chicago Firefighters | 14 - 3 | Unlimited Tacos | 
 | 6 | 38 | Chicago Firefighters | 14 - 3 | Boston Flowers | 
+| 7 | 61 | Chicago Firefighters | 14 - 4 | New York Millennials | 
 | 5 | 99 | Chicago Firefighters | 14 - 6 | Hellmouth Sunbeams | 
 | 1 | 29 | Charleston Shoe Thieves | 14 - 11 | Chicago Firefighters | 
 | 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
 | 4 | 90 | Chicago Firefighters | 13 - 1 | Unlimited Tacos | 
 | 2 | 70 | Chicago Firefighters | 13 - 2 | Kansas City Breath Mints | 
 | 2 | 76 | Chicago Firefighters | 13 - 2 | Charleston Shoe Thieves | 
-| 5 | 73 | Chicago Firefighters | 13 - 2 | Boston Flowers | 
-| 3 | 94 | Boston Flowers | 13 - 3 | Chicago Firefighters | 
-| 2 | 38 | Chicago Firefighters | 13 - 6 | New York Millennials | 
-| 2 | 4 | Chicago Firefighters | 13 - 8 | Hawaii Fridays | 
 
 

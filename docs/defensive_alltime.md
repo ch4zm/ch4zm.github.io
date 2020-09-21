@@ -1,5 +1,5 @@
 # All-Time Defensive Games
-(Through season 6)
+(Through season 7)
 
 ## Summary
 

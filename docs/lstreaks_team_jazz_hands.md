@@ -1,5 +1,5 @@
 # Jazz Hands Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -19,6 +19,9 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 3          | 76, 77, 78, 79 |
 | Jazz Hands                     | 4          | 4          | 18, 19, 20, 21 |
 | Jazz Hands                     | 4          | 5          | 80, 81, 82, 83 |
+| Jazz Hands                     | 4          | 7          | 4, 5, 6, 7 |
+| Jazz Hands                     | 4          | 7          | 21, 22, 23, 24 |
+| Jazz Hands                     | 4          | 7          | 36, 37, 38, 39 |
 
 
 
@@ -124,6 +127,36 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 5 Game 81: Jazz Hands 0  @  6 Pies |
 | G3: Season 5 Game 82: Moist Talkers 4  @  2 Jazz Hands |
 | G4: Season 5 Game 83: Moist Talkers 3  @  1 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 7 Games 3, 4, 5, 6 |
+| G1: Season 7 Game 4: Crabs 11 @  4 Jazz Hands |
+| G2: Season 7 Game 5: Crabs 5  @  3 Jazz Hands |
+| G3: Season 7 Game 6: Crabs 6  @  1 Jazz Hands |
+| G4: Season 7 Game 7: Firefighters 5  @  0 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 7 Games 20, 21, 22, 23 |
+| G1: Season 7 Game 21: Flowers 4  @  3 Jazz Hands |
+| G2: Season 7 Game 22: Jazz Hands 2  @  6 Crabs |
+| G3: Season 7 Game 23: Jazz Hands 3  @  8 Crabs |
+| G4: Season 7 Game 24: Jazz Hands 1  @  5 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 7 Games 35, 36, 37, 38 |
+| G1: Season 7 Game 36: Firefighters 9  @  7 Jazz Hands |
+| G2: Season 7 Game 37: Crabs 12 @  6 Jazz Hands |
+| G3: Season 7 Game 38: Crabs 5  @  2 Jazz Hands |
+| G4: Season 7 Game 39: Crabs 3  @  1 Jazz Hands |
 
 
 

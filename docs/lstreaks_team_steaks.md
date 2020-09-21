@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Steaks                         | 6          | 5          | 61, 62, 63, 64, 65, 66 |
+| Steaks                         | 5          | 7          | 51, 52, 53, 54, 55 |
 | Steaks                         | 4          | 1          | 7, 8, 9, 10 |
 | Steaks                         | 4          | 1          | 26, 27, 28, 29 |
 | Steaks                         | 4          | 1          | 47, 48, 49, 50 |
@@ -20,6 +21,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 3          | 98, 99, 100, 101 |
 | Steaks                         | 4          | 5          | 16, 17, 18, 19 |
 | Steaks                         | 4          | 6          | 75, 76, 77, 78 |
+| Steaks                         | 4          | 7          | 82, 83, 84, 85 |
 
 
 
@@ -54,6 +56,17 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G4: Season 5 Game 64: Steaks 2  @  5 Breath Mints |
 | G5: Season 5 Game 65: Steaks 4  @  6 Breath Mints |
 | G6: Season 5 Game 66: Steaks 4  @  5 Breath Mints |
+
+<br />
+
+| 5 Game Losing Streak by the Steaks |
+| ----- |
+| Season 7 Games 50, 51, 52, 53, 54 |
+| G1: Season 7 Game 51: Tigers 7  @  2 Steaks |
+| G2: Season 7 Game 52: Garages 12 @  3 Steaks |
+| G3: Season 7 Game 53: Garages 10 @  2 Steaks |
+| G4: Season 7 Game 54: Garages 4  @  3 Steaks |
+| G5: Season 7 Game 55: Steaks 2  @  4 Lovers |
 
 <br />
 
@@ -134,6 +147,16 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 6 Game 76: Breath Mints 9  @  5 Steaks |
 | G3: Season 6 Game 77: Breath Mints 2  @  1 Steaks |
 | G4: Season 6 Game 78: Breath Mints 2  @  1 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 7 Games 81, 82, 83, 84 |
+| G1: Season 7 Game 82: Shoe Thieves 7  @  3 Steaks |
+| G2: Season 7 Game 83: Shoe Thieves 7  @  3 Steaks |
+| G3: Season 7 Game 84: Shoe Thieves 5  @  4 Steaks |
+| G4: Season 7 Game 85: Steaks 6  @  9 Tigers |
 
 
 

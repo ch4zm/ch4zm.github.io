@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -19,6 +19,9 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 5          | 3          | 74, 75, 76, 77, 78 |
 | Wild Wings                     | 5          | 4          | 16, 17, 18, 19, 20 |
 | Wild Wings                     | 5          | 4          | 76, 77, 78, 79, 88 |
+| Wild Wings                     | 5          | 6          | 28, 29, 30, 31, 32 |
+| Wild Wings                     | 5          | 6          | 54, 55, 56, 57, 58 |
+| Wild Wings                     | 5          | 7          | 45, 46, 47, 48, 49 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
 | Wild Wings                     | 4          | 1          | 76, 77, 78, 79 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
@@ -31,6 +34,9 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 3          | 56, 57, 58, 59 |
 | Wild Wings                     | 4          | 5          | 25, 26, 27, 28 |
 | Wild Wings                     | 4          | 5          | 32, 33, 34, 35 |
+| Wild Wings                     | 4          | 6          | 66, 67, 68, 69 |
+| Wild Wings                     | 4          | 7          | 9, 10, 11, 12 |
+| Wild Wings                     | 4          | 7          | 70, 71, 72, 73 |
 
 
 
@@ -147,6 +153,39 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 4 Game 78: Wild Wings 8  @ 10 Flowers |
 | G4: Season 4 Game 79: Wild Wings 1  @  3 Pies |
 | G5: Season 4 Game 88: Wild Wings 3  @  4 Tigers |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 6 Games 27, 28, 29, 30, 31 |
+| G1: Season 6 Game 28: Shoe Thieves 5  @  3 Wild Wings |
+| G2: Season 6 Game 29: Shoe Thieves 4  @  2 Wild Wings |
+| G3: Season 6 Game 30: Shoe Thieves 8  @  6 Wild Wings |
+| G4: Season 6 Game 31: Moist Talkers 4  @  2 Wild Wings |
+| G5: Season 6 Game 32: Moist Talkers 4  @  2 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 6 Games 53, 54, 55, 56, 57 |
+| G1: Season 6 Game 54: Wild Wings 4  @  6 Pies |
+| G2: Season 6 Game 55: Flowers 3  @  1 Wild Wings |
+| G3: Season 6 Game 56: Flowers 4  @  3 Wild Wings |
+| G4: Season 6 Game 57: Flowers 8  @  3 Wild Wings |
+| G5: Season 6 Game 58: Garages 3  @  2 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 44, 45, 46, 47, 48 |
+| G1: Season 7 Game 45: Tigers 8  @  4 Wild Wings |
+| G2: Season 7 Game 46: Wild Wings 6  @  7 Magic |
+| G3: Season 7 Game 47: Wild Wings 0  @  5 Magic |
+| G4: Season 7 Game 48: Wild Wings 3  @  9 Magic |
+| G5: Season 7 Game 49: Wild Wings 3  @  5 Pies |
 
 <br />
 
@@ -267,6 +306,36 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 5 Game 33: Wild Wings 1  @  5 Jazz Hands |
 | G3: Season 5 Game 34: Jazz Hands 3  @  0 Wild Wings |
 | G4: Season 5 Game 35: Jazz Hands 8  @  4 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 6 Games 65, 66, 67, 68 |
+| G1: Season 6 Game 66: Wild Wings 1  @  8 Magic |
+| G2: Season 6 Game 67: Breath Mints 7  @  0 Wild Wings |
+| G3: Season 6 Game 68: Breath Mints 7  @  3 Wild Wings |
+| G4: Season 6 Game 69: Breath Mints 3  @  0 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 8, 9, 10, 11 |
+| G1: Season 7 Game 9: Steaks 6  @  0 Wild Wings |
+| G2: Season 7 Game 10: Wild Wings 1  @  2 Crabs |
+| G3: Season 7 Game 11: Wild Wings 1  @ 13 Crabs |
+| G4: Season 7 Game 12: Wild Wings 2  @ 10 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 69, 70, 71, 72 |
+| G1: Season 7 Game 70: Steaks 9  @  7 Wild Wings |
+| G2: Season 7 Game 71: Steaks 15 @  2 Wild Wings |
+| G3: Season 7 Game 72: Steaks 11 @  9 Wild Wings |
+| G4: Season 7 Game 73: Breath Mints 2  @  1 Wild Wings |
 
 
 

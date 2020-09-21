@@ -9,6 +9,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | ------ |------ |------ |------ |------ |
 | 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
 | 2 | 75 | Boston Flowers | 14 - 2 | Yellowstone Magic | 
+| 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
 | 2 | 18 | New York Millennials | 15 - 4 | Boston Flowers | 
 | 5 | 62 | Boston Flowers | 13 - 3 | Hawaii Fridays | 
 | 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
@@ -18,6 +19,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 55 | Boston Flowers | 12 - 4 | Los Angeles Tacos | 
 | 6 | 72 | Breckenridge Jazz Hands | 12 - 4 | Boston Flowers | 
 | 5 | 66 | Boston Flowers | 10 - 2 | Hawaii Fridays | 
+| 7 | 39 | Boston Flowers | 9 - 1 | Chicago Firefighters | 
 | 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
 | 3 | 15 | Boston Flowers | 13 - 6 | Hawaii Fridays | 
 | 6 | 81 | Boston Flowers | 13 - 6 | Miami Dalé | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 53 | New York Millennials | 9 - 3 | Boston Flowers | 
 | 6 | 1 | Boston Flowers | 9 - 3 | Miami Dalé | 
 | 1 | 32 | Boston Flowers | 8 - 2 | Hawaii Fridays | 
-| 4 | 70 | Boston Flowers | 8 - 2 | San Francisco Lovers | 
-| 6 | 98 | Boston Flowers | 8 - 2 | Breckenridge Jazz Hands | 
 
 

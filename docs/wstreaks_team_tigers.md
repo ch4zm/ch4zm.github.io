@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -49,6 +49,8 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 4          | 6          | 23, 24, 25, 26 |
 | Tigers                         | 4          | 6          | 48, 49, 50, 51 |
 | Tigers                         | 4          | 6          | 63, 64, 65, 66 |
+| Tigers                         | 4          | 7          | 5, 6, 7, 8 |
+| Tigers                         | 4          | 7          | 20, 21, 22, 23 |
 
 
 
@@ -508,6 +510,26 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 6 Game 64: Shoe Thieves 2  @  3 Tigers |
 | G3: Season 6 Game 65: Shoe Thieves 9  @ 13 Tigers |
 | G4: Season 6 Game 66: Shoe Thieves 5  @  6 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 7 Games 4, 5, 6, 7 |
+| G1: Season 7 Game 5: Tigers 2  @  1 Sunbeams |
+| G2: Season 7 Game 6: Tigers 5  @  2 Sunbeams |
+| G3: Season 7 Game 7: Pies 2  @  3 Tigers |
+| G4: Season 7 Game 8: Pies 6  @  8 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 7 Games 19, 20, 21, 22 |
+| G1: Season 7 Game 20: Pies 2  @  4 Tigers |
+| G2: Season 7 Game 21: Pies 2  @  5 Tigers |
+| G3: Season 7 Game 22: Moist Talkers 1  @  4 Tigers |
+| G4: Season 7 Game 23: Moist Talkers 3  @  8 Tigers |
 
 
 

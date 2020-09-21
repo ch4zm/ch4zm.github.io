@@ -20,6 +20,7 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 5 | 90 | Houston Spies | 1 - 0 | Breckenridge Jazz Hands | 
 | 5 | 93 | Seattle Garages | 1 - 0 | Houston Spies | 
 | 6 | 8 | Houston Spies | 1 - 0 | Unlimited Tacos | 
+| 7 | 17 | Houston Spies | 1 - 0 | Baltimore Crabs | 
 | 1 | 36 | Miami Dalé | 2 - 1 | Houston Spies | 
 | 1 | 47 | Houston Spies | 2 - 1 | Breckenridge Jazz Hands | 
 | 1 | 65 | Hades Tigers | 2 - 1 | Houston Spies | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 4 | 78 | Houston Spies | 2 - 1 | Seattle Garages | 
 | 5 | 3 | Houston Spies | 2 - 1 | Baltimore Crabs | 
 | 5 | 19 | Houston Spies | 2 - 1 | Seattle Garages | 
-| 5 | 41 | Houston Spies | 2 - 1 | Philly Pies | 
 
 

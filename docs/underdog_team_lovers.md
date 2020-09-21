@@ -10,6 +10,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
 | 3 | 26 | Kansas City Breath Mints | 12 - 1 | San Francisco Lovers | 
 | 1 | 35 | Kansas City Breath Mints | 10 - 0 | San Francisco Lovers | 
+| 7 | 6 | San Francisco Lovers | 12 - 4 | New York Millennials | 
 | 3 | 32 | Dallas Steaks | 11 - 4 | San Francisco Lovers | 
 | 5 | 5 | San Francisco Lovers | 9 - 2 | New York Millennials | 
 | 2 | 37 | San Francisco Lovers | 8 - 1 | Hawaii Fridays | 
@@ -24,13 +25,12 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 88 | Unlimited Tacos | 8 - 2 | San Francisco Lovers | 
 | 1 | 31 | San Francisco Lovers | 7 - 1 | Kansas City Breath Mints | 
 | 2 | 10 | Yellowstone Magic | 7 - 1 | San Francisco Lovers | 
+| 7 | 109* | San Francisco Lovers | 7 - 1 | Baltimore Crabs | 
 | 1 | 19 | Kansas City Breath Mints | 6 - 0 | San Francisco Lovers | 
 | 6 | 71 | San Francisco Lovers | 6 - 0 | New York Millennials | 
+| 7 | 22 | Unlimited Tacos | 6 - 0 | San Francisco Lovers | 
 | 2 | 45 | San Francisco Lovers | 12 - 7 | Boston Flowers | 
 | 4 | 61 | Kansas City Breath Mints | 11 - 6 | San Francisco Lovers | 
-| 3 | 85 | Chicago Firefighters | 9 - 4 | San Francisco Lovers | 
-| 3 | 34 | San Francisco Lovers | 8 - 3 | Boston Flowers | 
-| 3 | 82 | Kansas City Breath Mints | 8 - 3 | San Francisco Lovers | 
-| 5 | 28 | Charleston Shoe Thieves | 8 - 3 | San Francisco Lovers | 
+| 7 | 98 | San Francisco Lovers | 10 - 5 | New York Millennials | 
 
 

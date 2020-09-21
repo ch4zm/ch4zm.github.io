@@ -1,5 +1,5 @@
 # Wild Wings Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -10,14 +10,21 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
 | Wild Wings                     | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
 | Wild Wings                     | 7          | 3          | 90, 91, 92, 93, 94, 95, 96 |
+| Wild Wings                     | 6          | 7          | 21, 22, 23, 24, 25, 26 |
+| Wild Wings                     | 6          | 7          | 64, 65, 66, 67, 68, 69 |
 | Wild Wings                     | 5          | 1          | 2, 3, 4, 5, 6 |
+| Wild Wings                     | 5          | 6          | 37, 38, 39, 40, 41 |
+| Wild Wings                     | 5          | 7          | 106, 107, 108, 110, 111 |
 | Wild Wings                     | 4          | 1          | 17, 18, 19, 20 |
 | Wild Wings                     | 4          | 2          | 3, 4, 5, 6 |
 | Wild Wings                     | 4          | 2          | 84, 85, 86, 87 |
 | Wild Wings                     | 4          | 5          | 16, 17, 18, 19 |
 | Wild Wings                     | 4          | 5          | 58, 59, 60, 61 |
+| Wild Wings                     | 4          | 6          | 70, 71, 72, 73 |
+| Wild Wings                     | 4          | 7          | 16, 17, 18, 19 |
 
 
 
@@ -28,6 +35,20 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Wild Wings versus all teams for all time
+
+| 8 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 99 |
+| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
+| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
+| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
+| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
+| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
+| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
+| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
+| G8: Season 7 Game 100: Wild Wings 5  @  4 Breath Mints |
+
+<br />
 
 | 7 Game Winning Streak by the Wild Wings |
 | ----- |
@@ -55,6 +76,30 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 20, 21, 22, 23, 24, 25 |
+| G1: Season 7 Game 21: Wild Wings 4  @  2 Moist Talkers |
+| G2: Season 7 Game 22: Pies 2  @  3 Wild Wings |
+| G3: Season 7 Game 23: Pies 2  @ 11 Wild Wings |
+| G4: Season 7 Game 24: Pies 2  @  3 Wild Wings |
+| G5: Season 7 Game 25: Wild Wings 4  @  2 Fridays |
+| G6: Season 7 Game 26: Wild Wings 8  @  3 Fridays |
+
+<br />
+
+| 6 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 63, 64, 65, 66, 67, 68 |
+| G1: Season 7 Game 64: Wild Wings 7  @  3 Fridays |
+| G2: Season 7 Game 65: Wild Wings 9  @  1 Fridays |
+| G3: Season 7 Game 66: Wild Wings 5  @  4 Fridays |
+| G4: Season 7 Game 67: Magic 4  @  9 Wild Wings |
+| G5: Season 7 Game 68: Magic 3  @  5 Wild Wings |
+| G6: Season 7 Game 69: Magic 6  @  7 Wild Wings |
+
+<br />
+
 | 5 Game Winning Streak by the Wild Wings |
 | ----- |
 | Season 1 Games 1, 2, 3, 4, 5 |
@@ -63,6 +108,28 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 1 Game 4: Wild Wings 6  @  2 Sunbeams |
 | G4: Season 1 Game 5: Wild Wings 7  @  6 Sunbeams |
 | G5: Season 1 Game 6: Wild Wings 6  @  2 Sunbeams |
+
+<br />
+
+| 5 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 6 Games 36, 37, 38, 39, 40 |
+| G1: Season 6 Game 37: Wild Wings 8  @  2 Magic |
+| G2: Season 6 Game 38: Wild Wings 4  @  2 Magic |
+| G3: Season 6 Game 39: Wild Wings 9  @  4 Magic |
+| G4: Season 6 Game 40: Wild Wings 3  @  2 Steaks |
+| G5: Season 6 Game 41: Wild Wings 7  @  5 Steaks |
+
+<br />
+
+| 5 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 105, 106, 107, 109, 110 |
+| G1: Season 7 Game 106: Garages 3  @  4 Wild Wings |
+| G2: Season 7 Game 107: Wild Wings 4  @  2 Garages |
+| G3: Season 7 Game 108: Garages 1  @  2 Wild Wings |
+| G4: Season 7 Game 110: Wild Wings 2  @  1 Lovers |
+| G5: Season 7 Game 111: Lovers 2  @  5 Wild Wings |
 
 <br />
 
@@ -113,6 +180,26 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 5 Game 59: Wild Wings 4  @  2 Spies |
 | G3: Season 5 Game 60: Wild Wings 8  @  2 Spies |
 | G4: Season 5 Game 61: Sunbeams 3  @  8 Wild Wings |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 6 Games 69, 70, 71, 72 |
+| G1: Season 6 Game 70: Wild Wings 3  @  2 Magic |
+| G2: Season 6 Game 71: Wild Wings 10 @  2 Magic |
+| G3: Season 6 Game 72: Wild Wings 10 @  4 Magic |
+| G4: Season 6 Game 73: Wild Wings 7  @  0 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 15, 16, 17, 18 |
+| G1: Season 7 Game 16: Wild Wings 11 @ 10 Moist Talkers |
+| G2: Season 7 Game 17: Wild Wings 7  @  0 Moist Talkers |
+| G3: Season 7 Game 18: Wild Wings 6  @  5 Moist Talkers |
+| G4: Season 7 Game 19: Wild Wings 9  @  2 Moist Talkers |
 
 
 

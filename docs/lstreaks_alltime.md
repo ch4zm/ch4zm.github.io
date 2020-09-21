@@ -1,5 +1,5 @@
 # All-Time Blaseball Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | Lovers                         | 16         | 2          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |
 | Tacos                          | 14         | 5          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
+| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 37 |
 | Dalé                           | 12         | 3          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
 | Spies                          | 11         | 4          | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 |
 | Spies                          | 11         | 5          | 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65 |
@@ -27,6 +28,8 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | Sunbeams                       | 9          | 5          | 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
+| Shoe Thieves                   | 9          | 7          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Flowers                        | 9          | 7          | 44, 45, 46, 47, 48, 49, 50, 51, 52 |
 | Tacos                          | 8          | 1          | 19, 20, 21, 22, 23, 24, 25, 26 |
 | Flowers                        | 8          | 1          | 62, 63, 64, 65, 66, 67, 68, 69 |
 | Crabs                          | 8          | 1          | 80, 81, 82, 83, 84, 85, 86, 87 |
@@ -37,6 +40,8 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | Pies                           | 8          | 5          | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Wild Wings                     | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Tacos                          | 8          | 5          | 75, 76, 77, 78, 79, 80, 81, 82 |
+| Pies                           | 8          | 7          | 38, 39, 40, 41, 42, 43, 44, 45 |
+| Flowers                        | 8          | 7          | 76, 77, 78, 79, 80, 81, 85, 86 |
 
 
 
@@ -107,6 +112,25 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G12: Season 6 Game 39: Fridays 3  @  4 Pies |
 | G13: Season 6 Game 40: Shoe Thieves 5  @  3 Fridays |
 | G14: Season 6 Game 41: Shoe Thieves 7  @  4 Fridays |
+
+<br />
+
+| 13 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36 |
+| G1: Season 7 Game 22: Millennials 10 @  6 Flowers |
+| G2: Season 7 Game 23: Millennials 7  @  4 Flowers |
+| G3: Season 7 Game 24: Millennials 5  @  2 Flowers |
+| G4: Season 7 Game 25: Firefighters 8  @  4 Flowers |
+| G5: Season 7 Game 26: Firefighters 9  @  0 Flowers |
+| G6: Season 7 Game 27: Firefighters 14 @  2 Flowers |
+| G7: Season 7 Game 28: Millennials 3  @  0 Flowers |
+| G8: Season 7 Game 29: Millennials 6  @  3 Flowers |
+| G9: Season 7 Game 30: Millennials 6  @  2 Flowers |
+| G10: Season 7 Game 31: Sunbeams 7  @  5 Flowers |
+| G11: Season 7 Game 32: Sunbeams 14 @  1 Flowers |
+| G12: Season 7 Game 33: Sunbeams 4  @  2 Flowers |
+| G13: Season 7 Game 37: Flowers 3  @  6 Firefighters |
 
 <br />
 
@@ -331,6 +355,36 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
+| 9 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 7 Games 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| G1: Season 7 Game 7: Moist Talkers 4  @  3 Shoe Thieves |
+| G2: Season 7 Game 8: Moist Talkers 4  @  3 Shoe Thieves |
+| G3: Season 7 Game 9: Moist Talkers 5  @  4 Shoe Thieves |
+| G4: Season 7 Game 10: Shoe Thieves 0  @  2 Breath Mints |
+| G5: Season 7 Game 11: Shoe Thieves 2  @  3 Breath Mints |
+| G6: Season 7 Game 12: Shoe Thieves 5  @  8 Breath Mints |
+| G7: Season 7 Game 13: Moist Talkers 7  @  4 Shoe Thieves |
+| G8: Season 7 Game 14: Moist Talkers 13 @  4 Shoe Thieves |
+| G9: Season 7 Game 15: Moist Talkers 8  @  0 Shoe Thieves |
+
+<br />
+
+| 9 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 43, 44, 45, 46, 47, 48, 49, 50, 51 |
+| G1: Season 7 Game 44: Sunbeams 6  @  3 Flowers |
+| G2: Season 7 Game 45: Sunbeams 8  @  6 Flowers |
+| G3: Season 7 Game 46: Crabs 6  @  2 Flowers |
+| G4: Season 7 Game 47: Crabs 8  @  5 Flowers |
+| G5: Season 7 Game 48: Crabs 13 @  6 Flowers |
+| G6: Season 7 Game 49: Flowers 1  @  5 Millennials |
+| G7: Season 7 Game 50: Flowers 2  @  7 Millennials |
+| G8: Season 7 Game 51: Flowers 3  @  5 Millennials |
+| G9: Season 7 Game 52: Spies 14 @  4 Flowers |
+
+<br />
+
 | 8 Game Losing Streak by the Tacos |
 | ----- |
 | Season 1 Games 18, 19, 20, 21, 22, 23, 24, 25 |
@@ -468,6 +522,34 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G6: Season 5 Game 80: Millennials 10 @  1 Tacos |
 | G7: Season 5 Game 81: Millennials 4  @  2 Tacos |
 | G8: Season 5 Game 82: Spies 7  @  6 Tacos |
+
+<br />
+
+| 8 Game Losing Streak by the Pies |
+| ----- |
+| Season 7 Games 37, 38, 39, 40, 41, 42, 43, 44 |
+| G1: Season 7 Game 38: Breath Mints 6  @  1 Pies |
+| G2: Season 7 Game 39: Breath Mints 3  @  2 Pies |
+| G3: Season 7 Game 40: Pies 3  @  5 Shoe Thieves |
+| G4: Season 7 Game 41: Pies 2  @  6 Shoe Thieves |
+| G5: Season 7 Game 42: Pies 3  @  8 Shoe Thieves |
+| G6: Season 7 Game 43: Magic 4  @  3 Pies |
+| G7: Season 7 Game 44: Magic 3  @  1 Pies |
+| G8: Season 7 Game 45: Magic 10 @  6 Pies |
+
+<br />
+
+| 8 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 75, 76, 77, 78, 79, 80, 84, 85 |
+| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
+| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
+| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
+| G4: Season 7 Game 79: Crabs 8  @  2 Flowers |
+| G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
+| G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
+| G7: Season 7 Game 85: Spies 3  @  1 Flowers |
+| G8: Season 7 Game 86: Spies 7  @  4 Flowers |
 
 
 

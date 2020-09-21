@@ -1,5 +1,5 @@
 # Steaks Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -23,6 +23,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 5          | 2          | 87, 88, 89, 90, 91 |
 | Steaks                         | 5          | 3          | 49, 50, 51, 52, 53 |
 | Steaks                         | 5          | 6          | 70, 71, 72, 73, 74 |
+| Steaks                         | 5          | 7          | 70, 71, 72, 73, 74 |
 | Steaks                         | 4          | 1          | 3, 4, 5, 6 |
 | Steaks                         | 4          | 1          | 85, 86, 87, 88 |
 | Steaks                         | 4          | 2          | 78, 79, 80, 81 |
@@ -35,6 +36,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 5          | 70, 71, 72, 73 |
 | Steaks                         | 4          | 5          | 97, 98, 99, 100 |
 | Steaks                         | 4          | 6          | 94, 95, 96, 97 |
+| Steaks                         | 4          | 7          | 58, 59, 60, 61 |
 
 
 
@@ -219,6 +221,17 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Steaks |
+| ----- |
+| Season 7 Games 69, 70, 71, 72, 73 |
+| G1: Season 7 Game 70: Steaks 9  @  7 Wild Wings |
+| G2: Season 7 Game 71: Steaks 15 @  2 Wild Wings |
+| G3: Season 7 Game 72: Steaks 11 @  9 Wild Wings |
+| G4: Season 7 Game 73: Steaks 12 @  7 Pies |
+| G5: Season 7 Game 74: Steaks 4  @  2 Pies |
+
+<br />
+
 | 4 Game Winning Streak by the Steaks |
 | ----- |
 | Season 1 Games 2, 3, 4, 5 |
@@ -336,6 +349,16 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 6 Game 95: Steaks 8  @  1 Moist Talkers |
 | G3: Season 6 Game 96: Steaks 2  @  0 Moist Talkers |
 | G4: Season 6 Game 97: Steaks 4  @  2 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Steaks |
+| ----- |
+| Season 7 Games 57, 58, 59, 60 |
+| G1: Season 7 Game 58: Wild Wings 3  @  6 Steaks |
+| G2: Season 7 Game 59: Wild Wings 3  @  5 Steaks |
+| G3: Season 7 Game 60: Wild Wings 1  @  3 Steaks |
+| G4: Season 7 Game 61: Shoe Thieves 0  @  3 Steaks |
 
 
 

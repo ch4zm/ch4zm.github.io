@@ -1,5 +1,5 @@
 # Blaseball Postseason Shutouts
-(Through season 6)
+(Through season 7)
 
 
 
@@ -10,17 +10,20 @@ Shutout games (games where the loser had zero runs) for all time (postseason onl
 | ------ |------ |------ |------ |------ |
 | 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
 | 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
+| 7 | 101* | Baltimore Crabs | 9 - 0 | New York Millennials | 
 | 2 | 102* | Charleston Shoe Thieves | 7 - 0 | Dallas Steaks | 
 | 5 | 113* | Chicago Firefighters | 6 - 0 | Breckenridge Jazz Hands | 
 | 1 | 107* | Philly Pies | 5 - 0 | Houston Spies | 
 | 2 | 104* | Boston Flowers | 4 - 0 | Chicago Firefighters | 
 | 6 | 100* | Baltimore Crabs | 4 - 0 | Boston Flowers | 
+| 7 | 103* | Charleston Shoe Thieves | 3 - 0 | Seattle Garages | 
 | 6 | 103* | Breckenridge Jazz Hands | 3 - 0 | San Francisco Lovers | 
-| 1 | 102* | Chicago Firefighters | 2 - 0 | Dallas Steaks | 
 | 3 | 103* | Hades Tigers | 2 - 0 | Breckenridge Jazz Hands | 
+| 7 | 103* | Mexico City Wild Wings | 2 - 0 | Kansas City Breath Mints | 
 | 4 | 106* | New York Millennials | 2 - 0 | Chicago Firefighters | 
-| 1 | 102* | Boston Flowers | 1 - 0 | Yellowstone Magic | 
-| 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
+| 1 | 102* | Chicago Firefighters | 2 - 0 | Dallas Steaks | 
 | 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
+| 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
+| 1 | 102* | Boston Flowers | 1 - 0 | Yellowstone Magic | 
 
 

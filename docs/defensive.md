@@ -22,6 +22,8 @@
 
 * [Season 6 Defensive Games](defensive_postseason.md)
 
+* [Season 7 Defensive Games](defensive_postseason.md)
+
 ## By Team
 
 * [Breath Mints Defensive Games Summary](defensive_team_breath_mints.md)

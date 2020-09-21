@@ -1,5 +1,5 @@
 # Garages Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -25,6 +25,7 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 2          | 40, 41, 42, 43 |
 | Garages                        | 4          | 3          | 71, 72, 73, 74 |
 | Garages                        | 4          | 3          | 95, 96, 97, 98 |
+| Garages                        | 4          | 7          | 17, 18, 19, 20 |
 
 
 
@@ -203,6 +204,16 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 3 Game 96: Spies 5  @  1 Garages |
 | G3: Season 3 Game 97: Garages 7  @  8 Spies |
 | G4: Season 3 Game 98: Garages 3  @  4 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 7 Games 16, 17, 18, 19 |
+| G1: Season 7 Game 17: Garages 2  @  6 Tigers |
+| G2: Season 7 Game 18: Garages 1  @  3 Tigers |
+| G3: Season 7 Game 19: Garages 1  @  6 Steaks |
+| G4: Season 7 Game 20: Garages 2  @  5 Steaks |
 
 
 

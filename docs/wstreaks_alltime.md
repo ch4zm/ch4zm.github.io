@@ -1,5 +1,5 @@
 # All-Time Blaseball Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Crabs                          | 21         | 6          | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
 | Crabs                          | 17         | 6          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Millennials                    | 14         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 |
+| Crabs                          | 13         | 7          | 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Tigers                         | 12         | 3          | 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Firefighters                   | 11         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 |
 | Crabs                          | 11         | 6          | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
@@ -30,6 +31,7 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Jazz Hands                     | 9          | 5          | 47, 48, 49, 50, 51, 52, 53, 54, 55 |
 | Crabs                          | 9          | 5          | 62, 63, 64, 65, 66, 67, 68, 69, 70 |
 | Tigers                         | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Crabs                          | 9          | 7          | 34, 35, 36, 37, 38, 39, 40, 41, 42 |
 | Steaks                         | 8          | 1          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Steaks                         | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Tigers                         | 8          | 2          | 5, 6, 7, 8, 9, 10, 11, 12 |
@@ -40,6 +42,9 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Firefighters                   | 8          | 4          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Breath Mints                   | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Firefighters                   | 8          | 6          | 87, 88, 89, 90, 91, 92, 93, 94 |
+| Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
+| Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
+| Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
 
 
 
@@ -118,6 +123,25 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G12: Season 5 Game 95: Millennials 14 @  6 Magic |
 | G13: Season 5 Game 96: Millennials 5  @  1 Magic |
 | G14: Season 5 Game 97: Dalé 3  @  6 Millennials |
+
+<br />
+
+| 13 Game Winning Streak by the Crabs |
+| ----- |
+| Season 7 Games 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88 |
+| G1: Season 7 Game 77: Crabs 5  @  2 Spies |
+| G2: Season 7 Game 78: Crabs 11 @  8 Spies |
+| G3: Season 7 Game 79: Crabs 8  @  2 Flowers |
+| G4: Season 7 Game 80: Crabs 6  @  3 Flowers |
+| G5: Season 7 Game 81: Crabs 12 @  4 Flowers |
+| G6: Season 7 Game 82: Crabs 11 @  2 Lovers |
+| G7: Season 7 Game 83: Crabs 7  @  6 Lovers |
+| G8: Season 7 Game 84: Crabs 10 @  2 Lovers |
+| G9: Season 7 Game 85: Firefighters 3  @  8 Crabs |
+| G10: Season 7 Game 86: Firefighters 0  @  1 Crabs |
+| G11: Season 7 Game 87: Firefighters 3  @  7 Crabs |
+| G12: Season 7 Game 88: Crabs 15 @  4 Jazz Hands |
+| G13: Season 7 Game 89: Crabs 9  @  6 Jazz Hands |
 
 <br />
 
@@ -386,6 +410,21 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
+| 9 Game Winning Streak by the Crabs |
+| ----- |
+| Season 7 Games 33, 34, 35, 36, 37, 38, 39, 40, 41 |
+| G1: Season 7 Game 34: Crabs 5  @  1 Pies |
+| G2: Season 7 Game 35: Crabs 4  @  0 Pies |
+| G3: Season 7 Game 36: Crabs 4  @  2 Pies |
+| G4: Season 7 Game 37: Crabs 12 @  6 Jazz Hands |
+| G5: Season 7 Game 38: Crabs 5  @  2 Jazz Hands |
+| G6: Season 7 Game 39: Crabs 3  @  1 Jazz Hands |
+| G7: Season 7 Game 40: Crabs 4  @  2 Millennials |
+| G8: Season 7 Game 41: Crabs 12 @  5 Millennials |
+| G9: Season 7 Game 42: Crabs 9  @  1 Millennials |
+
+<br />
+
 | 8 Game Winning Streak by the Steaks |
 | ----- |
 | Season 1 Games 35, 36, 37, 38, 39, 40, 41, 42 |
@@ -523,6 +562,48 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G6: Season 6 Game 92: Firefighters 14 @  0 Tacos |
 | G7: Season 6 Game 93: Firefighters 5  @  2 Tacos |
 | G8: Season 6 Game 94: Lovers 3  @  5 Firefighters |
+
+<br />
+
+| 8 Game Winning Streak by the Crabs |
+| ----- |
+| Season 7 Games 17, 18, 19, 20, 21, 22, 23, 24 |
+| G1: Season 7 Game 18: Crabs 7  @  5 Spies |
+| G2: Season 7 Game 19: Sunbeams 2  @  4 Crabs |
+| G3: Season 7 Game 20: Sunbeams 2  @  7 Crabs |
+| G4: Season 7 Game 21: Sunbeams 1  @  5 Crabs |
+| G5: Season 7 Game 22: Jazz Hands 2  @  6 Crabs |
+| G6: Season 7 Game 23: Jazz Hands 3  @  8 Crabs |
+| G7: Season 7 Game 24: Jazz Hands 1  @  5 Crabs |
+| G8: Season 7 Game 25: Crabs 6  @  4 Millennials |
+
+<br />
+
+| 8 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 7 Games 24, 25, 26, 27, 28, 29, 30, 31 |
+| G1: Season 7 Game 25: Magic 4  @  6 Shoe Thieves |
+| G2: Season 7 Game 26: Magic 1  @  4 Shoe Thieves |
+| G3: Season 7 Game 27: Magic 3  @  8 Shoe Thieves |
+| G4: Season 7 Game 28: Shoe Thieves 5  @  4 Tacos |
+| G5: Season 7 Game 29: Shoe Thieves 5  @  4 Tacos |
+| G6: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
+| G7: Season 7 Game 31: Wild Wings 3  @  4 Shoe Thieves |
+| G8: Season 7 Game 32: Wild Wings 3  @  5 Shoe Thieves |
+
+<br />
+
+| 8 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 99 |
+| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
+| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
+| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
+| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
+| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
+| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
+| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
+| G8: Season 7 Game 100: Wild Wings 5  @  4 Breath Mints |
 
 
 

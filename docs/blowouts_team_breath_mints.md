@@ -9,6 +9,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | ------ |------ |------ |------ |------ |
 | 3 | 96 | San Francisco Lovers | 23 - 12 | Kansas City Breath Mints | 
 | 3 | 57 | Kansas City Breath Mints | 21 - 16 | Charleston Shoe Thieves | 
+| 7 | 5 | Seattle Garages | 20 - 1 | Kansas City Breath Mints | 
 | 2 | 76 | Yellowstone Magic | 19 - 3 | Kansas City Breath Mints | 
 | 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 3 | 65 | Yellowstone Magic | 17 - 11 | Kansas City Breath Mints | 
@@ -29,8 +30,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 89 | Los Angeles Tacos | 13 - 3 | Kansas City Breath Mints | 
 | 3 | 5 | Charleston Shoe Thieves | 13 - 3 | Kansas City Breath Mints | 
 | 4 | 22 | Kansas City Breath Mints | 13 - 3 | Charleston Shoe Thieves | 
+| 7 | 78 | Kansas City Breath Mints | 13 - 3 | Canada Moist Talkers | 
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
-| 1 | 13 | Charleston Shoe Thieves | 13 - 6 | Kansas City Breath Mints | 
-| 1 | 98 | Kansas City Breath Mints | 13 - 7 | Boston Flowers | 
 
 

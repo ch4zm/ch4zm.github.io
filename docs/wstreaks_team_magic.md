@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 10         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Magic                          | 8          | 2          | 79, 80, 81, 82, 83, 84, 85, 86 |
 | Magic                          | 7          | 3          | 1, 2, 3, 4, 5, 6, 7 |
+| Magic                          | 7          | 7          | 42, 43, 44, 45, 46, 47, 48 |
 | Magic                          | 6          | 2          | 66, 67, 68, 69, 70, 71 |
 | Magic                          | 5          | 1          | 80, 81, 82, 83, 84 |
 | Magic                          | 5          | 1          | 87, 88, 89, 90, 91 |
@@ -81,6 +82,19 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G5: Season 3 Game 5: Magic 4  @  2 Fridays |
 | G6: Season 3 Game 6: Magic 5  @  4 Fridays |
 | G7: Season 3 Game 7: Lovers 2  @  3 Magic |
+
+<br />
+
+| 7 Game Winning Streak by the Magic |
+| ----- |
+| Season 7 Games 41, 42, 43, 44, 45, 46, 47 |
+| G1: Season 7 Game 42: Steaks 0  @  5 Magic |
+| G2: Season 7 Game 43: Magic 4  @  3 Pies |
+| G3: Season 7 Game 44: Magic 3  @  1 Pies |
+| G4: Season 7 Game 45: Magic 10 @  6 Pies |
+| G5: Season 7 Game 46: Wild Wings 6  @  7 Magic |
+| G6: Season 7 Game 47: Wild Wings 0  @  5 Magic |
+| G7: Season 7 Game 48: Wild Wings 3  @  9 Magic |
 
 <br />
 

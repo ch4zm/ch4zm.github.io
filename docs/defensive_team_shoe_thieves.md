@@ -16,6 +16,8 @@ Maxed out games (high-scoring one-run games) for all time for team Shoe Thieves 
 | 3 | 59 | Kansas City Breath Mints | 1 - 0 | Charleston Shoe Thieves | 
 | 6 | 8 | Charleston Shoe Thieves | 1 - 0 | Seattle Garages | 
 | 6 | 57 | San Francisco Lovers | 1 - 0 | Charleston Shoe Thieves | 
+| 7 | 37 | Yellowstone Magic | 1 - 0 | Charleston Shoe Thieves | 
+| 7 | 91 | Charleston Shoe Thieves | 1 - 0 | Philly Pies | 
 | 1 | 31 | Dallas Steaks | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 39 | Yellowstone Magic | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 47 | Boston Flowers | 2 - 1 | Charleston Shoe Thieves | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Shoe Thieves 
 | 4 | 63 | Charleston Shoe Thieves | 2 - 1 | Dallas Steaks | 
 | 5 | 34 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
 | 5 | 94 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
-| 6 | 21 | San Francisco Lovers | 2 - 1 | Charleston Shoe Thieves | 
-| 6 | 23 | Charleston Shoe Thieves | 2 - 1 | Canada Moist Talkers | 
 
 

@@ -8,6 +8,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 4 | 3 | Hawaii Fridays | 23 - 8 | Charleston Shoe Thieves | 
+| 7 | 89 | Hawaii Fridays | 19 - 8 | Charleston Shoe Thieves | 
 | 4 | 69 | Yellowstone Magic | 18 - 1 | Hawaii Fridays | 
 | 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 5 | 27 | Hawaii Fridays | 18 - 6 | Charleston Shoe Thieves | 
@@ -21,16 +22,15 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 13 | Hawaii Fridays | 14 - 5 | Boston Flowers | 
 | 4 | 72 | Yellowstone Magic | 14 - 8 | Hawaii Fridays | 
 | 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
+| 7 | 49 | Hawaii Fridays | 13 - 2 | Charleston Shoe Thieves | 
 | 5 | 62 | Boston Flowers | 13 - 3 | Hawaii Fridays | 
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
 | 3 | 15 | Boston Flowers | 13 - 6 | Hawaii Fridays | 
 | 2 | 4 | Chicago Firefighters | 13 - 8 | Hawaii Fridays | 
+| 7 | 17 | Philly Pies | 13 - 8 | Hawaii Fridays | 
 | 1 | 35 | Hawaii Fridays | 13 - 10 | Yellowstone Magic | 
 | 3 | 75 | Hawaii Fridays | 13 - 11 | Kansas City Breath Mints | 
 | 6 | 56 | Dallas Steaks | 13 - 11 | Hawaii Fridays | 
 | 6 | 92 | Seattle Garages | 12 - 0 | Hawaii Fridays | 
-| 2 | 74 | Los Angeles Tacos | 12 - 2 | Hawaii Fridays | 
-| 3 | 46 | Hawaii Fridays | 12 - 2 | Chicago Firefighters | 
-| 5 | 82 | Hawaii Fridays | 12 - 2 | Charleston Shoe Thieves | 
 
 

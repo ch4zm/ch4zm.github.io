@@ -8,7 +8,10 @@ Shame games (games where the loser was shamed) for all time for team Sunbeams (n
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 3 | 82 | Hades Tigers | 7 - 2 | Hellmouth Sunbeams | 
+| 7 | 12 | Chicago Firefighters | 5 - 1 | Hellmouth Sunbeams | 
+| 7 | 7 | San Francisco Lovers | 14 - 11 | Hellmouth Sunbeams | 
 | 2 | 91 | Chicago Firefighters | 11 - 8 | Hellmouth Sunbeams | 
+| 7 | 88 | Hellmouth Sunbeams | 8 - 5 | Miami Dale | 
 | 2 | 79 | Mexico City Wild Wings | 7 - 4 | Hellmouth Sunbeams | 
 | 5 | 8 | Hades Tigers | 7 - 4 | Hellmouth Sunbeams | 
 | 2 | 20 | Canada Moist Talkers | 6 - 3 | Hellmouth Sunbeams | 
@@ -17,20 +20,17 @@ Shame games (games where the loser was shamed) for all time for team Sunbeams (n
 | 3 | 79 | Baltimore Crabs | 10 - 8 | Hellmouth Sunbeams | 
 | 1 | 88 | Houston Spies | 8 - 6 | Moab Sunbeams | 
 | 3 | 75 | Hades Tigers | 8 - 6 | Hellmouth Sunbeams | 
+| 7 | 43 | Boston Flowers | 8 - 6 | Hellmouth Sunbeams | 
 | 5 | 65 | Breckenridge Jazz Hands | 7 - 5 | Hellmouth Sunbeams | 
+| 7 | 27 | Hellmouth Sunbeams | 6 - 4 | Houston Spies | 
+| 7 | 60 | Houston Spies | 6 - 4 | Hellmouth Sunbeams | 
+| 7 | 78 | Hellmouth Sunbeams | 6 - 4 | Boston Flowers | 
+| 7 | 82 | New York Millennials | 6 - 4 | Hellmouth Sunbeams | 
 | 2 | 57 | Canada Moist Talkers | 5 - 3 | Hellmouth Sunbeams | 
 | 3 | 52 | Hellmouth Sunbeams | 5 - 3 | Philly Pies | 
 | 3 | 86 | Canada Moist Talkers | 5 - 3 | Hellmouth Sunbeams | 
 | 4 | 51 | Hellmouth Sunbeams | 5 - 3 | Baltimore Crabs | 
 | 5 | 19 | Hades Tigers | 5 - 3 | Hellmouth Sunbeams | 
 | 5 | 32 | Seattle Garages | 5 - 3 | Hellmouth Sunbeams | 
-| 5 | 38 | Houston Spies | 5 - 3 | Hellmouth Sunbeams | 
-| 4 | 37 | Hellmouth Sunbeams | 4 - 2 | Baltimore Crabs | 
-| 4 | 56 | Philly Pies | 4 - 2 | Hellmouth Sunbeams | 
-| 6 | 66 | Hellmouth Sunbeams | 4 - 2 | Miami Dalé | 
-| 6 | 26 | Baltimore Crabs | 3 - 1 | Hellmouth Sunbeams | 
-| 1 | 84 | Miami Dalé | 9 - 8 | Moab Sunbeams | 
-| 4 | 28 | Dallas Steaks | 8 - 7 | Hellmouth Sunbeams | 
-| 3 | 26 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
 
 

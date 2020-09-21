@@ -12,6 +12,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 48 | Philly Pies | 12 - 3 | Baltimore Crabs | 
 | 1 | 98 | Philly Pies | 10 - 1 | Baltimore Crabs | 
 | 4 | 15 | Canada Moist Talkers | 10 - 1 | Baltimore Crabs | 
+| 7 | 9 | New York Millennials | 10 - 2 | Baltimore Crabs | 
+| 7 | 73 | Hellmouth Sunbeams | 10 - 2 | Baltimore Crabs | 
 | 4 | 69 | Miami Dalé | 9 - 1 | Baltimore Crabs | 
 | 5 | 61 | Philly Pies | 9 - 1 | Baltimore Crabs | 
 | 4 | 33 | Houston Spies | 8 - 0 | Baltimore Crabs | 
@@ -22,6 +24,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 36 | Canada Moist Talkers | 7 - 1 | Baltimore Crabs | 
 | 1 | 58 | Baltimore Crabs | 7 - 1 | Hades Tigers | 
 | 4 | 23 | Seattle Garages | 7 - 1 | Baltimore Crabs | 
+| 7 | 109* | San Francisco Lovers | 7 - 1 | Baltimore Crabs | 
 | 3 | 67 | Baltimore Crabs | 6 - 0 | Breckenridge Jazz Hands | 
 | 5 | 55 | Baltimore Crabs | 6 - 0 | Philly Pies | 
 | 4 | 44 | Houston Spies | 10 - 5 | Baltimore Crabs | 
@@ -29,8 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 16 | San Francisco Lovers | 7 - 2 | Baltimore Crabs | 
 | 1 | 99 | Philly Pies | 6 - 1 | Baltimore Crabs | 
 | 2 | 53 | Baltimore Crabs | 6 - 1 | Breckenridge Jazz Hands | 
-| 4 | 10 | Baltimore Crabs | 6 - 1 | Mexico City Wild Wings | 
-| 1 | 88 | Baltimore Crabs | 5 - 0 | Mexico City Wild Wings | 
-| 2 | 97 | Philly Pies | 5 - 0 | Baltimore Crabs | 
 
 

@@ -12,7 +12,7 @@ Maxed out games (high-scoring one-run games) for all time for team Magic (note: 
 | 4 | 24 | Hawaii Fridays | 9 - 8 | Yellowstone Magic | 
 | 5 | 41 | Unlimited Tacos | 9 - 8 | Yellowstone Magic | 
 | 5 | 92 | Yellowstone Magic | 9 - 8 | Hawaii Fridays | 
-| 6 | 79 | Yellowstone Magic | 9 - 8 | Mexico City Mild Wings | 
+| 6 | 79 | Yellowstone Magic | 9 - 8 | Mexico City Wild Wings | 
 | 1 | 14 | Los Angeles Tacos | 8 - 7 | Yellowstone Magic | 
 | 1 | 17 | Chicago Firefighters | 8 - 7 | Yellowstone Magic | 
 | 3 | 26 | Yellowstone Magic | 8 - 7 | New York Millennials | 
@@ -29,8 +29,8 @@ Maxed out games (high-scoring one-run games) for all time for team Magic (note: 
 | 5 | 33 | San Francisco Lovers | 7 - 6 | Yellowstone Magic | 
 | 6 | 87 | Yellowstone Magic | 7 - 6 | Hawaii Fridays | 
 | 6 | 88 | Hawaii Fridays | 7 - 6 | Yellowstone Magic | 
-| 1 | 1 | Yellowstone Magic | 6 - 5 | Chicago Firefighters | 
-| 1 | 30 | New York Millennials | 6 - 5 | Yellowstone Magic | 
-| 1 | 70 | Yellowstone Magic | 6 - 5 | Kansas City Breath Mints | 
+| 7 | 21 | Charleston Shoe Thieves | 7 - 6 | Yellowstone Magic | 
+| 7 | 23 | Yellowstone Magic | 7 - 6 | Seattle Garages | 
+| 7 | 46 | Yellowstone Magic | 7 - 6 | Mexico City Wild Wings | 
 
 

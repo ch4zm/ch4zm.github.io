@@ -14,9 +14,9 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
 | Moist Talkers                  | 7          | 6          | 1, 2, 3, 4, 5, 6, 7 |
-| Moist Talkers                  | 7          | 6          | 27, 28, 29, 30, 34, 35, 36 |
 | Spies                          | 7          | 6          | 50, 51, 52, 53, 54, 55, 56 |
 | Dalé                           | 7          | 6          | 69, 70, 71, 72, 73, 74, 75 |
+| Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
 
 
 
@@ -107,19 +107,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 
 <br />
 
-| 7 Game Losing Streak by the Moist Talkers |
-| ----- |
-| Season 6 Games 26, 27, 28, 29, 33, 34, 35 |
-| G1: Season 6 Game 27: Moist Talkers 3  @  8 Breath Mints |
-| G2: Season 6 Game 28: Moist Talkers 5  @  7 Breath Mints |
-| G3: Season 6 Game 29: Moist Talkers 2  @  4 Breath Mints |
-| G4: Season 6 Game 30: Moist Talkers 8  @ 15 Breath Mints |
-| G5: Season 6 Game 34: Moist Talkers 4  @  5 Magic |
-| G6: Season 6 Game 35: Moist Talkers 11 @ 15 Magic |
-| G7: Season 6 Game 36: Moist Talkers 4  @  5 Magic |
-
-<br />
-
 | 7 Game Losing Streak by the Spies |
 | ----- |
 | Season 6 Games 49, 50, 51, 52, 53, 54, 55 |
@@ -143,6 +130,19 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 | G5: Season 6 Game 73: Flowers 8  @  6 Dalé |
 | G6: Season 6 Game 74: Flowers 6  @  3 Dalé |
 | G7: Season 6 Game 75: Flowers 4  @  3 Dalé |
+
+<br />
+
+| 7 Game Losing Streak by the Fridays |
+| ----- |
+| Season 6 Games 88, 89, 90, 91, 92, 93, 94 |
+| G1: Season 6 Game 89: Magic 3  @  1 Fridays |
+| G2: Season 6 Game 90: Magic 4  @  2 Fridays |
+| G3: Season 6 Game 91: Fridays 7  @ 11 Garages |
+| G4: Season 6 Game 92: Fridays 0  @ 12 Garages |
+| G5: Season 6 Game 93: Fridays 1  @  4 Garages |
+| G6: Season 6 Game 94: Fridays 2  @  6 Wild Wings |
+| G7: Season 6 Game 95: Fridays 3  @  4 Wild Wings |
 
 
 

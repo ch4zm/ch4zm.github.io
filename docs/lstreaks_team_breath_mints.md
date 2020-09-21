@@ -1,5 +1,5 @@
 # Breath Mints Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -18,6 +18,7 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 5          | 2          | 22, 23, 24, 25, 26 |
 | Breath Mints                   | 5          | 3          | 27, 28, 29, 30, 31 |
 | Breath Mints                   | 5          | 4          | 27, 28, 29, 30, 31 |
+| Breath Mints                   | 5          | 7          | 33, 34, 35, 36, 37 |
 | Breath Mints                   | 4          | 1          | 15, 16, 17, 18 |
 | Breath Mints                   | 4          | 1          | 55, 56, 57, 58 |
 | Breath Mints                   | 4          | 2          | 16, 17, 18, 19 |
@@ -27,6 +28,8 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 4          | 3          | 68, 69, 70, 71 |
 | Breath Mints                   | 4          | 4          | 93, 94, 95, 96 |
 | Breath Mints                   | 4          | 5          | 80, 81, 82, 83 |
+| Breath Mints                   | 4          | 6          | 58, 59, 60, 61 |
+| Breath Mints                   | 4          | 7          | 4, 5, 6, 7 |
 
 
 
@@ -134,6 +137,17 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 32, 33, 34, 35, 36 |
+| G1: Season 7 Game 33: Steaks 7  @  3 Breath Mints |
+| G2: Season 7 Game 34: Garages 12 @  2 Breath Mints |
+| G3: Season 7 Game 35: Garages 10 @  4 Breath Mints |
+| G4: Season 7 Game 36: Garages 6  @  5 Breath Mints |
+| G5: Season 7 Game 37: Breath Mints 7  @  9 Pies |
+
+<br />
+
 | 4 Game Losing Streak by the Breath Mints |
 | ----- |
 | Season 1 Games 14, 15, 16, 17 |
@@ -221,6 +235,26 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G2: Season 5 Game 81: Breath Mints 3  @  4 Fridays |
 | G3: Season 5 Game 82: Breath Mints 4  @  6 Firefighters |
 | G4: Season 5 Game 83: Breath Mints 2  @  3 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 6 Games 57, 58, 59, 60 |
+| G1: Season 6 Game 58: Moist Talkers 2  @  1 Breath Mints |
+| G2: Season 6 Game 59: Moist Talkers 11 @  2 Breath Mints |
+| G3: Season 6 Game 60: Moist Talkers 4  @  2 Breath Mints |
+| G4: Season 6 Game 61: Wild Wings 5  @  3 Breath Mints |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 3, 4, 5, 6 |
+| G1: Season 7 Game 4: Breath Mints 0  @  9 Garages |
+| G2: Season 7 Game 5: Breath Mints 1  @ 20 Garages |
+| G3: Season 7 Game 6: Breath Mints 1  @  2 Garages |
+| G4: Season 7 Game 7: Garages 8  @  2 Breath Mints |
 
 
 

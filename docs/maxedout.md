@@ -22,6 +22,8 @@
 
 * [Season 6 Maxed Out](maxedout_postseason.md)
 
+* [Season 7 Maxed Out](maxedout_postseason.md)
+
 ## By Team
 
 * [Breath Mints Maxed Out Summary](maxedout_team_breath_mints.md)

@@ -8,6 +8,7 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 5 | 24 | Baltimore Crabs | 9 - 8 | Miami Dalé | 
+| 7 | 28 | Hellmouth Sunbeams | 9 - 8 | Baltimore Crabs | 
 | 2 | 9 | Baltimore Crabs | 8 - 7 | Mexico City Wild Wings | 
 | 3 | 62 | Baltimore Crabs | 8 - 7 | Hellmouth Sunbeams | 
 | 3 | 92 | Seattle Garages | 8 - 7 | Baltimore Crabs | 
@@ -24,13 +25,12 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | 5 | 62 | Baltimore Crabs | 7 - 6 | Philly Pies | 
 | 5 | 68 | Baltimore Crabs | 7 - 6 | Mexico City Wild Wings | 
 | 6 | 9 | Baltimore Crabs | 7 - 6 | New York Millennials | 
+| 7 | 83 | Baltimore Crabs | 7 - 6 | San Francisco Lovers | 
+| 7 | 105* | San Francisco Lovers | 7 - 6 | Baltimore Crabs | 
 | 2 | 18 | Hawaii Fridays | 6 - 5 | Baltimore Crabs | 
 | 2 | 30 | Houston Spies | 6 - 5 | Baltimore Crabs | 
 | 2 | 35 | Baltimore Crabs | 6 - 5 | Seattle Garages | 
 | 2 | 70 | Seattle Garages | 6 - 5 | Baltimore Crabs | 
 | 3 | 17 | San Francisco Lovers | 6 - 5 | Baltimore Crabs | 
-| 3 | 23 | Baltimore Crabs | 6 - 5 | Philly Pies | 
-| 3 | 60 | Baltimore Crabs | 6 - 5 | Hellmouth Sunbeams | 
-| 3 | 93 | Baltimore Crabs | 6 - 5 | Seattle Garages | 
 
 

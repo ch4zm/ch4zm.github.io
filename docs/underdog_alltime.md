@@ -1,5 +1,5 @@
 # All-Time Underdog Wins
-(Through season 6)
+(Through season 7)
 
 ## Summary
 
@@ -14,6 +14,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 55 | Hawaii Fridays | 17 - 2 | New York Millennials | 
 | 5 | 70 | Hellmouth Sunbeams | 17 - 2 | New York Millennials | 
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
+| 7 | 16 | Seattle Garages | 18 - 4 | Hades Tigers | 
 | 5 | 34 | Seattle Garages | 17 - 3 | Houston Spies | 
 | 1 | 82 | Seattle Garages | 14 - 0 | Mexico City Wild Wings | 
 | 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
@@ -25,6 +26,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 45 | Breckenridge Jazz Hands | 13 - 0 | Hellmouth Sunbeams | 
 | 2 | 75 | Boston Flowers | 14 - 2 | Yellowstone Magic | 
 | 2 | 35 | Canada Moist Talkers | 13 - 1 | Hades Tigers | 
+| 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
+| 7 | 89 | Hawaii Fridays | 19 - 8 | Charleston Shoe Thieves | 
 | 1 | 96 | Chicago Firefighters | 15 - 4 | Yellowstone Magic | 
 | 2 | 18 | New York Millennials | 15 - 4 | Boston Flowers | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
@@ -32,8 +35,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 5 | Breckenridge Jazz Hands | 14 - 3 | Canada Moist Talkers | 
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 1 | 52 | Houston Spies | 13 - 2 | Miami Dalé | 
-| 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
-| 3 | 26 | Kansas City Breath Mints | 12 - 1 | San Francisco Lovers | 
-| 1 | 96 | Breckenridge Jazz Hands | 15 - 5 | Moab Sunbeams | 
 
 

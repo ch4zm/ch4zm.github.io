@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -20,6 +20,7 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Firefighters                   | 6          | 2          | 12, 13, 14, 15, 16, 17 |
 | Firefighters                   | 6          | 4          | 25, 26, 27, 28, 29, 30 |
+| Firefighters                   | 6          | 7          | 22, 23, 24, 25, 26, 27 |
 | Firefighters                   | 5          | 1          | 57, 58, 59, 60, 61 |
 | Firefighters                   | 5          | 2          | 19, 20, 21, 22, 23 |
 | Firefighters                   | 5          | 3          | 82, 83, 84, 85, 86 |
@@ -38,6 +39,8 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 5          | 75, 76, 77, 78 |
 | Firefighters                   | 4          | 5          | 85, 86, 87, 88 |
 | Firefighters                   | 4          | 6          | 25, 26, 27, 28 |
+| Firefighters                   | 4          | 7          | 9, 10, 11, 12 |
+| Firefighters                   | 4          | 7          | 59, 60, 61, 62 |
 
 
 
@@ -178,6 +181,18 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G4: Season 4 Game 28: Firefighters 4  @  2 Breath Mints |
 | G5: Season 4 Game 29: Firefighters 12 @  0 Breath Mints |
 | G6: Season 4 Game 30: Firefighters 4  @  3 Breath Mints |
+
+<br />
+
+| 6 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 7 Games 21, 22, 23, 24, 25, 26 |
+| G1: Season 7 Game 22: Firefighters 5  @  2 Spies |
+| G2: Season 7 Game 23: Firefighters 4  @  3 Spies |
+| G3: Season 7 Game 24: Firefighters 9  @  1 Spies |
+| G4: Season 7 Game 25: Firefighters 8  @  4 Flowers |
+| G5: Season 7 Game 26: Firefighters 9  @  0 Flowers |
+| G6: Season 7 Game 27: Firefighters 14 @  2 Flowers |
 
 <br />
 
@@ -361,6 +376,26 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 6 Game 26: Firefighters 7  @  2 Tacos |
 | G3: Season 6 Game 27: Firefighters 7  @  1 Tacos |
 | G4: Season 6 Game 28: Crabs 2  @  4 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 7 Games 8, 9, 10, 11 |
+| G1: Season 7 Game 9: Firefighters 10 @  4 Jazz Hands |
+| G2: Season 7 Game 10: Sunbeams 2  @  8 Firefighters |
+| G3: Season 7 Game 11: Sunbeams 2  @  9 Firefighters |
+| G4: Season 7 Game 12: Sunbeams 1  @  5 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 7 Games 58, 59, 60, 61 |
+| G1: Season 7 Game 59: Firefighters 10 @  8 Jazz Hands |
+| G2: Season 7 Game 60: Firefighters 7  @  5 Jazz Hands |
+| G3: Season 7 Game 61: Millennials 4  @ 14 Firefighters |
+| G4: Season 7 Game 62: Millennials 1  @  6 Firefighters |
 
 
 

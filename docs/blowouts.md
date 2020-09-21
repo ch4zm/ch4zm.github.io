@@ -22,6 +22,8 @@
 
 * [Season 6 Blowouts](blowouts_postseason.md)
 
+* [Season 7 Blowouts](blowouts_postseason.md)
+
 ## By Team
 
 * [Breath Mints Blowouts Summary](blowouts_team_breath_mints.md)

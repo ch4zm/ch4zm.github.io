@@ -1,5 +1,5 @@
 # Dale Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 

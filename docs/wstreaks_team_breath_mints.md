@@ -1,5 +1,5 @@
 # Breath Mints Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -11,21 +11,27 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Breath Mints                   | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
+| Breath Mints                   | 7          | 6          | 64, 65, 66, 67, 68, 69, 70 |
 | Breath Mints                   | 6          | 1          | 74, 75, 76, 77, 78, 79 |
 | Breath Mints                   | 6          | 2          | 40, 41, 42, 43, 44, 45 |
 | Breath Mints                   | 6          | 5          | 13, 14, 15, 16, 17, 18 |
 | Breath Mints                   | 6          | 6          | 27, 28, 29, 30, 31, 32 |
+| Breath Mints                   | 6          | 7          | 8, 9, 10, 11, 12, 13 |
 | Breath Mints                   | 5          | 1          | 84, 85, 86, 87, 88 |
 | Breath Mints                   | 5          | 3          | 16, 17, 18, 19, 20 |
 | Breath Mints                   | 5          | 4          | 64, 65, 66, 67, 68 |
 | Breath Mints                   | 5          | 6          | 14, 15, 16, 17, 18 |
 | Breath Mints                   | 5          | 6          | 74, 75, 76, 77, 78 |
+| Breath Mints                   | 5          | 7          | 47, 48, 49, 50, 51 |
 | Breath Mints                   | 4          | 1          | 19, 20, 21, 22 |
 | Breath Mints                   | 4          | 3          | 7, 8, 9, 10 |
 | Breath Mints                   | 4          | 4          | 35, 36, 37, 38 |
 | Breath Mints                   | 4          | 4          | 40, 41, 42, 43 |
 | Breath Mints                   | 4          | 5          | 27, 28, 29, 30 |
-| Breath Mints                   | 4          | 6          | 64, 65, 66, 70 |
+| Breath Mints                   | 4          | 7          | 27, 28, 29, 30 |
+| Breath Mints                   | 4          | 7          | 75, 76, 77, 78 |
+| Breath Mints                   | 4          | 7          | 88, 89, 90, 91 |
+| Breath Mints                   | 4          | 7          | 93, 94, 95, 96 |
 
 
 
@@ -48,6 +54,19 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G6: Season 5 Game 51: Tacos 1  @ 16 Breath Mints |
 | G7: Season 5 Game 52: Tacos 3  @ 10 Breath Mints |
 | G8: Season 5 Game 53: Tacos 0  @  4 Breath Mints |
+
+<br />
+
+| 7 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 6 Games 63, 64, 65, 66, 67, 68, 69 |
+| G1: Season 6 Game 64: Fridays 6  @  7 Breath Mints |
+| G2: Season 6 Game 65: Fridays 2  @  6 Breath Mints |
+| G3: Season 6 Game 66: Fridays 7  @  8 Breath Mints |
+| G4: Season 6 Game 67: Breath Mints 7  @  0 Wild Wings |
+| G5: Season 6 Game 68: Breath Mints 7  @  3 Wild Wings |
+| G6: Season 6 Game 69: Breath Mints 3  @  0 Wild Wings |
+| G7: Season 6 Game 70: Fridays 4  @  6 Breath Mints |
 
 <br />
 
@@ -96,6 +115,18 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G4: Season 6 Game 30: Moist Talkers 8  @ 15 Breath Mints |
 | G5: Season 6 Game 31: Breath Mints 9  @  1 Garages |
 | G6: Season 6 Game 32: Breath Mints 8  @  2 Garages |
+
+<br />
+
+| 6 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 7, 8, 9, 10, 11, 12 |
+| G1: Season 7 Game 8: Garages 6  @ 11 Breath Mints |
+| G2: Season 7 Game 9: Garages 0  @  5 Breath Mints |
+| G3: Season 7 Game 10: Shoe Thieves 0  @  2 Breath Mints |
+| G4: Season 7 Game 11: Shoe Thieves 2  @  3 Breath Mints |
+| G5: Season 7 Game 12: Shoe Thieves 5  @  8 Breath Mints |
+| G6: Season 7 Game 13: Breath Mints 5  @  2 Spies |
 
 <br />
 
@@ -154,6 +185,17 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 
 <br />
 
+| 5 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 46, 47, 48, 49, 50 |
+| G1: Season 7 Game 47: Moist Talkers 2  @  5 Breath Mints |
+| G2: Season 7 Game 48: Moist Talkers 5  @  7 Breath Mints |
+| G3: Season 7 Game 49: Moist Talkers 1  @  2 Breath Mints |
+| G4: Season 7 Game 50: Moist Talkers 5  @  8 Breath Mints |
+| G5: Season 7 Game 51: Moist Talkers 2  @  3 Breath Mints |
+
+<br />
+
 | 4 Game Winning Streak by the Breath Mints |
 | ----- |
 | Season 1 Games 18, 19, 20, 21 |
@@ -206,11 +248,41 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 
 | 4 Game Winning Streak by the Breath Mints |
 | ----- |
-| Season 6 Games 63, 64, 65, 69 |
-| G1: Season 6 Game 64: Fridays 6  @  7 Breath Mints |
-| G2: Season 6 Game 65: Fridays 2  @  6 Breath Mints |
-| G3: Season 6 Game 66: Fridays 7  @  8 Breath Mints |
-| G4: Season 6 Game 70: Fridays 4  @  6 Breath Mints |
+| Season 7 Games 26, 27, 28, 29 |
+| G1: Season 7 Game 27: Breath Mints 7  @  5 Steaks |
+| G2: Season 7 Game 28: Firefighters 6  @  7 Breath Mints |
+| G3: Season 7 Game 29: Firefighters 2  @  3 Breath Mints |
+| G4: Season 7 Game 30: Firefighters 7  @ 11 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 74, 75, 76, 77 |
+| G1: Season 7 Game 75: Breath Mints 3  @  2 Wild Wings |
+| G2: Season 7 Game 76: Breath Mints 5  @  3 Moist Talkers |
+| G3: Season 7 Game 77: Breath Mints 9  @  6 Moist Talkers |
+| G4: Season 7 Game 78: Breath Mints 13 @  3 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 87, 88, 89, 90 |
+| G1: Season 7 Game 88: Pies 3  @  4 Breath Mints |
+| G2: Season 7 Game 89: Pies 1  @  3 Breath Mints |
+| G3: Season 7 Game 90: Pies 4  @ 10 Breath Mints |
+| G4: Season 7 Game 91: Fridays 1  @  3 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 7 Games 92, 93, 94, 95 |
+| G1: Season 7 Game 93: Fridays 2  @  8 Breath Mints |
+| G2: Season 7 Game 94: Garages 1  @  4 Breath Mints |
+| G3: Season 7 Game 95: Garages 2  @  5 Breath Mints |
+| G4: Season 7 Game 96: Garages 4  @  5 Breath Mints |
 
 
 

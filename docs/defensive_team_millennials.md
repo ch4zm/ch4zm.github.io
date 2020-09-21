@@ -26,11 +26,11 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 5 | 49 | New York Millennials | 2 - 1 | Boston Flowers | 
 | 6 | 1 | New York Millennials | 2 - 1 | San Francisco Lovers | 
 | 6 | 82 | New York Millennials | 2 - 1 | Charleston Shoe Thieves | 
+| 7 | 14 | New York Millennials | 2 - 1 | Hawaii Fridays | 
+| 7 | 35 | Unlimited Tacos | 2 - 1 | New York Millennials | 
+| 7 | 91 | New York Millennials | 2 - 1 | Houston Spies | 
+| 7 | 96 | Houston Spies | 2 - 1 | New York Millennials | 
 | 1 | 4 | Charleston Shoe Thieves | 3 - 2 | New York Millennials | 
 | 1 | 38 | Los Angeles Tacos | 3 - 2 | New York Millennials | 
-| 1 | 50 | Yellowstone Magic | 3 - 2 | New York Millennials | 
-| 1 | 64 | Charleston Shoe Thieves | 3 - 2 | New York Millennials | 
-| 1 | 92 | New York Millennials | 3 - 2 | Hawaii Fridays | 
-| 2 | 45 | New York Millennials | 3 - 2 | Chicago Firefighters | 
 
 

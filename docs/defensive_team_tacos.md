@@ -14,6 +14,7 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 3 | 64 | San Francisco Lovers | 1 - 0 | Los Angeles Tacos | 
 | 4 | 12 | Unlimited Tacos | 1 - 0 | Kansas City Breath Mints | 
 | 6 | 8 | Houston Spies | 1 - 0 | Unlimited Tacos | 
+| 7 | 87 | Unlimited Tacos | 1 - 0 | Hellmouth Sunbeams | 
 | 1 | 39 | New York Millennials | 2 - 1 | Los Angeles Tacos | 
 | 1 | 54 | San Francisco Lovers | 2 - 1 | Los Angeles Tacos | 
 | 1 | 70 | Boston Flowers | 2 - 1 | Los Angeles Tacos | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 3 | 86 | Dallas Steaks | 2 - 1 | Los Angeles Tacos | 
 | 4 | 37 | Unlimited Tacos | 2 - 1 | San Francisco Lovers | 
 | 4 | 44 | Unlimited Tacos | 2 - 1 | Dallas Steaks | 
-| 4 | 51 | Dallas Steaks | 2 - 1 | Unlimited Tacos | 
 
 

@@ -15,7 +15,7 @@ Maxed out games (high-scoring one-run games) for season 6 for all teams (note: a
 | 6 | 67 | Hellmouth Sunbeams | 9 - 8 | Chicago Firefighters | 
 | 6 | 69 | Canada Moist Talkers | 9 - 8 | Hades Tigers | 
 | 6 | 71 | Boston Flowers | 9 - 8 | Breckenridge Jazz Hands | 
-| 6 | 79 | Yellowstone Magic | 9 - 8 | Mexico City Mild Wings | 
+| 6 | 79 | Yellowstone Magic | 9 - 8 | Mexico City Wild Wings | 
 | 6 | 11 | Chicago Firefighters | 8 - 7 | Breckenridge Jazz Hands | 
 | 6 | 16 | New York Millennials | 8 - 7 | Breckenridge Jazz Hands | 
 | 6 | 21 | Hawaii Fridays | 8 - 7 | Unlimited Tacos | 
@@ -29,7 +29,7 @@ Maxed out games (high-scoring one-run games) for season 6 for all teams (note: a
 | 6 | 87 | Baltimore Crabs | 8 - 7 | San Francisco Lovers | 
 | 6 | 88 | Canada Moist Talkers | 8 - 7 | Kansas City Breath Mints | 
 | 6 | 91 | Boston Flowers | 8 - 7 | Hellmouth Sunbeams | 
-| 6 | 6 | Seattle Garages | 7 - 6 | Mexico City Mild Wings | 
+| 6 | 6 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
 | 6 | 7 | Miami Dalé | 7 - 6 | San Francisco Lovers | 
 | 6 | 9 | Baltimore Crabs | 7 - 6 | New York Millennials | 
 

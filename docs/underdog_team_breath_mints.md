@@ -10,9 +10,11 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
 | 3 | 26 | Kansas City Breath Mints | 12 - 1 | San Francisco Lovers | 
 | 1 | 89 | Los Angeles Tacos | 13 - 3 | Kansas City Breath Mints | 
+| 7 | 34 | Seattle Garages | 12 - 2 | Kansas City Breath Mints | 
 | 1 | 35 | Kansas City Breath Mints | 10 - 0 | San Francisco Lovers | 
 | 3 | 43 | Kansas City Breath Mints | 12 - 3 | Seattle Garages | 
 | 6 | 59 | Canada Moist Talkers | 11 - 2 | Kansas City Breath Mints | 
+| 7 | 4 | Seattle Garages | 9 - 0 | Kansas City Breath Mints | 
 | 1 | 6 | Kansas City Breath Mints | 12 - 4 | Los Angeles Tacos | 
 | 2 | 52 | Kansas City Breath Mints | 12 - 4 | Charleston Shoe Thieves | 
 | 2 | 12 | Kansas City Breath Mints | 9 - 1 | Los Angeles Tacos | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 53 | Seattle Garages | 8 - 1 | Kansas City Breath Mints | 
 | 6 | 79 | Charleston Shoe Thieves | 8 - 1 | Kansas City Breath Mints | 
 | 2 | 94 | Chicago Firefighters | 7 - 0 | Kansas City Breath Mints | 
-| 4 | 17 | Kansas City Breath Mints | 7 - 0 | Dallas Steaks | 
-| 6 | 71 | Hawaii Fridays | 7 - 0 | Kansas City Breath Mints | 
 
 

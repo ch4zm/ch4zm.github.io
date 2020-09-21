@@ -1,5 +1,5 @@
 # Tacos Winning Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -15,6 +15,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 1          | 49, 50, 51, 52 |
 | Tacos                          | 4          | 2          | 44, 45, 46, 47 |
 | Tacos                          | 4          | 6          | 53, 54, 55, 56 |
+| Tacos                          | 4          | 7          | 86, 87, 88, 89 |
 
 
 
@@ -75,6 +76,16 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 6 Game 54: Tacos 4  @  1 Sunbeams |
 | G3: Season 6 Game 55: Firefighters 5  @  6 Tacos |
 | G4: Season 6 Game 56: Firefighters 1  @  7 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
+| Season 7 Games 85, 86, 87, 88 |
+| G1: Season 7 Game 86: Tacos 9  @  8 Sunbeams |
+| G2: Season 7 Game 87: Tacos 1  @  0 Sunbeams |
+| G3: Season 7 Game 88: Spies 4  @  8 Tacos |
+| G4: Season 7 Game 89: Spies 3  @  5 Tacos |
 
 
 

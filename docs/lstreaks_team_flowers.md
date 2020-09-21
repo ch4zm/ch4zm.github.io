@@ -1,5 +1,5 @@
 # Flowers Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -10,8 +10,12 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 37 |
+| Flowers                        | 9          | 7          | 44, 45, 46, 47, 48, 49, 50, 51, 52 |
 | Flowers                        | 8          | 1          | 62, 63, 64, 65, 66, 67, 68, 69 |
+| Flowers                        | 8          | 7          | 76, 77, 78, 79, 80, 81, 85, 86 |
 | Flowers                        | 7          | 3          | 52, 53, 54, 55, 56, 57, 58 |
+| Flowers                        | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
 | Flowers                        | 6          | 3          | 45, 46, 47, 48, 49, 50 |
 | Flowers                        | 6          | 4          | 33, 34, 35, 36, 37, 38 |
 | Flowers                        | 6          | 4          | 58, 59, 60, 61, 62, 63 |
@@ -32,6 +36,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 5          | 41, 42, 43, 44 |
 | Flowers                        | 4          | 5          | 70, 71, 72, 73 |
 | Flowers                        | 4          | 6          | 29, 30, 31, 32 |
+| Flowers                        | 4          | 7          | 11, 12, 13, 14 |
 
 
 
@@ -42,6 +47,40 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Flowers versus all teams for all time
+
+| 13 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36 |
+| G1: Season 7 Game 22: Millennials 10 @  6 Flowers |
+| G2: Season 7 Game 23: Millennials 7  @  4 Flowers |
+| G3: Season 7 Game 24: Millennials 5  @  2 Flowers |
+| G4: Season 7 Game 25: Firefighters 8  @  4 Flowers |
+| G5: Season 7 Game 26: Firefighters 9  @  0 Flowers |
+| G6: Season 7 Game 27: Firefighters 14 @  2 Flowers |
+| G7: Season 7 Game 28: Millennials 3  @  0 Flowers |
+| G8: Season 7 Game 29: Millennials 6  @  3 Flowers |
+| G9: Season 7 Game 30: Millennials 6  @  2 Flowers |
+| G10: Season 7 Game 31: Sunbeams 7  @  5 Flowers |
+| G11: Season 7 Game 32: Sunbeams 14 @  1 Flowers |
+| G12: Season 7 Game 33: Sunbeams 4  @  2 Flowers |
+| G13: Season 7 Game 37: Flowers 3  @  6 Firefighters |
+
+<br />
+
+| 9 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 43, 44, 45, 46, 47, 48, 49, 50, 51 |
+| G1: Season 7 Game 44: Sunbeams 6  @  3 Flowers |
+| G2: Season 7 Game 45: Sunbeams 8  @  6 Flowers |
+| G3: Season 7 Game 46: Crabs 6  @  2 Flowers |
+| G4: Season 7 Game 47: Crabs 8  @  5 Flowers |
+| G5: Season 7 Game 48: Crabs 13 @  6 Flowers |
+| G6: Season 7 Game 49: Flowers 1  @  5 Millennials |
+| G7: Season 7 Game 50: Flowers 2  @  7 Millennials |
+| G8: Season 7 Game 51: Flowers 3  @  5 Millennials |
+| G9: Season 7 Game 52: Spies 14 @  4 Flowers |
+
+<br />
 
 | 8 Game Losing Streak by the Flowers |
 | ----- |
@@ -57,6 +96,20 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 
 <br />
 
+| 8 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 75, 76, 77, 78, 79, 80, 84, 85 |
+| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
+| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
+| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
+| G4: Season 7 Game 79: Crabs 8  @  2 Flowers |
+| G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
+| G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
+| G7: Season 7 Game 85: Spies 3  @  1 Flowers |
+| G8: Season 7 Game 86: Spies 7  @  4 Flowers |
+
+<br />
+
 | 7 Game Losing Streak by the Flowers |
 | ----- |
 | Season 3 Games 51, 52, 53, 54, 55, 56, 57 |
@@ -67,6 +120,19 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G5: Season 3 Game 56: Flowers 2  @  3 Magic |
 | G6: Season 3 Game 57: Flowers 4  @  7 Magic |
 | G7: Season 3 Game 58: Lovers 4  @  1 Flowers |
+
+<br />
+
+| 7 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 65, 66, 67, 68, 69, 70, 71 |
+| G1: Season 7 Game 66: Spies 7  @  4 Flowers |
+| G2: Season 7 Game 67: Flowers 1  @  4 Crabs |
+| G3: Season 7 Game 68: Flowers 0  @  8 Crabs |
+| G4: Season 7 Game 69: Flowers 2  @  5 Crabs |
+| G5: Season 7 Game 70: Spies 5  @  3 Flowers |
+| G6: Season 7 Game 71: Spies 3  @  1 Flowers |
+| G7: Season 7 Game 72: Spies 11 @  6 Flowers |
 
 <br />
 
@@ -277,6 +343,16 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 6 Game 30: Sunbeams 6  @  1 Flowers |
 | G3: Season 6 Game 31: Lovers 6  @  1 Flowers |
 | G4: Season 6 Game 32: Lovers 5  @  2 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 10, 11, 12, 13 |
+| G1: Season 7 Game 11: Pies 9  @  3 Flowers |
+| G2: Season 7 Game 12: Pies 6  @  2 Flowers |
+| G3: Season 7 Game 13: Crabs 4  @  1 Flowers |
+| G4: Season 7 Game 14: Crabs 8  @  0 Flowers |
 
 
 

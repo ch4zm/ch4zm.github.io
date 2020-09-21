@@ -1,5 +1,5 @@
 # Lovers Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -18,6 +18,7 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 2          | 79, 80, 81, 82, 83 |
 | Lovers                         | 5          | 2          | 91, 92, 93, 94, 95 |
 | Lovers                         | 5          | 3          | 82, 83, 84, 85, 86 |
+| Lovers                         | 5          | 7          | 82, 83, 84, 85, 86 |
 | Lovers                         | 4          | 1          | 19, 20, 21, 22 |
 | Lovers                         | 4          | 1          | 24, 25, 26, 27 |
 | Lovers                         | 4          | 1          | 74, 75, 76, 77 |
@@ -141,6 +142,17 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 3 Game 84: Lovers 2  @  6 Breath Mints |
 | G4: Season 3 Game 85: Lovers 4  @  9 Firefighters |
 | G5: Season 3 Game 86: Lovers 1  @  2 Firefighters |
+
+<br />
+
+| 5 Game Losing Streak by the Lovers |
+| ----- |
+| Season 7 Games 81, 82, 83, 84, 85 |
+| G1: Season 7 Game 82: Crabs 11 @  2 Lovers |
+| G2: Season 7 Game 83: Crabs 7  @  6 Lovers |
+| G3: Season 7 Game 84: Crabs 10 @  2 Lovers |
+| G4: Season 7 Game 85: Millennials 6  @  0 Lovers |
+| G5: Season 7 Game 86: Millennials 4  @  3 Lovers |
 
 <br />
 

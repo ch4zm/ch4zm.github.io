@@ -13,11 +13,12 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 5 | 72 | Miami Dalé | 13 - 3 | Yellowstone Magic | 
 | 1 | 65 | Yellowstone Magic | 12 - 3 | Hawaii Fridays | 
+| 7 | 9 | Hawaii Fridays | 10 - 1 | Yellowstone Magic | 
 | 2 | 22 | Yellowstone Magic | 15 - 7 | Mexico City Wild Wings | 
 | 6 | 48 | Yellowstone Magic | 11 - 3 | Seattle Garages | 
 | 2 | 24 | Yellowstone Magic | 10 - 2 | Mexico City Wild Wings | 
 | 2 | 42 | Yellowstone Magic | 10 - 2 | Chicago Firefighters | 
-| 6 | 71 | Mexico City Mild Wings | 10 - 2 | Yellowstone Magic | 
+| 6 | 71 | Mexico City Wild Wings | 10 - 2 | Yellowstone Magic | 
 | 6 | 44 | Seattle Garages | 8 - 0 | Yellowstone Magic | 
 | 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
 | 4 | 51 | Hawaii Fridays | 11 - 4 | Yellowstone Magic | 
@@ -30,7 +31,6 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 97 | Boston Flowers | 15 - 9 | Yellowstone Magic | 
 | 1 | 37 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 6 | 15 | Yellowstone Magic | 13 - 7 | Charleston Shoe Thieves | 
-| 1 | 79 | New York Millennials | 11 - 5 | Yellowstone Magic | 
-| 2 | 17 | Hades Tigers | 11 - 5 | Yellowstone Magic | 
+| 7 | 94 | Charleston Shoe Thieves | 13 - 7 | Yellowstone Magic | 
 
 

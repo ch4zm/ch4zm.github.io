@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -25,6 +25,9 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 4          | 5          | 14, 15, 16, 17 |
 | Firefighters                   | 4          | 5          | 33, 34, 35, 36 |
 | Firefighters                   | 4          | 6          | 83, 84, 85, 86 |
+| Firefighters                   | 4          | 7          | 28, 29, 30, 31 |
+| Firefighters                   | 4          | 7          | 68, 69, 70, 71 |
+| Firefighters                   | 4          | 7          | 89, 90, 91, 92 |
 
 
 
@@ -195,6 +198,36 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G2: Season 6 Game 84: Lovers 4  @  2 Firefighters |
 | G3: Season 6 Game 85: Firefighters 2  @  4 Sunbeams |
 | G4: Season 6 Game 86: Firefighters 4  @  5 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 7 Games 27, 28, 29, 30 |
+| G1: Season 7 Game 28: Firefighters 6  @  7 Breath Mints |
+| G2: Season 7 Game 29: Firefighters 2  @  3 Breath Mints |
+| G3: Season 7 Game 30: Firefighters 7  @ 11 Breath Mints |
+| G4: Season 7 Game 31: Firefighters 2  @  6 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 7 Games 67, 68, 69, 70 |
+| G1: Season 7 Game 68: Lovers 7  @  5 Firefighters |
+| G2: Season 7 Game 69: Lovers 7  @  5 Firefighters |
+| G3: Season 7 Game 70: Lovers 5  @  3 Firefighters |
+| G4: Season 7 Game 71: Lovers 1  @  0 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 7 Games 88, 89, 90, 91 |
+| G1: Season 7 Game 89: Firefighters 5  @ 10 Millennials |
+| G2: Season 7 Game 90: Firefighters 5  @  6 Millennials |
+| G3: Season 7 Game 91: Firefighters 3  @  5 Crabs |
+| G4: Season 7 Game 92: Firefighters 2  @  3 Crabs |
 
 
 

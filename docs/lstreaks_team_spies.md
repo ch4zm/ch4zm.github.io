@@ -1,5 +1,5 @@
 # Spies Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -15,6 +15,7 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 10         | 4          | 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 |
 | Spies                          | 7          | 6          | 50, 51, 52, 53, 54, 55, 56 |
 | Spies                          | 6          | 2          | 2, 3, 4, 5, 6, 7 |
+| Spies                          | 6          | 7          | 40, 41, 42, 43, 44, 45 |
 | Spies                          | 5          | 1          | 32, 33, 34, 35, 36 |
 | Spies                          | 5          | 1          | 83, 84, 85, 86, 87 |
 | Spies                          | 5          | 6          | 19, 20, 21, 22, 23 |
@@ -32,6 +33,7 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 4          | 3, 4, 5, 6 |
 | Spies                          | 4          | 5          | 23, 24, 25, 26 |
 | Spies                          | 4          | 6          | 64, 65, 66, 67 |
+| Spies                          | 4          | 7          | 18, 22, 23, 24 |
 
 
 
@@ -115,6 +117,18 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G4: Season 2 Game 5: Wild Wings 7  @  0 Spies |
 | G5: Season 2 Game 6: Wild Wings 3  @  2 Spies |
 | G6: Season 2 Game 7: Spies 0  @  4 Garages |
+
+<br />
+
+| 6 Game Losing Streak by the Spies |
+| ----- |
+| Season 7 Games 39, 40, 41, 42, 43, 44 |
+| G1: Season 7 Game 40: Jazz Hands 8  @  3 Spies |
+| G2: Season 7 Game 41: Jazz Hands 3  @  2 Spies |
+| G3: Season 7 Game 42: Jazz Hands 10 @  5 Spies |
+| G4: Season 7 Game 43: Millennials 9  @  4 Spies |
+| G5: Season 7 Game 44: Millennials 5  @  2 Spies |
+| G6: Season 7 Game 45: Millennials 5  @  4 Spies |
 
 <br />
 
@@ -291,6 +305,16 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 6 Game 65: Lovers 5  @  4 Spies |
 | G3: Season 6 Game 66: Lovers 8  @  1 Spies |
 | G4: Season 6 Game 67: Lovers 3  @  1 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
+| Season 7 Games 17, 21, 22, 23 |
+| G1: Season 7 Game 18: Crabs 7  @  5 Spies |
+| G2: Season 7 Game 22: Firefighters 5  @  2 Spies |
+| G3: Season 7 Game 23: Firefighters 4  @  3 Spies |
+| G4: Season 7 Game 24: Firefighters 9  @  1 Spies |
 
 
 

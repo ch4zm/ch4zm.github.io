@@ -8,6 +8,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 2 | 38 | Seattle Garages | 20 - 2 | Los Angeles Tacos | 
+| 7 | 59 | Unlimited Tacos | 19 - 5 | Boston Flowers | 
 | 4 | 35 | Dallas Steaks | 17 - 12 | Unlimited Tacos | 
 | 3 | 73 | Charleston Shoe Thieves | 17 - 14 | Los Angeles Tacos | 
 | 5 | 51 | Kansas City Breath Mints | 16 - 1 | Unlimited Tacos | 
@@ -25,12 +26,11 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 99 | Los Angeles Tacos | 13 - 5 | Dallas Steaks | 
 | 2 | 99 | Yellowstone Magic | 13 - 6 | Los Angeles Tacos | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
+| 7 | 61 | Breckenridge Jazz Hands | 12 - 0 | Unlimited Tacos | 
 | 5 | 25 | San Francisco Lovers | 12 - 1 | Unlimited Tacos | 
 | 5 | 39 | Chicago Firefighters | 12 - 1 | Unlimited Tacos | 
 | 6 | 82 | Seattle Garages | 12 - 1 | Unlimited Tacos | 
 | 1 | 69 | Los Angeles Tacos | 12 - 2 | San Francisco Lovers | 
 | 2 | 74 | Los Angeles Tacos | 12 - 2 | Hawaii Fridays | 
-| 3 | 80 | Yellowstone Magic | 12 - 2 | Los Angeles Tacos | 
-| 3 | 81 | Yellowstone Magic | 12 - 2 | Los Angeles Tacos | 
 
 

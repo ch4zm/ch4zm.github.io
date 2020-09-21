@@ -1,5 +1,5 @@
 # Tacos Losing Streaks
-(Through season 6)
+(Through season 7)
 ## Summary
 
 
@@ -40,6 +40,10 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 6          | 60, 61, 62, 63 |
 | Tacos                          | 4          | 6          | 65, 66, 67, 68 |
 | Tacos                          | 4          | 6          | 81, 82, 83, 84 |
+| Tacos                          | 4          | 7          | 8, 9, 10, 11 |
+| Tacos                          | 4          | 7          | 24, 28, 29, 30 |
+| Tacos                          | 4          | 7          | 67, 68, 69, 73 |
+| Tacos                          | 4          | 7          | 90, 91, 92, 93 |
 
 
 
@@ -416,6 +420,46 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 6 Game 82: Tacos 1  @ 12 Garages |
 | G3: Season 6 Game 83: Tacos 1  @  5 Garages |
 | G4: Season 6 Game 84: Tacos 4  @  5 Garages |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 7, 8, 9, 10 |
+| G1: Season 7 Game 8: Tacos 1  @  7 Spies |
+| G2: Season 7 Game 9: Tacos 2  @  3 Spies |
+| G3: Season 7 Game 10: Tacos 3  @  4 Jazz Hands |
+| G4: Season 7 Game 11: Tacos 1  @  2 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 23, 27, 28, 29 |
+| G1: Season 7 Game 24: Tacos 2  @  3 Lovers |
+| G2: Season 7 Game 28: Shoe Thieves 5  @  4 Tacos |
+| G3: Season 7 Game 29: Shoe Thieves 5  @  4 Tacos |
+| G4: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 66, 67, 68, 72 |
+| G1: Season 7 Game 67: Millennials 2  @  0 Tacos |
+| G2: Season 7 Game 68: Millennials 6  @  3 Tacos |
+| G3: Season 7 Game 69: Millennials 5  @  2 Tacos |
+| G4: Season 7 Game 73: Tacos 2  @  9 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 89, 90, 91, 92 |
+| G1: Season 7 Game 90: Spies 9  @  2 Tacos |
+| G2: Season 7 Game 91: Tacos 0  @  2 Flowers |
+| G3: Season 7 Game 92: Tacos 8  @ 11 Flowers |
+| G4: Season 7 Game 93: Tacos 5  @ 10 Flowers |
 
 
 

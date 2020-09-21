@@ -18,9 +18,12 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 3 | 34 | Kansas City Breath Mints | 5 - 2 | Dallas Steaks | 
 | 1 | 75 | Kansas City Breath Mints | 10 - 8 | San Francisco Lovers | 
 | 1 | 23 | San Francisco Lovers | 9 - 7 | Kansas City Breath Mints | 
+| 7 | 37 | Philly Pies | 9 - 7 | Kansas City Breath Mints | 
 | 6 | 24 | Kansas City Breath Mints | 8 - 6 | Yellowstone Magic | 
+| 7 | 45 | Kansas City Breath Mints | 8 - 6 | Hawaii Fridays | 
 | 1 | 46 | Chicago Firefighters | 7 - 5 | Kansas City Breath Mints | 
 | 3 | 42 | Kansas City Breath Mints | 7 - 5 | Boston Flowers | 
+| 7 | 48 | Kansas City Breath Mints | 7 - 5 | Canada Moist Talkers | 
 | 3 | 93 | Kansas City Breath Mints | 6 - 4 | Chicago Firefighters | 
 | 1 | 34 | San Francisco Lovers | 5 - 3 | Kansas City Breath Mints | 
 | 5 | 49 | Kansas City Breath Mints | 4 - 2 | Unlimited Tacos | 
@@ -29,8 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 6 | 88 | Canada Moist Talkers | 8 - 7 | Kansas City Breath Mints | 
 | 2 | 97 | New York Millennials | 7 - 6 | Kansas City Breath Mints | 
 | 3 | 52 | Charleston Shoe Thieves | 7 - 6 | Kansas City Breath Mints | 
-| 5 | 99 | Kansas City Breath Mints | 7 - 6 | Boston Flowers | 
-| 6 | 64 | Kansas City Breath Mints | 7 - 6 | Hawaii Fridays | 
-| 1 | 54 | Kansas City Breath Mints | 6 - 5 | Charleston Shoe Thieves | 
 
 

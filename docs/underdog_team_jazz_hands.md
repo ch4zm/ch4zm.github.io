@@ -16,6 +16,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 59 | Miami Dalé | 13 - 3 | Breckenridge Jazz Hands | 
 | 1 | 86 | Breckenridge Jazz Hands | 12 - 2 | Mexico City Wild Wings | 
 | 3 | 84 | Philly Pies | 11 - 1 | Breckenridge Jazz Hands | 
+| 7 | 73 | Breckenridge Jazz Hands | 13 - 4 | New York Millennials | 
 | 1 | 15 | Breckenridge Jazz Hands | 11 - 2 | Miami Dalé | 
 | 5 | 94 | Houston Spies | 11 - 2 | Breckenridge Jazz Hands | 
 | 6 | 27 | Breckenridge Jazz Hands | 13 - 5 | New York Millennials | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 21 | Houston Spies | 10 - 4 | Breckenridge Jazz Hands | 
 | 4 | 20 | Philly Pies | 10 - 4 | Breckenridge Jazz Hands | 
 | 6 | 3 | Unlimited Tacos | 10 - 4 | Breckenridge Jazz Hands | 
-| 1 | 97 | Canada Moist Talkers | 9 - 3 | Breckenridge Jazz Hands | 
 
 
