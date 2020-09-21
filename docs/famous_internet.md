@@ -2,8 +2,10 @@
 
 ## Synopsis
 
-The incineration of Emmett Internet occurred on Season 5 Day 91. It was the bottom of the 5th inning, Spears Taylor
-batting for the Tigers. The count was 1 and 2. Internet was replaced by Sutton Bishop.
+The incineration of Emmett Internet occurred on Season 5 Day 91. It was the bottom of the 5th inning,
+and Spears Taylor was batting for the Tigers. In the season prior, Spears Taylor had been feedback swapped
+from the Philly Pies to the Hades Tigers. The count on Taylor was 1-2 when Internet was incinerated.
+Internet was replaced by Sutton Bishop.
 
 ## Game Summary
 
