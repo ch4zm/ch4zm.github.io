@@ -87,6 +87,7 @@ nav:
   - Interesting Games:
     - Shutouts:
       - All Time Shutouts: shutouts_alltime.md
+      - Postseason Shutouts: shutouts_postseason.md
       - Shutouts by Season:
         - Season 1 Shutouts: shutouts_season1.md
         - Season 2 Shutouts: shutouts_season2.md
@@ -116,9 +117,9 @@ nav:
         - Tacos Shutouts: shutouts_team_tacos.md
         - Tigers Shutouts: shutouts_team_tigers.md
         - Wild Wings Shutouts: shutouts_team_wild_wings.md
-      - Postseason Shutouts: shutouts_postseason.md
     - Blowouts:
       - All Time Blowouts: blowouts_alltime.md
+      - Postseason Blowouts: blowouts_postseason.md
       - Blowouts by Season:
         - Season 1 Blowouts: blowouts_season1.md
         - Season 2 Blowouts: blowouts_season2.md
@@ -148,9 +149,9 @@ nav:
         - Tacos Blowouts: blowouts_team_tacos.md
         - Tigers Blowouts: blowouts_team_tigers.md
         - Wild Wings Blowouts: blowouts_team_wild_wings.md
-      - Postseason Blowouts: blowouts_postseason.md
     - Underdog Wins:
       - All Time Underdog Wins: underdog_alltime.md
+      - Postseason Underdog Wins: underdog_postseason.md
       - Underdog Wins by Season:
         - Season 1 Underdog Wins: underdog_season1.md
         - Season 2 Underdog Wins: underdog_season2.md
@@ -180,9 +181,9 @@ nav:
         - Tacos Underdog Wins: underdog_team_tacos.md
         - Tigers Underdog Wins: underdog_team_tigers.md
         - Wild Wings Underdog Wins: underdog_team_wild_wings.md
-      - Postseason Underdog Wins: underdog_postseason.md
     - Shame Games:
       - All Time Shame Games: shame_alltime.md
+      - Postseason Shame Games: shame_postseason.md
       - Shame Games by Season:
         - Season 1 Shame Games: shame_season1.md
         - Season 2 Shame Games: shame_season2.md
@@ -212,9 +213,9 @@ nav:
         - Tacos Shame Games: shame_team_tacos.md
         - Tigers Shame Games: shame_team_tigers.md
         - Wild Wings Shame Games: shame_team_wild_wings.md
-      - Postseason Shame Games: shame_postseason.md
     - Maxed Out Games:
       - All Time Maxed Out Games: maxedout_alltime.md
+      - Postseason Maxed Out Games: maxedout_postseason.md
       - Maxed Out Games by Season:
         - Season 1 Maxed Out Games: maxedout_season1.md
         - Season 2 Maxed Out Games: maxedout_season2.md
@@ -244,9 +245,9 @@ nav:
         - Tacos Maxed Out Games: maxedout_team_tacos.md
         - Tigers Maxed Out Games: maxedout_team_tigers.md
         - Wild Wings Maxed Out Games: maxedout_team_wild_wings.md
-      - Postseason Maxed Out Games: maxedout_postseason.md
     - Defensive Games:
       - All Time Defensive Games: defensive_alltime.md
+      - Postseason Defensive Games: defensive_postseason.md
       - Defensive Games by Season:
         - Season 1 Defensive Games: defensive_season1.md
         - Season 2 Defensive Games: defensive_season2.md
@@ -276,7 +277,6 @@ nav:
         - Tacos Defensive Games: defensive_team_tacos.md
         - Tigers Defensive Games: defensive_team_tigers.md
         - Wild Wings Defensive Games: defensive_team_wild_wings.md
-      - Postseason Defensive Games: defensive_postseason.md
 
 docs_dir: docs
 site_dir: site
