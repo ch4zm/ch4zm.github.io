@@ -300,6 +300,10 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://ch4zm.github.io/shutouts_postseason/</loc>
+     <lastmod>2020-09-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://ch4zm.github.io/shutouts_season1/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
@@ -408,11 +412,11 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/shutouts_postseason/</loc>
+     <loc>https://ch4zm.github.io/blowouts_alltime/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/blowouts_alltime/</loc>
+     <loc>https://ch4zm.github.io/blowouts_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -524,11 +528,11 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/blowouts_postseason/</loc>
+     <loc>https://ch4zm.github.io/underdog_alltime/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/underdog_alltime/</loc>
+     <loc>https://ch4zm.github.io/underdog_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -640,11 +644,11 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/underdog_postseason/</loc>
+     <loc>https://ch4zm.github.io/shame_alltime/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/shame_alltime/</loc>
+     <loc>https://ch4zm.github.io/shame_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -756,11 +760,11 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/shame_postseason/</loc>
+     <loc>https://ch4zm.github.io/maxedout_alltime/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/maxedout_alltime/</loc>
+     <loc>https://ch4zm.github.io/maxedout_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -872,11 +876,11 @@
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/maxedout_postseason/</loc>
+     <loc>https://ch4zm.github.io/defensive_alltime/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ch4zm.github.io/defensive_alltime/</loc>
+     <loc>https://ch4zm.github.io/defensive_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -985,10 +989,6 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ch4zm.github.io/defensive_team_wild_wings/</loc>
-     <lastmod>2020-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://ch4zm.github.io/defensive_postseason/</loc>
      <lastmod>2020-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
