@@ -45,6 +45,7 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 6 <br />HR: Justice Spoon (1) <br />3B: Joshua Butt (1) <br />1B: Thomas Kirby (2), Swamuel Mora (2) <br />BB: Isaac Johnson (2) <br />K: Declan Suzanne (2) <br />LOB: 5 |
 
+
 | Team Summary: Jazz Hands |
 | --- |
 | **Batting:** |

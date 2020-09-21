@@ -47,6 +47,7 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 3 <br />HR: Fitzgerald Blackburn (1) <br />3B: Comfort Septemberish (1) <br />1B: Reese Clark (2) <br />BB: Marco Escobar (2) <br />SAC: Fitzgerald Blackburn (1) <br />LOB: 4 |
 
+
 | Team Summary: Jazz Hands |
 | --- |
 | **Batting:** |

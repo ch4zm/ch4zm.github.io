@@ -45,6 +45,7 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 7 <br />HR: Elijah Bates (1) <br />3B: Hobbs Cain (2), Workman Gloom (1) <br />2B: Jesús Koch (1) <br />1B: Richmond Harrison (2) <br />K: Simon Haley (5), Richmond Harrison (2), Hobbs Cain (2), Elijah Bates (2) <br />SAC: Lachlan Shelton (1) <br />LOB: 5 |
 
+
 | Team Summary: Tigers |
 | --- |
 | **Batting:** |

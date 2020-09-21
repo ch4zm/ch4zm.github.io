@@ -51,6 +51,7 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 8 <br />HR: Moody Cookbook (1), Randy Castillo (1) <br />3B: Peanutiel Duffy (1), Mclaughlin Scorpler (1) <br />2B: Spears Taylor (2) <br />1B: Randy Castillo (2) <br />BB: Zion Aliciakeyes (2) <br />SAC: Moody Cookbook (1) <br />LOB: 7 |
 
+
 | Team Summary: Dalé |
 | --- |
 | **Batting:** |

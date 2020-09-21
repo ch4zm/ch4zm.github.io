@@ -42,6 +42,7 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 1 <br />HR: Margarito Nava (1) <br />2B: Gloria Bugsnax (1), Moses Mason (1) <br />LOB: 5 |
 
+
 | Team Summary: Millennials |
 | --- |
 | **Batting:** |

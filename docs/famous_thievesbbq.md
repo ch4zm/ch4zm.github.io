@@ -44,6 +44,7 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 7 <br />HR: Antonio Wallace (1) <br />3B: Ren Hunter (1) <br />1B: Morrow Doyle (2), Stu Trololol (2), Esme Ramsey (2) <br />BB: Workman Gloom (2) <br />K: Antonio Wallace (2) <br />SAC: Velasquez Alstott (1) <br />LOB: 5 |
 
+
 | Team Summary: Steaks |
 | --- |
 | **Batting:** |

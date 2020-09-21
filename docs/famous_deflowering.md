@@ -44,6 +44,7 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 0 <br />K: Jorge Ito (2), Margarito Nava (2), Matheo Carpenter (2) <br />LOB: 2 |
 
+
 | Team Summary: Shoe Thieves |
 | --- |
 | **Batting:** |

@@ -42,6 +42,7 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 12 <br />HR: Nerd Pacheco (1) <br />2B: Alaynabella Hollywood (1), Nagomi Nava (1), Nerd Pacheco (1) <br />1B: Igneus Delacruz (3), Randall Marijuana (3) <br />LOB: 6 |
 
+
 | Team Summary: Tigers |
 | --- |
 | **Batting:** |

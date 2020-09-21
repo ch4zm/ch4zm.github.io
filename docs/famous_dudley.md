@@ -50,6 +50,7 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 10 <br />HR: Blood Hamburger (1) <br />3B: Hotbox Sato (1) <br />2B: Hotbox Sato (1), Velasquez Alstott (1) <br />1B: Antonio Wallace (2), Sebastian Woodman (2), Joe Voorhees (2), Esme Ramsey (2) <br />K: Stu Trololol (2) <br />SAC: Blood Hamburger (1) <br />LOB: 5 |
 
+
 | Team Summary: Millennials |
 | --- |
 | **Batting:** |

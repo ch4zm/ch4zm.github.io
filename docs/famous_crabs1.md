@@ -42,6 +42,7 @@ Weather: Bloddrain
 | **Batting:** |
 | RBI: 5 <br />HR: Nerd Pacheco (1) <br />2B: Malik Romayne (1), Randall Marijuana (1) <br />1B: Igneus Delacruz (2), Nerd Pacheco (2) <br />LOB: 9 |
 
+
 | Team Summary: Crabs |
 | --- |
 | **Batting:** |

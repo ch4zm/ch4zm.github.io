@@ -48,6 +48,7 @@ Weather: Lots of Birds
 | **Batting:** |
 | RBI: 20 <br />HR: Helga Burton (2), Kichiro Guerra (1), Kennedy Meh (1) <br />3B: Helga Moreno (1), Kichiro Guerra (1) <br />1B: Theo King (2), Sigmund Castillo (2), Knight Urlacher (2) <br />BB: Helga Moreno (3), Don Mitchell (2), Theo King (2) <br />SAC: Helga Burton (1) <br />LOB: 9 |
 
+
 | Team Summary: Shoe Thieves |
 | --- |
 | **Batting:** |

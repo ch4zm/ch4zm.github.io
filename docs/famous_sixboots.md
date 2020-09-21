@@ -42,6 +42,7 @@ Weather: Feedback
 | **Batting:** |
 | RBI: 14 <br />HR: Joe Voorhees (2), Antonio Wallace (1) <br />3B: Stu Trololol (1), Hotbox Sato (1) <br />2B: Velasquez Alstott (2), Richardson Games (1), Stu Trololol (1) <br />1B: Sebastian Woodman (3), Hotbox Sato (2) <br />K: Antonio Wallace (2) <br />SAC: Sebastian Woodman (1) <br />LOB: 4 |
 
+
 | Team Summary: Firefighters |
 | --- |
 | **Batting:** |
