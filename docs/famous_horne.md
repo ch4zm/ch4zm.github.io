@@ -16,44 +16,46 @@ This game summary was generated with
 [game-finder](https://github.com/ch4zm/blaseball-game-finder) and
 [game-summary](https://github.com/ch4zm/blaseball-game-summary).
 
-Game ID: b3653d53-4314-43ea-8c0b-1fe367867d66
+Game ID: d3a64071-03a6-4c0f-a308-29af8195eb2e
 
-Season 5 Day 76:
+Season 3 Day 90:
 
-Hades Tigers @ Miami Dalé
+Hades Tigers @ Mexico City Wild Wings
 
-Worldwide Field, Miami
+The Bucket, Mexico City
 
-Weather: Reverb
+Weather: Solar Eclipse
 
 
 
 |  | R | H | E |
 | --- | --- | --- | --- |
-| Tigers |   8 |  12 |   0 | 
-| Dalé |   3 |   7 |   0 | 
+| Tigers |   3 |   5 |   0 | 
+| Wild Wings |   4 |   8 |   0 | 
 
 
 |  |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  R | H | E |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tigers |   0 |   3 |   0 |   0 |   0 |   0 |   0 |   2 |   3 |   8 |  12 |   0 | 
-| Dalé |   0 |   1 |   0 |   0 |   0 |   1 |   0 |   0 |   1 |   3 |   7 |   0 | 
+| Tigers |   0 |   0 |   0 |   0 |   3 |   0 |   0 |   0 |   0 |   3 |   5 |   0 | 
+| Wild Wings |   0 |   0 |   0 |   0 |   0 |   1 |   0 |   3 |   0 |   4 |   8 |   0 | 
 
 
 | Pitching Summary |
 | --- |
-| **Winning Pitcher**: Nagomi Meng<br />KK: 7<br />BB: 2 |
-| **Losing Pitcher**: Sixpack Santiago<br />KK: 3<br />BB: 4 |
+| **Winning Pitcher**: Silvia Rugrat<br />KK: 8<br />BB: 0 |
+| **Losing Pitcher**: Famous Owens<br />KK: 3<br />BB: 1 |
 
 
 | Team Summary: Tigers |
 | --- |
 | **Batting:** |
-| RBI: 8 <br />HR: Moody Cookbook (1), Randy Castillo (1) <br />3B: Peanutiel Duffy (1), Mclaughlin Scorpler (1) <br />2B: Spears Taylor (2) <br />1B: Randy Castillo (2) <br />BB: Zion Aliciakeyes (2) <br />SAC: Moody Cookbook (1) <br />LOB: 7 |
+| RBI: 3 <br />HR: Ren Morin (1) <br />1B: Fish Summer (2) <br />K: Jessica Telephone (3) <br />GDP: Landry Violence (1) <br />LOB: 4 |
 
 
-| Team Summary: Dalé |
+| Team Summary: Wild Wings |
 | --- |
+| **Fielding:** |
+| DP: 1 |
 | **Batting:** |
-| RBI: 3 <br />HR: Hahn Fox (1) <br />3B: Logan Horseman (2) <br />1B: Raúl Leal (2) <br />K: Randy Dennis (2), Jasmine Washington (2), Caleb Novak (2) <br />SAC: Hahn Fox (1) <br />LOB: 4 |
+| RBI: 4 <br />HR: Summers Preston (1), Lawrence Horne (1) <br />2B: Sosa Hayes (1) <br />1B: Ronan Combs (2) <br />LOB: 4 |
 
