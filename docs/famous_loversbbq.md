@@ -43,6 +43,7 @@ Weather: Lots of Birds
 | **Batting:** |
 | RBI: 2 <br />HR: August Mina (1) <br />1B: Paula Mason (2) <br />K: Sam Scandal (2), Marco Stink (2) <br />SAC: Sebastian Telephone (1) <br />GDP: Summers Pony (1) <br />LOB: 4 |
 
+
 | Team Summary: Lovers |
 | --- |
 | **Fielding:** |
