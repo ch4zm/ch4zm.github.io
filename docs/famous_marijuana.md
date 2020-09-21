@@ -3,10 +3,12 @@
 ## Synopsis
 
 The incineration of Randall Marijuana occurred on Season 6 Day 84. Approximately 40 days prior, Randall was swapped
-to the Jazz Hands to Richard Hendrickson during feedback. It was the top of the 5th inning, Comfort Septemberish
-batting for the Spies. Septemberish had been swapped to the Spies from the Jazz Hands approximately 40 days prior.
-There was 1 out on the play. Randall Marijuana was replaced by Stephen Weeks. Septemberish hit a triple later in
-the at-bat, and was driven home on a sac fly by Fitzgerald Blackburn.
+from the Sunbeams to the Jazz Hands in exchange for Richard Hendrickson during a feedback game. During this game,
+in the top of the 5th inning, Comfort Septemberish came to the plate for the Spies. Septemberish, like Marijuana,
+had been feedback swapped (to the Spies from the Jazz Hands) approximately 40 days prior. Septemberish was batting
+with 1 out. Randall Marijuana was incinerated by a rogue umpire on an empty count, and was replaced by Stephen
+Weeks. Septemberish hit a triple later in the at-bat, and was driven home on a sac fly by Fitzgerald Blackburn.
+The Spies went on to win the game.
 
 ## Game Summary
 
