@@ -1,16 +1,4 @@
 # Game Summary for Incineration of Antonio Wallace
-2
-2
-3
-3
-3
-3
-4
-5
-6
-6
-6
-8
 
 Game ID: a4002683-9b4c-4dae-bbd4-44370d8dd17c
 
