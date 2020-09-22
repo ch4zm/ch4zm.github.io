@@ -62,7 +62,7 @@ while read row; do
     fi
 
     # Add page to TOC
-    echo "* [Season $season, Day $day - Incineration of $name]($mdfile)" >> $OUT
+    echo "* [Season $season, Day $day - Incineration of $name]($mdfilename)" >> $OUT
 
 done < $tmp
 rm -f $tmp
@@ -92,7 +92,7 @@ while read row; do
     mdfile="$ROOT_DIR/../docs/${mdfilename}"
 
     # Add page to TOC
-    echo "* [Incineration of $name - Season $season, Day $day]($mdfile)" >> $OUT
+    echo "* [Incineration of $name - Season $season, Day $day]($mdfilename)" >> $OUT
 
 done < $tmp
 rm -f $tmp
