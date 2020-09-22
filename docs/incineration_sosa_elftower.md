@@ -1,15 +1,4 @@
 # Game Summary for Incineration of Sosa Elftower
-0
-0
-0
-1
-2
-2
-2
-2
-2
-4
-4
 
 Game ID: 646a3d03-5304-4bfc-a4c0-8076e05077de
 

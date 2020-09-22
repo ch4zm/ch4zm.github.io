@@ -1,19 +1,4 @@
 # Game Summary for Incineration of Scrap Murphy
-0
-1
-1
-2
-3
-3
-3
-4
-5
-6
-7
-7
-7
-8
-8
 
 Game ID: 952ae23b-a4c9-4216-895f-fe9e0154afcf
 

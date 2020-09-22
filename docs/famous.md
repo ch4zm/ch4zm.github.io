@@ -20,7 +20,7 @@
 
 * [Season 5 Day 102 - Lovers over Steaks - THE LOVERS HAVE A BBQ](famous_loversbbq.md)
 
-* [Season 5 Day 113 - Firefighters vs Jazz Hands - FIREFIGHERS EXTINGUISH THE JAZZ HANDS](famous_extinguish.md)
+* [Season 5 Day 113 - Firefighters over Jazz Hands - FIREFIGHERS EXTINGUISH THE JAZZ HANDS](famous_extinguish.md)
 
 ## Season 6
 
@@ -56,3 +56,4 @@
 
 ## Season 7
 
+* [Season 7 Day 49 - Steaks over Tigers - STEAKS HAVE BBQED TIGER](famous_bbqedtiger.md)

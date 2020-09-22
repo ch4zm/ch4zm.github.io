@@ -1,14 +1,4 @@
 # Game Summary for Incineration of Elijah Bates
-0
-0
-1
-2
-3
-5
-6
-6
-6
-9
 
 Game ID: 4e3aadf4-ca4f-45c9-a258-446541939704
 

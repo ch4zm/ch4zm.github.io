@@ -1,11 +1,4 @@
 # Game Summary for Incineration of Tiana Cash
-1
-1
-2
-3
-3
-3
-4
 
 Game ID: 2762a0d1-d40f-4ff2-8647-eb91242a4b16
 

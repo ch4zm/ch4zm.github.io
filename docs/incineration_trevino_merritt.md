@@ -1,11 +1,4 @@
 # Game Summary for Incineration of Trevino Merritt
-0
-0
-5
-5
-7
-7
-8
 
 Game ID: bd6d87c3-5b20-4d3a-8492-1d03f0406c51
 

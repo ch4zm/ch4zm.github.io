@@ -1,9 +1,4 @@
 # Game Summary for Incineration of Natha Kath
-1
-1
-1
-2
-7
 
 Game ID: 18d02dba-8cc3-4d56-b947-8d74a4b7e572
 

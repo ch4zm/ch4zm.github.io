@@ -1,5 +1,4 @@
 # Game Summary for Incineration of Sebastian Townsend
-3
 
 Game ID: 1c7c5416-8b23-4267-a0b4-bdd547dc7f9e
 

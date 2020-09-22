@@ -1,14 +1,4 @@
 # Game Summary for Incineration of Tyler Violet
-0
-1
-2
-2
-3
-4
-4
-5
-6
-6
 
 Game ID: c76869d4-20bf-44ac-b5cf-90bc0857438c
 

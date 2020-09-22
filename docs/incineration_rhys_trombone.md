@@ -1,6 +1,4 @@
 # Game Summary for Incineration of Rhys Trombone
-0
-2
 
 Game ID: 5531e38b-5b06-4ee5-8358-7f4d7b9a4202
 

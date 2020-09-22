@@ -1,13 +1,4 @@
 # Game Summary for Incineration of Ogden Mendoza
-0
-2
-3
-4
-4
-4
-4
-6
-7
 
 Game ID: 03a06d29-68d2-48b8-af2f-f6e6b7de4c5f
 

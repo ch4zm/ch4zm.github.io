@@ -1,11 +1,4 @@
 # Game Summary for Incineration of Paul Barnes
-0
-1
-4
-4
-8
-8
-8
 
 Game ID: 302b4b3d-66ab-4044-a896-a251897ceb32
 
