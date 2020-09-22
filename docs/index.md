@@ -50,18 +50,26 @@ exploring blaseball games and teams:
   }
 </style>
 
-## Famous Games
+## Notable Blaseball Games
 
 <table class="table">
 <tr>
 <td width="300" style="text-align: center;">
 <b>Famous Games</b>
 </td>
+<td width="300" style="text-align: center;">
+<b>Incinerations</b>
+</td>
 </tr>
 <tr>
 <td width="300" style="text-align: center;">
 <a href="/famous/">
 <img src="/img/famousgames.jpg" />
+</a>
+</td>
+<td width="300" style="text-align: center;">
+<a href="/incinerations/">
+<img src="/img/incinerations.jpg" />
 </a>
 </td>
 </tr>
