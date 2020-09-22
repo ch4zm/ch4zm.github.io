@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+set -x
 
 # Use game-finder and game-summary
 # to generate game summaries of each
@@ -18,20 +19,83 @@ ACTIVATE_SCRIPT="$ROOT_DIR/../vp/bin/activate"
 ### # Enter the virtual environment
 ### source $ACTIVATE_SCRIPT
 
+OUT="$ROOT_DIR/../docs/incinerations.md"
+
+cat /dev/null > $OUT
+echo "# Blaseball Incinerations" >> $OUT
+echo "" >> $OUT
+
+
+########################
 # CHRONOLOGICAL
+
+echo "Creating chronological list..."
+
+echo "## Chronological" >> $OUT
+echo "" >> $OUT
+
 tmp=".tmp.chronsort"
+rm -f $tmp
 cat $ROOT_DIR/data/incinerations | sort --field-separator=',' --key={1,2,3} > $tmp
 while read row; do
-    echo $row
+    season=$(echo $row | cut -d',' -f1)
+    day=$(echo $row | cut -d',' -f2)
+    team=$(echo $row | cut -d',' -f3)
+    name=$(echo $row | cut -d',' -f4)
+    lower_name=$(echo $name | awk '{print tolower($0)}' | sed 's/ /_/g' )
+    mdfilename="incineration_${lower_name}.md"
+    mdfile="$ROOT_DIR/../docs/${mdfilename}"
+
+    echo "Creating page for ${name}"
+    echo $team
+
+    # Add game summary to mdfile
+    if test -f "$mdfile"; then
+        echo "File ${mdfilename} for incineration of ${name} already exists. Skipping..."
+    else
+        cat /dev/null > $mdfile
+        echo "# Game Summary for Incineration of $name" >> $mdfile
+        if [[ "$($GAMEFINDER --season ${season} --day ${day} --team "${team}")" == "" ]]; then
+            echo "Could not find a game ID for ${name} - Team ${team} Season ${season} Day ${day}"
+            exit 1
+        fi
+        $GAMEFINDER --season ${season} --day ${day} --team "${team}" | xargs $GAMESUMMARY --markdown >> $mdfile
+    fi
+
+    # Add page to TOC
+    echo "* [Season $season, Day $day - Incineration of $name]($mdfile)" >> $OUT
+
 done < $tmp
 rm -f $tmp
+echo "" >> $OUT
 
-echo "----------------"
+echo "Done."
 
-# THEN ALPHABETICAL
+
+########################
+# ALPHABETICAL
+
+echo "## Alphabetical" >> $OUT
+echo "" >> $OUT
+
+echo "Creating alphabetical list..."
+
 tmp=".tmp.alphasort"
+rm -f $tmp
 cat $ROOT_DIR/data/incinerations | sort --field-separator=',' --key={3,1,2} > $tmp
 while read row; do
-    echo $row
+    season=$(echo $row | cut -d',' -f1)
+    day=$(echo $row | cut -d',' -f2)
+    name=$(echo $row | cut -d',' -f3)
+    lower_name=$(echo $name | awk '{print tolower($0)}' | sed 's/ /_/g' )
+    mdfilename="incineration_${lower_name}.md"
+    mdfile="$ROOT_DIR/../docs/${mdfilename}"
+
+    # Add page to TOC
+    echo "* [Incineration of $name - Season $season, Day $day]($mdfile)" >> $OUT
+
 done < $tmp
 rm -f $tmp
+
+echo "Done."
+
