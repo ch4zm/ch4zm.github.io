@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e
-set -x
 
 # Use game-finder and game-summary
 # to generate game summaries of each
@@ -86,7 +85,8 @@ cat $ROOT_DIR/data/incinerations | sort --field-separator=',' --key={3,1,2} > $t
 while read row; do
     season=$(echo $row | cut -d',' -f1)
     day=$(echo $row | cut -d',' -f2)
-    name=$(echo $row | cut -d',' -f3)
+    team=$(echo $row | cut -d',' -f3)
+    name=$(echo $row | cut -d',' -f4)
     lower_name=$(echo $name | awk '{print tolower($0)}' | sed 's/ /_/g' )
     mdfilename="incineration_${lower_name}.md"
     mdfile="$ROOT_DIR/../docs/${mdfilename}"
