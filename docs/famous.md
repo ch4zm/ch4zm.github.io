@@ -56,4 +56,4 @@
 
 ## Season 7
 
-* [Season 7 Day 49 - Steaks over Tigers - STEAKS HAVE BBQED TIGER](famous_bbqedtiger.md)
+* [Season 7 Day 49 - Steaks over Tigers - STEAKS MAKE BBQED TIGER](famous_bbqedtiger.md)
