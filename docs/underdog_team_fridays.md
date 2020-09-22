@@ -5,32 +5,32 @@
 Underdog games (games where the underdog won with large run differential) for all time for team Fridays (note: all days and seasons displayed are 1-indexed) (asterisk indicates a postseason game)
 
 
-| Sea | Day | Winner | W Odds | Score | L Odds | Loser | 
-| ------ |------ |------ |------ |------ |------ |------ |
-| 3 | 55 | Hawaii Fridays | 0.43845952414814404 | 17 - 2 | 0.5615404758518551 | New York Millennials | 
-| 4 | 90 | Hawaii Fridays | 0.45833055350153906 | 15 - 4 | 0.54166944649846 | Yellowstone Magic | 
-| 5 | 62 | Boston Flowers | 0.43441054743031504 | 13 - 3 | 0.5655894525696841 | Hawaii Fridays | 
-| 2 | 74 | Los Angeles Tacos | 0.437458088162169 | 12 - 2 | 0.5625419118378301 | Hawaii Fridays | 
-| 3 | 46 | Hawaii Fridays | 0.433174962473507 | 12 - 2 | 0.566825037526492 | Chicago Firefighters | 
-| 7 | 41 | Hawaii Fridays | 0.43703735729417503 | 12 - 3 | 0.5629626427058241 | Mexico City Wild Wings | 
-| 5 | 90 | Hawaii Fridays | 0.430720188483865 | 11 - 2 | 0.569279811516134 | Boston Flowers | 
-| 2 | 82 | Boston Flowers | 0.451074061019592 | 10 - 1 | 0.5489259389804071 | Hawaii Fridays | 
-| 7 | 9 | Hawaii Fridays | 0.37911810730384304 | 10 - 1 | 0.620881892696156 | Yellowstone Magic | 
-| 5 | 66 | Boston Flowers | 0.44573603733925604 | 10 - 2 | 0.5542639626607431 | Hawaii Fridays | 
-| 1 | 27 | Los Angeles Tacos | 0.386731962806864 | 9 - 1 | 0.613268037193135 | Hawaii Fridays | 
-| 3 | 15 | Boston Flowers | 0.38237571225105305 | 13 - 6 | 0.6176242877489461 | Hawaii Fridays | 
-| 4 | 51 | Hawaii Fridays | 0.31912328971271403 | 11 - 4 | 0.680876710287285 | Yellowstone Magic | 
-| 2 | 8 | New York Millennials | 0.370579386180724 | 10 - 3 | 0.629420613819275 | Hawaii Fridays | 
-| 7 | 76 | Hawaii Fridays | 0.459471328331823 | 10 - 3 | 0.5405286716681761 | Philly Pies | 
-| 2 | 25 | Hawaii Fridays | 0.435798169275245 | 9 - 2 | 0.564201830724754 | Charleston Shoe Thieves | 
-| 2 | 37 | San Francisco Lovers | 0.39281192527670306 | 8 - 1 | 0.6071880747232961 | Hawaii Fridays | 
-| 6 | 25 | Hawaii Fridays | 0.44772578779222505 | 7 - 0 | 0.5522742122077741 | Charleston Shoe Thieves | 
-| 6 | 71 | Hawaii Fridays | 0.360398483354948 | 7 - 0 | 0.639601516645051 | Kansas City Breath Mints | 
-| 6 | 80 | Hawaii Fridays | 0.36245775224444904 | 7 - 0 | 0.63754224775555 | Seattle Garages | 
-| 7 | 30 | Hawaii Fridays | 0.44411833302395204 | 10 - 4 | 0.555881666976047 | Mexico City Wild Wings | 
-| 3 | 17 | Houston Spies | 0.41464437186907205 | 9 - 3 | 0.585355628130927 | Hawaii Fridays | 
-| 3 | 63 | Hawaii Fridays | 0.43515653453199804 | 8 - 2 | 0.564843465468001 | San Francisco Lovers | 
-| 2 | 52 | Yellowstone Magic | 0.43706179815175206 | 7 - 1 | 0.562938201848247 | Hawaii Fridays | 
-| 2 | 4 | Chicago Firefighters | 0.39640422103127804 | 13 - 8 | 0.6035957789687211 | Hawaii Fridays | 
+| Sea | Day | Winner | Score | Loser | 
+| ------ |------ |------ |------ |------ |
+| 3 | 55 | Hawaii Fridays (44%) | 17 - 2 | New York Millennials (56%) | 
+| 4 | 90 | Hawaii Fridays (46%) | 15 - 4 | Yellowstone Magic (54%) | 
+| 5 | 62 | Boston Flowers (43%) | 13 - 3 | Hawaii Fridays (57%) | 
+| 2 | 74 | Los Angeles Tacos (44%) | 12 - 2 | Hawaii Fridays (56%) | 
+| 3 | 46 | Hawaii Fridays (43%) | 12 - 2 | Chicago Firefighters (57%) | 
+| 7 | 41 | Hawaii Fridays (44%) | 12 - 3 | Mexico City Wild Wings (56%) | 
+| 5 | 90 | Hawaii Fridays (43%) | 11 - 2 | Boston Flowers (57%) | 
+| 2 | 82 | Boston Flowers (45%) | 10 - 1 | Hawaii Fridays (55%) | 
+| 7 | 9 | Hawaii Fridays (38%) | 10 - 1 | Yellowstone Magic (62%) | 
+| 5 | 66 | Boston Flowers (45%) | 10 - 2 | Hawaii Fridays (55%) | 
+| 1 | 27 | Los Angeles Tacos (39%) | 9 - 1 | Hawaii Fridays (61%) | 
+| 3 | 15 | Boston Flowers (38%) | 13 - 6 | Hawaii Fridays (62%) | 
+| 4 | 51 | Hawaii Fridays (32%) | 11 - 4 | Yellowstone Magic (68%) | 
+| 2 | 8 | New York Millennials (37%) | 10 - 3 | Hawaii Fridays (63%) | 
+| 7 | 76 | Hawaii Fridays (46%) | 10 - 3 | Philly Pies (54%) | 
+| 2 | 25 | Hawaii Fridays (44%) | 9 - 2 | Charleston Shoe Thieves (56%) | 
+| 2 | 37 | San Francisco Lovers (39%) | 8 - 1 | Hawaii Fridays (61%) | 
+| 6 | 25 | Hawaii Fridays (45%) | 7 - 0 | Charleston Shoe Thieves (55%) | 
+| 6 | 71 | Hawaii Fridays (36%) | 7 - 0 | Kansas City Breath Mints (64%) | 
+| 6 | 80 | Hawaii Fridays (36%) | 7 - 0 | Seattle Garages (64%) | 
+| 7 | 30 | Hawaii Fridays (44%) | 10 - 4 | Mexico City Wild Wings (56%) | 
+| 3 | 17 | Houston Spies (41%) | 9 - 3 | Hawaii Fridays (59%) | 
+| 3 | 63 | Hawaii Fridays (44%) | 8 - 2 | San Francisco Lovers (56%) | 
+| 2 | 52 | Yellowstone Magic (44%) | 7 - 1 | Hawaii Fridays (56%) | 
+| 2 | 4 | Chicago Firefighters (40%) | 13 - 8 | Hawaii Fridays (60%) | 
 
 
