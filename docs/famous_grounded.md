@@ -7,11 +7,12 @@ the Millennials in the dust. The Dale held back, too, leaving 11 runners strande
 
 ## Game Summary
 
-Game ID: 1370937f-5c21-4cc0-9341-617bb7793889
 
-Season 5 Day 91:
+Game ID: 7f1463bf-24ae-45c1-99b9-232f41a6efb5
 
-Boston Flowers @ New York Millennials
+Season 5 Day 98:
+
+Miami Dalé @ New York Millennials
 
 Battin' Island, New York, NY
 
@@ -21,30 +22,30 @@ Weather: Reverb
 
 |  | R | H | E |
 | --- | --- | --- | --- |
-| Flowers |   1 |   6 |   0 | 
-| Millennials |   7 |  10 |   0 | 
+| Dalé |   7 |  13 |   0 | 
+| Millennials |   2 |   8 |   0 | 
 
 
 |  |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  R | H | E |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Flowers |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   1 |   1 |   6 |   0 | 
-| Millennials |   2 |   2 |   0 |   0 |   1 |   2 |   0 |   0 |   0 |   7 |  10 |   0 | 
+| Dalé |   0 |   3 |   1 |   0 |   2 |   0 |   0 |   0 |   1 |   7 |  13 |   0 | 
+| Millennials |   1 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   2 |   8 |   0 | 
 
 
 | Pitching Summary |
 | --- |
-| **Winning Pitcher**: Theodore Cervantes<br />KK: 3<br />BB: 0 |
-| **Losing Pitcher**: Dunn Keyes<br />KK: 3<br />BB: 7 |
+| **Winning Pitcher**: Francisca Sasquatch<br />KK: 8<br />BB: 2 |
+| **Losing Pitcher**: Fynn Doyle<br />KK: 7<br />BB: 5 |
 
 
-| Team Summary: Flowers |
+| Team Summary: Dalé |
 | --- |
 | **Batting:** |
-| RBI: 1 <br />HR: Margarito Nava (1) <br />2B: Gloria Bugsnax (1), Moses Mason (1) <br />LOB: 5 |
+| RBI: 7 <br />HR: Avila Guzman (1), Hahn Fox (1) <br />2B: Jasmine Washington (1) <br />1B: Logan Horseman (3), Raúl Leal (3) <br />BB: Don Elliott (2), Caleb Novak (2) <br />K: Murray Pony (2), Randy Dennis (2) <br />LOB: 11 |
 
 
 | Team Summary: Millennials |
 | --- |
 | **Batting:** |
-| RBI: 7 <br />HR: Sandie Turner (1), Winnie Mccall (1), Schneider Bendie (1) <br />2B: Sandie Turner (1), Wesley Dudley (1) <br />1B: Ren Hunter (2) <br />BB: Penelope Mathews (4) <br />LOB: 5 |
+| RBI: 2 <br />3B: Ren Hunter (1) <br />2B: Conrad Vaughan (1), Wesley Dudley (1) <br />K: Schneider Bendie (2), Winnie Mccall (2) <br />LOB: 5 |
 

@@ -4,7 +4,7 @@
 
 In the Season 4 Internet Series semi-finals, the Tigers and Moist Talkers had gone back and forth - Tigers, then
 Moist Talkers, then Tigers, then Moist Talkers. The last game of the 5-game series was a nail-biter, at least until
-the bottom of the 9th, when the Talkers apparently mistakenly left the stadium thinking they had won the game.
+the bottom of the 11th, when the Talkers apparently mistakenly left the stadium thinking they had won the game.
 Meanwhile, back at the Sixth Circle Stadium, the Tigers piled on 5 runs before the Moist Talkers realized what was
 going on, in a stunning Game 5 shaming of the Moist Talkers.
 
