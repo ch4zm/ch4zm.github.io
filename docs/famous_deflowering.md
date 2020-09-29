@@ -50,3 +50,32 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 10 <br />HR: Sebastian Townsend (1) <br />3B: Antonio Wallace (1) <br />2B: Stu Trololol (1), Morrow Doyle (1) <br />1B: Ren Hunter (3), Workman Gloom (3), Sebastian Townsend (2) <br />BB: Morrow Doyle (2), Antonio Wallace (2) <br />LOB: 7 |
 
+
+## Game Gems
+
+
+Game ID: 118460c5-641a-470c-b784-d65bf75e6547
+
+Season 2 Day 107:
+
+Boston Flowers @ Charleston Shoe Thieves
+
+Choux Stadium, Charleston
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Flowers |   0 |   3 |   0 | 
+| Shoe Thieves |  10 |  16 |   0 | 
+
+
+Blaseball Game Gems:
+
+* The Shoe Thieves got 16 hits!
+* Matteo Prestige (Shoe Thieves) pitched a shutout against the Flowers, allowing 3 hits and recording 8 strikeouts and just 1 walk.
+* Matteo Prestige (Shoe Thieves) struck out 8 Flowers.
+* Matteo Prestige (Shoe Thieves) threw a 3-hitter against the Flowers, recording 8 strikeouts and just 1 walk.
+* Matteo Prestige (Shoe Thieves) allowed just 1 walk against the Flowers.
+

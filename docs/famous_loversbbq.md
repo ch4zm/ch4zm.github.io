@@ -51,3 +51,32 @@ Weather: Lots of Birds
 | **Batting:** |
 | RBI: 7 <br />HR: Knight Urlacher (2), Sigmund Castillo (1) <br />2B: Knight Urlacher (1), Don Mitchell (1) <br />1B: Kennedy Meh (2) <br />K: Kichiro Guerra (3), Theo King (2) <br />LOB: 6 |
 
+
+## Game Gems
+
+
+Game ID: 746bc66d-eb9c-427a-91a2-7f41ee8b4543
+
+Season 5 Day 102:
+
+Dallas Steaks @ San Francisco Lovers
+
+The PolyHedron, San Francisco
+
+Weather: Lots of Birds
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Steaks |   2 |   5 |   0 | 
+| Lovers |   7 |  10 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Knight Urlacher (Lovers) hit 2 home runs!
+* The Lovers got 10 hits!
+* The Lovers rallied for 6 runs in the bottom of inning 9!
+* Orville Manco (Steaks) struck out 10 Lovers.
+* Orville Manco (Steaks) allowed just 1 walk against the Lovers.
+

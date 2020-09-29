@@ -51,3 +51,30 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 1 <br />HR: Aldon Cashmoney (1) <br />2B: Stephens Lightner (1) <br />1B: Tamara Crankit (2) <br />K: Aldon Cashmoney (3), Hendricks Richardson (2) <br />LOB: 3 |
 
+
+## Game Gems
+
+
+Game ID: 52f6274e-e0dc-4c23-87e8-686f6d2b2bbf
+
+Season 5 Day 113:
+
+Chicago Firefighters @ Breckenridge Jazz Hands
+
+The Pocket, Breckenridge
+
+Weather: Reverb
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Firefighters |   6 |   8 |   0 | 
+| Jazz Hands |   1 |   4 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Rivers Rosa (Firefighters) struck out 10 Jazz Hands.
+* Rivers Rosa (Firefighters) threw a 4-hitter against the Jazz Hands, recording 10 strikeouts and just 1 walk.
+* Rivers Rosa (Firefighters) allowed just 1 walk against the Jazz Hands.
+

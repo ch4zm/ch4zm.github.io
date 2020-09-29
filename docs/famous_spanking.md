@@ -54,3 +54,33 @@ Weather: Lots of Birds
 | **Batting:** |
 | RBI: 6 <br />3B: Stu Trololol (1), Blood Hamburger (1) <br />2B: Stu Trololol (1) <br />1B: Sebastian Woodman (3), Ren Hunter (2), Workman Gloom (2) <br />SAC: Sebastian Woodman (1), Esme Ramsey (1) <br />LOB: 4 |
 
+
+## Game Gems
+
+
+Game ID: 7e23e6d3-911e-45a6-87d2-3a2efbcbae6f
+
+Season 3 Day 103:
+
+San Francisco Lovers @ Charleston Shoe Thieves
+
+Choux Stadium, Charleston
+
+Weather: Lots of Birds
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Lovers |  20 |  16 |   0 | 
+| Shoe Thieves |   6 |  12 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Helga Burton (Lovers) hit 2 home runs!
+* The Shoe Thieves got 12 hits!
+* The Lovers got 16 hits!
+* The Shoe Thieves and Lovers combined for 28 hits!
+* Parker Meng (Lovers) allowed just 1 walk against the Shoe Thieves.
+* Beasley Gloom (Shoe Thieves) allowed a whopping 12 walks against the Lovers.
+

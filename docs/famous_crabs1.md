@@ -48,3 +48,30 @@ Weather: Bloddrain
 | **Batting:** |
 | RBI: 2 <br />HR: Oliver Notarobot (1) <br />3B: Holden Stanton (1) <br />1B: Sutton Dreamy (2) <br />BB: Tillman Henderson (2) <br />K: Forrest Best (2) <br />LOB: 4 |
 
+
+## Game Gems
+
+
+Game ID: 6f28a04e-e21c-4097-811a-57839a2a2944
+
+Season 6 Day 25:
+
+Hellmouth Sunbeams @ Baltimore Crabs
+
+The Crabitat, Baltimore
+
+Weather: Bloddrain
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Sunbeams |   5 |  12 |   0 | 
+| Crabs |   2 |   6 |   0 | 
+
+
+Blaseball Game Gems:
+
+* The Sunbeams got 12 hits!
+* Miguel James (Sunbeams) struck out 8 Crabs.
+* Finn James (Crabs) allowed no walks against the Sunbeams.
+

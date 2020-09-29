@@ -55,3 +55,32 @@ Weather: Solar Eclipse
 | --- |
 | Rogue Umpire incinerated Sunbeams hitter Emmett Internet! Replaced by Sutton Bishop |
 
+
+## Game Gems
+
+
+Game ID: a3c8e834-5c97-4a90-8231-2084edcccb26
+
+Season 5 Day 91:
+
+Hellmouth Sunbeams @ Hades Tigers
+
+The Sixth Circle Stadium, Tartarus, Hades
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Sunbeams |  12 |  16 |   0 | 
+| Tigers |   9 |  12 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Fish Summer (Tigers) hit 2 home runs!
+* The Tigers got 12 hits!
+* The Sunbeams got 16 hits!
+* The Tigers and Sunbeams combined for 28 hits!
+* Sandoval Crossing (Sunbeams) struck out 9 Tigers.
+

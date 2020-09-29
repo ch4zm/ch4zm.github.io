@@ -52,3 +52,32 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 12 <br />HR: Hiroto Cerna (1), Nic Winkler (1) <br />3B: Hiroto Cerna (1) <br />2B: Beck Whitney (1), Castillo Turner (1), Moses Mason (1) <br />1B: Inez Owens (2), Castillo Turner (2), Beck Whitney (2) <br />LOB: 6 |
 
+
+## Game Gems
+
+
+Game ID: 6a891c9d-56f9-4a71-9b6b-708971dd7d01
+
+Season 6 Day 58:
+
+New York Millennials @ Boston Flowers
+
+The Boston Garden, Boston
+
+Weather: Reverb
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Millennials |  13 |  15 |   0 | 
+| Flowers |  12 |  14 |   0 | 
+
+
+Blaseball Game Gems:
+
+* The Millennials hit 5 home runs!
+* The Flowers got 14 hits!
+* The Millennials got 15 hits!
+* The Flowers and Millennials combined for 29 hits!
+* Fynn Doyle (Millennials) allowed just 1 walk against the Flowers.
+

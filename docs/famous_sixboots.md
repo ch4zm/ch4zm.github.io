@@ -48,3 +48,33 @@ Weather: Feedback
 | **Batting:** |
 | RBI: 13 <br />HR: Declan Suzanne (1), Thomas Kirby (1) <br />3B: Lou Roseheart (1), Thomas Kirby (1) <br />2B: Thomas Kirby (2), Wesley Poole (1), Rivers Rosa (1) <br />1B: Edric Tosser (3), Joshua Butt (2), Lou Roseheart (2), Baby Urlacher (2) <br />SAC: Rivers Rosa (1) <br />LOB: 10 |
 
+
+## Game Gems
+
+
+Game ID: 7f96a823-6cf0-447d-b6f0-baa2d4e29ffe
+
+Season 4 Day 100:
+
+Charleston Shoe Thieves @ Chicago Firefighters
+
+The Fire House, Chicago
+
+Weather: Feedback
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Shoe Thieves |  14 |  17 |   0 | 
+| Firefighters |  13 |  20 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Joe Voorhees (Shoe Thieves) hit 2 home runs!
+* The Firefighters got 20 hits!
+* The Shoe Thieves got 17 hits!
+* The Firefighters and Shoe Thieves combined for 37 hits!
+* The Shoe Thieves came from behind in the top of inning 8, down by 4 and scoring 6 runs! They ultimately won the game.
+* Snyder Briggs (Shoe Thieves) allowed just 1 walk against the Firefighters.
+

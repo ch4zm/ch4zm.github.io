@@ -49,3 +49,29 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 2 <br />3B: Ren Hunter (1) <br />2B: Conrad Vaughan (1), Wesley Dudley (1) <br />K: Schneider Bendie (2), Winnie Mccall (2) <br />LOB: 5 |
 
+
+## Game Gems
+
+
+Game ID: 7f1463bf-24ae-45c1-99b9-232f41a6efb5
+
+Season 5 Day 98:
+
+Miami Dalé @ New York Millennials
+
+Battin' Island, New York, NY
+
+Weather: Reverb
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Dalé |   7 |  11 |   0 | 
+| Millennials |   2 |   7 |   0 | 
+
+
+Blaseball Game Gems:
+
+* The Dalé got 11 hits!
+* Francisca Sasquatch (Dalé) struck out 8 Millennials.
+

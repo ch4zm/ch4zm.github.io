@@ -56,3 +56,33 @@ Weather: Reverb
 | **Batting:** |
 | RBI: 11 <br />HR: Thomas Dracaena (2), Dominic Marijuana (1), Conrad Vaughan (1) <br />3B: Penelope Mathews (1), Schneider Bendie (1) <br />2B: Penelope Mathews (1), Wesley Dudley (1) <br />1B: Sandie Turner (2), Schneider Bendie (2) <br />K: Ren Hunter (2) <br />SAC: Thomas Dracaena (1) <br />LOB: 4 |
 
+
+## Game Gems
+
+
+Game ID: f177a8ef-f4ca-4c11-93bc-2d1c3b787ffc
+
+Season 5 Day 76:
+
+Charleston Shoe Thieves @ New York Millennials
+
+Battin' Island, New York, NY
+
+Weather: Reverb
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Shoe Thieves |  10 |  12 |   0 | 
+| Millennials |  11 |  14 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Thomas Dracaena (Millennials) hit 2 home runs!
+* The Millennials got 14 hits!
+* The Shoe Thieves got 12 hits!
+* The Millennials and Shoe Thieves combined for 26 hits!
+* Theodore Cervantes (Millennials) struck out 8 Shoe Thieves.
+* Theodore Cervantes (Millennials) allowed just 1 walk against the Shoe Thieves.
+

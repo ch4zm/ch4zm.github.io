@@ -50,3 +50,31 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 0 <br />K: Sam Scandal (2) <br />LOB: 5 |
 
+
+## Game Gems
+
+
+Game ID: c76a00d6-3f28-484a-b0e0-7976b9bc6bfa
+
+Season 2 Day 102:
+
+Charleston Shoe Thieves @ Dallas Steaks
+
+George Foreman Stadium, Dallas, Texas
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Shoe Thieves |   7 |  12 |   0 | 
+| Steaks |   0 |   5 |   0 | 
+
+
+Blaseball Game Gems:
+
+* The Shoe Thieves got 12 hits!
+* Matteo Prestige (Shoe Thieves) pitched a shutout against the Steaks, allowing 5 hits and recording 8 strikeouts and no walks.
+* Matteo Prestige (Shoe Thieves) struck out 8 Steaks.
+* Matteo Prestige (Shoe Thieves) allowed no walks against the Steaks.
+

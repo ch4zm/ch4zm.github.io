@@ -60,3 +60,27 @@ Weather: Solar Eclipse
 | --- |
 | Rogue Umpire incinerated Jazz Hands hitter Randall Marijuana! Replaced by Steph Weeks |
 
+
+## Game Gems
+
+
+Game ID: c8eb9f92-5f9e-444f-9ad4-e679a58a10bd
+
+Season 6 Day 84:
+
+Houston Spies @ Breckenridge Jazz Hands
+
+The Pocket, Breckenridge
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Spies |   3 |   6 |   0 | 
+| Jazz Hands |   2 |   7 |   0 | 
+
+
+Blaseball Game Gems:
+
+

@@ -59,3 +59,30 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 4 <br />HR: Summers Preston (1), Lawrence Horne (1) <br />2B: Sosa Hayes (1) <br />1B: Ronan Combs (2) <br />LOB: 4 |
 
+
+## Game Gems
+
+
+Game ID: d3a64071-03a6-4c0f-a308-29af8195eb2e
+
+Season 3 Day 90:
+
+Hades Tigers @ Mexico City Wild Wings
+
+The Bucket, Mexico City
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Tigers |   3 |   5 |   0 | 
+| Wild Wings |   4 |   8 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Silvia Rugrat (Wild Wings) struck out 8 Tigers.
+* Silvia Rugrat (Wild Wings) allowed no walks against the Tigers.
+* Famous Owens (Tigers) allowed just 1 walk against the Wild Wings.
+

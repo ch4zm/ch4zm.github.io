@@ -48,3 +48,31 @@ Weather: Lots of Birds
 | **Batting:** |
 | RBI: 1 <br />3B: Forrest Best (1) <br />K: Tot Fox (2), Kennedy Loser (2) <br />SAC: Holden Stanton (1) <br />LOB: 1 |
 
+
+## Game Gems
+
+
+Game ID: 5b98dfc2-3369-41a5-94d4-2e64d926a5d4
+
+Season 6 Day 80:
+
+Unlimited Tacos @ Baltimore Crabs
+
+The Crabitat, Baltimore
+
+Weather: Lots of Birds
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Tacos |   2 |   3 |   0 | 
+| Crabs |   1 |   2 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Wyatt Pothos (Tacos) threw a 2-hitter against the Crabs, recording 6 strikeouts and no walks.
+* Wyatt Pothos (Tacos) allowed no walks against the Crabs.
+* Finn James (Crabs) threw a 3-hitter against the Tacos, recording 6 strikeouts and no walks.
+* Finn James (Crabs) allowed no walks against the Tacos.
+
