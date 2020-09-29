@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Shutouts](shutouts_postseason.md)
+* [Season 1 Shutouts](shutouts_season1.md)
 
-* [Season 2 Shutouts](shutouts_postseason.md)
+* [Season 2 Shutouts](shutouts_season2.md)
 
-* [Season 3 Shutouts](shutouts_postseason.md)
+* [Season 3 Shutouts](shutouts_season3.md)
 
-* [Season 4 Shutouts](shutouts_postseason.md)
+* [Season 4 Shutouts](shutouts_season4.md)
 
-* [Season 5 Shutouts](shutouts_postseason.md)
+* [Season 5 Shutouts](shutouts_season5.md)
 
-* [Season 6 Shutouts](shutouts_postseason.md)
+* [Season 6 Shutouts](shutouts_season6.md)
 
-* [Season 7 Shutouts](shutouts_postseason.md)
+* [Season 7 Shutouts](shutouts_season7.md)
 
 ## By Team
 

@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Shame Runs](shame_postseason.md)
+* [Season 1 Shame Runs](shame_season1.md)
 
-* [Season 2 Shame Runs](shame_postseason.md)
+* [Season 2 Shame Runs](shame_season2.md)
 
-* [Season 3 Shame Runs](shame_postseason.md)
+* [Season 3 Shame Runs](shame_season3.md)
 
-* [Season 4 Shame Runs](shame_postseason.md)
+* [Season 4 Shame Runs](shame_season4.md)
 
-* [Season 5 Shame Runs](shame_postseason.md)
+* [Season 5 Shame Runs](shame_season5.md)
 
-* [Season 6 Shame Runs](shame_postseason.md)
+* [Season 6 Shame Runs](shame_season6.md)
 
-* [Season 7 Shame Runs](shame_postseason.md)
+* [Season 7 Shame Runs](shame_season7.md)
 
 ## By Team
 

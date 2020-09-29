@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Maxed Out](maxedout_postseason.md)
+* [Season 1 Maxed Out](maxedout_season1.md)
 
-* [Season 2 Maxed Out](maxedout_postseason.md)
+* [Season 2 Maxed Out](maxedout_season2.md)
 
-* [Season 3 Maxed Out](maxedout_postseason.md)
+* [Season 3 Maxed Out](maxedout_season3.md)
 
-* [Season 4 Maxed Out](maxedout_postseason.md)
+* [Season 4 Maxed Out](maxedout_season4.md)
 
-* [Season 5 Maxed Out](maxedout_postseason.md)
+* [Season 5 Maxed Out](maxedout_season5.md)
 
-* [Season 6 Maxed Out](maxedout_postseason.md)
+* [Season 6 Maxed Out](maxedout_season6.md)
 
-* [Season 7 Maxed Out](maxedout_postseason.md)
+* [Season 7 Maxed Out](maxedout_season7.md)
 
 ## By Team
 

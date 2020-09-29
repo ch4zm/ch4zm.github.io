@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Blowouts](blowouts_postseason.md)
+* [Season 1 Blowouts](blowouts_season1.md)
 
-* [Season 2 Blowouts](blowouts_postseason.md)
+* [Season 2 Blowouts](blowouts_season2.md)
 
-* [Season 3 Blowouts](blowouts_postseason.md)
+* [Season 3 Blowouts](blowouts_season3.md)
 
-* [Season 4 Blowouts](blowouts_postseason.md)
+* [Season 4 Blowouts](blowouts_season4.md)
 
-* [Season 5 Blowouts](blowouts_postseason.md)
+* [Season 5 Blowouts](blowouts_season5.md)
 
-* [Season 6 Blowouts](blowouts_postseason.md)
+* [Season 6 Blowouts](blowouts_season6.md)
 
-* [Season 7 Blowouts](blowouts_postseason.md)
+* [Season 7 Blowouts](blowouts_season7.md)
 
 ## By Team
 

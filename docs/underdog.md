@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Underdog Wins](underdog_postseason.md)
+* [Season 1 Underdog Wins](underdog_season1.md)
 
-* [Season 2 Underdog Wins](underdog_postseason.md)
+* [Season 2 Underdog Wins](underdog_season2.md)
 
-* [Season 3 Underdog Wins](underdog_postseason.md)
+* [Season 3 Underdog Wins](underdog_season3.md)
 
-* [Season 4 Underdog Wins](underdog_postseason.md)
+* [Season 4 Underdog Wins](underdog_season4.md)
 
-* [Season 5 Underdog Wins](underdog_postseason.md)
+* [Season 5 Underdog Wins](underdog_season5.md)
 
-* [Season 6 Underdog Wins](underdog_postseason.md)
+* [Season 6 Underdog Wins](underdog_season6.md)
 
-* [Season 7 Underdog Wins](underdog_postseason.md)
+* [Season 7 Underdog Wins](underdog_season7.md)
 
 ## By Team
 

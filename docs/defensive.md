@@ -10,19 +10,19 @@
 
 ## By Season
 
-* [Season 1 Defensive Games](defensive_postseason.md)
+* [Season 1 Defensive Games](defensive_season1.md)
 
-* [Season 2 Defensive Games](defensive_postseason.md)
+* [Season 2 Defensive Games](defensive_season2.md)
 
-* [Season 3 Defensive Games](defensive_postseason.md)
+* [Season 3 Defensive Games](defensive_season3.md)
 
-* [Season 4 Defensive Games](defensive_postseason.md)
+* [Season 4 Defensive Games](defensive_season4.md)
 
-* [Season 5 Defensive Games](defensive_postseason.md)
+* [Season 5 Defensive Games](defensive_season5.md)
 
-* [Season 6 Defensive Games](defensive_postseason.md)
+* [Season 6 Defensive Games](defensive_season6.md)
 
-* [Season 7 Defensive Games](defensive_postseason.md)
+* [Season 7 Defensive Games](defensive_season7.md)
 
 ## By Team
 
