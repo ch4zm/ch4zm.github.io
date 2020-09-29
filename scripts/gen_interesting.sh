@@ -105,8 +105,8 @@ for ((i = 0 ; i <= 5; i++)); do
     echo "## By Season" >> $MASTER
     echo "" >> $MASTER
     for s in $(seq 1 $LASTSEASON); do 
-        file="${lower_label}_season${s}.md"
-        OUT="$ROOT_DIR/../docs/$file"
+        fname="${lower_label}_season${s}.md"
+        OUT="$ROOT_DIR/../docs/$fname"
         echo "Working on season $s: $(basename $OUT)"
     
         title="Season $s $upper_label"
