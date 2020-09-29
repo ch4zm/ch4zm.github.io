@@ -54,3 +54,34 @@ Weather: Solar Eclipse
 | **Batting:** |
 | RBI: 13 <br />HR: Kline Greenlemon (2), Sebastian Telephone (1), Conner Haley (1) <br />3B: Cory Ross (1), Summers Pony (1), August Sky (1) <br />2B: Sam Scandal (2), Conner Haley (1), Marco Stink (1), Sebastian Telephone (1) <br />1B: Marco Stink (2) <br />K: Sebastian Telephone (3) <br />SAC: Paula Mason (1) <br />LOB: 6 |
 
+
+## Game Gems
+
+
+Game ID: fe46431b-673b-459c-84d9-cc429caa8def
+
+Season 7 Day 49:
+
+Hades Tigers @ Dallas Steaks
+
+George Foreman Stadium, Dallas, Texas
+
+Weather: Solar Eclipse
+
+
+|  | R | H | E |
+| --- | --- | --- | --- |
+| Tigers |   0 |   5 |   0 | 
+| Steaks |  13 |  17 |   0 | 
+
+
+Blaseball Game Gems:
+
+* Kline Greenlemon (Steaks) hit 2 home runs!
+* The Steaks got 17 hits!
+* The Steaks and Tigers combined for 22 hits!
+* Gabriel Griffith (Steaks) pitched a shutout against the Tigers, allowing 5 hits and recording 10 strikeouts and just 1 walk.
+* Gabriel Griffith (Steaks) struck out 10 Tigers.
+* Gabriel Griffith (Steaks) allowed just 1 walk against the Tigers.
+* Famous Owens (Tigers) allowed just 1 walk against the Steaks.
+
