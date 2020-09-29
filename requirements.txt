@@ -6,3 +6,5 @@ blaseball-streak-finder
 blaseball-game-dump
 blaseball-game-finder
 blaseball-game-summary
+blaseball-series-sleuth
+blaseball-game-gems
