@@ -6,6 +6,7 @@ repo_url: https://github.com/ch4zm/ch4zm.github.io
 nav:
   - Homepage: index.md
   - Teaching: teaching.md
+  - Hellmouth Anti-Tourism: hmat.md
   - Famous Games:
     - Index: famous.md
     - SHOE THIEVES HAVE A BBQ: famous_thievesbbq.md
