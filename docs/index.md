@@ -16,6 +16,10 @@ Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method list
 
 Teaching schedule for Fall 2020: [Teaching](teaching.md)
 
+## Hellmouth Anti-Tourism Ads
+
+Hellmouth Anti-Tourism Ads: [HMAT Ads](hmat.md)
+
 ## Blaseball Tools
 
 These are a few blaseball clomputational tools published by Ch4zm of Hellmouth, useful for
