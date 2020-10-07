@@ -13,6 +13,7 @@ Shame games (games where the loser was shamed) for all time for team Firefighter
 | 7 | 12 | Chicago Firefighters | 5 - 1 | Hellmouth Sunbeams | 
 | 2 | 91 | Chicago Firefighters | 11 - 8 | Hellmouth Sunbeams | 
 | 2 | 81 | Los Angeles Tacos | 10 - 7 | Chicago Firefighters | 
+| 8 | 74 | Chicago Firefighters | 10 - 7 | Boston Flowers | 
 | 2 | 65 | Chicago Firefighters | 9 - 6 | Los Angeles Tacos | 
 | 6 | 74 | New York Millennials | 8 - 5 | Chicago Firefighters | 
 | 6 | 90 | Chicago Firefighters | 8 - 5 | San Francisco Lovers | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Firefighter
 | 2 | 19 | Chicago Firefighters | 6 - 4 | New York Millennials | 
 | 3 | 93 | Kansas City Breath Mints | 6 - 4 | Chicago Firefighters | 
 | 5 | 22 | Dallas Steaks | 6 - 4 | Chicago Firefighters | 
-| 5 | 96 | Chicago Firefighters | 6 - 4 | Unlimited Tacos | 
 
 

@@ -1,5 +1,5 @@
 # All-Time Shame Runs
-(Through season 7)
+(Through season 8)
 
 ## Summary
 
@@ -10,6 +10,7 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 8 | 92 | Hades Tigers | 12 - 5 | Canada Moist Talkers | 
 | 3 | 90 | Charleston Shoe Thieves | 14 - 8 | Yellowstone Magic | 
 | 4 | 75 | Seattle Garages | 10 - 4 | Philly Pies | 
 | 6 | 3 | Unlimited Tacos | 10 - 4 | Breckenridge Jazz Hands | 
@@ -34,6 +35,5 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 | 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
 | 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
 | 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
-| 2 | 33 | Hades Tigers | 11 - 7 | Philly Pies | 
 
 

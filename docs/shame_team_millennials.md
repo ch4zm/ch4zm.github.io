@@ -15,9 +15,12 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 | 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
 | 3 | 19 | San Francisco Lovers | 11 - 7 | New York Millennials | 
 | 5 | 21 | Yellowstone Magic | 6 - 2 | New York Millennials | 
+| 8 | 81 | New York Millennials | 5 - 1 | Houston Spies | 
 | 3 | 107* | New York Millennials | 12 - 9 | San Francisco Lovers | 
 | 1 | 26 | Kansas City Breath Mints | 8 - 5 | New York Millennials | 
 | 6 | 74 | New York Millennials | 8 - 5 | Chicago Firefighters | 
+| 8 | 2 | Breckenridge Jazz Hands | 8 - 5 | New York Millennials | 
+| 8 | 38 | New York Millennials | 8 - 5 | Miami Dale | 
 | 3 | 57 | New York Millennials | 7 - 4 | Hawaii Fridays | 
 | 3 | 87 | New York Millennials | 7 - 4 | Boston Flowers | 
 | 6 | 26 | New York Millennials | 7 - 4 | Breckenridge Jazz Hands | 
@@ -29,8 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 | 3 | 64 | Charleston Shoe Thieves | 7 - 5 | New York Millennials | 
 | 7 | 72 | New York Millennials | 7 - 5 | Breckenridge Jazz Hands | 
 | 2 | 19 | Chicago Firefighters | 6 - 4 | New York Millennials | 
-| 4 | 42 | New York Millennials | 6 - 4 | Unlimited Tacos | 
-| 7 | 82 | New York Millennials | 6 - 4 | Hellmouth Sunbeams | 
-| 7 | 92 | New York Millennials | 6 - 4 | Houston Spies | 
 
 

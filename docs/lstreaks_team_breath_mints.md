@@ -1,5 +1,5 @@
 # Breath Mints Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,26 +10,30 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Breath Mints                   | 8          | 8          | 54, 55, 56, 57, 58, 59, 60, 61 |
 | Breath Mints                   | 7          | 1          | 67, 68, 69, 70, 71, 72, 73 |
 | Breath Mints                   | 7          | 2          | 4, 5, 6, 7, 8, 9, 10 |
 | Breath Mints                   | 7          | 4          | 72, 73, 74, 75, 76, 77, 78 |
 | Breath Mints                   | 6          | 4          | 52, 53, 54, 55, 56, 57 |
 | Breath Mints                   | 6          | 5          | 34, 35, 36, 37, 38, 39 |
+| Breath Mints                   | 6          | 8          | 8, 9, 10, 11, 12, 13 |
+| Breath Mints                   | 6          | 8          | 76, 77, 78, 79, 80, 81 |
 | Breath Mints                   | 5          | 2          | 22, 23, 24, 25, 26 |
 | Breath Mints                   | 5          | 3          | 27, 28, 29, 30, 31 |
 | Breath Mints                   | 5          | 4          | 27, 28, 29, 30, 31 |
 | Breath Mints                   | 5          | 7          | 33, 34, 35, 36, 37 |
+| Breath Mints                   | 5          | 8          | 31, 32, 33, 34, 35 |
+| Breath Mints                   | 5          | 8          | 70, 71, 72, 73, 74 |
 | Breath Mints                   | 4          | 1          | 15, 16, 17, 18 |
-| Breath Mints                   | 4          | 1          | 55, 56, 57, 58 |
 | Breath Mints                   | 4          | 2          | 16, 17, 18, 19 |
 | Breath Mints                   | 4          | 2          | 79, 80, 81, 82 |
 | Breath Mints                   | 4          | 2          | 94, 95, 96, 97 |
 | Breath Mints                   | 4          | 3          | 49, 50, 51, 52 |
-| Breath Mints                   | 4          | 3          | 68, 69, 70, 71 |
 | Breath Mints                   | 4          | 4          | 93, 94, 95, 96 |
 | Breath Mints                   | 4          | 5          | 80, 81, 82, 83 |
 | Breath Mints                   | 4          | 6          | 58, 59, 60, 61 |
 | Breath Mints                   | 4          | 7          | 4, 5, 6, 7 |
+| Breath Mints                   | 4          | 8          | 24, 25, 26, 27 |
 
 
 
@@ -40,6 +44,20 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Breath Mints versus all teams for all time
+
+| 8 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 53, 54, 55, 56, 57, 58, 59, 60 |
+| G1: Season 8 Game 54: Breath Mints 3  @  6 Steaks |
+| G2: Season 8 Game 55: Breath Mints 1  @  4 Wild Wings |
+| G3: Season 8 Game 56: Breath Mints 4  @  5 Wild Wings |
+| G4: Season 8 Game 57: Breath Mints 2  @  8 Wild Wings |
+| G5: Season 8 Game 58: Breath Mints 5  @  8 Garages |
+| G6: Season 8 Game 59: Breath Mints 1  @  2 Garages |
+| G7: Season 8 Game 60: Breath Mints 2  @  3 Garages |
+| G8: Season 8 Game 61: Steaks 2  @  1 Breath Mints |
+
+<br />
 
 | 7 Game Losing Streak by the Breath Mints |
 | ----- |
@@ -104,6 +122,30 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 7, 8, 9, 10, 11, 12 |
+| G1: Season 8 Game 8: Breath Mints 2  @  5 Garages |
+| G2: Season 8 Game 9: Breath Mints 4  @  7 Garages |
+| G3: Season 8 Game 10: Breath Mints 4  @  5 Garages |
+| G4: Season 8 Game 11: Breath Mints 3  @ 10 Garages |
+| G5: Season 8 Game 12: Breath Mints 3  @  8 Garages |
+| G6: Season 8 Game 13: Breath Mints 3  @  8 Fridays |
+
+<br />
+
+| 6 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 75, 76, 77, 78, 79, 80 |
+| G1: Season 8 Game 76: Breath Mints 2  @  5 Moist Talkers |
+| G2: Season 8 Game 77: Breath Mints 3  @  6 Moist Talkers |
+| G3: Season 8 Game 78: Breath Mints 3  @  7 Moist Talkers |
+| G4: Season 8 Game 79: Pies 6  @  4 Breath Mints |
+| G5: Season 8 Game 80: Pies 4  @  0 Breath Mints |
+| G6: Season 8 Game 81: Pies 4  @  1 Breath Mints |
+
+<br />
+
 | 5 Game Losing Streak by the Breath Mints |
 | ----- |
 | Season 2 Games 21, 22, 23, 24, 25 |
@@ -148,6 +190,28 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 30, 31, 32, 33, 34 |
+| G1: Season 8 Game 31: Breath Mints 4  @  8 Wild Wings |
+| G2: Season 8 Game 32: Breath Mints 1  @  7 Wild Wings |
+| G3: Season 8 Game 33: Breath Mints 3  @  4 Wild Wings |
+| G4: Season 8 Game 34: Flowers 7  @  4 Breath Mints |
+| G5: Season 8 Game 35: Flowers 7  @  2 Breath Mints |
+
+<br />
+
+| 5 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 69, 70, 71, 72, 73 |
+| G1: Season 8 Game 70: Magic 7  @  5 Breath Mints |
+| G2: Season 8 Game 71: Magic 6  @  5 Breath Mints |
+| G3: Season 8 Game 72: Magic 6  @  4 Breath Mints |
+| G4: Season 8 Game 73: Garages 8  @  5 Breath Mints |
+| G5: Season 8 Game 74: Garages 6  @  3 Breath Mints |
+
+<br />
+
 | 4 Game Losing Streak by the Breath Mints |
 | ----- |
 | Season 1 Games 14, 15, 16, 17 |
@@ -155,16 +219,6 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G2: Season 1 Game 16: Lovers 2  @  1 Breath Mints |
 | G3: Season 1 Game 17: Lovers 7  @  5 Breath Mints |
 | G4: Season 1 Game 18: Lovers 7  @  5 Breath Mints |
-
-<br />
-
-| 4 Game Losing Streak by the Breath Mints |
-| ----- |
-| Season 1 Games 54, 55, 56, 57 |
-| G1: Season 1 Game 55: Dalé 4  @  3 Breath Mints |
-| G2: Season 1 Game 56: Dalé 5  @  0 Breath Mints |
-| G3: Season 1 Game 57: Dalé 5  @  1 Breath Mints |
-| G4: Season 1 Game 58: Breath Mints 2  @  3 Fridays |
 
 <br />
 
@@ -210,16 +264,6 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 | 4 Game Losing Streak by the Breath Mints |
 | ----- |
-| Season 3 Games 67, 68, 69, 70 |
-| G1: Season 3 Game 68: Breath Mints 4  @  5 Steaks |
-| G2: Season 3 Game 69: Breath Mints 3  @  4 Steaks |
-| G3: Season 3 Game 70: Breath Mints 8  @  9 Dalé |
-| G4: Season 3 Game 71: Breath Mints 5  @  8 Dalé |
-
-<br />
-
-| 4 Game Losing Streak by the Breath Mints |
-| ----- |
 | Season 4 Games 92, 93, 94, 95 |
 | G1: Season 4 Game 93: Breath Mints 3  @  7 Fridays |
 | G2: Season 4 Game 94: Breath Mints 4  @  8 Flowers |
@@ -255,6 +299,16 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G2: Season 7 Game 5: Breath Mints 1  @ 20 Garages |
 | G3: Season 7 Game 6: Breath Mints 1  @  2 Garages |
 | G4: Season 7 Game 7: Garages 8  @  2 Breath Mints |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 23, 24, 25, 26 |
+| G1: Season 8 Game 24: Wild Wings 9  @  5 Breath Mints |
+| G2: Season 8 Game 25: Breath Mints 4  @  6 Tigers |
+| G3: Season 8 Game 26: Breath Mints 0  @  2 Tigers |
+| G4: Season 8 Game 27: Breath Mints 1  @  3 Tigers |
 
 
 

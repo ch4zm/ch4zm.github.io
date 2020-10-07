@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -34,9 +34,11 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 5          | 76, 77, 78, 79 |
 | Lovers                         | 4          | 5          | 89, 90, 91, 92 |
 | Lovers                         | 4          | 5          | 101, 102, 103, 104 |
-| Lovers                         | 4          | 7          | 13, 14, 15, 19 |
+| Lovers                         | 4          | 7          | 13, 14, 15, 16 |
 | Lovers                         | 4          | 7          | 26, 27, 28, 29 |
 | Lovers                         | 4          | 7          | 68, 69, 70, 71 |
+| Lovers                         | 4          | 7          | 78, 79, 80, 81 |
+| Lovers                         | 4          | 8          | 13, 14, 15, 16 |
 
 
 
@@ -323,11 +325,11 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 
 | 4 Game Winning Streak by the Lovers |
 | ----- |
-| Season 7 Games 12, 13, 14, 18 |
+| Season 7 Games 12, 13, 14, 15 |
 | G1: Season 7 Game 13: Lovers 5  @  1 Firefighters |
 | G2: Season 7 Game 14: Lovers 4  @  3 Firefighters |
 | G3: Season 7 Game 15: Lovers 9  @  1 Firefighters |
-| G4: Season 7 Game 19: Lovers 3  @  2 Tacos |
+| G4: Season 7 Game 16: Dale 1  @ 10 Lovers |
 
 <br />
 
@@ -348,6 +350,26 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 7 Game 69: Lovers 7  @  5 Firefighters |
 | G3: Season 7 Game 70: Lovers 5  @  3 Firefighters |
 | G4: Season 7 Game 71: Lovers 1  @  0 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 7 Games 77, 78, 79, 80 |
+| G1: Season 7 Game 78: Lovers 10 @  3 Jazz Hands |
+| G2: Season 7 Game 79: Dale 2  @  5 Lovers |
+| G3: Season 7 Game 80: Dale 3  @  6 Lovers |
+| G4: Season 7 Game 81: Dale 4  @  5 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 8 Games 12, 13, 14, 15 |
+| G1: Season 8 Game 13: Firefighters 1  @  5 Lovers |
+| G2: Season 8 Game 14: Firefighters 6  @  7 Lovers |
+| G3: Season 8 Game 15: Firefighters 2  @  3 Lovers |
+| G4: Season 8 Game 16: Firefighters -1 @  0 Lovers |
 
 
 

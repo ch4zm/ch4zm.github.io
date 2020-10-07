@@ -10,6 +10,7 @@ Shame games (games where the loser was shamed) for all time for team Fridays (no
 | 2 | 66 | Hawaii Fridays | 9 - 5 | Charleston Shoe Thieves | 
 | 4 | 76 | Hawaii Fridays | 9 - 5 | Unlimited Tacos | 
 | 6 | 54 | Hades Tigers | 9 - 5 | Hawaii Fridays | 
+| 8 | 9 | Hawaii Fridays | 9 - 5 | Charleston Shoe Thieves | 
 | 5 | 10 | Hawaii Fridays | 8 - 4 | Charleston Shoe Thieves | 
 | 4 | 5 | Hawaii Fridays | 10 - 7 | San Francisco Lovers | 
 | 4 | 91 | Hawaii Fridays | 9 - 6 | Kansas City Breath Mints | 
@@ -22,15 +23,14 @@ Shame games (games where the loser was shamed) for all time for team Fridays (no
 | 3 | 80 | Hawaii Fridays | 9 - 7 | San Francisco Lovers | 
 | 7 | 45 | Kansas City Breath Mints | 8 - 6 | Hawaii Fridays | 
 | 1 | 20 | Boston Flowers | 7 - 5 | Hawaii Fridays | 
+| 8 | 39 | Hawaii Fridays | 7 - 5 | Yellowstone Magic | 
 | 1 | 81 | Charleston Shoe Thieves | 6 - 4 | Hawaii Fridays | 
 | 2 | 43 | Dallas Steaks | 6 - 4 | Hawaii Fridays | 
 | 2 | 77 | Hawaii Fridays | 6 - 4 | Boston Flowers | 
 | 3 | 97 | Charleston Shoe Thieves | 6 - 4 | Hawaii Fridays | 
 | 7 | 85 | Hawaii Fridays | 6 - 4 | Philly Pies | 
+| 8 | 80 | Yellowstone Magic | 6 - 4 | Hawaii Fridays | 
 | 2 | 73 | Hawaii Fridays | 5 - 3 | Los Angeles Tacos | 
 | 6 | 51 | Dallas Steaks | 5 - 3 | Hawaii Fridays | 
-| 1 | 69 | Charleston Shoe Thieves | 4 - 2 | Hawaii Fridays | 
-| 2 | 56 | Hawaii Fridays | 4 - 2 | Los Angeles Tacos | 
-| 5 | 72 | Hawaii Fridays | 4 - 2 | Houston Spies | 
 
 

@@ -1,5 +1,5 @@
 # All-Time Maxed Out
-(Through season 7)
+(Through season 8)
 
 ## Summary
 
@@ -15,6 +15,7 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 6 | 58 | New York Millennials | 13 - 12 | Boston Flowers | 
 | 3 | 10 | San Francisco Lovers | 12 - 11 | Chicago Firefighters | 
 | 5 | 45 | Boston Flowers | 12 - 11 | New York Millennials | 
+| 8 | 22 | Hellmouth Sunbeams | 12 - 11 | Boston Flowers | 
 | 1 | 12 | Boston Flowers | 11 - 10 | Hades Tigers | 
 | 1 | 36 | Breckenridge Jazz Hands | 11 - 10 | Seattle Garages | 
 | 2 | 46 | Hawaii Fridays | 11 - 10 | New York Millennials | 
@@ -34,6 +35,5 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 4 | 56 | Boston Flowers | 10 - 9 | Charleston Shoe Thieves | 
 | 4 | 63 | San Francisco Lovers | 10 - 9 | Kansas City Breath Mints | 
 | 4 | 67 | Kansas City Breath Mints | 10 - 9 | Charleston Shoe Thieves | 
-| 4 | 71 | Charleston Shoe Thieves | 10 - 9 | Unlimited Tacos | 
 
 

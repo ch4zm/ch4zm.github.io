@@ -12,6 +12,10 @@ Maxed out games (high-scoring one-run games) for all time for team Tigers (note:
 | 4 | 6 | Hades Tigers | 1 - 0 | Canada Moist Talkers | 
 | 5 | 41 | Hades Tigers | 1 - 0 | San Francisco Lovers | 
 | 6 | 28 | Hades Tigers | 1 - 0 | Seattle Garages | 
+| 8 | 22 | Hades Tigers | 1 - 0 | Canada Moist Talkers | 
+| 8 | 33 | Hades Tigers | 1 - 0 | Philly Pies | 
+| 8 | 62 | Hellmouth Sunbeams | 1 - 0 | Hades Tigers | 
+| 8 | 105* | Hades Tigers | 1 - 0 | Philly Pies | 
 | 1 | 18 | Mexico City Wild Wings | 2 - 1 | Hades Tigers | 
 | 1 | 65 | Hades Tigers | 2 - 1 | Houston Spies | 
 | 1 | 69 | Miami Dalé | 2 - 1 | Hades Tigers | 
@@ -28,9 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Tigers (note:
 | 5 | 35 | Hellmouth Sunbeams | 2 - 1 | Hades Tigers | 
 | 5 | 44 | Mexico City Wild Wings | 2 - 1 | Hades Tigers | 
 | 5 | 65 | Baltimore Crabs | 2 - 1 | Hades Tigers | 
-| 6 | 23 | Hades Tigers | 2 - 1 | Seattle Garages | 
-| 6 | 42 | Seattle Garages | 2 - 1 | Hades Tigers | 
-| 6 | 56 | Hades Tigers | 2 - 1 | Kansas City Breath Mints | 
-| 6 | 91 | Hades Tigers | 2 - 1 | Canada Moist Talkers | 
 
 

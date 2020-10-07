@@ -20,6 +20,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 42 | Mexico City Wild Wings (44%) | 10 - 2 | Breckenridge Jazz Hands (56%) | 
 | 5 | 102* | Breckenridge Jazz Hands (36%) | 10 - 2 | Hades Tigers (64%) | 
 | 2 | 84 | San Francisco Lovers (33%) | 8 - 1 | Breckenridge Jazz Hands (67%) | 
+| 8 | 29 | Breckenridge Jazz Hands (44%) | 14 - 8 | Boston Flowers (56%) | 
 | 5 | 69 | Canada Moist Talkers (39%) | 12 - 6 | Breckenridge Jazz Hands (61%) | 
 | 1 | 76 | Canada Moist Talkers (41%) | 10 - 4 | Breckenridge Jazz Hands (59%) | 
 | 3 | 21 | Houston Spies (42%) | 10 - 4 | Breckenridge Jazz Hands (58%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 30 | Seattle Garages (45%) | 8 - 2 | Breckenridge Jazz Hands (55%) | 
 | 3 | 101* | Breckenridge Jazz Hands (37%) | 8 - 2 | Hades Tigers (63%) | 
 | 6 | 98 | Boston Flowers (42%) | 8 - 2 | Breckenridge Jazz Hands (58%) | 
-| 7 | 67 | Hellmouth Sunbeams (45%) | 8 - 2 | Breckenridge Jazz Hands (55%) | 
 
 

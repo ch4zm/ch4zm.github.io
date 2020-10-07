@@ -1,5 +1,5 @@
 # Sunbeams Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -13,16 +13,16 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 10         | 5          | 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 |
 | Sunbeams                       | 9          | 1          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
-| Sunbeams                       | 9          | 5          | 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Sunbeams                       | 8          | 2          | 7, 8, 9, 10, 11, 12, 13, 14 |
 | Sunbeams                       | 7          | 1          | 33, 34, 35, 36, 37, 38, 39 |
+| Sunbeams                       | 7          | 5          | 81, 82, 83, 84, 85, 86, 87 |
 | Sunbeams                       | 7          | 7          | 9, 10, 11, 12, 13, 14, 15 |
+| Sunbeams                       | 6          | 3          | 36, 37, 38, 39, 43, 44 |
 | Sunbeams                       | 6          | 3          | 81, 82, 83, 84, 85, 86 |
 | Sunbeams                       | 5          | 2          | 36, 37, 38, 39, 40 |
-| Sunbeams                       | 5          | 3          | 36, 37, 38, 39, 40 |
 | Sunbeams                       | 5          | 3          | 47, 48, 49, 50, 51 |
 | Sunbeams                       | 5          | 4          | 58, 59, 60, 61, 62 |
-| Sunbeams                       | 5          | 7          | 19, 20, 21, 25, 26 |
+| Sunbeams                       | 5          | 6          | 42, 43, 44, 45, 49 |
 | Sunbeams                       | 5          | 7          | 59, 60, 61, 62, 63 |
 | Sunbeams                       | 4          | 1          | 41, 42, 43, 44 |
 | Sunbeams                       | 4          | 1          | 62, 63, 64, 65 |
@@ -32,8 +32,7 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 2          | 86, 87, 88, 89 |
 | Sunbeams                       | 4          | 3          | 57, 58, 59, 60 |
 | Sunbeams                       | 4          | 4          | 8, 9, 10, 11 |
-| Sunbeams                       | 4          | 4          | 33, 34, 35, 36 |
-| Sunbeams                       | 4          | 6          | 42, 43, 44, 45 |
+| Sunbeams                       | 4          | 4          | 30, 34, 35, 36 |
 | Sunbeams                       | 4          | 6          | 73, 74, 75, 76 |
 | Sunbeams                       | 4          | 6          | 89, 90, 91, 92 |
 | Sunbeams                       | 4          | 7          | 68, 69, 70, 71 |
@@ -94,21 +93,6 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 
 <br />
 
-| 9 Game Losing Streak by the Sunbeams |
-| ----- |
-| Season 5 Games 80, 81, 82, 83, 84, 85, 86, 87, 88 |
-| G1: Season 5 Game 81: Sunbeams 0  @  5 Wild Wings |
-| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
-| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
-| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
-| G5: Season 5 Game 85: Pies 3  @  2 Sunbeams |
-| G6: Season 5 Game 86: Pies 4  @  2 Sunbeams |
-| G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
-| G8: Season 5 Game 88: Dalé 9  @  7 Sunbeams |
-| G9: Season 5 Game 89: Dalé 4  @  3 Sunbeams |
-
-<br />
-
 | 8 Game Losing Streak by the Sunbeams |
 | ----- |
 | Season 2 Games 6, 7, 8, 9, 10, 11, 12, 13 |
@@ -138,6 +122,19 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 
 | 7 Game Losing Streak by the Sunbeams |
 | ----- |
+| Season 5 Games 80, 81, 82, 83, 84, 85, 86 |
+| G1: Season 5 Game 81: Sunbeams 0  @  5 Wild Wings |
+| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
+| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
+| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
+| G5: Season 5 Game 85: Pies 3  @  2 Sunbeams |
+| G6: Season 5 Game 86: Pies 4  @  2 Sunbeams |
+| G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
+
+<br />
+
+| 7 Game Losing Streak by the Sunbeams |
+| ----- |
 | Season 7 Games 8, 9, 10, 11, 12, 13, 14 |
 | G1: Season 7 Game 9: Sunbeams 7  @  9 Lovers |
 | G2: Season 7 Game 10: Sunbeams 2  @  8 Firefighters |
@@ -146,6 +143,18 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G5: Season 7 Game 13: Sunbeams 5  @ 11 Jazz Hands |
 | G6: Season 7 Game 14: Sunbeams 0  @  6 Jazz Hands |
 | G7: Season 7 Game 15: Sunbeams 1  @  7 Jazz Hands |
+
+<br />
+
+| 6 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 3 Games 35, 36, 37, 38, 42, 43 |
+| G1: Season 3 Game 36: Sunbeams 3  @  6 Crabs |
+| G2: Season 3 Game 37: Pies 7  @  3 Sunbeams |
+| G3: Season 3 Game 38: Pies 19 @  9 Sunbeams |
+| G4: Season 3 Game 39: Pies 2  @  1 Sunbeams |
+| G5: Season 3 Game 43: Shoe Thieves 11 @  5 Sunbeams |
+| G6: Season 3 Game 44: Shoe Thieves 13 @  6 Sunbeams |
 
 <br />
 
@@ -174,17 +183,6 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 
 | 5 Game Losing Streak by the Sunbeams |
 | ----- |
-| Season 3 Games 35, 36, 37, 38, 39 |
-| G1: Season 3 Game 36: Sunbeams 3  @  6 Crabs |
-| G2: Season 3 Game 37: Pies 7  @  3 Sunbeams |
-| G3: Season 3 Game 38: Pies 19 @  9 Sunbeams |
-| G4: Season 3 Game 39: Pies 2  @  1 Sunbeams |
-| G5: Season 3 Game 40: Sunbeams 0  @  4 Dalé |
-
-<br />
-
-| 5 Game Losing Streak by the Sunbeams |
-| ----- |
 | Season 3 Games 46, 47, 48, 49, 50 |
 | G1: Season 3 Game 47: Tigers 4  @  1 Sunbeams |
 | G2: Season 3 Game 48: Tigers 14 @  1 Sunbeams |
@@ -207,12 +205,12 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 
 | 5 Game Losing Streak by the Sunbeams |
 | ----- |
-| Season 7 Games 18, 19, 20, 24, 25 |
-| G1: Season 7 Game 19: Sunbeams 2  @  4 Crabs |
-| G2: Season 7 Game 20: Sunbeams 2  @  7 Crabs |
-| G3: Season 7 Game 21: Sunbeams 1  @  5 Crabs |
-| G4: Season 7 Game 25: Spies 7  @  5 Sunbeams |
-| G5: Season 7 Game 26: Spies 8  @  4 Sunbeams |
+| Season 6 Games 41, 42, 43, 44, 48 |
+| G1: Season 6 Game 42: Flowers 9  @  8 Sunbeams |
+| G2: Season 6 Game 43: Jazz Hands 4  @  2 Sunbeams |
+| G3: Season 6 Game 44: Jazz Hands 7  @  6 Sunbeams |
+| G4: Season 6 Game 45: Jazz Hands 5  @  1 Sunbeams |
+| G5: Season 6 Game 49: Sunbeams 5  @  9 Flowers |
 
 <br />
 
@@ -309,21 +307,11 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 
 | 4 Game Losing Streak by the Sunbeams |
 | ----- |
-| Season 4 Games 32, 33, 34, 35 |
-| G1: Season 4 Game 33: Sunbeams 2  @  3 Dalé |
+| Season 4 Games 29, 33, 34, 35 |
+| G1: Season 4 Game 30: Sunbeams 1  @  3 Steaks |
 | G2: Season 4 Game 34: Tigers 8  @  2 Sunbeams |
 | G3: Season 4 Game 35: Tigers 5  @  3 Sunbeams |
 | G4: Season 4 Game 36: Tigers 3  @  1 Sunbeams |
-
-<br />
-
-| 4 Game Losing Streak by the Sunbeams |
-| ----- |
-| Season 6 Games 41, 42, 43, 44 |
-| G1: Season 6 Game 42: Flowers 9  @  8 Sunbeams |
-| G2: Season 6 Game 43: Jazz Hands 4  @  2 Sunbeams |
-| G3: Season 6 Game 44: Jazz Hands 7  @  6 Sunbeams |
-| G4: Season 6 Game 45: Jazz Hands 5  @  1 Sunbeams |
 
 <br />
 

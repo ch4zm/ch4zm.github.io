@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -11,10 +11,10 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Tigers                         | 12         | 3          | 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
-| Tigers                         | 9          | 4          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Tigers                         | 9          | 4          | 29, 30, 31, 32, 33, 34, 35, 36, 37 |
-| Tigers                         | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Tigers                         | 9          | 8          | 53, 54, 55, 56, 57, 58, 59, 60, 61 |
 | Tigers                         | 8          | 2          | 5, 6, 7, 8, 9, 10, 11, 12 |
+| Tigers                         | 8          | 8          | 82, 83, 84, 85, 86, 87, 88, 89 |
 | Tigers                         | 7          | 1          | 50, 51, 52, 53, 54, 55, 56 |
 | Tigers                         | 7          | 1          | 83, 84, 85, 86, 87, 88, 89 |
 | Tigers                         | 7          | 2          | 64, 65, 66, 67, 68, 69, 70 |
@@ -24,17 +24,19 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 6          | 1          | 71, 72, 73, 74, 75, 76 |
 | Tigers                         | 6          | 1          | 95, 96, 97, 98, 99, 100 |
 | Tigers                         | 6          | 2          | 21, 22, 23, 24, 25, 26 |
+| Tigers                         | 6          | 4          | 2, 3, 4, 5, 6, 10 |
+| Tigers                         | 6          | 5          | 71, 72, 73, 74, 75, 79 |
 | Tigers                         | 6          | 6          | 93, 94, 95, 96, 97, 98 |
-| Tigers                         | 5          | 1          | 23, 24, 25, 26, 27 |
+| Tigers                         | 6          | 8          | 22, 23, 24, 25, 26, 27 |
+| Tigers                         | 6          | 8          | 40, 41, 42, 43, 44, 45 |
 | Tigers                         | 5          | 2          | 14, 15, 16, 17, 18 |
 | Tigers                         | 5          | 3          | 1, 2, 3, 4, 5 |
 | Tigers                         | 5          | 3          | 63, 64, 65, 66, 67 |
-| Tigers                         | 5          | 4          | 47, 48, 49, 50, 51 |
 | Tigers                         | 5          | 4          | 90, 91, 92, 93, 94 |
 | Tigers                         | 5          | 5          | 13, 14, 15, 16, 17 |
 | Tigers                         | 5          | 5          | 30, 31, 32, 33, 34 |
+| Tigers                         | 5          | 8          | 101, 102, 103, 104, 105 |
 | Tigers                         | 4          | 1          | 32, 33, 34, 35 |
-| Tigers                         | 4          | 1          | 62, 63, 64, 65 |
 | Tigers                         | 4          | 2          | 36, 37, 38, 39 |
 | Tigers                         | 4          | 2          | 42, 43, 44, 45 |
 | Tigers                         | 4          | 2          | 53, 54, 55, 56 |
@@ -51,6 +53,8 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 4          | 6          | 63, 64, 65, 66 |
 | Tigers                         | 4          | 7          | 5, 6, 7, 8 |
 | Tigers                         | 4          | 7          | 20, 21, 22, 23 |
+| Tigers                         | 4          | 8          | 65, 66, 67, 68 |
+| Tigers                         | 4          | 8          | 96, 97, 98, 99 |
 
 
 
@@ -82,21 +86,6 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 | 9 Game Winning Streak by the Tigers |
 | ----- |
-| Season 4 Games 1, 2, 3, 4, 5, 6, 7, 8, 9 |
-| G1: Season 4 Game 2: Sunbeams 1  @  4 Tigers |
-| G2: Season 4 Game 3: Sunbeams 4  @ 10 Tigers |
-| G3: Season 4 Game 4: Tigers 5  @  0 Moist Talkers |
-| G4: Season 4 Game 5: Tigers 6  @  5 Moist Talkers |
-| G5: Season 4 Game 6: Tigers 1  @  0 Moist Talkers |
-| G6: Season 4 Game 7: Dalé 2  @  9 Tigers |
-| G7: Season 4 Game 8: Dalé 3  @ 12 Tigers |
-| G8: Season 4 Game 9: Dalé 7  @  8 Tigers |
-| G9: Season 4 Game 10: Garages 4  @  6 Tigers |
-
-<br />
-
-| 9 Game Winning Streak by the Tigers |
-| ----- |
 | Season 4 Games 28, 29, 30, 31, 32, 33, 34, 35, 36 |
 | G1: Season 4 Game 29: Millennials 4  @  5 Tigers |
 | G2: Season 4 Game 30: Millennials 5  @  8 Tigers |
@@ -112,16 +101,16 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 | 9 Game Winning Streak by the Tigers |
 | ----- |
-| Season 5 Games 70, 71, 72, 73, 74, 75, 76, 77, 78 |
-| G1: Season 5 Game 71: Crabs 5  @  8 Tigers |
-| G2: Season 5 Game 72: Crabs 3  @  4 Tigers |
-| G3: Season 5 Game 73: Tigers 9  @  6 Sunbeams |
-| G4: Season 5 Game 74: Tigers 9  @  3 Sunbeams |
-| G5: Season 5 Game 75: Tigers 4  @  2 Sunbeams |
-| G6: Season 5 Game 76: Tigers 8  @  3 Dalé |
-| G7: Season 5 Game 77: Tigers 8  @  4 Dalé |
-| G8: Season 5 Game 78: Tigers 3  @  1 Dalé |
-| G9: Season 5 Game 79: Tigers 11 @  5 Moist Talkers |
+| Season 8 Games 52, 53, 54, 55, 56, 57, 58, 59, 60 |
+| G1: Season 8 Game 53: Tigers 8  @  2 Garages |
+| G2: Season 8 Game 54: Tigers 7  @  0 Garages |
+| G3: Season 8 Game 55: Moist Talkers 4  @  5 Tigers |
+| G4: Season 8 Game 56: Moist Talkers 1  @  2 Tigers |
+| G5: Season 8 Game 57: Moist Talkers 2  @  5 Tigers |
+| G6: Season 8 Game 58: Shoe Thieves 3  @  4 Tigers |
+| G7: Season 8 Game 59: Shoe Thieves 1  @  4 Tigers |
+| G8: Season 8 Game 60: Shoe Thieves 4  @  6 Tigers |
+| G9: Season 8 Game 61: Tigers 4  @  1 Sunbeams |
 
 <br />
 
@@ -136,6 +125,20 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G6: Season 2 Game 10: Moist Talkers 7  @  9 Tigers |
 | G7: Season 2 Game 11: Moist Talkers 1  @ 10 Tigers |
 | G8: Season 2 Game 12: Moist Talkers 4  @  6 Tigers |
+
+<br />
+
+| 8 Game Winning Streak by the Tigers |
+| ----- |
+| Season 8 Games 81, 82, 83, 84, 85, 86, 87, 88 |
+| G1: Season 8 Game 82: Tigers 9  @  3 Fridays |
+| G2: Season 8 Game 83: Tigers 5  @  2 Fridays |
+| G3: Season 8 Game 84: Tigers 9  @  3 Fridays |
+| G4: Season 8 Game 85: Magic 4  @  5 Tigers |
+| G5: Season 8 Game 86: Magic 2  @  5 Tigers |
+| G6: Season 8 Game 87: Magic 0  @  2 Tigers |
+| G7: Season 8 Game 88: Tigers 8  @  2 Moist Talkers |
+| G8: Season 8 Game 89: Tigers 4  @  3 Moist Talkers |
 
 <br />
 
@@ -255,6 +258,30 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 | 6 Game Winning Streak by the Tigers |
 | ----- |
+| Season 4 Games 1, 2, 3, 4, 5, 9 |
+| G1: Season 4 Game 2: Sunbeams 1  @  4 Tigers |
+| G2: Season 4 Game 3: Sunbeams 4  @ 10 Tigers |
+| G3: Season 4 Game 4: Tigers 5  @  0 Moist Talkers |
+| G4: Season 4 Game 5: Tigers 6  @  5 Moist Talkers |
+| G5: Season 4 Game 6: Tigers 1  @  0 Moist Talkers |
+| G6: Season 4 Game 10: Garages 4  @  6 Tigers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 5 Games 70, 71, 72, 73, 74, 78 |
+| G1: Season 5 Game 71: Crabs 5  @  8 Tigers |
+| G2: Season 5 Game 72: Crabs 3  @  4 Tigers |
+| G3: Season 5 Game 73: Tigers 9  @  6 Sunbeams |
+| G4: Season 5 Game 74: Tigers 9  @  3 Sunbeams |
+| G5: Season 5 Game 75: Tigers 4  @  2 Sunbeams |
+| G6: Season 5 Game 79: Tigers 11 @  5 Moist Talkers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
 | Season 6 Games 92, 93, 94, 95, 96, 97 |
 | G1: Season 6 Game 93: Tigers 4  @  3 Moist Talkers |
 | G2: Season 6 Game 94: Magic 2  @  4 Tigers |
@@ -265,14 +292,27 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 <br />
 
-| 5 Game Winning Streak by the Tigers |
+| 6 Game Winning Streak by the Tigers |
 | ----- |
-| Season 1 Games 22, 23, 24, 25, 26 |
-| G1: Season 1 Game 23: Tigers 14 @  2 Dalé |
-| G2: Season 1 Game 24: Tigers 5  @  1 Dalé |
-| G3: Season 1 Game 25: Garages 3  @  4 Tigers |
-| G4: Season 1 Game 26: Garages 1  @  6 Tigers |
-| G5: Season 1 Game 27: Garages 7  @ 10 Tigers |
+| Season 8 Games 21, 22, 23, 24, 25, 26 |
+| G1: Season 8 Game 22: Moist Talkers 0  @  1 Tigers |
+| G2: Season 8 Game 23: Moist Talkers 6  @  7 Tigers |
+| G3: Season 8 Game 24: Moist Talkers 1  @  9 Tigers |
+| G4: Season 8 Game 25: Breath Mints 4  @  6 Tigers |
+| G5: Season 8 Game 26: Breath Mints 0  @  2 Tigers |
+| G6: Season 8 Game 27: Breath Mints 1  @  3 Tigers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 8 Games 39, 40, 41, 42, 43, 44 |
+| G1: Season 8 Game 40: Tigers 7  @  6 Magic |
+| G2: Season 8 Game 41: Tigers 2  @  1 Magic |
+| G3: Season 8 Game 42: Tigers 6  @  4 Magic |
+| G4: Season 8 Game 43: Tigers 6  @  1 Wild Wings |
+| G5: Season 8 Game 44: Tigers 7  @  1 Wild Wings |
+| G6: Season 8 Game 45: Tigers 9  @  0 Wild Wings |
 
 <br />
 
@@ -311,17 +351,6 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 | 5 Game Winning Streak by the Tigers |
 | ----- |
-| Season 4 Games 46, 47, 48, 49, 50 |
-| G1: Season 4 Game 47: Spies 1  @  9 Tigers |
-| G2: Season 4 Game 48: Spies 2  @  3 Tigers |
-| G3: Season 4 Game 49: Dalé 4  @  5 Tigers |
-| G4: Season 4 Game 50: Dalé 2  @  4 Tigers |
-| G5: Season 4 Game 51: Dalé 0  @  8 Tigers |
-
-<br />
-
-| 5 Game Winning Streak by the Tigers |
-| ----- |
 | Season 4 Games 89, 90, 91, 92, 93 |
 | G1: Season 4 Game 90: Wild Wings 0  @  4 Tigers |
 | G2: Season 4 Game 91: Tigers 9  @  7 Spies |
@@ -353,6 +382,17 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 8 Games 100, 101, 102, 103, 104 |
+| G1: Season 8 Game 101: Tigers 3  @  0 Steaks |
+| G2: Season 8 Game 102: Steaks 5  @  9 Tigers |
+| G3: Season 8 Game 103: Tigers 7  @  2 Steaks |
+| G4: Season 8 Game 104: Pies 8  @ 11 Tigers |
+| G5: Season 8 Game 105: Tigers 1  @  0 Pies |
+
+<br />
+
 | 4 Game Winning Streak by the Tigers |
 | ----- |
 | Season 1 Games 31, 32, 33, 34 |
@@ -360,16 +400,6 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 1 Game 33: Crabs 1  @  7 Tigers |
 | G3: Season 1 Game 34: Tigers 8  @  2 Wild Wings |
 | G4: Season 1 Game 35: Tigers 11 @  2 Wild Wings |
-
-<br />
-
-| 4 Game Winning Streak by the Tigers |
-| ----- |
-| Season 1 Games 61, 62, 63, 64 |
-| G1: Season 1 Game 62: Dalé 3  @  7 Tigers |
-| G2: Season 1 Game 63: Dalé 0  @  7 Tigers |
-| G3: Season 1 Game 64: Spies 1  @  5 Tigers |
-| G4: Season 1 Game 65: Spies 1  @  2 Tigers |
 
 <br />
 
@@ -530,6 +560,26 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 7 Game 21: Pies 2  @  5 Tigers |
 | G3: Season 7 Game 22: Moist Talkers 1  @  4 Tigers |
 | G4: Season 7 Game 23: Moist Talkers 3  @  8 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 8 Games 64, 65, 66, 67 |
+| G1: Season 8 Game 65: Pies 5  @  9 Tigers |
+| G2: Season 8 Game 66: Pies 5  @  6 Tigers |
+| G3: Season 8 Game 67: Tigers 2  @  0 Breath Mints |
+| G4: Season 8 Game 68: Tigers 5  @  3 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 8 Games 95, 96, 97, 98 |
+| G1: Season 8 Game 96: Garages 4  @  6 Tigers |
+| G2: Season 8 Game 97: Breath Mints 0  @  8 Tigers |
+| G3: Season 8 Game 98: Breath Mints 4  @  6 Tigers |
+| G4: Season 8 Game 99: Breath Mints -1 @  1 Tigers |
 
 
 

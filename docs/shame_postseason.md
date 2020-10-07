@@ -1,5 +1,5 @@
 # Blaseball Postseason Shame Runs
-(Through season 7)
+(Through season 8)
 
 
 
@@ -13,6 +13,7 @@ Shame games (games where the loser was shamed) for all time (postseason only) fo
 | 7 | 107* | Baltimore Crabs | 7 - 3 | San Francisco Lovers | 
 | 3 | 107* | New York Millennials | 12 - 9 | San Francisco Lovers | 
 | 5 | 108* | Breckenridge Jazz Hands | 9 - 6 | Canada Moist Talkers | 
+| 8 | 107* | Philly Pies | 7 - 5 | Hades Tigers | 
 | 2 | 102* | Hades Tigers | 6 - 4 | Breckenridge Jazz Hands | 
 | 4 | 102* | Hades Tigers | 6 - 4 | Canada Moist Talkers | 
 | 6 | 109* | Baltimore Crabs | 4 - 2 | Seattle Garages | 
@@ -24,6 +25,8 @@ Shame games (games where the loser was shamed) for all time (postseason only) fo
 | 3 | 100* | Charleston Shoe Thieves | 4 - 3 | San Francisco Lovers | 
 | 6 | 105* | Baltimore Crabs | 4 - 3 | Breckenridge Jazz Hands | 
 | 6 | 107* | Baltimore Crabs | 4 - 3 | Breckenridge Jazz Hands | 
+| 7 | 113* | Mexico City Wild Wings | 4 - 3 | San Francisco Lovers | 
 | 5 | 112* | Chicago Firefighters | 3 - 2 | Breckenridge Jazz Hands | 
+| 8 | 106* | Baltimore Crabs | 2 - 1 | Houston Spies | 
 
 

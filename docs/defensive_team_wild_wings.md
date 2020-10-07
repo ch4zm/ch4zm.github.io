@@ -20,6 +20,8 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 4 | 5 | Mexico City Wild Wings | 1 - 0 | Miami Dalé | 
 | 5 | 74 | Mexico City Wild Wings | 1 - 0 | Baltimore Crabs | 
 | 5 | 85 | Mexico City Wild Wings | 1 - 0 | Breckenridge Jazz Hands | 
+| 8 | 12 | Mexico City Wild Wings | 1 - 0 | Yellowstone Magic | 
+| 8 | 85 | Charleston Shoe Thieves | 1 - 0 | Mexico City Wild Wings | 
 | 1 | 10 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 1 | 18 | Mexico City Wild Wings | 2 - 1 | Hades Tigers | 
 | 1 | 33 | Seattle Garages | 2 - 1 | Mexico City Wild Wings | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 3 | 19 | Hellmouth Sunbeams | 2 - 1 | Mexico City Wild Wings | 
 | 3 | 48 | Canada Moist Talkers | 2 - 1 | Mexico City Wild Wings | 
 | 3 | 75 | Canada Moist Talkers | 2 - 1 | Mexico City Wild Wings | 
-| 3 | 80 | Breckenridge Jazz Hands | 2 - 1 | Mexico City Wild Wings | 
-| 4 | 1 | Mexico City Wild Wings | 2 - 1 | Baltimore Crabs | 
 
 

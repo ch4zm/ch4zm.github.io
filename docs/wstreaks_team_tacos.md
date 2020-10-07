@@ -1,5 +1,5 @@
 # Tacos Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,10 +12,13 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Tacos                          | 5          | 2          | 32, 33, 34, 35, 36 |
 | Tacos                          | 5          | 4          | 53, 54, 55, 56, 57 |
+| Tacos                          | 5          | 8          | 10, 11, 12, 13, 14 |
 | Tacos                          | 4          | 1          | 49, 50, 51, 52 |
 | Tacos                          | 4          | 2          | 44, 45, 46, 47 |
 | Tacos                          | 4          | 6          | 53, 54, 55, 56 |
+| Tacos                          | 4          | 7          | 1, 2, 3, 4 |
 | Tacos                          | 4          | 7          | 86, 87, 88, 89 |
+| Tacos                          | 4          | 8          | 5, 6, 7, 8 |
 
 
 
@@ -46,6 +49,17 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G3: Season 4 Game 55: Breath Mints 2  @  3 Tacos |
 | G4: Season 4 Game 56: Breath Mints 4  @  9 Tacos |
 | G5: Season 4 Game 57: Breath Mints 1  @  5 Tacos |
+
+<br />
+
+| 5 Game Winning Streak by the Tacos |
+| ----- |
+| Season 8 Games 9, 10, 11, 12, 13 |
+| G1: Season 8 Game 10: Tacos 6  @  2 Lovers |
+| G2: Season 8 Game 11: Tacos 6  @  4 Lovers |
+| G3: Season 8 Game 12: Tacos 8  @  2 Lovers |
+| G4: Season 8 Game 13: Sunbeams 3  @  9 Tacos |
+| G5: Season 8 Game 14: Sunbeams 2  @  3 Tacos |
 
 <br />
 
@@ -81,11 +95,31 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 
 | 4 Game Winning Streak by the Tacos |
 | ----- |
+| Season 7 Games 0, 1, 2, 3 |
+| G1: Season 7 Game 1: Tacos 7  @  5 Dale |
+| G2: Season 7 Game 2: Tacos 3  @  0 Dale |
+| G3: Season 7 Game 3: Tacos 3  @  0 Dale |
+| G4: Season 7 Game 4: Firefighters 4  @  8 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
 | Season 7 Games 85, 86, 87, 88 |
 | G1: Season 7 Game 86: Tacos 9  @  8 Sunbeams |
 | G2: Season 7 Game 87: Tacos 1  @  0 Sunbeams |
 | G3: Season 7 Game 88: Spies 4  @  8 Tacos |
 | G4: Season 7 Game 89: Spies 3  @  5 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
+| Season 8 Games 4, 5, 6, 7 |
+| G1: Season 8 Game 5: Firefighters 3  @  6 Tacos |
+| G2: Season 8 Game 6: Firefighters 8  @  9 Tacos |
+| G3: Season 8 Game 7: Tacos 3  @  1 Jazz Hands |
+| G4: Season 8 Game 8: Tacos 5  @  4 Jazz Hands |
 
 
 

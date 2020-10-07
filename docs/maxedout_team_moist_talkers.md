@@ -16,6 +16,8 @@ Maxed out games (high-scoring one-run games) for all time for team Moist Talkers
 | 2 | 18 | Canada Moist Talkers | 8 - 7 | Miami Dalé | 
 | 2 | 101* | Philly Pies | 8 - 7 | Canada Moist Talkers | 
 | 6 | 88 | Canada Moist Talkers | 8 - 7 | Kansas City Breath Mints | 
+| 8 | 52 | Hawaii Fridays | 8 - 7 | Canada Moist Talkers | 
+| 8 | 68 | Canada Moist Talkers | 8 - 7 | Dallas Steaks | 
 | 2 | 1 | Canada Moist Talkers | 7 - 6 | Baltimore Crabs | 
 | 3 | 5 | Canada Moist Talkers | 7 - 6 | Houston Spies | 
 | 3 | 50 | Breckenridge Jazz Hands | 7 - 6 | Canada Moist Talkers | 
@@ -26,11 +28,9 @@ Maxed out games (high-scoring one-run games) for all time for team Moist Talkers
 | 6 | 40 | Kansas City Breath Mints | 7 - 6 | Canada Moist Talkers | 
 | 7 | 32 | Canada Moist Talkers | 7 - 6 | Hades Tigers | 
 | 7 | 43 | Dallas Steaks | 7 - 6 | Canada Moist Talkers | 
+| 8 | 23 | Hades Tigers | 7 - 6 | Canada Moist Talkers | 
+| 8 | 42 | Canada Moist Talkers | 7 - 6 | Seattle Garages | 
+| 8 | 79 | Canada Moist Talkers | 7 - 6 | Dallas Steaks | 
 | 1 | 1 | Breckenridge Jazz Hands | 6 - 5 | Canada Moist Talkers | 
-| 1 | 2 | Breckenridge Jazz Hands | 6 - 5 | Canada Moist Talkers | 
-| 1 | 13 | Canada Moist Talkers | 6 - 5 | Seattle Garages | 
-| 1 | 51 | Mexico City Wild Wings | 6 - 5 | Canada Moist Talkers | 
-| 2 | 31 | Mexico City Wild Wings | 6 - 5 | Canada Moist Talkers | 
-| 2 | 70 | Mexico City Wild Wings | 6 - 5 | Canada Moist Talkers | 
 
 

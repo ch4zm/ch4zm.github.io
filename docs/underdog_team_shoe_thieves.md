@@ -12,6 +12,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 25 | Hawaii Fridays (44%) | 9 - 2 | Charleston Shoe Thieves (56%) | 
 | 4 | 45 | Charleston Shoe Thieves (41%) | 9 - 2 | New York Millennials (59%) | 
 | 5 | 91 | Unlimited Tacos (42%) | 9 - 2 | Charleston Shoe Thieves (58%) | 
+| 8 | 25 | Hawaii Fridays (38%) | 9 - 2 | Charleston Shoe Thieves (62%) | 
 | 1 | 26 | Charleston Shoe Thieves (28%) | 8 - 1 | Yellowstone Magic (72%) | 
 | 1 | 33 | Dallas Steaks (43%) | 8 - 1 | Charleston Shoe Thieves (57%) | 
 | 1 | 88 | Charleston Shoe Thieves (44%) | 8 - 1 | Boston Flowers (56%) | 
@@ -30,7 +31,6 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 58 | Charleston Shoe Thieves (43%) | 8 - 3 | Boston Flowers (57%) | 
 | 5 | 28 | Charleston Shoe Thieves (35%) | 8 - 3 | San Francisco Lovers (65%) | 
 | 1 | 14 | Kansas City Breath Mints (41%) | 7 - 2 | Charleston Shoe Thieves (59%) | 
-| 3 | 42 | Hawaii Fridays (43%) | 6 - 1 | Charleston Shoe Thieves (57%) | 
-| 4 | 97 | Charleston Shoe Thieves (41%) | 6 - 1 | Hawaii Fridays (59%) | 
+| 8 | 61 | Unlimited Tacos (44%) | 7 - 2 | Charleston Shoe Thieves (56%) | 
 
 

@@ -13,6 +13,7 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 3 | 67 | New York Millennials | 1 - 0 | Yellowstone Magic | 
 | 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
 | 6 | 18 | New York Millennials | 1 - 0 | Breckenridge Jazz Hands | 
+| 8 | 80 | New York Millennials | 1 - 0 | Houston Spies | 
 | 1 | 39 | New York Millennials | 2 - 1 | Los Angeles Tacos | 
 | 1 | 82 | Los Angeles Tacos | 2 - 1 | New York Millennials | 
 | 1 | 85 | Boston Flowers | 2 - 1 | New York Millennials | 
@@ -30,7 +31,6 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 7 | 35 | Unlimited Tacos | 2 - 1 | New York Millennials | 
 | 7 | 91 | New York Millennials | 2 - 1 | Houston Spies | 
 | 7 | 96 | Houston Spies | 2 - 1 | New York Millennials | 
-| 1 | 4 | Charleston Shoe Thieves | 3 - 2 | New York Millennials | 
-| 1 | 38 | Los Angeles Tacos | 3 - 2 | New York Millennials | 
+| 8 | 87 | Hellmouth Sunbeams | 2 - 1 | New York Millennials | 
 
 

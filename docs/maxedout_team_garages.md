@@ -12,6 +12,9 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 1 | 37 | Seattle Garages | 10 - 9 | Miami Dalé | 
 | 3 | 95 | Houston Spies | 10 - 9 | Seattle Garages | 
 | 5 | 5 | Hellmouth Sunbeams | 10 - 9 | Seattle Garages | 
+| 8 | 17 | Philly Pies | 10 - 9 | Seattle Garages | 
+| 8 | 19 | Philly Pies | 10 - 9 | Seattle Garages | 
+| 8 | 56 | Dallas Steaks | 9 - 8 | Seattle Garages | 
 | 1 | 2 | Seattle Garages | 8 - 7 | Miami Dalé | 
 | 2 | 5 | Seattle Garages | 8 - 7 | Miami Dalé | 
 | 2 | 6 | Miami Dalé | 8 - 7 | Seattle Garages | 
@@ -20,6 +23,7 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 4 | 74 | Seattle Garages | 8 - 7 | Philly Pies | 
 | 6 | 50 | Yellowstone Magic | 8 - 7 | Seattle Garages | 
 | 6 | 86 | Philly Pies | 8 - 7 | Seattle Garages | 
+| 8 | 14 | Seattle Garages | 8 - 7 | Yellowstone Magic | 
 | 1 | 7 | Philly Pies | 7 - 6 | Seattle Garages | 
 | 1 | 61 | Seattle Garages | 7 - 6 | Philly Pies | 
 | 1 | 97 | Seattle Garages | 7 - 6 | Miami Dalé | 
@@ -28,9 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 4 | 6 | Breckenridge Jazz Hands | 7 - 6 | Seattle Garages | 
 | 4 | 67 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
 | 5 | 66 | Houston Spies | 7 - 6 | Seattle Garages | 
-| 5 | 91 | Seattle Garages | 7 - 6 | Houston Spies | 
-| 6 | 6 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
-| 6 | 89 | Seattle Garages | 7 - 6 | Mexico City Wild Wings | 
-| 7 | 23 | Yellowstone Magic | 7 - 6 | Seattle Garages | 
 
 

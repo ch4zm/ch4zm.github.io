@@ -12,10 +12,8 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Tacos                          | 10         | 6          | 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
-| Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
 | Moist Talkers                  | 7          | 6          | 1, 2, 3, 4, 5, 6, 7 |
 | Spies                          | 7          | 6          | 50, 51, 52, 53, 54, 55, 56 |
-| Dalé                           | 7          | 6          | 69, 70, 71, 72, 73, 74, 75 |
 | Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
 
 
@@ -79,21 +77,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 
 <br />
 
-| 9 Game Losing Streak by the Dalé |
-| ----- |
-| Season 6 Games 49, 50, 51, 52, 53, 54, 55, 56, 57 |
-| G1: Season 6 Game 50: Crabs 5  @  1 Dalé |
-| G2: Season 6 Game 51: Crabs 6  @  3 Dalé |
-| G3: Season 6 Game 52: Dalé 5  @  7 Jazz Hands |
-| G4: Season 6 Game 53: Dalé 2  @  6 Jazz Hands |
-| G5: Season 6 Game 54: Dalé 4  @  7 Jazz Hands |
-| G6: Season 6 Game 55: Dalé 4  @ 10 Crabs |
-| G7: Season 6 Game 56: Dalé 4  @  5 Crabs |
-| G8: Season 6 Game 57: Dalé 2  @ 11 Crabs |
-| G9: Season 6 Game 58: Dalé 6  @ 10 Jazz Hands |
-
-<br />
-
 | 7 Game Losing Streak by the Moist Talkers |
 | ----- |
 | Season 6 Games 0, 1, 2, 3, 4, 5, 6 |
@@ -117,19 +100,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 6
 | G5: Season 6 Game 54: Spies 3  @  5 Firefighters |
 | G6: Season 6 Game 55: Sunbeams 5  @  3 Spies |
 | G7: Season 6 Game 56: Sunbeams 8  @  2 Spies |
-
-<br />
-
-| 7 Game Losing Streak by the Dalé |
-| ----- |
-| Season 6 Games 68, 69, 70, 71, 72, 73, 74 |
-| G1: Season 6 Game 69: Flowers 6  @  5 Dalé |
-| G2: Season 6 Game 70: Dalé 0  @  4 Crabs |
-| G3: Season 6 Game 71: Dalé 1  @  6 Crabs |
-| G4: Season 6 Game 72: Dalé 2  @  9 Crabs |
-| G5: Season 6 Game 73: Flowers 8  @  6 Dalé |
-| G6: Season 6 Game 74: Flowers 6  @  3 Dalé |
-| G7: Season 6 Game 75: Flowers 4  @  3 Dalé |
 
 <br />
 

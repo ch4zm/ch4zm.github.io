@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -13,27 +13,28 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 7          | 3          | 60, 61, 62, 63, 64, 65, 66 |
 | Moist Talkers                  | 6          | 4          | 92, 93, 94, 95, 96, 97 |
 | Moist Talkers                  | 6          | 5          | 6, 7, 8, 9, 10, 11 |
+| Moist Talkers                  | 6          | 8          | 33, 34, 35, 36, 37, 38 |
+| Moist Talkers                  | 6          | 8          | 74, 75, 76, 77, 78, 79 |
 | Moist Talkers                  | 5          | 1          | 32, 33, 34, 35, 36 |
 | Moist Talkers                  | 5          | 1          | 43, 44, 45, 46, 47 |
-| Moist Talkers                  | 5          | 2          | 40, 41, 42, 43, 44 |
 | Moist Talkers                  | 5          | 3          | 74, 75, 76, 77, 78 |
-| Moist Talkers                  | 5          | 4          | 8, 9, 10, 11, 12 |
 | Moist Talkers                  | 5          | 5          | 45, 46, 47, 48, 49 |
 | Moist Talkers                  | 5          | 5          | 55, 56, 57, 58, 59 |
 | Moist Talkers                  | 5          | 6          | 58, 59, 60, 61, 62 |
 | Moist Talkers                  | 4          | 1          | 12, 13, 14, 15 |
+| Moist Talkers                  | 4          | 1          | 17, 18, 22, 23 |
 | Moist Talkers                  | 4          | 1          | 52, 53, 54, 55 |
-| Moist Talkers                  | 4          | 2          | 17, 18, 19, 20 |
-| Moist Talkers                  | 4          | 2          | 22, 23, 24, 25 |
 | Moist Talkers                  | 4          | 2          | 85, 86, 87, 88 |
-| Moist Talkers                  | 4          | 3          | 20, 21, 22, 23 |
 | Moist Talkers                  | 4          | 3          | 45, 46, 47, 48 |
+| Moist Talkers                  | 4          | 4          | 40, 41, 42, 46 |
 | Moist Talkers                  | 4          | 4          | 55, 56, 57, 58 |
 | Moist Talkers                  | 4          | 4          | 76, 77, 78, 79 |
+| Moist Talkers                  | 4          | 5          | 61, 62, 63, 67 |
 | Moist Talkers                  | 4          | 6          | 53, 54, 55, 56 |
 | Moist Talkers                  | 4          | 6          | 66, 67, 68, 69 |
 | Moist Talkers                  | 4          | 6          | 85, 86, 87, 88 |
 | Moist Talkers                  | 4          | 7          | 6, 7, 8, 9 |
+| Moist Talkers                  | 4          | 8          | 94, 95, 96, 97 |
 
 
 
@@ -82,6 +83,30 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 <br />
 
+| 6 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 32, 33, 34, 35, 36, 37 |
+| G1: Season 8 Game 33: Moist Talkers 5  @  3 Fridays |
+| G2: Season 8 Game 34: Tigers 0  @  4 Moist Talkers |
+| G3: Season 8 Game 35: Tigers 4  @  7 Moist Talkers |
+| G4: Season 8 Game 36: Tigers 4  @  5 Moist Talkers |
+| G5: Season 8 Game 37: Breath Mints 4  @  7 Moist Talkers |
+| G6: Season 8 Game 38: Breath Mints 0  @  4 Moist Talkers |
+
+<br />
+
+| 6 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 73, 74, 75, 76, 77, 78 |
+| G1: Season 8 Game 74: Moist Talkers 6  @  1 Shoe Thieves |
+| G2: Season 8 Game 75: Moist Talkers 6  @  3 Shoe Thieves |
+| G3: Season 8 Game 76: Breath Mints 2  @  5 Moist Talkers |
+| G4: Season 8 Game 77: Breath Mints 3  @  6 Moist Talkers |
+| G5: Season 8 Game 78: Breath Mints 3  @  7 Moist Talkers |
+| G6: Season 8 Game 79: Moist Talkers 7  @  6 Steaks |
+
+<br />
+
 | 5 Game Winning Streak by the Moist Talkers |
 | ----- |
 | Season 1 Games 31, 32, 33, 34, 35 |
@@ -106,34 +131,12 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 | 5 Game Winning Streak by the Moist Talkers |
 | ----- |
-| Season 2 Games 39, 40, 41, 42, 43 |
-| G1: Season 2 Game 40: Moist Talkers 6  @  4 Wild Wings |
-| G2: Season 2 Game 41: Moist Talkers 6  @  4 Wild Wings |
-| G3: Season 2 Game 42: Moist Talkers 10 @  2 Wild Wings |
-| G4: Season 2 Game 43: Dalé 3  @  9 Moist Talkers |
-| G5: Season 2 Game 44: Dalé 3  @  8 Moist Talkers |
-
-<br />
-
-| 5 Game Winning Streak by the Moist Talkers |
-| ----- |
 | Season 3 Games 73, 74, 75, 76, 77 |
 | G1: Season 3 Game 74: Wild Wings 1  @  3 Moist Talkers |
 | G2: Season 3 Game 75: Wild Wings 1  @  2 Moist Talkers |
 | G3: Season 3 Game 76: Jazz Hands 1  @  9 Moist Talkers |
 | G4: Season 3 Game 77: Jazz Hands 5  @  8 Moist Talkers |
 | G5: Season 3 Game 78: Jazz Hands 0  @  3 Moist Talkers |
-
-<br />
-
-| 5 Game Winning Streak by the Moist Talkers |
-| ----- |
-| Season 4 Games 7, 8, 9, 10, 11 |
-| G1: Season 4 Game 8: Spies 2  @  5 Moist Talkers |
-| G2: Season 4 Game 9: Spies 1  @  3 Moist Talkers |
-| G3: Season 4 Game 10: Dalé 3  @  5 Moist Talkers |
-| G4: Season 4 Game 11: Dalé 4  @  5 Moist Talkers |
-| G5: Season 4 Game 12: Dalé 3  @  6 Moist Talkers |
 
 <br />
 
@@ -182,31 +185,21 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 | 4 Game Winning Streak by the Moist Talkers |
 | ----- |
+| Season 1 Games 16, 17, 21, 22 |
+| G1: Season 1 Game 17: Crabs 1  @  2 Moist Talkers |
+| G2: Season 1 Game 18: Crabs 2  @  7 Moist Talkers |
+| G3: Season 1 Game 22: Moist Talkers 6  @  4 Wild Wings |
+| G4: Season 1 Game 23: Moist Talkers 5  @  3 Wild Wings |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
 | Season 1 Games 51, 52, 53, 54 |
 | G1: Season 1 Game 52: Moist Talkers 8  @  6 Garages |
 | G2: Season 1 Game 53: Moist Talkers 9  @  5 Garages |
 | G3: Season 1 Game 54: Moist Talkers 6  @  1 Garages |
 | G4: Season 1 Game 55: Moist Talkers 9  @  5 Jazz Hands |
-
-<br />
-
-| 4 Game Winning Streak by the Moist Talkers |
-| ----- |
-| Season 2 Games 16, 17, 18, 19 |
-| G1: Season 2 Game 17: Dalé 2  @  8 Moist Talkers |
-| G2: Season 2 Game 18: Dalé 7  @  8 Moist Talkers |
-| G3: Season 2 Game 19: Sunbeams 4  @  5 Moist Talkers |
-| G4: Season 2 Game 20: Sunbeams 3  @  6 Moist Talkers |
-
-<br />
-
-| 4 Game Winning Streak by the Moist Talkers |
-| ----- |
-| Season 2 Games 21, 22, 23, 24 |
-| G1: Season 2 Game 22: Dalé 1  @  5 Moist Talkers |
-| G2: Season 2 Game 23: Dalé 2  @  5 Moist Talkers |
-| G3: Season 2 Game 24: Dalé 4  @  6 Moist Talkers |
-| G4: Season 2 Game 25: Moist Talkers 15 @  0 Crabs |
 
 <br />
 
@@ -222,21 +215,21 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 | 4 Game Winning Streak by the Moist Talkers |
 | ----- |
-| Season 3 Games 19, 20, 21, 22 |
-| G1: Season 3 Game 20: Pies 1  @  2 Moist Talkers |
-| G2: Season 3 Game 21: Pies 2  @  5 Moist Talkers |
-| G3: Season 3 Game 22: Moist Talkers 6  @  5 Dalé |
-| G4: Season 3 Game 23: Moist Talkers 5  @  3 Dalé |
-
-<br />
-
-| 4 Game Winning Streak by the Moist Talkers |
-| ----- |
 | Season 3 Games 44, 45, 46, 47 |
 | G1: Season 3 Game 45: Flowers 2  @  7 Moist Talkers |
 | G2: Season 3 Game 46: Wild Wings 1  @  5 Moist Talkers |
 | G3: Season 3 Game 47: Wild Wings 4  @  9 Moist Talkers |
 | G4: Season 3 Game 48: Wild Wings 1  @  2 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 4 Games 39, 40, 41, 45 |
+| G1: Season 4 Game 40: Garages 2  @  4 Moist Talkers |
+| G2: Season 4 Game 41: Garages 4  @  5 Moist Talkers |
+| G3: Season 4 Game 42: Garages 4  @  6 Moist Talkers |
+| G4: Season 4 Game 46: Moist Talkers 9  @  3 Garages |
 
 <br />
 
@@ -257,6 +250,16 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 4 Game 77: Firefighters 0  @  3 Moist Talkers |
 | G3: Season 4 Game 78: Firefighters 1  @  3 Moist Talkers |
 | G4: Season 4 Game 79: Garages 8  @ 11 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 5 Games 60, 61, 62, 66 |
+| G1: Season 5 Game 61: Garages 0  @  3 Moist Talkers |
+| G2: Season 5 Game 62: Garages 3  @  4 Moist Talkers |
+| G3: Season 5 Game 63: Garages 3  @  4 Moist Talkers |
+| G4: Season 5 Game 67: Jazz Hands 4  @  5 Moist Talkers |
 
 <br />
 
@@ -297,6 +300,16 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 7 Game 7: Moist Talkers 4  @  3 Shoe Thieves |
 | G3: Season 7 Game 8: Moist Talkers 4  @  3 Shoe Thieves |
 | G4: Season 7 Game 9: Moist Talkers 5  @  4 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 93, 94, 95, 96 |
+| G1: Season 8 Game 94: Moist Talkers 6  @  4 Magic |
+| G2: Season 8 Game 95: Moist Talkers 11 @  1 Magic |
+| G3: Season 8 Game 96: Moist Talkers 6  @  3 Magic |
+| G4: Season 8 Game 97: Moist Talkers 4  @  1 Garages |
 
 
 

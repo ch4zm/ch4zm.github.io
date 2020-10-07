@@ -1,5 +1,5 @@
 # Moist Talkers Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,14 +12,15 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | ----- | ----- | ----- | ----- |
 | Moist Talkers                  | 7          | 6          | 1, 2, 3, 4, 5, 6, 7 |
 | Moist Talkers                  | 6          | 4          | 2, 3, 4, 5, 6, 7 |
+| Moist Talkers                  | 6          | 5          | 27, 28, 29, 30, 40, 41 |
 | Moist Talkers                  | 6          | 6          | 20, 21, 22, 23, 24, 25 |
 | Moist Talkers                  | 6          | 7          | 47, 48, 49, 50, 51, 52 |
 | Moist Talkers                  | 5          | 3          | 69, 70, 71, 72, 73 |
 | Moist Talkers                  | 5          | 7          | 66, 67, 68, 69, 70 |
+| Moist Talkers                  | 4          | 1          | 85, 86, 87, 91 |
 | Moist Talkers                  | 4          | 2          | 59, 60, 61, 62 |
-| Moist Talkers                  | 4          | 3          | 79, 80, 81, 82 |
+| Moist Talkers                  | 4          | 3          | 29, 30, 34, 35 |
 | Moist Talkers                  | 4          | 4          | 21, 22, 23, 24 |
-| Moist Talkers                  | 4          | 5          | 27, 28, 29, 30 |
 | Moist Talkers                  | 4          | 5          | 87, 88, 89, 90 |
 | Moist Talkers                  | 4          | 6          | 27, 28, 29, 30 |
 | Moist Talkers                  | 4          | 6          | 33, 34, 35, 36 |
@@ -27,6 +28,10 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | Moist Talkers                  | 4          | 7          | 16, 17, 18, 19 |
 | Moist Talkers                  | 4          | 7          | 41, 42, 43, 44 |
 | Moist Talkers                  | 4          | 7          | 75, 76, 77, 78 |
+| Moist Talkers                  | 4          | 8          | 3, 4, 5, 6 |
+| Moist Talkers                  | 4          | 8          | 22, 23, 24, 25 |
+| Moist Talkers                  | 4          | 8          | 27, 28, 29, 30 |
+| Moist Talkers                  | 4          | 8          | 55, 56, 57, 58 |
 
 
 
@@ -60,6 +65,18 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G4: Season 4 Game 5: Tigers 6  @  5 Moist Talkers |
 | G5: Season 4 Game 6: Tigers 1  @  0 Moist Talkers |
 | G6: Season 4 Game 7: Spies 4  @  3 Moist Talkers |
+
+<br />
+
+| 6 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 5 Games 26, 27, 28, 29, 39, 40 |
+| G1: Season 5 Game 27: Jazz Hands 12 @  2 Moist Talkers |
+| G2: Season 5 Game 28: Jazz Hands 6  @  5 Moist Talkers |
+| G3: Season 5 Game 29: Jazz Hands 7  @  5 Moist Talkers |
+| G4: Season 5 Game 30: Jazz Hands 5  @  3 Moist Talkers |
+| G5: Season 5 Game 40: Crabs 7  @  1 Moist Talkers |
+| G6: Season 5 Game 41: Crabs 3  @  2 Moist Talkers |
 
 <br />
 
@@ -111,6 +128,16 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 
 | 4 Game Losing Streak by the Moist Talkers |
 | ----- |
+| Season 1 Games 84, 85, 86, 90 |
+| G1: Season 1 Game 85: Pies 4  @  3 Moist Talkers |
+| G2: Season 1 Game 86: Pies 9  @  1 Moist Talkers |
+| G3: Season 1 Game 87: Pies 3  @  1 Moist Talkers |
+| G4: Season 1 Game 91: Spies 9  @  6 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
 | Season 2 Games 58, 59, 60, 61 |
 | G1: Season 2 Game 59: Sunbeams 5  @  4 Moist Talkers |
 | G2: Season 2 Game 60: Sunbeams 3  @  2 Moist Talkers |
@@ -121,11 +148,11 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 
 | 4 Game Losing Streak by the Moist Talkers |
 | ----- |
-| Season 3 Games 78, 79, 80, 81 |
-| G1: Season 3 Game 79: Moist Talkers 2  @ 10 Tigers |
-| G2: Season 3 Game 80: Moist Talkers 3  @ 10 Tigers |
-| G3: Season 3 Game 81: Moist Talkers 3  @  4 Tigers |
-| G4: Season 3 Game 82: Moist Talkers 4  @  7 Dalé |
+| Season 3 Games 28, 29, 33, 34 |
+| G1: Season 3 Game 29: Moist Talkers 4  @  9 Garages |
+| G2: Season 3 Game 30: Moist Talkers 3  @  5 Garages |
+| G3: Season 3 Game 34: Moist Talkers 1  @ 10 Jazz Hands |
+| G4: Season 3 Game 35: Moist Talkers 4  @  5 Jazz Hands |
 
 <br />
 
@@ -136,16 +163,6 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G2: Season 4 Game 22: Moist Talkers 2  @  3 Spies |
 | G3: Season 4 Game 23: Moist Talkers 0  @  2 Spies |
 | G4: Season 4 Game 24: Moist Talkers 2  @  6 Spies |
-
-<br />
-
-| 4 Game Losing Streak by the Moist Talkers |
-| ----- |
-| Season 5 Games 26, 27, 28, 29 |
-| G1: Season 5 Game 27: Jazz Hands 12 @  2 Moist Talkers |
-| G2: Season 5 Game 28: Jazz Hands 6  @  5 Moist Talkers |
-| G3: Season 5 Game 29: Jazz Hands 7  @  5 Moist Talkers |
-| G4: Season 5 Game 30: Jazz Hands 5  @  3 Moist Talkers |
 
 <br />
 
@@ -216,6 +233,46 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G2: Season 7 Game 76: Breath Mints 5  @  3 Moist Talkers |
 | G3: Season 7 Game 77: Breath Mints 9  @  6 Moist Talkers |
 | G4: Season 7 Game 78: Breath Mints 13 @  3 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 2, 3, 4, 5 |
+| G1: Season 8 Game 3: Wild Wings 18 @  1 Moist Talkers |
+| G2: Season 8 Game 4: Moist Talkers 3  @  8 Pies |
+| G3: Season 8 Game 5: Moist Talkers 2  @  5 Pies |
+| G4: Season 8 Game 6: Moist Talkers 0  @  2 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 21, 22, 23, 24 |
+| G1: Season 8 Game 22: Moist Talkers 0  @  1 Tigers |
+| G2: Season 8 Game 23: Moist Talkers 6  @  7 Tigers |
+| G3: Season 8 Game 24: Moist Talkers 1  @  9 Tigers |
+| G4: Season 8 Game 25: Garages 6  @  4 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 26, 27, 28, 29 |
+| G1: Season 8 Game 27: Garages 6  @  0 Moist Talkers |
+| G2: Season 8 Game 28: Moist Talkers 2  @  5 Steaks |
+| G3: Season 8 Game 29: Moist Talkers 3  @  6 Steaks |
+| G4: Season 8 Game 30: Moist Talkers 0  @  6 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 8 Games 54, 55, 56, 57 |
+| G1: Season 8 Game 55: Moist Talkers 4  @  5 Tigers |
+| G2: Season 8 Game 56: Moist Talkers 1  @  2 Tigers |
+| G3: Season 8 Game 57: Moist Talkers 2  @  5 Tigers |
+| G4: Season 8 Game 58: Moist Talkers 4  @  7 Magic |
 
 
 

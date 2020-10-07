@@ -24,6 +24,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 71 | Hawaii Fridays (36%) | 7 - 0 | Kansas City Breath Mints (64%) | 
 | 1 | 98 | Kansas City Breath Mints (36%) | 13 - 7 | Boston Flowers (64%) | 
 | 3 | 23 | Kansas City Breath Mints (40%) | 12 - 6 | New York Millennials (60%) | 
+| 8 | 75 | Kansas City Breath Mints (36%) | 11 - 5 | Seattle Garages (64%) | 
 | 5 | 47 | Kansas City Breath Mints (43%) | 9 - 3 | New York Millennials (57%) | 
 | 6 | 34 | Dallas Steaks (45%) | 9 - 3 | Kansas City Breath Mints (55%) | 
 | 1 | 66 | Kansas City Breath Mints (44%) | 8 - 2 | Los Angeles Tacos (56%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 31 | San Francisco Lovers (44%) | 7 - 1 | Kansas City Breath Mints (56%) | 
 | 1 | 40 | Kansas City Breath Mints (40%) | 7 - 1 | Chicago Firefighters (60%) | 
 | 5 | 89 | Kansas City Breath Mints (43%) | 7 - 1 | Yellowstone Magic (57%) | 
-| 6 | 9 | Canada Moist Talkers (30%) | 6 - 0 | Kansas City Breath Mints (70%) | 
 
 

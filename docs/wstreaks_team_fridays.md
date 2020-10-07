@@ -1,5 +1,5 @@
 # Fridays Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 

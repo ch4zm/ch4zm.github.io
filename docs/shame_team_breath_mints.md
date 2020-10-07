@@ -25,12 +25,12 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 3 | 42 | Kansas City Breath Mints | 7 - 5 | Boston Flowers | 
 | 7 | 48 | Kansas City Breath Mints | 7 - 5 | Canada Moist Talkers | 
 | 3 | 93 | Kansas City Breath Mints | 6 - 4 | Chicago Firefighters | 
+| 8 | 25 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
+| 8 | 98 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
 | 1 | 34 | San Francisco Lovers | 5 - 3 | Kansas City Breath Mints | 
 | 5 | 49 | Kansas City Breath Mints | 4 - 2 | Unlimited Tacos | 
 | 5 | 24 | Hawaii Fridays | 3 - 1 | Kansas City Breath Mints | 
+| 8 | 29 | Hades Tigers | 3 - 1 | Kansas City Breath Mints | 
 | 6 | 66 | Kansas City Breath Mints | 8 - 7 | Hawaii Fridays | 
-| 6 | 88 | Canada Moist Talkers | 8 - 7 | Kansas City Breath Mints | 
-| 2 | 97 | New York Millennials | 7 - 6 | Kansas City Breath Mints | 
-| 3 | 52 | Charleston Shoe Thieves | 7 - 6 | Kansas City Breath Mints | 
 
 

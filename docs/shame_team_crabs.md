@@ -29,8 +29,8 @@ Shame games (games where the loser was shamed) for all time for team Crabs (note
 | 4 | 51 | Hellmouth Sunbeams | 5 - 3 | Baltimore Crabs | 
 | 7 | 91 | Baltimore Crabs | 5 - 3 | Chicago Firefighters | 
 | 7 | 98 | Unlimited Tacos | 5 - 3 | Baltimore Crabs | 
+| 8 | 27 | San Francisco Lovers | 5 - 3 | Baltimore Crabs | 
 | 4 | 37 | Hellmouth Sunbeams | 4 - 2 | Baltimore Crabs | 
 | 5 | 6 | Baltimore Crabs | 4 - 2 | Philly Pies | 
-| 6 | 109* | Baltimore Crabs | 4 - 2 | Seattle Garages | 
 
 

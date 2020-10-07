@@ -13,9 +13,7 @@ Losing streaks of 7 or more games for all teams versus all teams for season 2
 | Sunbeams                       | 8          | 2          | 7, 8, 9, 10, 11, 12, 13, 14 |
 | Breath Mints                   | 7          | 2          | 4, 5, 6, 7, 8, 9, 10 |
 | Tacos                          | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
-| Crabs                          | 7          | 2          | 36, 37, 38, 39, 40, 41, 42 |
 | Millennials                    | 7          | 2          | 37, 38, 39, 40, 41, 42, 43 |
-| Wild Wings                     | 7          | 2          | 48, 49, 50, 51, 52, 53, 54 |
 | Tigers                         | 7          | 2          | 57, 58, 59, 60, 61, 62, 63 |
 | Lovers                         | 7          | 2          | 62, 63, 64, 65, 66, 67, 68 |
 
@@ -91,19 +89,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 2
 
 <br />
 
-| 7 Game Losing Streak by the Crabs |
-| ----- |
-| Season 2 Games 35, 36, 37, 38, 39, 40, 41 |
-| G1: Season 2 Game 36: Crabs 2  @  4 Garages |
-| G2: Season 2 Game 37: Crabs 2  @  3 Dalé |
-| G3: Season 2 Game 38: Crabs 3  @  5 Dalé |
-| G4: Season 2 Game 39: Crabs 2  @  5 Dalé |
-| G5: Season 2 Game 40: Pies 7  @  3 Crabs |
-| G6: Season 2 Game 41: Pies 3  @  2 Crabs |
-| G7: Season 2 Game 42: Pies 3  @  0 Crabs |
-
-<br />
-
 | 7 Game Losing Streak by the Millennials |
 | ----- |
 | Season 2 Games 36, 37, 38, 39, 40, 41, 42 |
@@ -114,19 +99,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 2
 | G5: Season 2 Game 41: Tacos 8  @  1 Millennials |
 | G6: Season 2 Game 42: Tacos 6  @  5 Millennials |
 | G7: Season 2 Game 43: Millennials 7  @  8 Firefighters |
-
-<br />
-
-| 7 Game Losing Streak by the Wild Wings |
-| ----- |
-| Season 2 Games 47, 48, 49, 50, 51, 52, 53 |
-| G1: Season 2 Game 48: Wild Wings 6  @  8 Dalé |
-| G2: Season 2 Game 49: Dalé 5  @  1 Wild Wings |
-| G3: Season 2 Game 50: Dalé 4  @  2 Wild Wings |
-| G4: Season 2 Game 51: Dalé 5  @  4 Wild Wings |
-| G5: Season 2 Game 52: Wild Wings 4  @  9 Pies |
-| G6: Season 2 Game 53: Wild Wings 2  @  5 Pies |
-| G7: Season 2 Game 54: Wild Wings 1  @  3 Pies |
 
 <br />
 

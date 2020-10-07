@@ -21,6 +21,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 105* | Chicago Firefighters | 15 - 10 | Boston Flowers | 
 | 4 | 49 | New York Millennials | 15 - 11 | Chicago Firefighters | 
 | 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
+| 8 | 2 | Chicago Firefighters | 14 - 1 | San Francisco Lovers | 
 | 7 | 27 | Chicago Firefighters | 14 - 2 | Boston Flowers | 
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 4 | 15 | Chicago Firefighters | 14 - 3 | Unlimited Tacos | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
 | 4 | 90 | Chicago Firefighters | 13 - 1 | Unlimited Tacos | 
 | 2 | 70 | Chicago Firefighters | 13 - 2 | Kansas City Breath Mints | 
-| 2 | 76 | Chicago Firefighters | 13 - 2 | Charleston Shoe Thieves | 
 
 

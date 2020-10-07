@@ -20,6 +20,7 @@ Maxed out games (high-scoring one-run games) for all time for team Moist Talkers
 | 5 | 16 | Canada Moist Talkers | 1 - 0 | Philly Pies | 
 | 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
 | 6 | 13 | Canada Moist Talkers | 1 - 0 | Kansas City Breath Mints | 
+| 8 | 22 | Hades Tigers | 1 - 0 | Canada Moist Talkers | 
 | 1 | 17 | Canada Moist Talkers | 2 - 1 | Baltimore Crabs | 
 | 2 | 51 | Canada Moist Talkers | 2 - 1 | Hades Tigers | 
 | 2 | 56 | Canada Moist Talkers | 2 - 1 | Hellmouth Sunbeams | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Moist Talkers
 | 3 | 59 | Houston Spies | 2 - 1 | Canada Moist Talkers | 
 | 3 | 75 | Canada Moist Talkers | 2 - 1 | Mexico City Wild Wings | 
 | 4 | 21 | Baltimore Crabs | 2 - 1 | Canada Moist Talkers | 
-| 4 | 90 | Canada Moist Talkers | 2 - 1 | Seattle Garages | 
 
 

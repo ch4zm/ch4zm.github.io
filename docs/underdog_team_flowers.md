@@ -23,14 +23,14 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 96 | Boston Flowers (40%) | 9 - 2 | Kansas City Breath Mints (60%) | 
 | 1 | 88 | Charleston Shoe Thieves (44%) | 8 - 1 | Boston Flowers (56%) | 
 | 3 | 97 | Boston Flowers (44%) | 15 - 9 | Yellowstone Magic (56%) | 
+| 8 | 29 | Breckenridge Jazz Hands (44%) | 14 - 8 | Boston Flowers (56%) | 
 | 1 | 98 | Kansas City Breath Mints (36%) | 13 - 7 | Boston Flowers (64%) | 
+| 8 | 2 | Boston Flowers (44%) | 13 - 7 | Hellmouth Sunbeams (56%) | 
+| 8 | 17 | Boston Flowers (45%) | 12 - 6 | Miami Dale (55%) | 
 | 2 | 53 | New York Millennials (42%) | 9 - 3 | Boston Flowers (58%) | 
 | 6 | 1 | Boston Flowers (42%) | 9 - 3 | Miami Dalé (58%) | 
 | 4 | 70 | Boston Flowers (36%) | 8 - 2 | San Francisco Lovers (64%) | 
 | 6 | 98 | Boston Flowers (42%) | 8 - 2 | Breckenridge Jazz Hands (58%) | 
 | 2 | 42 | Hellmouth Sunbeams (43%) | 7 - 1 | Boston Flowers (57%) | 
-| 3 | 4 | New York Millennials (42%) | 6 - 0 | Boston Flowers (58%) | 
-| 3 | 18 | Hellmouth Sunbeams (44%) | 15 - 10 | Boston Flowers (56%) | 
-| 2 | 45 | San Francisco Lovers (46%) | 12 - 7 | Boston Flowers (54%) | 
 
 

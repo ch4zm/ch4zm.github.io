@@ -9,9 +9,9 @@ Winning streaks of 7 or more games for all teams versus all teams for season 1
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Jazz Hands                     | 11         | 1          | 28, 29, 30, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Firefighters                   | 11         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 |
 | Magic                          | 10         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72 |
-| Jazz Hands                     | 9          | 1          | 33, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Steaks                         | 8          | 1          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Steaks                         | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Flowers                        | 7          | 1          | 24, 25, 26, 27, 28, 29, 30 |
@@ -27,6 +27,23 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 7 or more games for all teams versus all teams for season 1
+
+| 11 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 1 Games 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40 |
+| G1: Season 1 Game 28: Crabs 0  @ 10 Jazz Hands |
+| G2: Season 1 Game 29: Crabs 4  @  8 Jazz Hands |
+| G3: Season 1 Game 30: Crabs 6  @ 10 Jazz Hands |
+| G4: Season 1 Game 34: Jazz Hands 9  @  6 Garages |
+| G5: Season 1 Game 35: Jazz Hands 4  @  2 Garages |
+| G6: Season 1 Game 36: Jazz Hands 11 @ 10 Garages |
+| G7: Season 1 Game 37: Moist Talkers 0  @  5 Jazz Hands |
+| G8: Season 1 Game 38: Moist Talkers 2  @  4 Jazz Hands |
+| G9: Season 1 Game 39: Moist Talkers 4  @ 12 Jazz Hands |
+| G10: Season 1 Game 40: Pies 2  @  8 Jazz Hands |
+| G11: Season 1 Game 41: Pies 2  @  6 Jazz Hands |
+
+<br />
 
 | 11 Game Winning Streak by the Firefighters |
 | ----- |
@@ -58,21 +75,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 1
 | G8: Season 1 Game 70: Breath Mints 5  @  6 Magic |
 | G9: Season 1 Game 71: Breath Mints 1  @  5 Magic |
 | G10: Season 1 Game 72: Breath Mints 4  @  8 Magic |
-
-<br />
-
-| 9 Game Winning Streak by the Jazz Hands |
-| ----- |
-| Season 1 Games 32, 33, 34, 35, 36, 37, 38, 39, 40 |
-| G1: Season 1 Game 33: Dalé 0  @  4 Jazz Hands |
-| G2: Season 1 Game 34: Jazz Hands 9  @  6 Garages |
-| G3: Season 1 Game 35: Jazz Hands 4  @  2 Garages |
-| G4: Season 1 Game 36: Jazz Hands 11 @ 10 Garages |
-| G5: Season 1 Game 37: Moist Talkers 0  @  5 Jazz Hands |
-| G6: Season 1 Game 38: Moist Talkers 2  @  4 Jazz Hands |
-| G7: Season 1 Game 39: Moist Talkers 4  @ 12 Jazz Hands |
-| G8: Season 1 Game 40: Pies 2  @  8 Jazz Hands |
-| G9: Season 1 Game 41: Pies 2  @  6 Jazz Hands |
 
 <br />
 

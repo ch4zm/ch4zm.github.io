@@ -2,7 +2,7 @@
 
 
 
-Maxed out games (high-scoring one-run games) for all time for team Dalé (note: all days and seasons displayed are 1-indexed) (asterisk indicates a postseason game)
+Maxed out games (high-scoring one-run games) for all time for team Dale (note: all days and seasons displayed are 1-indexed) (asterisk indicates a postseason game)
 
 
 | Sea | Day | Winner | Score | Loser | 
@@ -16,6 +16,7 @@ Maxed out games (high-scoring one-run games) for all time for team Dalé (note: 
 | 4 | 22 | Breckenridge Jazz Hands | 9 - 8 | Miami Dalé | 
 | 5 | 24 | Baltimore Crabs | 9 - 8 | Miami Dalé | 
 | 5 | 73 | Miami Dalé | 9 - 8 | Canada Moist Talkers | 
+| 8 | 9 | Chicago Firefighters | 9 - 8 | Miami Dale | 
 | 1 | 2 | Seattle Garages | 8 - 7 | Miami Dalé | 
 | 2 | 5 | Seattle Garages | 8 - 7 | Miami Dalé | 
 | 2 | 6 | Miami Dalé | 8 - 7 | Seattle Garages | 
@@ -26,11 +27,10 @@ Maxed out games (high-scoring one-run games) for all time for team Dalé (note: 
 | 4 | 9 | Hades Tigers | 8 - 7 | Miami Dalé | 
 | 4 | 14 | Miami Dalé | 8 - 7 | Mexico City Wild Wings | 
 | 4 | 42 | Miami Dalé | 8 - 7 | Breckenridge Jazz Hands | 
+| 7 | 36 | Miami Dale | 8 - 7 | Boston Flowers | 
+| 8 | 76 | Miami Dale | 8 - 7 | San Francisco Lovers | 
 | 1 | 92 | Hades Tigers | 7 - 6 | Miami Dalé | 
 | 1 | 97 | Seattle Garages | 7 - 6 | Miami Dalé | 
 | 2 | 15 | Miami Dalé | 7 - 6 | Seattle Garages | 
-| 2 | 26 | Philly Pies | 7 - 6 | Miami Dalé | 
-| 3 | 77 | Miami Dalé | 7 - 6 | Mexico City Wild Wings | 
-| 4 | 63 | Miami Dalé | 7 - 6 | Mexico City Wild Wings | 
 
 

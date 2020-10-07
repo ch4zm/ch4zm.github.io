@@ -13,12 +13,14 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 1 | Hellmouth Sunbeams (43%) | 14 - 5 | Hades Tigers (57%) | 
 | 3 | 56 | Hellmouth Sunbeams (42%) | 13 - 5 | Hades Tigers (58%) | 
 | 7 | 73 | Hellmouth Sunbeams (35%) | 10 - 2 | Baltimore Crabs (65%) | 
+| 8 | 28 | Hellmouth Sunbeams (36%) | 8 - 0 | Baltimore Crabs (64%) | 
 | 1 | 59 | Moab Sunbeams (27%) | 13 - 6 | Mexico City Wild Wings (73%) | 
 | 6 | 92 | Boston Flowers (45%) | 10 - 3 | Hellmouth Sunbeams (55%) | 
 | 1 | 32 | Moab Sunbeams (44%) | 7 - 0 | Philly Pies (56%) | 
 | 2 | 7 | Canada Moist Talkers (43%) | 7 - 0 | Hellmouth Sunbeams (57%) | 
 | 7 | 48 | Hellmouth Sunbeams (38%) | 14 - 8 | New York Millennials (62%) | 
 | 6 | 59 | Hellmouth Sunbeams (37%) | 13 - 7 | Houston Spies (63%) | 
+| 8 | 2 | Boston Flowers (44%) | 13 - 7 | Hellmouth Sunbeams (56%) | 
 | 4 | 29 | Hellmouth Sunbeams (43%) | 12 - 6 | Dallas Steaks (57%) | 
 | 5 | 94 | Hellmouth Sunbeams (28%) | 9 - 3 | Hades Tigers (72%) | 
 | 6 | 2 | Hellmouth Sunbeams (39%) | 9 - 3 | Hades Tigers (61%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 25 | Breckenridge Jazz Hands (45%) | 6 - 0 | Hellmouth Sunbeams (55%) | 
 | 3 | 18 | Hellmouth Sunbeams (44%) | 15 - 10 | Boston Flowers (56%) | 
 | 3 | 67 | Hellmouth Sunbeams (45%) | 10 - 5 | Mexico City Wild Wings (55%) | 
-| 6 | 65 | Miami Dalé (34%) | 10 - 5 | Hellmouth Sunbeams (66%) | 
-| 6 | 84 | Hellmouth Sunbeams (40%) | 10 - 5 | Miami Dalé (60%) | 
 
 

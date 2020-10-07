@@ -9,14 +9,16 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 37 |
+| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 |
 | Shoe Thieves                   | 9          | 7          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Flowers                        | 9          | 7          | 44, 45, 46, 47, 48, 49, 50, 51, 52 |
 | Pies                           | 8          | 7          | 38, 39, 40, 41, 42, 43, 44, 45 |
-| Flowers                        | 8          | 7          | 76, 77, 78, 79, 80, 81, 85, 86 |
 | Sunbeams                       | 7          | 7          | 9, 10, 11, 12, 13, 14, 15 |
 | Pies                           | 7          | 7          | 20, 21, 22, 23, 24, 25, 26 |
+| Tacos                          | 7          | 7          | 24, 25, 26, 27, 28, 29, 30 |
+| Tacos                          | 7          | 7          | 65, 66, 67, 68, 69, 70, 71 |
 | Flowers                        | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
+| Flowers                        | 7          | 7          | 76, 77, 78, 79, 80, 81, 82 |
 
 
 
@@ -30,7 +32,7 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 
 | 13 Game Losing Streak by the Flowers |
 | ----- |
-| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36 |
+| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 |
 | G1: Season 7 Game 22: Millennials 10 @  6 Flowers |
 | G2: Season 7 Game 23: Millennials 7  @  4 Flowers |
 | G3: Season 7 Game 24: Millennials 5  @  2 Flowers |
@@ -43,7 +45,7 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 | G10: Season 7 Game 31: Sunbeams 7  @  5 Flowers |
 | G11: Season 7 Game 32: Sunbeams 14 @  1 Flowers |
 | G12: Season 7 Game 33: Sunbeams 4  @  2 Flowers |
-| G13: Season 7 Game 37: Flowers 3  @  6 Firefighters |
+| G13: Season 7 Game 34: Flowers 3  @  6 Dale |
 
 <br />
 
@@ -91,20 +93,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 
 <br />
 
-| 8 Game Losing Streak by the Flowers |
-| ----- |
-| Season 7 Games 75, 76, 77, 78, 79, 80, 84, 85 |
-| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
-| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
-| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
-| G4: Season 7 Game 79: Crabs 8  @  2 Flowers |
-| G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
-| G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
-| G7: Season 7 Game 85: Spies 3  @  1 Flowers |
-| G8: Season 7 Game 86: Spies 7  @  4 Flowers |
-
-<br />
-
 | 7 Game Losing Streak by the Sunbeams |
 | ----- |
 | Season 7 Games 8, 9, 10, 11, 12, 13, 14 |
@@ -131,6 +119,32 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 
 <br />
 
+| 7 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 23, 24, 25, 26, 27, 28, 29 |
+| G1: Season 7 Game 24: Tacos 2  @  3 Lovers |
+| G2: Season 7 Game 25: Dale 7  @  1 Tacos |
+| G3: Season 7 Game 26: Dale 11 @  7 Tacos |
+| G4: Season 7 Game 27: Dale 3  @  2 Tacos |
+| G5: Season 7 Game 28: Shoe Thieves 5  @  4 Tacos |
+| G6: Season 7 Game 29: Shoe Thieves 5  @  4 Tacos |
+| G7: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
+
+<br />
+
+| 7 Game Losing Streak by the Tacos |
+| ----- |
+| Season 7 Games 64, 65, 66, 67, 68, 69, 70 |
+| G1: Season 7 Game 65: Dale 10 @  3 Tacos |
+| G2: Season 7 Game 66: Dale 6  @  4 Tacos |
+| G3: Season 7 Game 67: Millennials 2  @  0 Tacos |
+| G4: Season 7 Game 68: Millennials 6  @  3 Tacos |
+| G5: Season 7 Game 69: Millennials 5  @  2 Tacos |
+| G6: Season 7 Game 70: Tacos 2  @  3 Dale |
+| G7: Season 7 Game 71: Tacos 3  @  4 Dale |
+
+<br />
+
 | 7 Game Losing Streak by the Flowers |
 | ----- |
 | Season 7 Games 65, 66, 67, 68, 69, 70, 71 |
@@ -141,6 +155,19 @@ Losing streaks of 7 or more games for all teams versus all teams for season 7
 | G5: Season 7 Game 70: Spies 5  @  3 Flowers |
 | G6: Season 7 Game 71: Spies 3  @  1 Flowers |
 | G7: Season 7 Game 72: Spies 11 @  6 Flowers |
+
+<br />
+
+| 7 Game Losing Streak by the Flowers |
+| ----- |
+| Season 7 Games 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
+| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
+| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
+| G4: Season 7 Game 79: Crabs 8  @  2 Flowers |
+| G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
+| G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
+| G7: Season 7 Game 82: Dale 7  @  0 Flowers |
 
 
 

@@ -9,17 +9,14 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Millennials                    | 14         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 |
+| Jazz Hands                     | 14         | 5          | 47, 48, 49, 50, 51, 52, 53, 54, 61, 62, 63, 64, 65, 66 |
+| Millennials                    | 13         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96 |
 | Lovers                         | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Lovers                         | 9          | 5          | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
-| Jazz Hands                     | 9          | 5          | 47, 48, 49, 50, 51, 52, 53, 54, 55 |
 | Crabs                          | 9          | 5          | 62, 63, 64, 65, 66, 67, 68, 69, 70 |
-| Tigers                         | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Breath Mints                   | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Lovers                         | 7          | 5          | 21, 22, 23, 24, 25, 26, 27 |
-| Crabs                          | 7          | 5          | 22, 23, 24, 25, 26, 27, 28 |
 | Crabs                          | 7          | 5          | 45, 46, 47, 48, 49, 50, 51 |
-| Jazz Hands                     | 7          | 5          | 60, 61, 62, 63, 64, 65, 66 |
 | Firefighters                   | 7          | 5          | 94, 95, 96, 97, 98, 99, 100 |
 
 
@@ -32,9 +29,29 @@ Note: all days and seasons displayed are 1-indexed.
 
 Winning streaks of 7 or more games for all teams versus all teams for season 5
 
-| 14 Game Winning Streak by the Millennials |
+| 14 Game Winning Streak by the Jazz Hands |
 | ----- |
-| Season 5 Games 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96 |
+| Season 5 Games 46, 47, 48, 49, 50, 51, 52, 53, 60, 61, 62, 63, 64, 65 |
+| G1: Season 5 Game 47: Jazz Hands 6  @  3 Spies |
+| G2: Season 5 Game 48: Jazz Hands 6  @  2 Spies |
+| G3: Season 5 Game 49: Jazz Hands 4  @  3 Wild Wings |
+| G4: Season 5 Game 50: Jazz Hands 5  @  4 Wild Wings |
+| G5: Season 5 Game 51: Jazz Hands 10 @  8 Wild Wings |
+| G6: Season 5 Game 52: Garages 3  @ 10 Jazz Hands |
+| G7: Season 5 Game 53: Garages 3  @  8 Jazz Hands |
+| G8: Season 5 Game 54: Garages 4  @ 11 Jazz Hands |
+| G9: Season 5 Game 61: Jazz Hands 5  @  4 Spies |
+| G10: Season 5 Game 62: Jazz Hands 12 @  1 Spies |
+| G11: Season 5 Game 63: Jazz Hands 5  @  0 Spies |
+| G12: Season 5 Game 64: Sunbeams 3  @  4 Jazz Hands |
+| G13: Season 5 Game 65: Sunbeams 5  @  7 Jazz Hands |
+| G14: Season 5 Game 66: Sunbeams 0  @  8 Jazz Hands |
+
+<br />
+
+| 13 Game Winning Streak by the Millennials |
+| ----- |
+| Season 5 Games 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95 |
 | G1: Season 5 Game 84: Flowers 2  @  4 Millennials |
 | G2: Season 5 Game 85: Fridays 3  @  7 Millennials |
 | G3: Season 5 Game 86: Fridays 4  @  5 Millennials |
@@ -48,7 +65,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 | G11: Season 5 Game 94: Millennials 3  @  2 Magic |
 | G12: Season 5 Game 95: Millennials 14 @  6 Magic |
 | G13: Season 5 Game 96: Millennials 5  @  1 Magic |
-| G14: Season 5 Game 97: Dalé 3  @  6 Millennials |
 
 <br />
 
@@ -83,21 +99,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 
 <br />
 
-| 9 Game Winning Streak by the Jazz Hands |
-| ----- |
-| Season 5 Games 46, 47, 48, 49, 50, 51, 52, 53, 54 |
-| G1: Season 5 Game 47: Jazz Hands 6  @  3 Spies |
-| G2: Season 5 Game 48: Jazz Hands 6  @  2 Spies |
-| G3: Season 5 Game 49: Jazz Hands 4  @  3 Wild Wings |
-| G4: Season 5 Game 50: Jazz Hands 5  @  4 Wild Wings |
-| G5: Season 5 Game 51: Jazz Hands 10 @  8 Wild Wings |
-| G6: Season 5 Game 52: Garages 3  @ 10 Jazz Hands |
-| G7: Season 5 Game 53: Garages 3  @  8 Jazz Hands |
-| G8: Season 5 Game 54: Garages 4  @ 11 Jazz Hands |
-| G9: Season 5 Game 55: Jazz Hands 8  @  3 Dalé |
-
-<br />
-
 | 9 Game Winning Streak by the Crabs |
 | ----- |
 | Season 5 Games 61, 62, 63, 64, 65, 66, 67, 68, 69 |
@@ -110,21 +111,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 | G7: Season 5 Game 68: Wild Wings 6  @  7 Crabs |
 | G8: Season 5 Game 69: Wild Wings 4  @  6 Crabs |
 | G9: Season 5 Game 70: Crabs 4  @  3 Tigers |
-
-<br />
-
-| 9 Game Winning Streak by the Tigers |
-| ----- |
-| Season 5 Games 70, 71, 72, 73, 74, 75, 76, 77, 78 |
-| G1: Season 5 Game 71: Crabs 5  @  8 Tigers |
-| G2: Season 5 Game 72: Crabs 3  @  4 Tigers |
-| G3: Season 5 Game 73: Tigers 9  @  6 Sunbeams |
-| G4: Season 5 Game 74: Tigers 9  @  3 Sunbeams |
-| G5: Season 5 Game 75: Tigers 4  @  2 Sunbeams |
-| G6: Season 5 Game 76: Tigers 8  @  3 Dalé |
-| G7: Season 5 Game 77: Tigers 8  @  4 Dalé |
-| G8: Season 5 Game 78: Tigers 3  @  1 Dalé |
-| G9: Season 5 Game 79: Tigers 11 @  5 Moist Talkers |
 
 <br />
 
@@ -157,19 +143,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 
 | 7 Game Winning Streak by the Crabs |
 | ----- |
-| Season 5 Games 21, 22, 23, 24, 25, 26, 27 |
-| G1: Season 5 Game 22: Dalé 3  @  7 Crabs |
-| G2: Season 5 Game 23: Dalé 5  @  6 Crabs |
-| G3: Season 5 Game 24: Dalé 8  @  9 Crabs |
-| G4: Season 5 Game 25: Crabs 6  @  5 Dalé |
-| G5: Season 5 Game 26: Crabs 5  @  4 Dalé |
-| G6: Season 5 Game 27: Crabs 10 @  6 Dalé |
-| G7: Season 5 Game 28: Wild Wings 3  @  4 Crabs |
-
-<br />
-
-| 7 Game Winning Streak by the Crabs |
-| ----- |
 | Season 5 Games 44, 45, 46, 47, 48, 49, 50 |
 | G1: Season 5 Game 45: Garages 2  @  3 Crabs |
 | G2: Season 5 Game 46: Crabs 8  @  4 Sunbeams |
@@ -178,19 +151,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 5
 | G5: Season 5 Game 49: Crabs 6  @  0 Magic |
 | G6: Season 5 Game 50: Crabs 7  @  4 Magic |
 | G7: Season 5 Game 51: Crabs 6  @  5 Magic |
-
-<br />
-
-| 7 Game Winning Streak by the Jazz Hands |
-| ----- |
-| Season 5 Games 59, 60, 61, 62, 63, 64, 65 |
-| G1: Season 5 Game 60: Dalé 4  @  5 Jazz Hands |
-| G2: Season 5 Game 61: Jazz Hands 5  @  4 Spies |
-| G3: Season 5 Game 62: Jazz Hands 12 @  1 Spies |
-| G4: Season 5 Game 63: Jazz Hands 5  @  0 Spies |
-| G5: Season 5 Game 64: Sunbeams 3  @  4 Jazz Hands |
-| G6: Season 5 Game 65: Sunbeams 5  @  7 Jazz Hands |
-| G7: Season 5 Game 66: Sunbeams 0  @  8 Jazz Hands |
 
 <br />
 

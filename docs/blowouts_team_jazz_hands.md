@@ -15,10 +15,12 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 96 | Breckenridge Jazz Hands | 15 - 5 | Moab Sunbeams | 
 | 6 | 76 | Breckenridge Jazz Hands | 15 - 7 | Hellmouth Sunbeams | 
 | 3 | 32 | Hades Tigers | 15 - 10 | Breckenridge Jazz Hands | 
+| 8 | 34 | Breckenridge Jazz Hands | 14 - 0 | New York Millennials | 
 | 6 | 82 | Breckenridge Jazz Hands | 14 - 1 | Houston Spies | 
 | 2 | 5 | Breckenridge Jazz Hands | 14 - 3 | Canada Moist Talkers | 
 | 1 | 102* | Philly Pies | 14 - 4 | Breckenridge Jazz Hands | 
 | 3 | 86 | Breckenridge Jazz Hands | 14 - 7 | Houston Spies | 
+| 8 | 29 | Breckenridge Jazz Hands | 14 - 8 | Boston Flowers | 
 | 6 | 99 | Boston Flowers | 14 - 11 | Breckenridge Jazz Hands | 
 | 3 | 92 | Hades Tigers | 13 - 0 | Breckenridge Jazz Hands | 
 | 5 | 45 | Breckenridge Jazz Hands | 13 - 0 | Hellmouth Sunbeams | 
@@ -29,8 +31,6 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 107* | Philly Pies | 13 - 4 | Breckenridge Jazz Hands | 
 | 7 | 73 | Breckenridge Jazz Hands | 13 - 4 | New York Millennials | 
 | 6 | 27 | Breckenridge Jazz Hands | 13 - 5 | New York Millennials | 
-| 6 | 22 | Breckenridge Jazz Hands | 13 - 8 | New York Millennials | 
-| 3 | 16 | Breckenridge Jazz Hands | 13 - 9 | Seattle Garages | 
-| 2 | 16 | Breckenridge Jazz Hands | 13 - 11 | Mexico City Wild Wings | 
+| 8 | 49 | Breckenridge Jazz Hands | 13 - 5 | San Francisco Lovers | 
 
 

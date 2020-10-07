@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,11 +12,15 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
 | Firefighters                   | 6          | 1          | 47, 48, 49, 50, 51, 52 |
+| Firefighters                   | 6          | 8          | 11, 12, 13, 14, 15, 16 |
+| Firefighters                   | 6          | 8          | 59, 60, 61, 62, 63, 64 |
 | Firefighters                   | 5          | 2          | 32, 33, 34, 35, 36 |
 | Firefighters                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Firefighters                   | 5          | 4          | 74, 75, 76, 77, 78 |
 | Firefighters                   | 5          | 6          | 29, 30, 31, 32, 33 |
 | Firefighters                   | 5          | 6          | 74, 75, 76, 77, 78 |
+| Firefighters                   | 5          | 7          | 94, 95, 96, 97, 98 |
+| Firefighters                   | 5          | 8          | 48, 49, 50, 51, 52 |
 | Firefighters                   | 4          | 1          | 34, 35, 36, 37 |
 | Firefighters                   | 4          | 3          | 33, 34, 35, 36 |
 | Firefighters                   | 4          | 3          | 46, 47, 48, 49 |
@@ -28,6 +32,8 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 4          | 7          | 28, 29, 30, 31 |
 | Firefighters                   | 4          | 7          | 68, 69, 70, 71 |
 | Firefighters                   | 4          | 7          | 89, 90, 91, 92 |
+| Firefighters                   | 4          | 8          | 5, 6, 7, 8 |
+| Firefighters                   | 4          | 8          | 54, 55, 56, 57 |
 
 
 
@@ -63,6 +69,30 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G4: Season 1 Game 50: Firefighters 4  @  7 Tacos |
 | G5: Season 1 Game 51: Firefighters 2  @ 10 Tacos |
 | G6: Season 1 Game 52: Firefighters 2  @  7 Steaks |
+
+<br />
+
+| 6 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 8 Games 10, 11, 12, 13, 14, 15 |
+| G1: Season 8 Game 11: Firefighters 2  @  3 Crabs |
+| G2: Season 8 Game 12: Firefighters 2  @  8 Crabs |
+| G3: Season 8 Game 13: Firefighters 1  @  5 Lovers |
+| G4: Season 8 Game 14: Firefighters 6  @  7 Lovers |
+| G5: Season 8 Game 15: Firefighters 2  @  3 Lovers |
+| G6: Season 8 Game 16: Firefighters -1 @  0 Lovers |
+
+<br />
+
+| 6 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 8 Games 58, 59, 60, 61, 62, 63 |
+| G1: Season 8 Game 59: Firefighters 3  @  5 Sunbeams |
+| G2: Season 8 Game 60: Firefighters 0  @  8 Sunbeams |
+| G3: Season 8 Game 61: Garages 9  @  5 Firefighters |
+| G4: Season 8 Game 62: Garages 9  @  6 Firefighters |
+| G5: Season 8 Game 63: Garages 5  @  0 Firefighters |
+| G6: Season 8 Game 64: Lovers 5  @  4 Firefighters |
 
 <br />
 
@@ -118,6 +148,28 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G3: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
 | G4: Season 6 Game 77: Firefighters 1  @  2 Crabs |
 | G5: Season 6 Game 78: Firefighters 2  @  7 Crabs |
+
+<br />
+
+| 5 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 7 Games 93, 94, 95, 96, 97 |
+| G1: Season 7 Game 94: Firefighters 8  @ 10 Dale |
+| G2: Season 7 Game 95: Firefighters 4  @  5 Dale |
+| G3: Season 7 Game 96: Firefighters 3  @  6 Dale |
+| G4: Season 7 Game 97: Firefighters 3  @  4 Dale |
+| G5: Season 7 Game 98: Firefighters 3  @  9 Dale |
+
+<br />
+
+| 5 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 8 Games 47, 48, 49, 50, 51 |
+| G1: Season 8 Game 48: Crabs 7  @  6 Firefighters |
+| G2: Season 8 Game 49: Firefighters 1  @  5 Crabs |
+| G3: Season 8 Game 50: Firefighters 2  @ 11 Crabs |
+| G4: Season 8 Game 51: Firefighters 4  @  5 Crabs |
+| G5: Season 8 Game 52: Firefighters 2  @  6 Crabs |
 
 <br />
 
@@ -228,6 +280,26 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G2: Season 7 Game 90: Firefighters 5  @  6 Millennials |
 | G3: Season 7 Game 91: Firefighters 3  @  5 Crabs |
 | G4: Season 7 Game 92: Firefighters 2  @  3 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 8 Games 4, 5, 6, 7 |
+| G1: Season 8 Game 5: Firefighters 3  @  6 Tacos |
+| G2: Season 8 Game 6: Firefighters 8  @  9 Tacos |
+| G3: Season 8 Game 7: Firefighters 1  @  5 Dale |
+| G4: Season 8 Game 8: Firefighters 1  @  7 Dale |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 8 Games 53, 54, 55, 56 |
+| G1: Season 8 Game 54: Firefighters 4  @  7 Crabs |
+| G2: Season 8 Game 55: Firefighters 2  @  4 Crabs |
+| G3: Season 8 Game 56: Firefighters 3  @  5 Crabs |
+| G4: Season 8 Game 57: Firefighters 3  @  6 Crabs |
 
 
 

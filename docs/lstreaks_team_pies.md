@@ -1,5 +1,5 @@
 # Pies Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -23,9 +23,11 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 1          | 70, 71, 72, 73 |
 | Pies                           | 4          | 2          | 47, 48, 49, 50 |
 | Pies                           | 4          | 3          | 49, 50, 51, 52 |
-| Pies                           | 4          | 5          | 44, 45, 46, 47 |
+| Pies                           | 4          | 5          | 41, 42, 46, 47 |
 | Pies                           | 4          | 7          | 33, 34, 35, 36 |
 | Pies                           | 4          | 7          | 88, 89, 90, 91 |
+| Pies                           | 4          | 8          | 35, 36, 37, 38 |
+| Pies                           | 4          | 8          | 45, 46, 47, 48 |
 
 
 
@@ -189,9 +191,9 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 | 4 Game Losing Streak by the Pies |
 | ----- |
-| Season 5 Games 43, 44, 45, 46 |
-| G1: Season 5 Game 44: Pies 4  @  5 Dalé |
-| G2: Season 5 Game 45: Pies 3  @  5 Dalé |
+| Season 5 Games 40, 41, 45, 46 |
+| G1: Season 5 Game 41: Pies 1  @  2 Spies |
+| G2: Season 5 Game 42: Pies 1  @  3 Spies |
 | G3: Season 5 Game 46: Tigers 3  @  2 Pies |
 | G4: Season 5 Game 47: Tigers 3  @  2 Pies |
 
@@ -214,6 +216,26 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 7 Game 89: Pies 1  @  3 Breath Mints |
 | G3: Season 7 Game 90: Pies 4  @ 10 Breath Mints |
 | G4: Season 7 Game 91: Shoe Thieves 1  @  0 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 8 Games 34, 35, 36, 37 |
+| G1: Season 8 Game 35: Pies 2  @  6 Shoe Thieves |
+| G2: Season 8 Game 36: Pies 2  @  5 Shoe Thieves |
+| G3: Season 8 Game 37: Garages 8  @  0 Pies |
+| G4: Season 8 Game 38: Garages 2  @  1 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 8 Games 44, 45, 46, 47 |
+| G1: Season 8 Game 45: Sunbeams 5  @  4 Pies |
+| G2: Season 8 Game 46: Magic 6  @  2 Pies |
+| G3: Season 8 Game 47: Magic 11 @  4 Pies |
+| G4: Season 8 Game 48: Magic 3  @  2 Pies |
 
 
 

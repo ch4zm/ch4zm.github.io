@@ -26,11 +26,11 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 52 | Yellowstone Magic (44%) | 7 - 1 | Hawaii Fridays (56%) | 
 | 5 | 89 | Kansas City Breath Mints (43%) | 7 - 1 | Yellowstone Magic (57%) | 
 | 1 | 49 | New York Millennials (41%) | 6 - 0 | Yellowstone Magic (59%) | 
+| 8 | 61 | Yellowstone Magic (42%) | 6 - 0 | Mexico City Wild Wings (58%) | 
+| 8 | 73 | Yellowstone Magic (46%) | 6 - 0 | Mexico City Wild Wings (54%) | 
 | 1 | 58 | Chicago Firefighters (36%) | 9 - 4 | Yellowstone Magic (64%) | 
 | 6 | 4 | Yellowstone Magic (43%) | 8 - 3 | Hades Tigers (57%) | 
+| 8 | 26 | Yellowstone Magic (44%) | 8 - 3 | Mexico City Wild Wings (56%) | 
 | 2 | 55 | Yellowstone Magic (38%) | 7 - 2 | New York Millennials (62%) | 
-| 3 | 87 | Kansas City Breath Mints (43%) | 7 - 2 | Yellowstone Magic (57%) | 
-| 6 | 84 | Yellowstone Magic (46%) | 7 - 2 | Hades Tigers (54%) | 
-| 7 | 40 | Yellowstone Magic (46%) | 7 - 2 | Dallas Steaks (54%) | 
 
 

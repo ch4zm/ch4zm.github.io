@@ -24,6 +24,8 @@
 
 * [Season 7 Shame Runs](shame_season7.md)
 
+* [Season 8 Shame Runs](shame_season8.md)
+
 ## By Team
 
 * [Breath Mints Shame Runs Summary](shame_team_breath_mints.md)

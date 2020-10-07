@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,18 +10,23 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Spies                          | 9          | 7          | 66, 67, 68, 69, 70, 71, 72, 73, 74 |
+| Spies                          | 8          | 8          | 64, 65, 66, 67, 68, 69, 70, 71 |
+| Spies                          | 6          | 1          | 66, 67, 68, 69, 73, 74 |
+| Spies                          | 6          | 8          | 48, 49, 50, 51, 52, 53 |
 | Spies                          | 5          | 1          | 37, 38, 39, 40, 41 |
-| Spies                          | 5          | 1          | 50, 51, 52, 53, 54 |
-| Spies                          | 5          | 1          | 66, 67, 68, 69, 70 |
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
 | Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
-| Spies                          | 5          | 7          | 66, 70, 71, 72, 76 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
 | Spies                          | 4          | 5          | 41, 42, 43, 44 |
 | Spies                          | 4          | 6          | 68, 69, 70, 71 |
+| Spies                          | 4          | 7          | 8, 9, 10, 11 |
 | Spies                          | 4          | 7          | 59, 60, 61, 62 |
+| Spies                          | 4          | 8          | 34, 35, 36, 37 |
+| Spies                          | 4          | 8          | 73, 74, 75, 76 |
+| Spies                          | 4          | 8          | 100, 101, 102, 104 |
 
 
 
@@ -33,6 +38,59 @@ Note: all days and seasons displayed are 1-indexed.
 
 Winning streaks of 4 or more games for Spies versus all teams for all time
 
+| 9 Game Winning Streak by the Spies |
+| ----- |
+| Season 7 Games 65, 66, 67, 68, 69, 70, 71, 72, 73 |
+| G1: Season 7 Game 66: Spies 7  @  4 Flowers |
+| G2: Season 7 Game 67: Dale 2  @  3 Spies |
+| G3: Season 7 Game 68: Dale 2  @  4 Spies |
+| G4: Season 7 Game 69: Dale 0  @  4 Spies |
+| G5: Season 7 Game 70: Spies 5  @  3 Flowers |
+| G6: Season 7 Game 71: Spies 3  @  1 Flowers |
+| G7: Season 7 Game 72: Spies 11 @  6 Flowers |
+| G8: Season 7 Game 73: Dale 4  @  8 Spies |
+| G9: Season 7 Game 74: Dale 3  @  5 Spies |
+
+<br />
+
+| 8 Game Winning Streak by the Spies |
+| ----- |
+| Season 8 Games 63, 64, 65, 66, 67, 68, 69, 70 |
+| G1: Season 8 Game 64: Tacos 3  @  4 Spies |
+| G2: Season 8 Game 65: Tacos 0  @  3 Spies |
+| G3: Season 8 Game 66: Tacos 0  @ 14 Spies |
+| G4: Season 8 Game 67: Tacos 4  @  5 Spies |
+| G5: Season 8 Game 68: Tacos 1  @  6 Spies |
+| G6: Season 8 Game 69: Tacos 0  @  2 Spies |
+| G7: Season 8 Game 70: Spies 3  @  1 Dale |
+| G8: Season 8 Game 71: Spies 6  @  5 Dale |
+
+<br />
+
+| 6 Game Winning Streak by the Spies |
+| ----- |
+| Season 1 Games 65, 66, 67, 68, 72, 73 |
+| G1: Season 1 Game 66: Spies 5  @  3 Tigers |
+| G2: Season 1 Game 67: Spies 9  @  1 Crabs |
+| G3: Season 1 Game 68: Spies 7  @  0 Crabs |
+| G4: Season 1 Game 69: Spies 4  @  1 Crabs |
+| G5: Season 1 Game 73: Spies 5  @  1 Wild Wings |
+| G6: Season 1 Game 74: Spies 6  @  3 Wild Wings |
+
+<br />
+
+| 6 Game Winning Streak by the Spies |
+| ----- |
+| Season 8 Games 47, 48, 49, 50, 51, 52 |
+| G1: Season 8 Game 48: Spies 6  @  5 Sunbeams |
+| G2: Season 8 Game 49: Tacos 2  @  6 Spies |
+| G3: Season 8 Game 50: Tacos 2  @  6 Spies |
+| G4: Season 8 Game 51: Tacos 1  @  6 Spies |
+| G5: Season 8 Game 52: Spies 10 @  4 Millennials |
+| G6: Season 8 Game 53: Spies 7  @  2 Millennials |
+
+<br />
+
 | 5 Game Winning Streak by the Spies |
 | ----- |
 | Season 1 Games 36, 37, 38, 39, 40 |
@@ -41,28 +99,6 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 1 Game 39: Sunbeams 2  @  4 Spies |
 | G4: Season 1 Game 40: Garages 3  @  5 Spies |
 | G5: Season 1 Game 41: Garages 3  @  4 Spies |
-
-<br />
-
-| 5 Game Winning Streak by the Spies |
-| ----- |
-| Season 1 Games 49, 50, 51, 52, 53 |
-| G1: Season 1 Game 50: Jazz Hands 2  @  3 Spies |
-| G2: Season 1 Game 51: Jazz Hands 6  @  8 Spies |
-| G3: Season 1 Game 52: Dalé 2  @ 13 Spies |
-| G4: Season 1 Game 53: Dalé 6  @  9 Spies |
-| G5: Season 1 Game 54: Dalé 5  @  6 Spies |
-
-<br />
-
-| 5 Game Winning Streak by the Spies |
-| ----- |
-| Season 1 Games 65, 66, 67, 68, 69 |
-| G1: Season 1 Game 66: Spies 5  @  3 Tigers |
-| G2: Season 1 Game 67: Spies 9  @  1 Crabs |
-| G3: Season 1 Game 68: Spies 7  @  0 Crabs |
-| G4: Season 1 Game 69: Spies 4  @  1 Crabs |
-| G5: Season 1 Game 70: Dalé 1  @  3 Spies |
 
 <br />
 
@@ -85,17 +121,6 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 6 Game 14: Spies 10 @  6 Flowers |
 | G4: Season 6 Game 15: Spies 9  @  4 Flowers |
 | G5: Season 6 Game 16: Flowers 2  @  5 Spies |
-
-<br />
-
-| 5 Game Winning Streak by the Spies |
-| ----- |
-| Season 7 Games 65, 69, 70, 71, 75 |
-| G1: Season 7 Game 66: Spies 7  @  4 Flowers |
-| G2: Season 7 Game 70: Spies 5  @  3 Flowers |
-| G3: Season 7 Game 71: Spies 3  @  1 Flowers |
-| G4: Season 7 Game 72: Spies 11 @  6 Flowers |
-| G5: Season 7 Game 76: Crabs 2  @  3 Spies |
 
 <br />
 
@@ -151,11 +176,51 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 
 | 4 Game Winning Streak by the Spies |
 | ----- |
+| Season 7 Games 7, 8, 9, 10 |
+| G1: Season 7 Game 8: Tacos 1  @  7 Spies |
+| G2: Season 7 Game 9: Tacos 2  @  3 Spies |
+| G3: Season 7 Game 10: Dale 1  @  3 Spies |
+| G4: Season 7 Game 11: Dale 4  @  7 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
 | Season 7 Games 58, 59, 60, 61 |
 | G1: Season 7 Game 59: Sunbeams 4  @  7 Spies |
 | G2: Season 7 Game 60: Sunbeams 4  @  6 Spies |
 | G3: Season 7 Game 61: Spies 4  @  3 Flowers |
 | G4: Season 7 Game 62: Spies 7  @  1 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 8 Games 33, 34, 35, 36 |
+| G1: Season 8 Game 34: Magic 4  @  8 Spies |
+| G2: Season 8 Game 35: Magic 0  @  4 Spies |
+| G3: Season 8 Game 36: Magic 3  @ 12 Spies |
+| G4: Season 8 Game 37: Spies 8  @  5 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 8 Games 72, 73, 74, 75 |
+| G1: Season 8 Game 73: Dale 2  @ 10 Spies |
+| G2: Season 8 Game 74: Dale 2  @  4 Spies |
+| G3: Season 8 Game 75: Dale 4  @  7 Spies |
+| G4: Season 8 Game 76: Spies 2  @  1 Crabs |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 8 Games 99, 100, 101, 103 |
+| G1: Season 8 Game 100: Spies 2  @  0 Sunbeams |
+| G2: Season 8 Game 101: Sunbeams 2  @  7 Spies |
+| G3: Season 8 Game 102: Spies 5  @  2 Sunbeams |
+| G4: Season 8 Game 104: Spies 5  @  2 Crabs |
 
 
 

@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -21,9 +21,12 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 6          | 2          | 12, 13, 14, 15, 16, 17 |
 | Firefighters                   | 6          | 4          | 25, 26, 27, 28, 29, 30 |
 | Firefighters                   | 6          | 7          | 22, 23, 24, 25, 26, 27 |
+| Firefighters                   | 6          | 8          | 42, 43, 44, 45, 46, 47 |
 | Firefighters                   | 5          | 1          | 57, 58, 59, 60, 61 |
 | Firefighters                   | 5          | 2          | 19, 20, 21, 22, 23 |
 | Firefighters                   | 5          | 3          | 82, 83, 84, 85, 86 |
+| Firefighters                   | 5          | 8          | 17, 18, 19, 20, 21 |
+| Firefighters                   | 5          | 8          | 26, 27, 28, 29, 30 |
 | Firefighters                   | 4          | 1          | 12, 13, 14, 15 |
 | Firefighters                   | 4          | 1          | 30, 31, 32, 33 |
 | Firefighters                   | 4          | 2          | 51, 52, 53, 54 |
@@ -41,6 +44,7 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 6          | 25, 26, 27, 28 |
 | Firefighters                   | 4          | 7          | 9, 10, 11, 12 |
 | Firefighters                   | 4          | 7          | 59, 60, 61, 62 |
+| Firefighters                   | 4          | 8          | 36, 37, 38, 39 |
 
 
 
@@ -196,6 +200,18 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 
 <br />
 
+| 6 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 8 Games 41, 42, 43, 44, 45, 46 |
+| G1: Season 8 Game 42: Crabs 4  @  6 Firefighters |
+| G2: Season 8 Game 43: Firefighters 6  @  2 Dale |
+| G3: Season 8 Game 44: Firefighters 10 @  8 Dale |
+| G4: Season 8 Game 45: Firefighters 11 @  1 Dale |
+| G5: Season 8 Game 46: Crabs 0  @  2 Firefighters |
+| G6: Season 8 Game 47: Crabs 4  @  6 Firefighters |
+
+<br />
+
 | 5 Game Winning Streak by the Firefighters |
 | ----- |
 | Season 1 Games 56, 57, 58, 59, 60 |
@@ -226,6 +242,28 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G3: Season 3 Game 84: Magic 3  @  4 Firefighters |
 | G4: Season 3 Game 85: Lovers 4  @  9 Firefighters |
 | G5: Season 3 Game 86: Lovers 1  @  2 Firefighters |
+
+<br />
+
+| 5 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 8 Games 16, 17, 18, 19, 20 |
+| G1: Season 8 Game 17: Firefighters 12 @  3 Lovers |
+| G2: Season 8 Game 18: Firefighters 3  @  2 Lovers |
+| G3: Season 8 Game 19: Flowers 4  @  6 Firefighters |
+| G4: Season 8 Game 20: Flowers 2  @  3 Firefighters |
+| G5: Season 8 Game 21: Flowers 3  @  6 Firefighters |
+
+<br />
+
+| 5 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 8 Games 25, 26, 27, 28, 29 |
+| G1: Season 8 Game 26: Firefighters 3  @  2 Spies |
+| G2: Season 8 Game 27: Firefighters 4  @  3 Spies |
+| G3: Season 8 Game 28: Lovers 2  @  7 Firefighters |
+| G4: Season 8 Game 29: Lovers 1  @  9 Firefighters |
+| G5: Season 8 Game 30: Lovers 1  @  3 Firefighters |
 
 <br />
 
@@ -396,6 +434,16 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 7 Game 60: Firefighters 7  @  5 Jazz Hands |
 | G3: Season 7 Game 61: Millennials 4  @ 14 Firefighters |
 | G4: Season 7 Game 62: Millennials 1  @  6 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 8 Games 35, 36, 37, 38 |
+| G1: Season 8 Game 36: Lovers 2  @  4 Firefighters |
+| G2: Season 8 Game 37: Firefighters 5  @  0 Jazz Hands |
+| G3: Season 8 Game 38: Firefighters 12 @  9 Jazz Hands |
+| G4: Season 8 Game 39: Firefighters 3  @  2 Jazz Hands |
 
 
 

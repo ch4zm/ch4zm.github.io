@@ -11,6 +11,7 @@ Winning streaks of 7 or more games for all teams versus all teams for season 7
 | ----- | ----- | ----- | ----- |
 | Crabs                          | 13         | 7          | 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Crabs                          | 9          | 7          | 34, 35, 36, 37, 38, 39, 40, 41, 42 |
+| Spies                          | 9          | 7          | 66, 67, 68, 69, 70, 71, 72, 73, 74 |
 | Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
 | Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
@@ -60,6 +61,21 @@ Winning streaks of 7 or more games for all teams versus all teams for season 7
 | G7: Season 7 Game 40: Crabs 4  @  2 Millennials |
 | G8: Season 7 Game 41: Crabs 12 @  5 Millennials |
 | G9: Season 7 Game 42: Crabs 9  @  1 Millennials |
+
+<br />
+
+| 9 Game Winning Streak by the Spies |
+| ----- |
+| Season 7 Games 65, 66, 67, 68, 69, 70, 71, 72, 73 |
+| G1: Season 7 Game 66: Spies 7  @  4 Flowers |
+| G2: Season 7 Game 67: Dale 2  @  3 Spies |
+| G3: Season 7 Game 68: Dale 2  @  4 Spies |
+| G4: Season 7 Game 69: Dale 0  @  4 Spies |
+| G5: Season 7 Game 70: Spies 5  @  3 Flowers |
+| G6: Season 7 Game 71: Spies 3  @  1 Flowers |
+| G7: Season 7 Game 72: Spies 11 @  6 Flowers |
+| G8: Season 7 Game 73: Dale 4  @  8 Spies |
+| G9: Season 7 Game 74: Dale 3  @  5 Spies |
 
 <br />
 

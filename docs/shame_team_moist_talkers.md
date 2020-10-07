@@ -7,6 +7,7 @@ Shame games (games where the loser was shamed) for all time for team Moist Talke
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 8 | 92 | Hades Tigers | 12 - 5 | Canada Moist Talkers | 
 | 4 | 104* | Hades Tigers | 12 - 7 | Canada Moist Talkers | 
 | 3 | 51 | Canada Moist Talkers | 5 - 0 | Breckenridge Jazz Hands | 
 | 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Moist Talke
 | 7 | 20 | Canada Moist Talkers | 7 - 5 | Mexico City Wild Wings | 
 | 7 | 48 | Kansas City Breath Mints | 7 - 5 | Canada Moist Talkers | 
 | 2 | 12 | Hades Tigers | 6 - 4 | Canada Moist Talkers | 
-| 4 | 42 | Canada Moist Talkers | 6 - 4 | Seattle Garages | 
 
 

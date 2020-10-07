@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -22,6 +22,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 5          | 16, 17, 18, 19 |
 | Steaks                         | 4          | 6          | 75, 76, 77, 78 |
 | Steaks                         | 4          | 7          | 82, 83, 84, 85 |
+| Steaks                         | 4          | 8          | 62, 63, 64, 65 |
 
 
 
@@ -157,6 +158,16 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 7 Game 83: Shoe Thieves 7  @  3 Steaks |
 | G3: Season 7 Game 84: Shoe Thieves 5  @  4 Steaks |
 | G4: Season 7 Game 85: Steaks 6  @  9 Tigers |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 8 Games 61, 62, 63, 64 |
+| G1: Season 8 Game 62: Steaks 4  @  7 Breath Mints |
+| G2: Season 8 Game 63: Steaks 3  @  7 Breath Mints |
+| G3: Season 8 Game 64: Moist Talkers 7  @  1 Steaks |
+| G4: Season 8 Game 65: Moist Talkers 6  @  4 Steaks |
 
 
 

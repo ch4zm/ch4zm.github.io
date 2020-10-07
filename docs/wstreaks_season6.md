@@ -9,8 +9,8 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Crabs                          | 21         | 6          | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
-| Crabs                          | 17         | 6          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Crabs                          | 18         | 6          | 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
+| Crabs                          | 14         | 6          | 63, 64, 65, 66, 67, 68, 69, 73, 74, 75, 76, 77, 78, 79 |
 | Crabs                          | 11         | 6          | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
 | Firefighters                   | 8          | 6          | 87, 88, 89, 90, 91, 92, 93, 94 |
 | Firefighters                   | 7          | 6          | 11, 12, 13, 14, 15, 16, 17 |
@@ -28,9 +28,9 @@ Note: all days and seasons displayed are 1-indexed.
 
 Winning streaks of 7 or more games for all teams versus all teams for season 6
 
-| 21 Game Winning Streak by the Crabs |
+| 18 Game Winning Streak by the Crabs |
 | ----- |
-| Season 6 Games 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 |
+| Season 6 Games 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23 |
 | G1: Season 6 Game 4: Flowers 3  @  4 Crabs |
 | G2: Season 6 Game 5: Flowers 0  @  3 Crabs |
 | G3: Season 6 Game 6: Flowers 1  @  5 Crabs |
@@ -40,24 +40,21 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 | G7: Season 6 Game 10: Millennials 6  @  8 Crabs |
 | G8: Season 6 Game 11: Millennials 2  @  6 Crabs |
 | G9: Season 6 Game 12: Millennials 4  @ 10 Crabs |
-| G10: Season 6 Game 13: Crabs 9  @  3 Dalé |
-| G11: Season 6 Game 14: Crabs 5  @  0 Dalé |
-| G12: Season 6 Game 15: Crabs 10 @  0 Dalé |
-| G13: Season 6 Game 16: Crabs 5  @  1 Lovers |
-| G14: Season 6 Game 17: Crabs 4  @  1 Lovers |
-| G15: Season 6 Game 18: Crabs 7  @  4 Lovers |
-| G16: Season 6 Game 19: Spies 2  @  3 Crabs |
-| G17: Season 6 Game 20: Spies 1  @  7 Crabs |
-| G18: Season 6 Game 21: Spies 1  @  9 Crabs |
-| G19: Season 6 Game 22: Crabs 5  @  1 Sunbeams |
-| G20: Season 6 Game 23: Crabs 4  @  1 Sunbeams |
-| G21: Season 6 Game 24: Crabs 9  @  2 Sunbeams |
+| G10: Season 6 Game 16: Crabs 5  @  1 Lovers |
+| G11: Season 6 Game 17: Crabs 4  @  1 Lovers |
+| G12: Season 6 Game 18: Crabs 7  @  4 Lovers |
+| G13: Season 6 Game 19: Spies 2  @  3 Crabs |
+| G14: Season 6 Game 20: Spies 1  @  7 Crabs |
+| G15: Season 6 Game 21: Spies 1  @  9 Crabs |
+| G16: Season 6 Game 22: Crabs 5  @  1 Sunbeams |
+| G17: Season 6 Game 23: Crabs 4  @  1 Sunbeams |
+| G18: Season 6 Game 24: Crabs 9  @  2 Sunbeams |
 
 <br />
 
-| 17 Game Winning Streak by the Crabs |
+| 14 Game Winning Streak by the Crabs |
 | ----- |
-| Season 6 Games 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| Season 6 Games 62, 63, 64, 65, 66, 67, 68, 72, 73, 74, 75, 76, 77, 78 |
 | G1: Season 6 Game 63: Firefighters 3  @  5 Crabs |
 | G2: Season 6 Game 64: Crabs 3  @  1 Millennials |
 | G3: Season 6 Game 65: Crabs 8  @  0 Millennials |
@@ -65,16 +62,13 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 | G5: Season 6 Game 67: Crabs 7  @  0 Jazz Hands |
 | G6: Season 6 Game 68: Crabs 4  @  0 Jazz Hands |
 | G7: Season 6 Game 69: Crabs 8  @  5 Jazz Hands |
-| G8: Season 6 Game 70: Dalé 0  @  4 Crabs |
-| G9: Season 6 Game 71: Dalé 1  @  6 Crabs |
-| G10: Season 6 Game 72: Dalé 2  @  9 Crabs |
-| G11: Season 6 Game 73: Sunbeams 2  @  3 Crabs |
-| G12: Season 6 Game 74: Sunbeams 6  @  9 Crabs |
-| G13: Season 6 Game 75: Sunbeams 2  @  6 Crabs |
-| G14: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
-| G15: Season 6 Game 77: Firefighters 1  @  2 Crabs |
-| G16: Season 6 Game 78: Firefighters 2  @  7 Crabs |
-| G17: Season 6 Game 79: Tacos 1  @  9 Crabs |
+| G8: Season 6 Game 73: Sunbeams 2  @  3 Crabs |
+| G9: Season 6 Game 74: Sunbeams 6  @  9 Crabs |
+| G10: Season 6 Game 75: Sunbeams 2  @  6 Crabs |
+| G11: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
+| G12: Season 6 Game 77: Firefighters 1  @  2 Crabs |
+| G13: Season 6 Game 78: Firefighters 2  @  7 Crabs |
+| G14: Season 6 Game 79: Tacos 1  @  9 Crabs |
 
 <br />
 

@@ -1,5 +1,5 @@
 # Spies Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,28 +12,28 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Spies                          | 11         | 4          | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 |
 | Spies                          | 11         | 5          | 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65 |
-| Spies                          | 10         | 4          | 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 |
+| Spies                          | 8          | 4          | 91, 92, 93, 94, 95, 96, 97, 98 |
 | Spies                          | 7          | 6          | 50, 51, 52, 53, 54, 55, 56 |
 | Spies                          | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Spies                          | 6          | 7          | 40, 41, 42, 43, 44, 45 |
-| Spies                          | 5          | 1          | 32, 33, 34, 35, 36 |
+| Spies                          | 6          | 8          | 77, 78, 79, 80, 81, 82 |
 | Spies                          | 5          | 1          | 83, 84, 85, 86, 87 |
 | Spies                          | 5          | 6          | 19, 20, 21, 22, 23 |
 | Spies                          | 5          | 6          | 58, 59, 60, 61, 62 |
-| Spies                          | 5          | 6          | 75, 76, 77, 78, 79 |
-| Spies                          | 5          | 6          | 93, 94, 95, 96, 97 |
 | Spies                          | 4          | 1          | 97, 98, 99, 100 |
 | Spies                          | 4          | 2          | 25, 26, 27, 28 |
 | Spies                          | 4          | 2          | 35, 36, 37, 38 |
-| Spies                          | 4          | 2          | 65, 66, 67, 68 |
 | Spies                          | 4          | 2          | 72, 73, 74, 75 |
 | Spies                          | 4          | 2          | 85, 86, 87, 88 |
 | Spies                          | 4          | 3          | 13, 14, 15, 16 |
+| Spies                          | 4          | 3          | 31, 32, 33, 37 |
 | Spies                          | 4          | 3          | 63, 64, 65, 66 |
+| Spies                          | 4          | 3          | 88, 89, 90, 94 |
 | Spies                          | 4          | 4          | 3, 4, 5, 6 |
+| Spies                          | 4          | 4          | 25, 26, 27, 31 |
 | Spies                          | 4          | 5          | 23, 24, 25, 26 |
+| Spies                          | 4          | 5          | 47, 48, 52, 53 |
 | Spies                          | 4          | 6          | 64, 65, 66, 67 |
-| Spies                          | 4          | 7          | 18, 22, 23, 24 |
 
 
 
@@ -79,19 +79,17 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
-| 10 Game Losing Streak by the Spies |
+| 8 Game Losing Streak by the Spies |
 | ----- |
-| Season 4 Games 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 |
-| G1: Season 4 Game 89: Dalé 7  @  2 Spies |
-| G2: Season 4 Game 90: Dalé 5  @  1 Spies |
-| G3: Season 4 Game 91: Tigers 9  @  7 Spies |
-| G4: Season 4 Game 92: Tigers 6  @  2 Spies |
-| G5: Season 4 Game 93: Tigers 4  @  3 Spies |
-| G6: Season 4 Game 94: Spies 1  @  6 Moist Talkers |
-| G7: Season 4 Game 95: Spies 7  @ 11 Moist Talkers |
-| G8: Season 4 Game 96: Spies 2  @  6 Moist Talkers |
-| G9: Season 4 Game 97: Spies 0  @  7 Tigers |
-| G10: Season 4 Game 98: Spies 2  @  4 Tigers |
+| Season 4 Games 90, 91, 92, 93, 94, 95, 96, 97 |
+| G1: Season 4 Game 91: Tigers 9  @  7 Spies |
+| G2: Season 4 Game 92: Tigers 6  @  2 Spies |
+| G3: Season 4 Game 93: Tigers 4  @  3 Spies |
+| G4: Season 4 Game 94: Spies 1  @  6 Moist Talkers |
+| G5: Season 4 Game 95: Spies 7  @ 11 Moist Talkers |
+| G6: Season 4 Game 96: Spies 2  @  6 Moist Talkers |
+| G7: Season 4 Game 97: Spies 0  @  7 Tigers |
+| G8: Season 4 Game 98: Spies 2  @  4 Tigers |
 
 <br />
 
@@ -132,14 +130,15 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
-| 5 Game Losing Streak by the Spies |
+| 6 Game Losing Streak by the Spies |
 | ----- |
-| Season 1 Games 31, 32, 33, 34, 35 |
-| G1: Season 1 Game 32: Moist Talkers 7  @  2 Spies |
-| G2: Season 1 Game 33: Moist Talkers 8  @  3 Spies |
-| G3: Season 1 Game 34: Spies 0  @  5 Dalé |
-| G4: Season 1 Game 35: Spies 3  @  4 Dalé |
-| G5: Season 1 Game 36: Spies 1  @  2 Dalé |
+| Season 8 Games 76, 77, 78, 79, 80, 81 |
+| G1: Season 8 Game 77: Spies 2  @  3 Crabs |
+| G2: Season 8 Game 78: Spies 5  @ 11 Crabs |
+| G3: Season 8 Game 79: Spies 1  @  4 Millennials |
+| G4: Season 8 Game 80: Spies 0  @  1 Millennials |
+| G5: Season 8 Game 81: Spies 1  @  5 Millennials |
+| G6: Season 8 Game 82: Spies 7  @  8 Sunbeams |
 
 <br />
 
@@ -176,28 +175,6 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 <br />
 
-| 5 Game Losing Streak by the Spies |
-| ----- |
-| Season 6 Games 74, 75, 76, 77, 78 |
-| G1: Season 6 Game 75: Jazz Hands 5  @  0 Spies |
-| G2: Season 6 Game 76: Spies 0  @  4 Dalé |
-| G3: Season 6 Game 77: Spies 1  @  2 Dalé |
-| G4: Season 6 Game 78: Spies 3  @ 10 Dalé |
-| G5: Season 6 Game 79: Spies 2  @  8 Sunbeams |
-
-<br />
-
-| 5 Game Losing Streak by the Spies |
-| ----- |
-| Season 6 Games 92, 93, 94, 95, 96 |
-| G1: Season 6 Game 93: Dalé 6  @  2 Spies |
-| G2: Season 6 Game 94: Millennials 6  @  2 Spies |
-| G3: Season 6 Game 95: Millennials 6  @  5 Spies |
-| G4: Season 6 Game 96: Millennials 6  @  5 Spies |
-| G5: Season 6 Game 97: Spies 1  @  3 Dalé |
-
-<br />
-
 | 4 Game Losing Streak by the Spies |
 | ----- |
 | Season 1 Games 96, 97, 98, 99 |
@@ -225,16 +202,6 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 2 Game 36: Spies 4  @  6 Wild Wings |
 | G3: Season 2 Game 37: Pies 9  @  0 Spies |
 | G4: Season 2 Game 38: Pies 6  @  5 Spies |
-
-<br />
-
-| 4 Game Losing Streak by the Spies |
-| ----- |
-| Season 2 Games 64, 65, 66, 67 |
-| G1: Season 2 Game 65: Spies 9  @ 10 Dalé |
-| G2: Season 2 Game 66: Spies 2  @  3 Dalé |
-| G3: Season 2 Game 67: Spies 6  @  7 Crabs |
-| G4: Season 2 Game 68: Spies 2  @  5 Crabs |
 
 <br />
 
@@ -270,11 +237,31 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 | 4 Game Losing Streak by the Spies |
 | ----- |
+| Season 3 Games 30, 31, 32, 36 |
+| G1: Season 3 Game 31: Pies 7  @  3 Spies |
+| G2: Season 3 Game 32: Pies 5  @  1 Spies |
+| G3: Season 3 Game 33: Pies 4  @  3 Spies |
+| G4: Season 3 Game 37: Tigers 6  @  4 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
 | Season 3 Games 62, 63, 64, 65 |
 | G1: Season 3 Game 63: Spies 3  @ 10 Tigers |
 | G2: Season 3 Game 64: Tigers 8  @  2 Spies |
 | G3: Season 3 Game 65: Tigers 12 @  4 Spies |
 | G4: Season 3 Game 66: Tigers 8  @  5 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
+| Season 3 Games 87, 88, 89, 93 |
+| G1: Season 3 Game 88: Crabs 5  @  4 Spies |
+| G2: Season 3 Game 89: Crabs 3  @  2 Spies |
+| G3: Season 3 Game 90: Crabs 7  @  2 Spies |
+| G4: Season 3 Game 94: Spies 3  @  7 Garages |
 
 <br />
 
@@ -290,6 +277,16 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 | 4 Game Losing Streak by the Spies |
 | ----- |
+| Season 4 Games 24, 25, 26, 30 |
+| G1: Season 4 Game 25: Garages 4  @  0 Spies |
+| G2: Season 4 Game 26: Garages 13 @  4 Spies |
+| G3: Season 4 Game 27: Garages 9  @  5 Spies |
+| G4: Season 4 Game 31: Crabs 4  @  1 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
 | Season 5 Games 22, 23, 24, 25 |
 | G1: Season 5 Game 23: Wild Wings 3  @  1 Spies |
 | G2: Season 5 Game 24: Wild Wings 4  @  0 Spies |
@@ -300,21 +297,21 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 
 | 4 Game Losing Streak by the Spies |
 | ----- |
-| Season 6 Games 63, 64, 65, 66 |
-| G1: Season 6 Game 64: Lovers 5  @  2 Spies |
-| G2: Season 6 Game 65: Lovers 5  @  4 Spies |
-| G3: Season 6 Game 66: Lovers 8  @  1 Spies |
-| G4: Season 6 Game 67: Lovers 3  @  1 Spies |
+| Season 5 Games 46, 47, 51, 52 |
+| G1: Season 5 Game 47: Jazz Hands 6  @  3 Spies |
+| G2: Season 5 Game 48: Jazz Hands 6  @  2 Spies |
+| G3: Season 5 Game 52: Pies 8  @  6 Spies |
+| G4: Season 5 Game 53: Pies 5  @  2 Spies |
 
 <br />
 
 | 4 Game Losing Streak by the Spies |
 | ----- |
-| Season 7 Games 17, 21, 22, 23 |
-| G1: Season 7 Game 18: Crabs 7  @  5 Spies |
-| G2: Season 7 Game 22: Firefighters 5  @  2 Spies |
-| G3: Season 7 Game 23: Firefighters 4  @  3 Spies |
-| G4: Season 7 Game 24: Firefighters 9  @  1 Spies |
+| Season 6 Games 63, 64, 65, 66 |
+| G1: Season 6 Game 64: Lovers 5  @  2 Spies |
+| G2: Season 6 Game 65: Lovers 5  @  4 Spies |
+| G3: Season 6 Game 66: Lovers 8  @  1 Spies |
+| G4: Season 6 Game 67: Lovers 3  @  1 Spies |
 
 
 

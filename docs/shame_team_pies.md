@@ -22,6 +22,7 @@ Shame games (games where the loser was shamed) for all time for team Pies (note:
 | 1 | 76 | Philly Pies | 10 - 8 | Seattle Garages | 
 | 7 | 37 | Philly Pies | 9 - 7 | Kansas City Breath Mints | 
 | 5 | 7 | Philly Pies | 7 - 5 | Houston Spies | 
+| 8 | 107* | Philly Pies | 7 - 5 | Hades Tigers | 
 | 6 | 54 | Philly Pies | 6 - 4 | Mexico City Wild Wings | 
 | 7 | 1 | Philly Pies | 6 - 4 | Dallas Steaks | 
 | 7 | 85 | Hawaii Fridays | 6 - 4 | Philly Pies | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Pies (note:
 | 5 | 90 | Seattle Garages | 5 - 3 | Philly Pies | 
 | 4 | 56 | Philly Pies | 4 - 2 | Hellmouth Sunbeams | 
 | 5 | 6 | Baltimore Crabs | 4 - 2 | Philly Pies | 
-| 4 | 43 | Philly Pies | 3 - 1 | Hades Tigers | 
 
 

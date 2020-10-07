@@ -14,13 +14,12 @@ Losing streaks of 7 or more games for all teams versus all teams for season 5
 | Tacos                          | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Sunbeams                       | 10         | 5          | 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
-| Sunbeams                       | 9          | 5          | 81, 82, 83, 84, 85, 86, 87, 88, 89 |
-| Dalé                           | 8          | 5          | 21, 22, 23, 24, 25, 26, 27, 28 |
 | Pies                           | 8          | 5          | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Wild Wings                     | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Tacos                          | 8          | 5          | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
 | Tacos                          | 7          | 5          | 67, 68, 69, 70, 71, 72, 73 |
+| Sunbeams                       | 7          | 5          | 81, 82, 83, 84, 85, 86, 87 |
 | Tacos                          | 7          | 5          | 92, 93, 94, 95, 96, 97, 98 |
 
 
@@ -117,35 +116,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 5
 
 <br />
 
-| 9 Game Losing Streak by the Sunbeams |
-| ----- |
-| Season 5 Games 80, 81, 82, 83, 84, 85, 86, 87, 88 |
-| G1: Season 5 Game 81: Sunbeams 0  @  5 Wild Wings |
-| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
-| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
-| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
-| G5: Season 5 Game 85: Pies 3  @  2 Sunbeams |
-| G6: Season 5 Game 86: Pies 4  @  2 Sunbeams |
-| G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
-| G8: Season 5 Game 88: Dalé 9  @  7 Sunbeams |
-| G9: Season 5 Game 89: Dalé 4  @  3 Sunbeams |
-
-<br />
-
-| 8 Game Losing Streak by the Dalé |
-| ----- |
-| Season 5 Games 20, 21, 22, 23, 24, 25, 26, 27 |
-| G1: Season 5 Game 21: Wild Wings 8  @  6 Dalé |
-| G2: Season 5 Game 22: Dalé 3  @  7 Crabs |
-| G3: Season 5 Game 23: Dalé 5  @  6 Crabs |
-| G4: Season 5 Game 24: Dalé 8  @  9 Crabs |
-| G5: Season 5 Game 25: Crabs 6  @  5 Dalé |
-| G6: Season 5 Game 26: Crabs 5  @  4 Dalé |
-| G7: Season 5 Game 27: Crabs 10 @  6 Dalé |
-| G8: Season 5 Game 28: Dalé 9  @ 15 Garages |
-
-<br />
-
 | 8 Game Losing Streak by the Pies |
 | ----- |
 | Season 5 Games 29, 30, 31, 32, 33, 34, 35, 36 |
@@ -211,6 +181,19 @@ Losing streaks of 7 or more games for all teams versus all teams for season 5
 | G5: Season 5 Game 71: Wild Wings 2  @  1 Tacos |
 | G6: Season 5 Game 72: Wild Wings 7  @  1 Tacos |
 | G7: Season 5 Game 73: Tacos 5  @  8 Breath Mints |
+
+<br />
+
+| 7 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 5 Games 80, 81, 82, 83, 84, 85, 86 |
+| G1: Season 5 Game 81: Sunbeams 0  @  5 Wild Wings |
+| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
+| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
+| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
+| G5: Season 5 Game 85: Pies 3  @  2 Sunbeams |
+| G6: Season 5 Game 86: Pies 4  @  2 Sunbeams |
+| G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
 
 <br />
 

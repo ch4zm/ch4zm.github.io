@@ -1,5 +1,5 @@
 # All-Time Blaseball Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -13,11 +13,13 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | Lovers                         | 16         | 2          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |
 | Tacos                          | 14         | 5          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
-| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 37 |
-| Dalé                           | 12         | 3          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
+| Flowers                        | 13         | 7          | 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 |
+| Jazz Hands                     | 12         | 8          | 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46 |
+| Magic                          | 12         | 8          | 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92 |
+| Wild Wings                     | 11         | 4          | 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20 |
 | Spies                          | 11         | 4          | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 |
 | Spies                          | 11         | 5          | 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65 |
-| Spies                          | 10         | 4          | 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 |
+| Tacos                          | 11         | 8          | 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Tacos                          | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Sunbeams                       | 10         | 5          | 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 |
 | Tacos                          | 10         | 6          | 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
@@ -25,23 +27,24 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
-| Sunbeams                       | 9          | 5          | 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
-| Dalé                           | 9          | 6          | 50, 51, 52, 53, 54, 55, 56, 57, 58 |
 | Shoe Thieves                   | 9          | 7          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Flowers                        | 9          | 7          | 44, 45, 46, 47, 48, 49, 50, 51, 52 |
+| Lovers                         | 9          | 8          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Tacos                          | 8          | 1          | 19, 20, 21, 22, 23, 24, 25, 26 |
 | Flowers                        | 8          | 1          | 62, 63, 64, 65, 66, 67, 68, 69 |
 | Crabs                          | 8          | 1          | 80, 81, 82, 83, 84, 85, 86, 87 |
 | Tacos                          | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Sunbeams                       | 8          | 2          | 7, 8, 9, 10, 11, 12, 13, 14 |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
-| Dalé                           | 8          | 5          | 21, 22, 23, 24, 25, 26, 27, 28 |
+| Spies                          | 8          | 4          | 91, 92, 93, 94, 95, 96, 97, 98 |
 | Pies                           | 8          | 5          | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Wild Wings                     | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Tacos                          | 8          | 5          | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Pies                           | 8          | 7          | 38, 39, 40, 41, 42, 43, 44, 45 |
-| Flowers                        | 8          | 7          | 76, 77, 78, 79, 80, 81, 85, 86 |
+| Magic                          | 8          | 8          | 38, 39, 40, 41, 42, 43, 44, 45 |
+| Millennials                    | 8          | 8          | 46, 47, 48, 49, 50, 51, 52, 53 |
+| Breath Mints                   | 8          | 8          | 54, 55, 56, 57, 58, 59, 60, 61 |
 
 
 
@@ -117,7 +120,7 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 | 13 Game Losing Streak by the Flowers |
 | ----- |
-| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36 |
+| Season 7 Games 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 |
 | G1: Season 7 Game 22: Millennials 10 @  6 Flowers |
 | G2: Season 7 Game 23: Millennials 7  @  4 Flowers |
 | G3: Season 7 Game 24: Millennials 5  @  2 Flowers |
@@ -130,25 +133,60 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G10: Season 7 Game 31: Sunbeams 7  @  5 Flowers |
 | G11: Season 7 Game 32: Sunbeams 14 @  1 Flowers |
 | G12: Season 7 Game 33: Sunbeams 4  @  2 Flowers |
-| G13: Season 7 Game 37: Flowers 3  @  6 Firefighters |
+| G13: Season 7 Game 34: Flowers 3  @  6 Dale |
 
 <br />
 
-| 12 Game Losing Streak by the Dalé |
+| 12 Game Losing Streak by the Jazz Hands |
 | ----- |
-| Season 3 Games 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 |
-| G1: Season 3 Game 7: Dalé 1  @  7 Jazz Hands |
-| G2: Season 3 Game 8: Dalé 3  @  5 Jazz Hands |
-| G3: Season 3 Game 9: Dalé 1  @  3 Jazz Hands |
-| G4: Season 3 Game 10: Sunbeams 7  @  5 Dalé |
-| G5: Season 3 Game 11: Sunbeams 3  @  1 Dalé |
-| G6: Season 3 Game 12: Sunbeams 11 @  5 Dalé |
-| G7: Season 3 Game 13: Jazz Hands 6  @  5 Dalé |
-| G8: Season 3 Game 14: Jazz Hands 10 @  3 Dalé |
-| G9: Season 3 Game 15: Jazz Hands 10 @  1 Dalé |
-| G10: Season 3 Game 16: Dalé 1  @  4 Millennials |
-| G11: Season 3 Game 17: Dalé 3  @  9 Millennials |
-| G12: Season 3 Game 18: Dalé 0  @  5 Millennials |
+| Season 8 Games 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45 |
+| G1: Season 8 Game 35: Jazz Hands 2  @  5 Millennials |
+| G2: Season 8 Game 36: Jazz Hands 2  @  3 Millennials |
+| G3: Season 8 Game 37: Firefighters 5  @  0 Jazz Hands |
+| G4: Season 8 Game 38: Firefighters 12 @  9 Jazz Hands |
+| G5: Season 8 Game 39: Firefighters 3  @  2 Jazz Hands |
+| G6: Season 8 Game 40: Jazz Hands 4  @  5 Millennials |
+| G7: Season 8 Game 41: Jazz Hands 2  @  7 Millennials |
+| G8: Season 8 Game 42: Jazz Hands 1  @  4 Millennials |
+| G9: Season 8 Game 43: Jazz Hands 1  @  8 Spies |
+| G10: Season 8 Game 44: Jazz Hands 1  @  3 Spies |
+| G11: Season 8 Game 45: Jazz Hands 1  @  7 Spies |
+| G12: Season 8 Game 46: Tacos 4  @  3 Jazz Hands |
+
+<br />
+
+| 12 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91 |
+| G1: Season 8 Game 81: Fridays 8  @  4 Magic |
+| G2: Season 8 Game 82: Pies 10 @  3 Magic |
+| G3: Season 8 Game 83: Pies 6  @  4 Magic |
+| G4: Season 8 Game 84: Pies 10 @  2 Magic |
+| G5: Season 8 Game 85: Magic 4  @  5 Tigers |
+| G6: Season 8 Game 86: Magic 2  @  5 Tigers |
+| G7: Season 8 Game 87: Magic 0  @  2 Tigers |
+| G8: Season 8 Game 88: Magic 2  @ 10 Shoe Thieves |
+| G9: Season 8 Game 89: Magic 2  @  8 Shoe Thieves |
+| G10: Season 8 Game 90: Magic 1  @  4 Shoe Thieves |
+| G11: Season 8 Game 91: Wild Wings 5  @  4 Magic |
+| G12: Season 8 Game 92: Wild Wings 4  @  3 Magic |
+
+<br />
+
+| 11 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 4 Games 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19 |
+| G1: Season 4 Game 7: Wild Wings 1  @  3 Garages |
+| G2: Season 4 Game 8: Wild Wings 1  @  4 Garages |
+| G3: Season 4 Game 9: Wild Wings 4  @ 10 Garages |
+| G4: Season 4 Game 10: Wild Wings 1  @  6 Crabs |
+| G5: Season 4 Game 11: Wild Wings 2  @  3 Crabs |
+| G6: Season 4 Game 12: Wild Wings 5  @  6 Crabs |
+| G7: Season 4 Game 16: Tigers 18 @  8 Wild Wings |
+| G8: Season 4 Game 17: Tigers 6  @  2 Wild Wings |
+| G9: Season 4 Game 18: Tigers 10 @  4 Wild Wings |
+| G10: Season 4 Game 19: Sunbeams 10 @  7 Wild Wings |
+| G11: Season 4 Game 20: Sunbeams 6  @  4 Wild Wings |
 
 <br />
 
@@ -186,19 +224,20 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
-| 10 Game Losing Streak by the Spies |
+| 11 Game Losing Streak by the Tacos |
 | ----- |
-| Season 4 Games 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 |
-| G1: Season 4 Game 89: Dalé 7  @  2 Spies |
-| G2: Season 4 Game 90: Dalé 5  @  1 Spies |
-| G3: Season 4 Game 91: Tigers 9  @  7 Spies |
-| G4: Season 4 Game 92: Tigers 6  @  2 Spies |
-| G5: Season 4 Game 93: Tigers 4  @  3 Spies |
-| G6: Season 4 Game 94: Spies 1  @  6 Moist Talkers |
-| G7: Season 4 Game 95: Spies 7  @ 11 Moist Talkers |
-| G8: Season 4 Game 96: Spies 2  @  6 Moist Talkers |
-| G9: Season 4 Game 97: Spies 0  @  7 Tigers |
-| G10: Season 4 Game 98: Spies 2  @  4 Tigers |
+| Season 8 Games 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71 |
+| G1: Season 8 Game 62: Tacos 3  @  4 Shoe Thieves |
+| G2: Season 8 Game 63: Tacos -1 @ 10 Shoe Thieves |
+| G3: Season 8 Game 64: Tacos 3  @  4 Spies |
+| G4: Season 8 Game 65: Tacos 0  @  3 Spies |
+| G5: Season 8 Game 66: Tacos 0  @ 14 Spies |
+| G6: Season 8 Game 67: Tacos 4  @  5 Spies |
+| G7: Season 8 Game 68: Tacos 1  @  6 Spies |
+| G8: Season 8 Game 69: Tacos 0  @  2 Spies |
+| G9: Season 8 Game 70: Flowers 9  @  3 Tacos |
+| G10: Season 8 Game 71: Flowers 5  @  4 Tacos |
+| G11: Season 8 Game 72: Flowers 8  @  3 Tacos |
 
 <br />
 
@@ -310,21 +349,6 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
-| 9 Game Losing Streak by the Sunbeams |
-| ----- |
-| Season 5 Games 80, 81, 82, 83, 84, 85, 86, 87, 88 |
-| G1: Season 5 Game 81: Sunbeams 0  @  5 Wild Wings |
-| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
-| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
-| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
-| G5: Season 5 Game 85: Pies 3  @  2 Sunbeams |
-| G6: Season 5 Game 86: Pies 4  @  2 Sunbeams |
-| G7: Season 5 Game 87: Pies 5  @  0 Sunbeams |
-| G8: Season 5 Game 88: Dalé 9  @  7 Sunbeams |
-| G9: Season 5 Game 89: Dalé 4  @  3 Sunbeams |
-
-<br />
-
 | 9 Game Losing Streak by the Millennials |
 | ----- |
 | Season 6 Games 6, 7, 8, 9, 10, 11, 12, 13, 14 |
@@ -337,21 +361,6 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G7: Season 6 Game 13: Millennials 3  @  5 Firefighters |
 | G8: Season 6 Game 14: Millennials 2  @  6 Firefighters |
 | G9: Season 6 Game 15: Millennials 2  @  5 Firefighters |
-
-<br />
-
-| 9 Game Losing Streak by the Dalé |
-| ----- |
-| Season 6 Games 49, 50, 51, 52, 53, 54, 55, 56, 57 |
-| G1: Season 6 Game 50: Crabs 5  @  1 Dalé |
-| G2: Season 6 Game 51: Crabs 6  @  3 Dalé |
-| G3: Season 6 Game 52: Dalé 5  @  7 Jazz Hands |
-| G4: Season 6 Game 53: Dalé 2  @  6 Jazz Hands |
-| G5: Season 6 Game 54: Dalé 4  @  7 Jazz Hands |
-| G6: Season 6 Game 55: Dalé 4  @ 10 Crabs |
-| G7: Season 6 Game 56: Dalé 4  @  5 Crabs |
-| G8: Season 6 Game 57: Dalé 2  @ 11 Crabs |
-| G9: Season 6 Game 58: Dalé 6  @ 10 Jazz Hands |
 
 <br />
 
@@ -382,6 +391,21 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 | G7: Season 7 Game 50: Flowers 2  @  7 Millennials |
 | G8: Season 7 Game 51: Flowers 3  @  5 Millennials |
 | G9: Season 7 Game 52: Spies 14 @  4 Flowers |
+
+<br />
+
+| 9 Game Losing Streak by the Lovers |
+| ----- |
+| Season 8 Games 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| G1: Season 8 Game 71: Jazz Hands 4  @  3 Lovers |
+| G2: Season 8 Game 72: Jazz Hands 10 @  7 Lovers |
+| G3: Season 8 Game 73: Millennials 7  @  4 Lovers |
+| G4: Season 8 Game 74: Millennials 6  @  4 Lovers |
+| G5: Season 8 Game 75: Millennials 7  @  3 Lovers |
+| G6: Season 8 Game 76: Dale 8  @  7 Lovers |
+| G7: Season 8 Game 77: Dale 6  @  5 Lovers |
+| G8: Season 8 Game 78: Dale 7  @  5 Lovers |
+| G9: Season 8 Game 79: Jazz Hands 3  @  1 Lovers |
 
 <br />
 
@@ -469,17 +493,17 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
-| 8 Game Losing Streak by the Dalé |
+| 8 Game Losing Streak by the Spies |
 | ----- |
-| Season 5 Games 20, 21, 22, 23, 24, 25, 26, 27 |
-| G1: Season 5 Game 21: Wild Wings 8  @  6 Dalé |
-| G2: Season 5 Game 22: Dalé 3  @  7 Crabs |
-| G3: Season 5 Game 23: Dalé 5  @  6 Crabs |
-| G4: Season 5 Game 24: Dalé 8  @  9 Crabs |
-| G5: Season 5 Game 25: Crabs 6  @  5 Dalé |
-| G6: Season 5 Game 26: Crabs 5  @  4 Dalé |
-| G7: Season 5 Game 27: Crabs 10 @  6 Dalé |
-| G8: Season 5 Game 28: Dalé 9  @ 15 Garages |
+| Season 4 Games 90, 91, 92, 93, 94, 95, 96, 97 |
+| G1: Season 4 Game 91: Tigers 9  @  7 Spies |
+| G2: Season 4 Game 92: Tigers 6  @  2 Spies |
+| G3: Season 4 Game 93: Tigers 4  @  3 Spies |
+| G4: Season 4 Game 94: Spies 1  @  6 Moist Talkers |
+| G5: Season 4 Game 95: Spies 7  @ 11 Moist Talkers |
+| G6: Season 4 Game 96: Spies 2  @  6 Moist Talkers |
+| G7: Season 4 Game 97: Spies 0  @  7 Tigers |
+| G8: Season 4 Game 98: Spies 2  @  4 Tigers |
 
 <br />
 
@@ -539,17 +563,45 @@ Losing streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
-| 8 Game Losing Streak by the Flowers |
+| 8 Game Losing Streak by the Magic |
 | ----- |
-| Season 7 Games 75, 76, 77, 78, 79, 80, 84, 85 |
-| G1: Season 7 Game 76: Flowers 1  @  5 Sunbeams |
-| G2: Season 7 Game 77: Flowers 3  @  5 Sunbeams |
-| G3: Season 7 Game 78: Flowers 4  @  6 Sunbeams |
-| G4: Season 7 Game 79: Crabs 8  @  2 Flowers |
-| G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
-| G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
-| G7: Season 7 Game 85: Spies 3  @  1 Flowers |
-| G8: Season 7 Game 86: Spies 7  @  4 Flowers |
+| Season 8 Games 37, 38, 39, 40, 41, 42, 43, 44 |
+| G1: Season 8 Game 38: Magic 1  @  6 Fridays |
+| G2: Season 8 Game 39: Magic 5  @  7 Fridays |
+| G3: Season 8 Game 40: Tigers 7  @  6 Magic |
+| G4: Season 8 Game 41: Tigers 2  @  1 Magic |
+| G5: Season 8 Game 42: Tigers 6  @  4 Magic |
+| G6: Season 8 Game 43: Magic 1  @  4 Steaks |
+| G7: Season 8 Game 44: Magic 4  @  6 Steaks |
+| G8: Season 8 Game 45: Magic 2  @  4 Steaks |
+
+<br />
+
+| 8 Game Losing Streak by the Millennials |
+| ----- |
+| Season 8 Games 45, 46, 47, 48, 49, 50, 51, 52 |
+| G1: Season 8 Game 46: Millennials 8  @  9 Lovers |
+| G2: Season 8 Game 47: Millennials 5  @ 10 Lovers |
+| G3: Season 8 Game 48: Millennials 7  @  8 Lovers |
+| G4: Season 8 Game 49: Millennials 6  @  7 Flowers |
+| G5: Season 8 Game 50: Millennials 2  @  4 Flowers |
+| G6: Season 8 Game 51: Millennials -1 @  7 Flowers |
+| G7: Season 8 Game 52: Spies 10 @  4 Millennials |
+| G8: Season 8 Game 53: Spies 7  @  2 Millennials |
+
+<br />
+
+| 8 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 8 Games 53, 54, 55, 56, 57, 58, 59, 60 |
+| G1: Season 8 Game 54: Breath Mints 3  @  6 Steaks |
+| G2: Season 8 Game 55: Breath Mints 1  @  4 Wild Wings |
+| G3: Season 8 Game 56: Breath Mints 4  @  5 Wild Wings |
+| G4: Season 8 Game 57: Breath Mints 2  @  8 Wild Wings |
+| G5: Season 8 Game 58: Breath Mints 5  @  8 Garages |
+| G6: Season 8 Game 59: Breath Mints 1  @  2 Garages |
+| G7: Season 8 Game 60: Breath Mints 2  @  3 Garages |
+| G8: Season 8 Game 61: Steaks 2  @  1 Breath Mints |
 
 
 

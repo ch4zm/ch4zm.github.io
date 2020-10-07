@@ -1,5 +1,5 @@
 # Magic Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,12 +10,16 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Magic                          | 12         | 8          | 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92 |
+| Magic                          | 8          | 8          | 38, 39, 40, 41, 42, 43, 44, 45 |
 | Magic                          | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Magic                          | 6          | 2          | 13, 14, 15, 16, 17, 18 |
 | Magic                          | 6          | 3          | 37, 38, 39, 40, 41, 42 |
 | Magic                          | 6          | 4          | 30, 31, 32, 33, 34, 35 |
 | Magic                          | 6          | 5          | 15, 16, 17, 18, 19, 20 |
 | Magic                          | 6          | 5          | 47, 48, 49, 50, 51, 52 |
+| Magic                          | 6          | 8          | 12, 13, 14, 15, 16, 17 |
+| Magic                          | 6          | 8          | 64, 65, 66, 67, 68, 69 |
 | Magic                          | 5          | 2          | 28, 29, 30, 31, 32 |
 | Magic                          | 5          | 4          | 50, 51, 52, 53, 54 |
 | Magic                          | 5          | 6          | 37, 38, 39, 40, 41 |
@@ -33,6 +37,9 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 6          | 70, 71, 72, 73 |
 | Magic                          | 4          | 6          | 80, 81, 82, 83 |
 | Magic                          | 4          | 7          | 76, 77, 78, 79 |
+| Magic                          | 4          | 8          | 19, 20, 21, 22 |
+| Magic                          | 4          | 8          | 49, 50, 51, 52 |
+| Magic                          | 4          | 8          | 74, 75, 76, 77 |
 
 
 
@@ -43,6 +50,38 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Magic versus all teams for all time
+
+| 12 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91 |
+| G1: Season 8 Game 81: Fridays 8  @  4 Magic |
+| G2: Season 8 Game 82: Pies 10 @  3 Magic |
+| G3: Season 8 Game 83: Pies 6  @  4 Magic |
+| G4: Season 8 Game 84: Pies 10 @  2 Magic |
+| G5: Season 8 Game 85: Magic 4  @  5 Tigers |
+| G6: Season 8 Game 86: Magic 2  @  5 Tigers |
+| G7: Season 8 Game 87: Magic 0  @  2 Tigers |
+| G8: Season 8 Game 88: Magic 2  @ 10 Shoe Thieves |
+| G9: Season 8 Game 89: Magic 2  @  8 Shoe Thieves |
+| G10: Season 8 Game 90: Magic 1  @  4 Shoe Thieves |
+| G11: Season 8 Game 91: Wild Wings 5  @  4 Magic |
+| G12: Season 8 Game 92: Wild Wings 4  @  3 Magic |
+
+<br />
+
+| 8 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 37, 38, 39, 40, 41, 42, 43, 44 |
+| G1: Season 8 Game 38: Magic 1  @  6 Fridays |
+| G2: Season 8 Game 39: Magic 5  @  7 Fridays |
+| G3: Season 8 Game 40: Tigers 7  @  6 Magic |
+| G4: Season 8 Game 41: Tigers 2  @  1 Magic |
+| G5: Season 8 Game 42: Tigers 6  @  4 Magic |
+| G6: Season 8 Game 43: Magic 1  @  4 Steaks |
+| G7: Season 8 Game 44: Magic 4  @  6 Steaks |
+| G8: Season 8 Game 45: Magic 2  @  4 Steaks |
+
+<br />
 
 | 6 Game Losing Streak by the Magic |
 | ----- |
@@ -113,6 +152,30 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G4: Season 5 Game 50: Crabs 7  @  4 Magic |
 | G5: Season 5 Game 51: Crabs 6  @  5 Magic |
 | G6: Season 5 Game 52: Magic 2  @  6 Steaks |
+
+<br />
+
+| 6 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 11, 12, 13, 14, 15, 16 |
+| G1: Season 8 Game 12: Magic 0  @  1 Wild Wings |
+| G2: Season 8 Game 13: Magic 1  @  4 Garages |
+| G3: Season 8 Game 14: Magic 7  @  8 Garages |
+| G4: Season 8 Game 15: Magic 0  @  1 Garages |
+| G5: Season 8 Game 16: Shoe Thieves 5  @  1 Magic |
+| G6: Season 8 Game 17: Shoe Thieves 8  @  3 Magic |
+
+<br />
+
+| 6 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 63, 64, 65, 66, 67, 68 |
+| G1: Season 8 Game 64: Magic 6  @ 10 Wild Wings |
+| G2: Season 8 Game 65: Magic 6  @  9 Wild Wings |
+| G3: Season 8 Game 66: Magic 3  @ 11 Wild Wings |
+| G4: Season 8 Game 67: Magic 0  @  7 Wild Wings |
+| G5: Season 8 Game 68: Magic 0  @  2 Wild Wings |
+| G6: Season 8 Game 69: Magic 1  @  2 Wild Wings |
 
 <br />
 
@@ -289,6 +352,36 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 7 Game 77: Millennials 11 @  2 Magic |
 | G3: Season 7 Game 78: Millennials 3  @  2 Magic |
 | G4: Season 7 Game 79: Magic 1  @  5 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 18, 19, 20, 21 |
+| G1: Season 8 Game 19: Shoe Thieves 24 @ 11 Magic |
+| G2: Season 8 Game 20: Shoe Thieves 1  @  0 Magic |
+| G3: Season 8 Game 21: Shoe Thieves 1  @  0 Magic |
+| G4: Season 8 Game 22: Fridays 7  @  5 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 48, 49, 50, 51 |
+| G1: Season 8 Game 49: Wild Wings 5  @  3 Magic |
+| G2: Season 8 Game 50: Wild Wings 8  @  3 Magic |
+| G3: Season 8 Game 51: Wild Wings 13 @ 11 Magic |
+| G4: Season 8 Game 52: Shoe Thieves 11 @  4 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 8 Games 73, 74, 75, 76 |
+| G1: Season 8 Game 74: Magic 4  @ 15 Wild Wings |
+| G2: Season 8 Game 75: Magic 8  @  9 Wild Wings |
+| G3: Season 8 Game 76: Pies 9  @  4 Magic |
+| G4: Season 8 Game 77: Pies 4  @  0 Magic |
 
 
 

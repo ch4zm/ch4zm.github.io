@@ -19,6 +19,8 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 4 | 36 | New York Millennials | 9 - 8 | Boston Flowers | 
 | 4 | 69 | San Francisco Lovers | 9 - 8 | New York Millennials | 
 | 5 | 9 | New York Millennials | 9 - 8 | Chicago Firefighters | 
+| 8 | 46 | San Francisco Lovers | 9 - 8 | New York Millennials | 
+| 8 | 96 | New York Millennials | 9 - 8 | Hawaii Fridays | 
 | 2 | 43 | Chicago Firefighters | 8 - 7 | New York Millennials | 
 | 3 | 5 | New York Millennials | 8 - 7 | Boston Flowers | 
 | 3 | 26 | Yellowstone Magic | 8 - 7 | New York Millennials | 
@@ -27,10 +29,8 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 5 | 38 | Yellowstone Magic | 8 - 7 | New York Millennials | 
 | 5 | 83 | Boston Flowers | 8 - 7 | New York Millennials | 
 | 6 | 16 | New York Millennials | 8 - 7 | Breckenridge Jazz Hands | 
+| 8 | 48 | San Francisco Lovers | 8 - 7 | New York Millennials | 
+| 8 | 94 | New York Millennials | 8 - 7 | Hawaii Fridays | 
 | 1 | 25 | New York Millennials | 7 - 6 | Kansas City Breath Mints | 
-| 1 | 93 | New York Millennials | 7 - 6 | Hawaii Fridays | 
-| 2 | 32 | Charleston Shoe Thieves | 7 - 6 | New York Millennials | 
-| 2 | 50 | New York Millennials | 7 - 6 | Dallas Steaks | 
-| 2 | 56 | Yellowstone Magic | 7 - 6 | New York Millennials | 
 
 

@@ -19,6 +19,7 @@ Shame games (games where the loser was shamed) for all time for team Jazz Hands 
 | 5 | 108* | Breckenridge Jazz Hands | 9 - 6 | Canada Moist Talkers | 
 | 3 | 77 | Canada Moist Talkers | 8 - 5 | Breckenridge Jazz Hands | 
 | 7 | 58 | Breckenridge Jazz Hands | 8 - 5 | Chicago Firefighters | 
+| 8 | 2 | Breckenridge Jazz Hands | 8 - 5 | New York Millennials | 
 | 5 | 25 | Canada Moist Talkers | 7 - 4 | Breckenridge Jazz Hands | 
 | 6 | 26 | New York Millennials | 7 - 4 | Breckenridge Jazz Hands | 
 | 6 | 61 | Breckenridge Jazz Hands | 7 - 4 | Miami Dalé | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Jazz Hands 
 | 6 | 74 | Houston Spies | 8 - 6 | Breckenridge Jazz Hands | 
 | 5 | 65 | Breckenridge Jazz Hands | 7 - 5 | Hellmouth Sunbeams | 
 | 6 | 52 | Breckenridge Jazz Hands | 7 - 5 | Miami Dalé | 
-| 6 | 66 | Breckenridge Jazz Hands | 7 - 5 | Chicago Firefighters | 
 
 

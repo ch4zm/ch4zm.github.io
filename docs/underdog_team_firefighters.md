@@ -29,8 +29,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 40 | Kansas City Breath Mints (40%) | 7 - 1 | Chicago Firefighters (60%) | 
 | 4 | 17 | Unlimited Tacos (34%) | 7 - 1 | Chicago Firefighters (66%) | 
 | 6 | 56 | Unlimited Tacos (39%) | 7 - 1 | Chicago Firefighters (61%) | 
+| 8 | 8 | Miami Dale (37%) | 7 - 1 | Chicago Firefighters (63%) | 
+| 8 | 85 | Breckenridge Jazz Hands (42%) | 7 - 1 | Chicago Firefighters (58%) | 
 | 7 | 88 | Chicago Firefighters (42%) | 6 - 0 | New York Millennials (58%) | 
-| 2 | 4 | Chicago Firefighters (40%) | 13 - 8 | Hawaii Fridays (60%) | 
-| 6 | 21 | Seattle Garages (44%) | 11 - 6 | Chicago Firefighters (56%) | 
 
 

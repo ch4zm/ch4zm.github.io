@@ -1,5 +1,5 @@
 # All-Time Underdog Wins
-(Through season 7)
+(Through season 8)
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,10 +10,12 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Flowers                        | 8          | 8          | 47, 48, 49, 50, 51, 52, 53, 54 |
 | Flowers                        | 7          | 1          | 24, 25, 26, 27, 28, 29, 30 |
+| Flowers                        | 7          | 8          | 67, 68, 69, 70, 71, 72, 73 |
 | Flowers                        | 6          | 1          | 81, 82, 83, 84, 85, 86 |
 | Flowers                        | 6          | 3          | 93, 94, 95, 96, 97, 98 |
-| Flowers                        | 6          | 6          | 73, 74, 75, 76, 77, 78 |
+| Flowers                        | 6          | 8          | 13, 14, 15, 16, 17, 18 |
 | Flowers                        | 5          | 3          | 21, 22, 23, 24, 25 |
 | Flowers                        | 5          | 5          | 65, 66, 67, 68, 69 |
 | Flowers                        | 4          | 1          | 18, 19, 20, 21 |
@@ -35,6 +37,20 @@ Note: all days and seasons displayed are 1-indexed.
 
 Winning streaks of 4 or more games for Flowers versus all teams for all time
 
+| 8 Game Winning Streak by the Flowers |
+| ----- |
+| Season 8 Games 46, 47, 48, 49, 50, 51, 52, 53 |
+| G1: Season 8 Game 47: Dale 1  @  2 Flowers |
+| G2: Season 8 Game 48: Dale 1  @  9 Flowers |
+| G3: Season 8 Game 49: Millennials 6  @  7 Flowers |
+| G4: Season 8 Game 50: Millennials 2  @  4 Flowers |
+| G5: Season 8 Game 51: Millennials -1 @  7 Flowers |
+| G6: Season 8 Game 52: Flowers 7  @  3 Sunbeams |
+| G7: Season 8 Game 53: Flowers 11 @  8 Sunbeams |
+| G8: Season 8 Game 54: Flowers 5  @  3 Sunbeams |
+
+<br />
+
 | 7 Game Winning Streak by the Flowers |
 | ----- |
 | Season 1 Games 23, 24, 25, 26, 27, 28, 29 |
@@ -45,6 +61,19 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G5: Season 1 Game 28: Tacos 4  @  7 Flowers |
 | G6: Season 1 Game 29: Tacos 2  @  4 Flowers |
 | G7: Season 1 Game 30: Tacos 2  @  5 Flowers |
+
+<br />
+
+| 7 Game Winning Streak by the Flowers |
+| ----- |
+| Season 8 Games 66, 67, 68, 69, 70, 71, 72 |
+| G1: Season 8 Game 67: Sunbeams 2  @  4 Flowers |
+| G2: Season 8 Game 68: Sunbeams 1  @  4 Flowers |
+| G3: Season 8 Game 69: Sunbeams 2  @  7 Flowers |
+| G4: Season 8 Game 70: Flowers 9  @  3 Tacos |
+| G5: Season 8 Game 71: Flowers 5  @  4 Tacos |
+| G6: Season 8 Game 72: Flowers 8  @  3 Tacos |
+| G7: Season 8 Game 73: Flowers 8  @  1 Firefighters |
 
 <br />
 
@@ -74,13 +103,13 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 
 | 6 Game Winning Streak by the Flowers |
 | ----- |
-| Season 6 Games 72, 73, 74, 75, 76, 77 |
-| G1: Season 6 Game 73: Flowers 8  @  6 Dalé |
-| G2: Season 6 Game 74: Flowers 6  @  3 Dalé |
-| G3: Season 6 Game 75: Flowers 4  @  3 Dalé |
-| G4: Season 6 Game 76: Tacos 4  @  5 Flowers |
-| G5: Season 6 Game 77: Tacos 0  @  5 Flowers |
-| G6: Season 6 Game 78: Tacos 1  @  2 Flowers |
+| Season 8 Games 12, 13, 14, 15, 16, 17 |
+| G1: Season 8 Game 13: Flowers 7  @  6 Spies |
+| G2: Season 8 Game 14: Flowers 5  @  4 Spies |
+| G3: Season 8 Game 15: Flowers 4  @  0 Spies |
+| G4: Season 8 Game 16: Dale 2  @  7 Flowers |
+| G5: Season 8 Game 17: Dale 6  @ 12 Flowers |
+| G6: Season 8 Game 18: Dale 3  @  8 Flowers |
 
 <br />
 

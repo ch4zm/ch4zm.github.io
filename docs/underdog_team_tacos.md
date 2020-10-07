@@ -18,9 +18,11 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 34 | Unlimited Tacos (36%) | 8 - 1 | Miami Dalé (64%) | 
 | 7 | 34 | Unlimited Tacos (41%) | 8 - 1 | New York Millennials (59%) | 
 | 6 | 3 | Unlimited Tacos (33%) | 10 - 4 | Breckenridge Jazz Hands (67%) | 
+| 8 | 54 | Miami Dale (44%) | 10 - 4 | Unlimited Tacos (56%) | 
 | 6 | 49 | Unlimited Tacos (41%) | 9 - 3 | Breckenridge Jazz Hands (59%) | 
 | 1 | 66 | Kansas City Breath Mints (44%) | 8 - 2 | Los Angeles Tacos (56%) | 
 | 5 | 88 | Unlimited Tacos (37%) | 8 - 2 | San Francisco Lovers (63%) | 
+| 8 | 21 | Miami Dale (40%) | 8 - 2 | Unlimited Tacos (60%) | 
 | 4 | 17 | Unlimited Tacos (34%) | 7 - 1 | Chicago Firefighters (66%) | 
 | 4 | 48 | Unlimited Tacos (41%) | 7 - 1 | Dallas Steaks (59%) | 
 | 6 | 56 | Unlimited Tacos (39%) | 7 - 1 | Chicago Firefighters (61%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 56 | Unlimited Tacos (42%) | 9 - 4 | Kansas City Breath Mints (58%) | 
 | 6 | 16 | Unlimited Tacos (45%) | 9 - 4 | Miami Dalé (55%) | 
 | 1 | 17 | Los Angeles Tacos (42%) | 7 - 2 | Dallas Steaks (58%) | 
-| 2 | 35 | Los Angeles Tacos (34%) | 7 - 2 | Chicago Firefighters (66%) | 
-| 3 | 53 | Los Angeles Tacos (33%) | 7 - 2 | Hawaii Fridays (67%) | 
 
 

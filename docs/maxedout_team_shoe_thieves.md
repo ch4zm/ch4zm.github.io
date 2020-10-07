@@ -17,6 +17,7 @@ Maxed out games (high-scoring one-run games) for all time for team Shoe Thieves 
 | 4 | 13 | Dallas Steaks | 9 - 8 | Charleston Shoe Thieves | 
 | 4 | 57 | Boston Flowers | 9 - 8 | Charleston Shoe Thieves | 
 | 7 | 5 | Charleston Shoe Thieves | 9 - 8 | Hawaii Fridays | 
+| 8 | 93 | Philly Pies | 9 - 8 | Charleston Shoe Thieves | 
 | 1 | 40 | Hawaii Fridays | 8 - 7 | Charleston Shoe Thieves | 
 | 1 | 63 | Chicago Firefighters | 8 - 7 | Charleston Shoe Thieves | 
 | 2 | 18 | Charleston Shoe Thieves | 8 - 7 | Chicago Firefighters | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Shoe Thieves 
 | 4 | 101* | Chicago Firefighters | 8 - 7 | Charleston Shoe Thieves | 
 | 5 | 79 | Charleston Shoe Thieves | 8 - 7 | Boston Flowers | 
 | 6 | 52 | Dallas Steaks | 8 - 7 | Charleston Shoe Thieves | 
-| 6 | 53 | Charleston Shoe Thieves | 8 - 7 | Dallas Steaks | 
 
 

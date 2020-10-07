@@ -1,5 +1,5 @@
 # Steaks Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Steaks                         | 10         | 3          | 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 |
+| Steaks                         | 10         | 8          | 91, 92, 93, 94, 95, 96, 97, 98, 99, 100 |
 | Steaks                         | 9          | 2          | 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | Steaks                         | 9          | 2          | 30, 31, 32, 33, 34, 35, 36, 37, 38 |
 | Steaks                         | 8          | 1          | 36, 37, 38, 39, 40, 41, 42, 43 |
@@ -24,6 +25,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 5          | 3          | 49, 50, 51, 52, 53 |
 | Steaks                         | 5          | 6          | 70, 71, 72, 73, 74 |
 | Steaks                         | 5          | 7          | 70, 71, 72, 73, 74 |
+| Steaks                         | 5          | 8          | 28, 29, 30, 31, 32 |
 | Steaks                         | 4          | 1          | 3, 4, 5, 6 |
 | Steaks                         | 4          | 1          | 85, 86, 87, 88 |
 | Steaks                         | 4          | 2          | 78, 79, 80, 81 |
@@ -37,6 +39,8 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 5          | 97, 98, 99, 100 |
 | Steaks                         | 4          | 6          | 94, 95, 96, 97 |
 | Steaks                         | 4          | 7          | 58, 59, 60, 61 |
+| Steaks                         | 4          | 8          | 2, 3, 4, 5 |
+| Steaks                         | 4          | 8          | 83, 84, 85, 86 |
 
 
 
@@ -61,6 +65,22 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G8: Season 3 Game 27: Steaks 5  @  4 Tacos |
 | G9: Season 3 Game 28: Steaks 5  @  0 Fridays |
 | G10: Season 3 Game 29: Steaks 8  @  2 Fridays |
+
+<br />
+
+| 10 Game Winning Streak by the Steaks |
+| ----- |
+| Season 8 Games 90, 91, 92, 93, 94, 95, 96, 97, 98, 99 |
+| G1: Season 8 Game 91: Breath Mints 1  @  3 Steaks |
+| G2: Season 8 Game 92: Breath Mints 3  @ 10 Steaks |
+| G3: Season 8 Game 93: Breath Mints 5  @  6 Steaks |
+| G4: Season 8 Game 94: Steaks 5  @  3 Pies |
+| G5: Season 8 Game 95: Steaks 6  @  1 Pies |
+| G6: Season 8 Game 96: Steaks 7  @  2 Pies |
+| G7: Season 8 Game 97: Magic 4  @  6 Steaks |
+| G8: Season 8 Game 98: Magic 2  @  3 Steaks |
+| G9: Season 8 Game 99: Magic 5  @ 13 Steaks |
+| G10: Season 8 Game 100: Steaks 7  @  5 Tigers |
 
 <br />
 
@@ -232,6 +252,17 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Steaks |
+| ----- |
+| Season 8 Games 27, 28, 29, 30, 31 |
+| G1: Season 8 Game 28: Moist Talkers 2  @  5 Steaks |
+| G2: Season 8 Game 29: Moist Talkers 3  @  6 Steaks |
+| G3: Season 8 Game 30: Moist Talkers 0  @  6 Steaks |
+| G4: Season 8 Game 31: Steaks 2  @  1 Magic |
+| G5: Season 8 Game 32: Steaks 7  @  5 Magic |
+
+<br />
+
 | 4 Game Winning Streak by the Steaks |
 | ----- |
 | Season 1 Games 2, 3, 4, 5 |
@@ -359,6 +390,26 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 7 Game 59: Wild Wings 3  @  5 Steaks |
 | G3: Season 7 Game 60: Wild Wings 1  @  3 Steaks |
 | G4: Season 7 Game 61: Shoe Thieves 0  @  3 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Steaks |
+| ----- |
+| Season 8 Games 1, 2, 3, 4 |
+| G1: Season 8 Game 2: Garages 4  @  5 Steaks |
+| G2: Season 8 Game 3: Garages 4  @  5 Steaks |
+| G3: Season 8 Game 4: Shoe Thieves 7  @ 10 Steaks |
+| G4: Season 8 Game 5: Shoe Thieves 6  @  7 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Steaks |
+| ----- |
+| Season 8 Games 82, 83, 84, 85 |
+| G1: Season 8 Game 83: Steaks 12 @  3 Wild Wings |
+| G2: Season 8 Game 84: Steaks 5  @  1 Wild Wings |
+| G3: Season 8 Game 85: Fridays 4  @  9 Steaks |
+| G4: Season 8 Game 86: Fridays 2  @  5 Steaks |
 
 
 

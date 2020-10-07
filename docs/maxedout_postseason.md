@@ -1,5 +1,5 @@
 # Blaseball Postseason Maxed Out
-(Through season 7)
+(Through season 8)
 
 
 
@@ -9,6 +9,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
+| 8 | 108* | Hades Tigers | 9 - 8 | Philly Pies | 
 | 1 | 106* | Philly Pies | 8 - 7 | Houston Spies | 
 | 2 | 100* | Chicago Firefighters | 8 - 7 | Boston Flowers | 
 | 2 | 101* | Philly Pies | 8 - 7 | Canada Moist Talkers | 
@@ -28,10 +29,9 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 6 | 101* | Baltimore Crabs | 5 - 4 | Boston Flowers | 
 | 7 | 100* | Mexico City Wild Wings | 5 - 4 | Kansas City Breath Mints | 
 | 7 | 101* | Charleston Shoe Thieves | 5 - 4 | Seattle Garages | 
+| 8 | 102* | Philly Pies | 5 - 4 | Seattle Garages | 
 | 1 | 101* | Houston Spies | 4 - 3 | Hades Tigers | 
 | 3 | 100* | Charleston Shoe Thieves | 4 - 3 | San Francisco Lovers | 
 | 4 | 100* | Breckenridge Jazz Hands | 4 - 3 | Philly Pies | 
-| 4 | 102* | Philly Pies | 4 - 3 | Breckenridge Jazz Hands | 
-| 4 | 108* | New York Millennials | 4 - 3 | Chicago Firefighters | 
 
 

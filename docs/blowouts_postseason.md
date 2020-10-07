@@ -1,5 +1,5 @@
 # Blaseball Postseason Blowouts
-(Through season 7)
+(Through season 8)
 
 
 
@@ -28,10 +28,10 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 2 | 103* | Charleston Shoe Thieves | 11 - 5 | Dallas Steaks | 
 | 3 | 102* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
 | 5 | 101* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
+| 8 | 104* | Hades Tigers | 11 - 8 | Philly Pies | 
 | 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
 | 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
 | 5 | 108* | Chicago Firefighters | 10 - 1 | San Francisco Lovers | 
 | 6 | 102* | San Francisco Lovers | 10 - 1 | Breckenridge Jazz Hands | 
-| 2 | 106* | Philly Pies | 10 - 2 | Breckenridge Jazz Hands | 
 
 

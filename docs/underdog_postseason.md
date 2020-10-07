@@ -1,5 +1,5 @@
 # Blaseball Postseason Underdog Wins
-(Through season 7)
+(Through season 8)
 
 
 
@@ -21,6 +21,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 109* | New York Millennials (42%) | 7 - 2 | Hades Tigers (58%) | 
 | 6 | 107* | Seattle Garages (45%) | 7 - 2 | Hades Tigers (55%) | 
 | 5 | 104* | Canada Moist Talkers (36%) | 9 - 5 | Breckenridge Jazz Hands (64%) | 
+| 8 | 100* | Philly Pies (41%) | 7 - 3 | Seattle Garages (59%) | 
+| 8 | 109* | Hades Tigers (43%) | 7 - 3 | Baltimore Crabs (57%) | 
 | 4 | 100* | Dallas Steaks (46%) | 5 - 1 | New York Millennials (54%) | 
 | 1 | 110* | Philly Pies (44%) | 10 - 7 | Chicago Firefighters (56%) | 
 | 1 | 107* | Chicago Firefighters (43%) | 8 - 5 | Boston Flowers (57%) | 
@@ -28,10 +30,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 100* | Breckenridge Jazz Hands (38%) | 6 - 3 | Hades Tigers (62%) | 
 | 2 | 100* | Philly Pies (42%) | 5 - 2 | Canada Moist Talkers (58%) | 
 | 6 | 104* | Breckenridge Jazz Hands (45%) | 5 - 2 | San Francisco Lovers (55%) | 
+| 8 | 102* | Houston Spies (44%) | 5 - 2 | Hellmouth Sunbeams (56%) | 
+| 8 | 104* | Houston Spies (41%) | 5 - 2 | Baltimore Crabs (59%) | 
 | 2 | 101* | Breckenridge Jazz Hands (43%) | 4 - 1 | Hades Tigers (57%) | 
-| 3 | 101* | Philly Pies (42%) | 4 - 1 | Canada Moist Talkers (58%) | 
-| 5 | 100* | Canada Moist Talkers (44%) | 4 - 1 | Baltimore Crabs (56%) | 
-| 1 | 102* | Houston Spies (44%) | 7 - 5 | Hades Tigers (56%) | 
-| 2 | 104* | Breckenridge Jazz Hands (44%) | 6 - 4 | Hades Tigers (56%) | 
 
 

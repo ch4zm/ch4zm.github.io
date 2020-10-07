@@ -14,9 +14,11 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 59 | New York Millennials | 17 - 2 | Miami Dale | 
 | 5 | 73 | New York Millennials | 17 - 4 | San Francisco Lovers | 
 | 1 | 96 | Boston Flowers | 16 - 2 | New York Millennials | 
+| 8 | 39 | New York Millennials | 16 - 3 | Miami Dale | 
 | 2 | 18 | New York Millennials | 15 - 4 | Boston Flowers | 
 | 4 | 49 | New York Millennials | 15 - 11 | Chicago Firefighters | 
 | 3 | 94 | Hawaii Fridays | 15 - 13 | New York Millennials | 
+| 8 | 34 | Breckenridge Jazz Hands | 14 - 0 | New York Millennials | 
 | 4 | 67 | New York Millennials | 14 - 4 | San Francisco Lovers | 
 | 6 | 30 | New York Millennials | 14 - 4 | Miami Dalé | 
 | 7 | 61 | Chicago Firefighters | 14 - 4 | New York Millennials | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 63 | New York Millennials | 14 - 12 | Dallas Steaks | 
 | 2 | 85 | New York Millennials | 13 - 0 | San Francisco Lovers | 
 | 5 | 65 | New York Millennials | 13 - 2 | Unlimited Tacos | 
-| 4 | 78 | Charleston Shoe Thieves | 13 - 4 | New York Millennials | 
-| 7 | 73 | Breckenridge Jazz Hands | 13 - 4 | New York Millennials | 
 
 

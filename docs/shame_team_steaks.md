@@ -21,6 +21,7 @@ Shame games (games where the loser was shamed) for all time for team Steaks (not
 | 3 | 78 | Chicago Firefighters | 10 - 8 | Dallas Steaks | 
 | 7 | 92 | Hades Tigers | 10 - 8 | Dallas Steaks | 
 | 5 | 85 | Dallas Steaks | 9 - 7 | Charleston Shoe Thieves | 
+| 8 | 71 | Dallas Steaks | 9 - 7 | Charleston Shoe Thieves | 
 | 6 | 10 | Dallas Steaks | 8 - 6 | Hades Tigers | 
 | 2 | 40 | Dallas Steaks | 7 - 5 | Charleston Shoe Thieves | 
 | 2 | 94 | Dallas Steaks | 7 - 5 | Los Angeles Tacos | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Steaks (not
 | 5 | 33 | Dallas Steaks | 5 - 3 | Unlimited Tacos | 
 | 6 | 51 | Dallas Steaks | 5 - 3 | Hawaii Fridays | 
 | 7 | 57 | San Francisco Lovers | 5 - 3 | Dallas Steaks | 
-| 1 | 18 | Los Angeles Tacos | 4 - 2 | Dallas Steaks | 
 
 

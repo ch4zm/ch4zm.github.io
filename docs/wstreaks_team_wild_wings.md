@@ -1,5 +1,5 @@
 # Wild Wings Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,7 +12,8 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
 | Wild Wings                     | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
-| Wild Wings                     | 7          | 3          | 90, 91, 92, 93, 94, 95, 96 |
+| Wild Wings                     | 7          | 8          | 14, 15, 16, 17, 18, 19, 20 |
+| Wild Wings                     | 7          | 8          | 64, 65, 66, 67, 68, 69, 70 |
 | Wild Wings                     | 6          | 7          | 21, 22, 23, 24, 25, 26 |
 | Wild Wings                     | 6          | 7          | 64, 65, 66, 67, 68, 69 |
 | Wild Wings                     | 5          | 1          | 2, 3, 4, 5, 6 |
@@ -21,10 +22,13 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 1          | 17, 18, 19, 20 |
 | Wild Wings                     | 4          | 2          | 3, 4, 5, 6 |
 | Wild Wings                     | 4          | 2          | 84, 85, 86, 87 |
-| Wild Wings                     | 4          | 5          | 16, 17, 18, 19 |
+| Wild Wings                     | 4          | 3          | 90, 91, 92, 93 |
 | Wild Wings                     | 4          | 5          | 58, 59, 60, 61 |
 | Wild Wings                     | 4          | 6          | 70, 71, 72, 73 |
 | Wild Wings                     | 4          | 7          | 16, 17, 18, 19 |
+| Wild Wings                     | 4          | 8          | 31, 32, 33, 34 |
+| Wild Wings                     | 4          | 8          | 48, 49, 50, 51 |
+| Wild Wings                     | 4          | 8          | 55, 56, 57, 58 |
 
 
 
@@ -65,14 +69,27 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 7 Game Winning Streak by the Wild Wings |
 | ----- |
-| Season 3 Games 89, 90, 91, 92, 93, 94, 95 |
-| G1: Season 3 Game 90: Tigers 3  @  4 Wild Wings |
-| G2: Season 3 Game 91: Wild Wings 7  @  3 Sunbeams |
-| G3: Season 3 Game 92: Wild Wings 7  @  3 Sunbeams |
-| G4: Season 3 Game 93: Wild Wings 14 @  2 Sunbeams |
-| G5: Season 3 Game 94: Dalé 0  @  1 Wild Wings |
-| G6: Season 3 Game 95: Dalé 1  @  5 Wild Wings |
-| G7: Season 3 Game 96: Dalé 2  @  4 Wild Wings |
+| Season 8 Games 13, 14, 15, 16, 17, 18, 19 |
+| G1: Season 8 Game 14: Moist Talkers 5  @  6 Wild Wings |
+| G2: Season 8 Game 15: Moist Talkers -1 @  1 Wild Wings |
+| G3: Season 8 Game 16: Fridays 3  @  4 Wild Wings |
+| G4: Season 8 Game 17: Fridays 1  @  6 Wild Wings |
+| G5: Season 8 Game 18: Fridays 1  @  3 Wild Wings |
+| G6: Season 8 Game 19: Wild Wings 12 @  4 Fridays |
+| G7: Season 8 Game 20: Wild Wings 9  @  4 Fridays |
+
+<br />
+
+| 7 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 8 Games 63, 64, 65, 66, 67, 68, 69 |
+| G1: Season 8 Game 64: Magic 6  @ 10 Wild Wings |
+| G2: Season 8 Game 65: Magic 6  @  9 Wild Wings |
+| G3: Season 8 Game 66: Magic 3  @ 11 Wild Wings |
+| G4: Season 8 Game 67: Magic 0  @  7 Wild Wings |
+| G5: Season 8 Game 68: Magic 0  @  2 Wild Wings |
+| G6: Season 8 Game 69: Magic 1  @  2 Wild Wings |
+| G7: Season 8 Game 70: Moist Talkers 7  @  9 Wild Wings |
 
 <br />
 
@@ -165,11 +182,11 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 4 Game Winning Streak by the Wild Wings |
 | ----- |
-| Season 5 Games 15, 16, 17, 18 |
-| G1: Season 5 Game 16: Dalé 1  @  4 Wild Wings |
-| G2: Season 5 Game 17: Dalé 3  @  7 Wild Wings |
-| G3: Season 5 Game 18: Dalé 5  @ 12 Wild Wings |
-| G4: Season 5 Game 19: Wild Wings 4  @  0 Dalé |
+| Season 3 Games 89, 90, 91, 92 |
+| G1: Season 3 Game 90: Tigers 3  @  4 Wild Wings |
+| G2: Season 3 Game 91: Wild Wings 7  @  3 Sunbeams |
+| G3: Season 3 Game 92: Wild Wings 7  @  3 Sunbeams |
+| G4: Season 3 Game 93: Wild Wings 14 @  2 Sunbeams |
 
 <br />
 
@@ -200,6 +217,36 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 7 Game 17: Wild Wings 7  @  0 Moist Talkers |
 | G3: Season 7 Game 18: Wild Wings 6  @  5 Moist Talkers |
 | G4: Season 7 Game 19: Wild Wings 9  @  2 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 8 Games 30, 31, 32, 33 |
+| G1: Season 8 Game 31: Breath Mints 4  @  8 Wild Wings |
+| G2: Season 8 Game 32: Breath Mints 1  @  7 Wild Wings |
+| G3: Season 8 Game 33: Breath Mints 3  @  4 Wild Wings |
+| G4: Season 8 Game 34: Wild Wings 19 @  5 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 8 Games 47, 48, 49, 50 |
+| G1: Season 8 Game 48: Wild Wings 4  @  2 Shoe Thieves |
+| G2: Season 8 Game 49: Wild Wings 5  @  3 Magic |
+| G3: Season 8 Game 50: Wild Wings 8  @  3 Magic |
+| G4: Season 8 Game 51: Wild Wings 13 @ 11 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 8 Games 54, 55, 56, 57 |
+| G1: Season 8 Game 55: Breath Mints 1  @  4 Wild Wings |
+| G2: Season 8 Game 56: Breath Mints 4  @  5 Wild Wings |
+| G3: Season 8 Game 57: Breath Mints 2  @  8 Wild Wings |
+| G4: Season 8 Game 58: Fridays 2  @  4 Wild Wings |
 
 
 

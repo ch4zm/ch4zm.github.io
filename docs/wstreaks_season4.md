@@ -9,15 +9,12 @@ Winning streaks of 7 or more games for all teams versus all teams for season 4
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Tigers                         | 9          | 4          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Tigers                         | 9          | 4          | 29, 30, 31, 32, 33, 34, 35, 36, 37 |
 | Firefighters                   | 8          | 4          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Tigers                         | 7          | 4          | 14, 15, 16, 17, 18, 19, 20 |
-| Jazz Hands                     | 7          | 4          | 47, 48, 49, 50, 51, 52, 53 |
 | Crabs                          | 7          | 4          | 57, 58, 59, 60, 61, 62, 63 |
 | Tigers                         | 7          | 4          | 69, 70, 71, 72, 73, 74, 75 |
 | Steaks                         | 7          | 4          | 74, 75, 76, 77, 78, 79, 88 |
-| Jazz Hands                     | 7          | 4          | 75, 76, 77, 78, 79, 88, 89 |
 
 
 
@@ -28,21 +25,6 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 7 or more games for all teams versus all teams for season 4
-
-| 9 Game Winning Streak by the Tigers |
-| ----- |
-| Season 4 Games 1, 2, 3, 4, 5, 6, 7, 8, 9 |
-| G1: Season 4 Game 2: Sunbeams 1  @  4 Tigers |
-| G2: Season 4 Game 3: Sunbeams 4  @ 10 Tigers |
-| G3: Season 4 Game 4: Tigers 5  @  0 Moist Talkers |
-| G4: Season 4 Game 5: Tigers 6  @  5 Moist Talkers |
-| G5: Season 4 Game 6: Tigers 1  @  0 Moist Talkers |
-| G6: Season 4 Game 7: Dalé 2  @  9 Tigers |
-| G7: Season 4 Game 8: Dalé 3  @ 12 Tigers |
-| G8: Season 4 Game 9: Dalé 7  @  8 Tigers |
-| G9: Season 4 Game 10: Garages 4  @  6 Tigers |
-
-<br />
 
 | 9 Game Winning Streak by the Tigers |
 | ----- |
@@ -86,19 +68,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 4
 
 <br />
 
-| 7 Game Winning Streak by the Jazz Hands |
-| ----- |
-| Season 4 Games 46, 47, 48, 49, 50, 51, 52 |
-| G1: Season 4 Game 47: Jazz Hands 5  @  1 Wild Wings |
-| G2: Season 4 Game 48: Jazz Hands 10 @  3 Wild Wings |
-| G3: Season 4 Game 49: Garages 1  @  8 Jazz Hands |
-| G4: Season 4 Game 50: Garages 2  @  4 Jazz Hands |
-| G5: Season 4 Game 51: Garages 2  @  3 Jazz Hands |
-| G6: Season 4 Game 52: Dalé 5  @ 11 Jazz Hands |
-| G7: Season 4 Game 53: Dalé 1  @  2 Jazz Hands |
-
-<br />
-
 | 7 Game Winning Streak by the Crabs |
 | ----- |
 | Season 4 Games 56, 57, 58, 59, 60, 61, 62 |
@@ -135,19 +104,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 4
 | G5: Season 4 Game 78: Steaks 7  @  5 Magic |
 | G6: Season 4 Game 79: Steaks 8  @  4 Millennials |
 | G7: Season 4 Game 88: Shoe Thieves 3  @  4 Steaks |
-
-<br />
-
-| 7 Game Winning Streak by the Jazz Hands |
-| ----- |
-| Season 4 Games 74, 75, 76, 77, 78, 87, 88 |
-| G1: Season 4 Game 75: Jazz Hands 11 @  3 Sunbeams |
-| G2: Season 4 Game 76: Dalé 1  @  2 Jazz Hands |
-| G3: Season 4 Game 77: Dalé 3  @  4 Jazz Hands |
-| G4: Season 4 Game 78: Dalé 4  @ 12 Jazz Hands |
-| G5: Season 4 Game 79: Sunbeams 5  @  9 Jazz Hands |
-| G6: Season 4 Game 88: Jazz Hands 2  @  1 Sunbeams |
-| G7: Season 4 Game 89: Jazz Hands 5  @  4 Sunbeams |
 
 
 

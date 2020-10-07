@@ -1,5 +1,5 @@
 # Crabs Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,23 +10,30 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Crabs                          | 21         | 6          | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
-| Crabs                          | 17         | 6          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Crabs                          | 18         | 6          | 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
+| Crabs                          | 14         | 6          | 63, 64, 65, 66, 67, 68, 69, 73, 74, 75, 76, 77, 78, 79 |
 | Crabs                          | 13         | 7          | 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Crabs                          | 11         | 6          | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
+| Crabs                          | 10         | 8          | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 |
 | Crabs                          | 9          | 5          | 62, 63, 64, 65, 66, 67, 68, 69, 70 |
 | Crabs                          | 9          | 7          | 34, 35, 36, 37, 38, 39, 40, 41, 42 |
+| Crabs                          | 9          | 8          | 1, 2, 3, 4, 5, 6, 7, 8, 9 |
+| Crabs                          | 9          | 8          | 61, 62, 63, 64, 65, 66, 67, 68, 69 |
 | Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
 | Crabs                          | 7          | 4          | 57, 58, 59, 60, 61, 62, 63 |
-| Crabs                          | 7          | 5          | 22, 23, 24, 25, 26, 27, 28 |
 | Crabs                          | 7          | 5          | 45, 46, 47, 48, 49, 50, 51 |
 | Crabs                          | 7          | 7          | 65, 66, 67, 68, 69, 70, 71 |
+| Crabs                          | 7          | 8          | 35, 36, 37, 38, 39, 40, 41 |
 | Crabs                          | 6          | 1          | 6, 7, 8, 9, 10, 11 |
 | Crabs                          | 6          | 4          | 8, 9, 10, 11, 12, 13 |
-| Crabs                          | 6          | 5          | 9, 10, 11, 12, 13, 14 |
+| Crabs                          | 6          | 8          | 21, 22, 23, 24, 25, 26 |
+| Crabs                          | 6          | 8          | 54, 55, 56, 57, 58, 59 |
+| Crabs                          | 5          | 5          | 78, 82, 83, 84, 85 |
 | Crabs                          | 5          | 6          | 44, 45, 46, 47, 48 |
 | Crabs                          | 5          | 7          | 10, 11, 12, 13, 14 |
 | Crabs                          | 5          | 7          | 45, 46, 47, 48, 49 |
+| Crabs                          | 5          | 8          | 48, 49, 50, 51, 52 |
+| Crabs                          | 5          | 8          | 77, 78, 79, 80, 81 |
 | Crabs                          | 4          | 1          | 93, 94, 95, 96 |
 | Crabs                          | 4          | 2          | 7, 8, 9, 10 |
 | Crabs                          | 4          | 2          | 47, 48, 49, 50 |
@@ -36,9 +43,8 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 4          | 3          | 88, 89, 90, 91 |
 | Crabs                          | 4          | 4          | 52, 53, 54, 55 |
 | Crabs                          | 4          | 5          | 34, 35, 36, 37 |
-| Crabs                          | 4          | 5          | 82, 83, 84, 85 |
-| Crabs                          | 4          | 6          | 54, 55, 56, 57 |
 | Crabs                          | 4          | 7          | 99, 100, 101, 102 |
+| Crabs                          | 4          | 8          | 11, 12, 13, 14 |
 
 
 
@@ -50,9 +56,9 @@ Note: all days and seasons displayed are 1-indexed.
 
 Winning streaks of 4 or more games for Crabs versus all teams for all time
 
-| 21 Game Winning Streak by the Crabs |
+| 18 Game Winning Streak by the Crabs |
 | ----- |
-| Season 6 Games 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 |
+| Season 6 Games 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23 |
 | G1: Season 6 Game 4: Flowers 3  @  4 Crabs |
 | G2: Season 6 Game 5: Flowers 0  @  3 Crabs |
 | G3: Season 6 Game 6: Flowers 1  @  5 Crabs |
@@ -62,24 +68,21 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G7: Season 6 Game 10: Millennials 6  @  8 Crabs |
 | G8: Season 6 Game 11: Millennials 2  @  6 Crabs |
 | G9: Season 6 Game 12: Millennials 4  @ 10 Crabs |
-| G10: Season 6 Game 13: Crabs 9  @  3 Dalé |
-| G11: Season 6 Game 14: Crabs 5  @  0 Dalé |
-| G12: Season 6 Game 15: Crabs 10 @  0 Dalé |
-| G13: Season 6 Game 16: Crabs 5  @  1 Lovers |
-| G14: Season 6 Game 17: Crabs 4  @  1 Lovers |
-| G15: Season 6 Game 18: Crabs 7  @  4 Lovers |
-| G16: Season 6 Game 19: Spies 2  @  3 Crabs |
-| G17: Season 6 Game 20: Spies 1  @  7 Crabs |
-| G18: Season 6 Game 21: Spies 1  @  9 Crabs |
-| G19: Season 6 Game 22: Crabs 5  @  1 Sunbeams |
-| G20: Season 6 Game 23: Crabs 4  @  1 Sunbeams |
-| G21: Season 6 Game 24: Crabs 9  @  2 Sunbeams |
+| G10: Season 6 Game 16: Crabs 5  @  1 Lovers |
+| G11: Season 6 Game 17: Crabs 4  @  1 Lovers |
+| G12: Season 6 Game 18: Crabs 7  @  4 Lovers |
+| G13: Season 6 Game 19: Spies 2  @  3 Crabs |
+| G14: Season 6 Game 20: Spies 1  @  7 Crabs |
+| G15: Season 6 Game 21: Spies 1  @  9 Crabs |
+| G16: Season 6 Game 22: Crabs 5  @  1 Sunbeams |
+| G17: Season 6 Game 23: Crabs 4  @  1 Sunbeams |
+| G18: Season 6 Game 24: Crabs 9  @  2 Sunbeams |
 
 <br />
 
-| 17 Game Winning Streak by the Crabs |
+| 14 Game Winning Streak by the Crabs |
 | ----- |
-| Season 6 Games 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| Season 6 Games 62, 63, 64, 65, 66, 67, 68, 72, 73, 74, 75, 76, 77, 78 |
 | G1: Season 6 Game 63: Firefighters 3  @  5 Crabs |
 | G2: Season 6 Game 64: Crabs 3  @  1 Millennials |
 | G3: Season 6 Game 65: Crabs 8  @  0 Millennials |
@@ -87,16 +90,13 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G5: Season 6 Game 67: Crabs 7  @  0 Jazz Hands |
 | G6: Season 6 Game 68: Crabs 4  @  0 Jazz Hands |
 | G7: Season 6 Game 69: Crabs 8  @  5 Jazz Hands |
-| G8: Season 6 Game 70: Dalé 0  @  4 Crabs |
-| G9: Season 6 Game 71: Dalé 1  @  6 Crabs |
-| G10: Season 6 Game 72: Dalé 2  @  9 Crabs |
-| G11: Season 6 Game 73: Sunbeams 2  @  3 Crabs |
-| G12: Season 6 Game 74: Sunbeams 6  @  9 Crabs |
-| G13: Season 6 Game 75: Sunbeams 2  @  6 Crabs |
-| G14: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
-| G15: Season 6 Game 77: Firefighters 1  @  2 Crabs |
-| G16: Season 6 Game 78: Firefighters 2  @  7 Crabs |
-| G17: Season 6 Game 79: Tacos 1  @  9 Crabs |
+| G8: Season 6 Game 73: Sunbeams 2  @  3 Crabs |
+| G9: Season 6 Game 74: Sunbeams 6  @  9 Crabs |
+| G10: Season 6 Game 75: Sunbeams 2  @  6 Crabs |
+| G11: Season 6 Game 76: Firefighters 7  @ 12 Crabs |
+| G12: Season 6 Game 77: Firefighters 1  @  2 Crabs |
+| G13: Season 6 Game 78: Firefighters 2  @  7 Crabs |
+| G14: Season 6 Game 79: Tacos 1  @  9 Crabs |
 
 <br />
 
@@ -136,6 +136,22 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 <br />
 
+| 10 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 92, 93, 94, 95, 96, 97, 98, 99, 100, 101 |
+| G1: Season 8 Game 93: Crabs 7  @  3 Jazz Hands |
+| G2: Season 8 Game 94: Crabs 3  @  2 Dale |
+| G3: Season 8 Game 95: Crabs 2  @  1 Dale |
+| G4: Season 8 Game 96: Crabs 16 @  1 Dale |
+| G5: Season 8 Game 97: Lovers 1  @  5 Crabs |
+| G6: Season 8 Game 98: Lovers 3  @  5 Crabs |
+| G7: Season 8 Game 99: Lovers 3  @ 10 Crabs |
+| G8: Season 8 Game 100: Flowers 0  @  2 Crabs |
+| G9: Season 8 Game 101: Crabs 7  @  1 Flowers |
+| G10: Season 8 Game 102: Flowers 2  @  4 Crabs |
+
+<br />
+
 | 9 Game Winning Streak by the Crabs |
 | ----- |
 | Season 5 Games 61, 62, 63, 64, 65, 66, 67, 68, 69 |
@@ -163,6 +179,36 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G7: Season 7 Game 40: Crabs 4  @  2 Millennials |
 | G8: Season 7 Game 41: Crabs 12 @  5 Millennials |
 | G9: Season 7 Game 42: Crabs 9  @  1 Millennials |
+
+<br />
+
+| 9 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 0, 1, 2, 3, 4, 5, 6, 7, 8 |
+| G1: Season 8 Game 1: Crabs 5  @  0 Tacos |
+| G2: Season 8 Game 2: Crabs 9  @  2 Tacos |
+| G3: Season 8 Game 3: Crabs 5  @  0 Tacos |
+| G4: Season 8 Game 4: Crabs 9  @  2 Dale |
+| G5: Season 8 Game 5: Crabs 5  @  3 Dale |
+| G6: Season 8 Game 6: Crabs 9  @  3 Dale |
+| G7: Season 8 Game 7: Crabs 4  @  2 Millennials |
+| G8: Season 8 Game 8: Crabs 4  @  0 Millennials |
+| G9: Season 8 Game 9: Crabs 9  @  5 Millennials |
+
+<br />
+
+| 9 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 60, 61, 62, 63, 64, 65, 66, 67, 68 |
+| G1: Season 8 Game 61: Spies 3  @  4 Crabs |
+| G2: Season 8 Game 62: Spies 2  @  4 Crabs |
+| G3: Season 8 Game 63: Spies -2 @ 12 Crabs |
+| G4: Season 8 Game 64: Crabs 5  @  4 Flowers |
+| G5: Season 8 Game 65: Crabs 7  @  4 Flowers |
+| G6: Season 8 Game 66: Crabs 7  @  2 Flowers |
+| G7: Season 8 Game 67: Jazz Hands 1  @  3 Crabs |
+| G8: Season 8 Game 68: Jazz Hands 5  @ 10 Crabs |
+| G9: Season 8 Game 69: Jazz Hands 0  @  3 Crabs |
 
 <br />
 
@@ -195,19 +241,6 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 | 7 Game Winning Streak by the Crabs |
 | ----- |
-| Season 5 Games 21, 22, 23, 24, 25, 26, 27 |
-| G1: Season 5 Game 22: Dalé 3  @  7 Crabs |
-| G2: Season 5 Game 23: Dalé 5  @  6 Crabs |
-| G3: Season 5 Game 24: Dalé 8  @  9 Crabs |
-| G4: Season 5 Game 25: Crabs 6  @  5 Dalé |
-| G5: Season 5 Game 26: Crabs 5  @  4 Dalé |
-| G6: Season 5 Game 27: Crabs 10 @  6 Dalé |
-| G7: Season 5 Game 28: Wild Wings 3  @  4 Crabs |
-
-<br />
-
-| 7 Game Winning Streak by the Crabs |
-| ----- |
 | Season 5 Games 44, 45, 46, 47, 48, 49, 50 |
 | G1: Season 5 Game 45: Garages 2  @  3 Crabs |
 | G2: Season 5 Game 46: Crabs 8  @  4 Sunbeams |
@@ -229,6 +262,19 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G5: Season 7 Game 69: Flowers 2  @  5 Crabs |
 | G6: Season 7 Game 70: Sunbeams 2  @  6 Crabs |
 | G7: Season 7 Game 71: Sunbeams 2  @  4 Crabs |
+
+<br />
+
+| 7 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 34, 35, 36, 37, 38, 39, 40 |
+| G1: Season 8 Game 35: Sunbeams 3  @  6 Crabs |
+| G2: Season 8 Game 36: Sunbeams 1  @  3 Crabs |
+| G3: Season 8 Game 37: Crabs 3  @  1 Lovers |
+| G4: Season 8 Game 38: Crabs 4  @  2 Lovers |
+| G5: Season 8 Game 39: Crabs 3  @  2 Lovers |
+| G6: Season 8 Game 40: Crabs 12 @  2 Firefighters |
+| G7: Season 8 Game 41: Crabs 7  @  4 Firefighters |
 
 <br />
 
@@ -258,13 +304,36 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 | 6 Game Winning Streak by the Crabs |
 | ----- |
-| Season 5 Games 8, 9, 10, 11, 12, 13 |
-| G1: Season 5 Game 9: Crabs 3  @  2 Jazz Hands |
-| G2: Season 5 Game 10: Crabs 3  @  2 Dalé |
-| G3: Season 5 Game 11: Crabs 4  @  0 Dalé |
-| G4: Season 5 Game 12: Crabs 8  @  1 Dalé |
-| G5: Season 5 Game 13: Crabs 5  @  4 Sunbeams |
-| G6: Season 5 Game 14: Crabs 11 @  2 Sunbeams |
+| Season 8 Games 20, 21, 22, 23, 24, 25 |
+| G1: Season 8 Game 21: Jazz Hands 1  @  8 Crabs |
+| G2: Season 8 Game 22: Crabs 3  @  1 Tacos |
+| G3: Season 8 Game 23: Crabs 3  @  2 Tacos |
+| G4: Season 8 Game 24: Crabs 4  @  1 Tacos |
+| G5: Season 8 Game 25: Crabs 1  @  0 Lovers |
+| G6: Season 8 Game 26: Crabs 4  @  2 Lovers |
+
+<br />
+
+| 6 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 53, 54, 55, 56, 57, 58 |
+| G1: Season 8 Game 54: Firefighters 4  @  7 Crabs |
+| G2: Season 8 Game 55: Firefighters 2  @  4 Crabs |
+| G3: Season 8 Game 56: Firefighters 3  @  5 Crabs |
+| G4: Season 8 Game 57: Firefighters 3  @  6 Crabs |
+| G5: Season 8 Game 58: Millennials 4  @  5 Crabs |
+| G6: Season 8 Game 59: Millennials 1  @  6 Crabs |
+
+<br />
+
+| 5 Game Winning Streak by the Crabs |
+| ----- |
+| Season 5 Games 77, 81, 82, 83, 84 |
+| G1: Season 5 Game 78: Wild Wings 0  @  2 Crabs |
+| G2: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
+| G3: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
+| G4: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
+| G5: Season 5 Game 85: Crabs 6  @  2 Moist Talkers |
 
 <br />
 
@@ -298,6 +367,28 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G3: Season 7 Game 47: Crabs 8  @  5 Flowers |
 | G4: Season 7 Game 48: Crabs 13 @  6 Flowers |
 | G5: Season 7 Game 49: Crabs 8  @  2 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 47, 48, 49, 50, 51 |
+| G1: Season 8 Game 48: Crabs 7  @  6 Firefighters |
+| G2: Season 8 Game 49: Firefighters 1  @  5 Crabs |
+| G3: Season 8 Game 50: Firefighters 2  @ 11 Crabs |
+| G4: Season 8 Game 51: Firefighters 4  @  5 Crabs |
+| G5: Season 8 Game 52: Firefighters 2  @  6 Crabs |
+
+<br />
+
+| 5 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 76, 77, 78, 79, 80 |
+| G1: Season 8 Game 77: Spies 2  @  3 Crabs |
+| G2: Season 8 Game 78: Spies 5  @ 11 Crabs |
+| G3: Season 8 Game 79: Crabs 6  @  4 Flowers |
+| G4: Season 8 Game 80: Crabs 7  @  1 Flowers |
+| G5: Season 8 Game 81: Crabs 6  @  3 Flowers |
 
 <br />
 
@@ -393,31 +484,21 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 | 4 Game Winning Streak by the Crabs |
 | ----- |
-| Season 5 Games 81, 82, 83, 84 |
-| G1: Season 5 Game 82: Crabs 8  @  3 Sunbeams |
-| G2: Season 5 Game 83: Crabs 3  @  2 Sunbeams |
-| G3: Season 5 Game 84: Crabs 8  @  1 Sunbeams |
-| G4: Season 5 Game 85: Crabs 6  @  2 Moist Talkers |
-
-<br />
-
-| 4 Game Winning Streak by the Crabs |
-| ----- |
-| Season 6 Games 53, 54, 55, 56 |
-| G1: Season 6 Game 54: Crabs 5  @  0 Millennials |
-| G2: Season 6 Game 55: Dalé 4  @ 10 Crabs |
-| G3: Season 6 Game 56: Dalé 4  @  5 Crabs |
-| G4: Season 6 Game 57: Dalé 2  @ 11 Crabs |
-
-<br />
-
-| 4 Game Winning Streak by the Crabs |
-| ----- |
 | Season 7 Games 98, 99, 100, 101 |
 | G1: Season 7 Game 99: Crabs 8  @  6 Tacos |
 | G2: Season 7 Game 100: Millennials 2  @  9 Crabs |
 | G3: Season 7 Game 101: Crabs 9  @  0 Millennials |
 | G4: Season 7 Game 102: Millennials 2  @  6 Crabs |
+
+<br />
+
+| 4 Game Winning Streak by the Crabs |
+| ----- |
+| Season 8 Games 10, 11, 12, 13 |
+| G1: Season 8 Game 11: Firefighters 2  @  3 Crabs |
+| G2: Season 8 Game 12: Firefighters 2  @  8 Crabs |
+| G3: Season 8 Game 13: Crabs 6  @  4 Dale |
+| G4: Season 8 Game 14: Crabs 4  @  1 Dale |
 
 
 

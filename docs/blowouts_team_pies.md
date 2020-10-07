@@ -18,6 +18,8 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 32 | Hades Tigers | 16 - 4 | Philly Pies | 
 | 7 | 30 | Dallas Steaks | 15 - 2 | Philly Pies | 
 | 6 | 87 | Seattle Garages | 15 - 3 | Philly Pies | 
+| 8 | 14 | Philly Pies | 15 - 3 | Charleston Shoe Thieves | 
+| 8 | 97 | Philly Pies | 15 - 3 | Hawaii Fridays | 
 | 4 | 22 | Mexico City Wild Wings | 15 - 7 | Philly Pies | 
 | 4 | 90 | Baltimore Crabs | 15 - 8 | Philly Pies | 
 | 1 | 17 | Philly Pies | 14 - 0 | Miami Dalé | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 33 | Seattle Garages | 13 - 1 | Philly Pies | 
 | 2 | 70 | Hades Tigers | 13 - 2 | Philly Pies | 
 | 6 | 7 | Philly Pies | 13 - 2 | Yellowstone Magic | 
-| 6 | 12 | Charleston Shoe Thieves | 13 - 2 | Philly Pies | 
-| 6 | 40 | Philly Pies | 13 - 3 | Yellowstone Magic | 
 
 

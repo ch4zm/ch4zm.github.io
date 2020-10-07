@@ -27,10 +27,10 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 2 | 69 | Los Angeles Tacos | 5 - 2 | Dallas Steaks | 
 | 5 | 98 | Yellowstone Magic | 4 - 1 | Unlimited Tacos | 
 | 5 | 15 | San Francisco Lovers | 9 - 7 | Unlimited Tacos | 
+| 8 | 89 | Unlimited Tacos | 9 - 7 | Hellmouth Sunbeams | 
 | 1 | 9 | Chicago Firefighters | 7 - 5 | Los Angeles Tacos | 
 | 2 | 94 | Dallas Steaks | 7 - 5 | Los Angeles Tacos | 
 | 4 | 42 | New York Millennials | 6 - 4 | Unlimited Tacos | 
 | 5 | 96 | Chicago Firefighters | 6 - 4 | Unlimited Tacos | 
-| 1 | 32 | Chicago Firefighters | 5 - 3 | Los Angeles Tacos | 
 
 

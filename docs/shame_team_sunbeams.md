@@ -11,6 +11,7 @@ Shame games (games where the loser was shamed) for all time for team Sunbeams (n
 | 7 | 12 | Chicago Firefighters | 5 - 1 | Hellmouth Sunbeams | 
 | 7 | 7 | San Francisco Lovers | 14 - 11 | Hellmouth Sunbeams | 
 | 2 | 91 | Chicago Firefighters | 11 - 8 | Hellmouth Sunbeams | 
+| 8 | 64 | Hellmouth Sunbeams | 11 - 8 | Miami Dale | 
 | 7 | 88 | Hellmouth Sunbeams | 8 - 5 | Miami Dale | 
 | 2 | 79 | Mexico City Wild Wings | 7 - 4 | Hellmouth Sunbeams | 
 | 5 | 8 | Hades Tigers | 7 - 4 | Hellmouth Sunbeams | 
@@ -18,6 +19,7 @@ Shame games (games where the loser was shamed) for all time for team Sunbeams (n
 | 1 | 66 | Moab Sunbeams | 4 - 1 | Seattle Garages | 
 | 3 | 99 | Baltimore Crabs | 12 - 10 | Hellmouth Sunbeams | 
 | 3 | 79 | Baltimore Crabs | 10 - 8 | Hellmouth Sunbeams | 
+| 8 | 89 | Unlimited Tacos | 9 - 7 | Hellmouth Sunbeams | 
 | 1 | 88 | Houston Spies | 8 - 6 | Moab Sunbeams | 
 | 3 | 75 | Hades Tigers | 8 - 6 | Hellmouth Sunbeams | 
 | 7 | 43 | Boston Flowers | 8 - 6 | Hellmouth Sunbeams | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Sunbeams (n
 | 3 | 52 | Hellmouth Sunbeams | 5 - 3 | Philly Pies | 
 | 3 | 86 | Canada Moist Talkers | 5 - 3 | Hellmouth Sunbeams | 
 | 4 | 51 | Hellmouth Sunbeams | 5 - 3 | Baltimore Crabs | 
-| 5 | 19 | Hades Tigers | 5 - 3 | Hellmouth Sunbeams | 
-| 5 | 32 | Seattle Garages | 5 - 3 | Hellmouth Sunbeams | 
 
 

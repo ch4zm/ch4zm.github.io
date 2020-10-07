@@ -18,7 +18,7 @@ Winning streaks of 7 or more games for all teams versus all teams for season 2
 | Magic                          | 8          | 2          | 79, 80, 81, 82, 83, 84, 85, 86 |
 | Firefighters                   | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
 | Wild Wings                     | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
-| Jazz Hands                     | 7          | 2          | 57, 58, 59, 60, 61, 62, 63 |
+| Jazz Hands                     | 7          | 2          | 33, 37, 38, 39, 40, 41, 42 |
 | Tigers                         | 7          | 2          | 64, 65, 66, 67, 68, 69, 70 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
 
@@ -161,14 +161,14 @@ Winning streaks of 7 or more games for all teams versus all teams for season 2
 
 | 7 Game Winning Streak by the Jazz Hands |
 | ----- |
-| Season 2 Games 56, 57, 58, 59, 60, 61, 62 |
-| G1: Season 2 Game 57: Dalé 3  @  4 Jazz Hands |
-| G2: Season 2 Game 58: Garages 6  @  8 Jazz Hands |
-| G3: Season 2 Game 59: Garages 1  @  5 Jazz Hands |
-| G4: Season 2 Game 60: Garages 5  @  6 Jazz Hands |
-| G5: Season 2 Game 61: Jazz Hands 6  @  0 Sunbeams |
-| G6: Season 2 Game 62: Jazz Hands 4  @  3 Sunbeams |
-| G7: Season 2 Game 63: Jazz Hands 5  @  2 Sunbeams |
+| Season 2 Games 32, 36, 37, 38, 39, 40, 41 |
+| G1: Season 2 Game 33: Spies 1  @  6 Jazz Hands |
+| G2: Season 2 Game 37: Sunbeams 2  @  4 Jazz Hands |
+| G3: Season 2 Game 38: Sunbeams 4  @  9 Jazz Hands |
+| G4: Season 2 Game 39: Sunbeams 5  @  6 Jazz Hands |
+| G5: Season 2 Game 40: Jazz Hands 8  @  5 Garages |
+| G6: Season 2 Game 41: Jazz Hands 9  @  5 Garages |
+| G7: Season 2 Game 42: Jazz Hands 6  @  4 Garages |
 
 <br />
 

@@ -9,14 +9,12 @@ Losing streaks of 7 or more games for all teams versus all teams for season 3
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
-| Dalé                           | 12         | 3          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Crabs                          | 7          | 3          | 16, 17, 18, 19, 20, 21, 22 |
 | Flowers                        | 7          | 3          | 52, 53, 54, 55, 56, 57, 58 |
 | Jazz Hands                     | 7          | 3          | 56, 57, 58, 59, 60, 61, 62 |
 | Tacos                          | 7          | 3          | 62, 63, 64, 65, 66, 67, 68 |
-| Garages                        | 7          | 3          | 77, 78, 79, 80, 81, 82, 83 |
 | Tacos                          | 7          | 3          | 91, 92, 93, 94, 95, 96, 97 |
 
 
@@ -28,24 +26,6 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 7 or more games for all teams versus all teams for season 3
-
-| 12 Game Losing Streak by the Dalé |
-| ----- |
-| Season 3 Games 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 |
-| G1: Season 3 Game 7: Dalé 1  @  7 Jazz Hands |
-| G2: Season 3 Game 8: Dalé 3  @  5 Jazz Hands |
-| G3: Season 3 Game 9: Dalé 1  @  3 Jazz Hands |
-| G4: Season 3 Game 10: Sunbeams 7  @  5 Dalé |
-| G5: Season 3 Game 11: Sunbeams 3  @  1 Dalé |
-| G6: Season 3 Game 12: Sunbeams 11 @  5 Dalé |
-| G7: Season 3 Game 13: Jazz Hands 6  @  5 Dalé |
-| G8: Season 3 Game 14: Jazz Hands 10 @  3 Dalé |
-| G9: Season 3 Game 15: Jazz Hands 10 @  1 Dalé |
-| G10: Season 3 Game 16: Dalé 1  @  4 Millennials |
-| G11: Season 3 Game 17: Dalé 3  @  9 Millennials |
-| G12: Season 3 Game 18: Dalé 0  @  5 Millennials |
-
-<br />
 
 | 9 Game Losing Streak by the Firefighters |
 | ----- |
@@ -125,19 +105,6 @@ Losing streaks of 7 or more games for all teams versus all teams for season 3
 | G5: Season 3 Game 66: Tacos 3  @  4 Lovers |
 | G6: Season 3 Game 67: Tacos 3  @  9 Lovers |
 | G7: Season 3 Game 68: Tacos 1  @  4 Lovers |
-
-<br />
-
-| 7 Game Losing Streak by the Garages |
-| ----- |
-| Season 3 Games 76, 77, 78, 79, 80, 81, 82 |
-| G1: Season 3 Game 77: Garages 5  @  7 Spies |
-| G2: Season 3 Game 78: Garages 1  @  4 Spies |
-| G3: Season 3 Game 79: Garages 1  @  2 Dalé |
-| G4: Season 3 Game 80: Garages 0  @  9 Dalé |
-| G5: Season 3 Game 81: Garages 1  @  5 Dalé |
-| G6: Season 3 Game 82: Crabs 7  @  6 Garages |
-| G7: Season 3 Game 83: Crabs 7  @  2 Garages |
 
 <br />
 

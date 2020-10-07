@@ -1,5 +1,5 @@
 # All-Time Blowouts
-(Through season 7)
+(Through season 8)
 
 ## Summary
 
@@ -10,6 +10,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 8 | 19 | Charleston Shoe Thieves | 24 - 11 | Yellowstone Magic | 
 | 4 | 3 | Hawaii Fridays | 23 - 8 | Charleston Shoe Thieves | 
 | 3 | 96 | San Francisco Lovers | 23 - 12 | Kansas City Breath Mints | 
 | 4 | 17 | Yellowstone Magic | 22 - 7 | Charleston Shoe Thieves | 
@@ -24,6 +25,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 81 | San Francisco Lovers | 20 - 6 | Chicago Firefighters | 
 | 2 | 76 | Yellowstone Magic | 19 - 3 | Kansas City Breath Mints | 
 | 7 | 59 | Unlimited Tacos | 19 - 5 | Boston Flowers | 
+| 8 | 34 | Mexico City Wild Wings | 19 - 5 | Seattle Garages | 
 | 1 | 93 | Chicago Firefighters | 19 - 6 | San Francisco Lovers | 
 | 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
 | 7 | 89 | Hawaii Fridays | 19 - 8 | Charleston Shoe Thieves | 
@@ -32,8 +34,6 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 16 | Boston Flowers | 18 - 0 | Charleston Shoe Thieves | 
 | 4 | 69 | Yellowstone Magic | 18 - 1 | Hawaii Fridays | 
 | 7 | 91 | Hellmouth Sunbeams | 18 - 1 | Miami Dale | 
-| 2 | 96 | Canada Moist Talkers | 18 - 3 | Seattle Garages | 
-| 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
-| 2 | 78 | San Francisco Lovers | 18 - 4 | New York Millennials | 
+| 8 | 3 | Mexico City Wild Wings | 18 - 1 | Canada Moist Talkers | 
 
 

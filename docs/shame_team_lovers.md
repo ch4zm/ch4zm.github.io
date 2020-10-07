@@ -28,9 +28,9 @@ Shame games (games where the loser was shamed) for all time for team Lovers (not
 | 2 | 49 | San Francisco Lovers | 5 - 2 | Chicago Firefighters | 
 | 3 | 5 | Dallas Steaks | 5 - 2 | San Francisco Lovers | 
 | 7 | 79 | San Francisco Lovers | 5 - 2 | Miami Dale | 
+| 8 | 86 | Boston Flowers | 3 - 0 | San Francisco Lovers | 
 | 1 | 75 | Kansas City Breath Mints | 10 - 8 | San Francisco Lovers | 
 | 1 | 23 | San Francisco Lovers | 9 - 7 | Kansas City Breath Mints | 
 | 2 | 44 | San Francisco Lovers | 9 - 7 | Boston Flowers | 
-| 3 | 76 | Charleston Shoe Thieves | 9 - 7 | San Francisco Lovers | 
 
 

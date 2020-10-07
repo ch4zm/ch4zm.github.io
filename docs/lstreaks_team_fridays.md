@@ -1,5 +1,5 @@
 # Fridays Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -14,6 +14,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
 | Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
+| Fridays                        | 7          | 8          | 14, 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 6          | 3          | 1, 2, 3, 4, 5, 6 |
 | Fridays                        | 6          | 4          | 7, 8, 9, 10, 11, 12 |
 | Fridays                        | 6          | 4          | 52, 53, 54, 55, 56, 57 |
@@ -21,6 +22,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 6          | 6          | 4, 5, 6, 7, 8, 9 |
 | Fridays                        | 6          | 6          | 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 6          | 7          | 70, 71, 72, 73, 74, 75 |
+| Fridays                        | 6          | 8          | 69, 70, 71, 72, 73, 74 |
 | Fridays                        | 5          | 2          | 30, 31, 32, 33, 34 |
 | Fridays                        | 5          | 2          | 81, 82, 83, 84, 85 |
 | Fridays                        | 5          | 3          | 21, 22, 23, 24, 25 |
@@ -32,6 +34,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 5          | 7          | 35, 36, 37, 38, 39 |
 | Fridays                        | 5          | 7          | 44, 45, 46, 47, 48 |
 | Fridays                        | 5          | 7          | 63, 64, 65, 66, 67 |
+| Fridays                        | 5          | 8          | 82, 83, 84, 85, 86 |
 | Fridays                        | 4          | 1          | 87, 88, 89, 90 |
 | Fridays                        | 4          | 2          | 3, 4, 5, 6 |
 | Fridays                        | 4          | 2          | 14, 15, 16, 17 |
@@ -40,6 +43,8 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 4          | 6          | 63, 64, 65, 66 |
 | Fridays                        | 4          | 6          | 76, 77, 78, 79 |
 | Fridays                        | 4          | 7          | 14, 15, 16, 17 |
+| Fridays                        | 4          | 8          | 5, 6, 7, 8 |
+| Fridays                        | 4          | 8          | 88, 89, 90, 91 |
 
 
 
@@ -109,6 +114,19 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G5: Season 6 Game 93: Fridays 1  @  4 Garages |
 | G6: Season 6 Game 94: Fridays 2  @  6 Wild Wings |
 | G7: Season 6 Game 95: Fridays 3  @  4 Wild Wings |
+
+<br />
+
+| 7 Game Losing Streak by the Fridays |
+| ----- |
+| Season 8 Games 13, 14, 15, 16, 17, 18, 19 |
+| G1: Season 8 Game 14: Breath Mints 9  @  1 Fridays |
+| G2: Season 8 Game 15: Breath Mints 2  @  1 Fridays |
+| G3: Season 8 Game 16: Fridays 3  @  4 Wild Wings |
+| G4: Season 8 Game 17: Fridays 1  @  6 Wild Wings |
+| G5: Season 8 Game 18: Fridays 1  @  3 Wild Wings |
+| G6: Season 8 Game 19: Wild Wings 12 @  4 Fridays |
+| G7: Season 8 Game 20: Wild Wings 9  @  4 Fridays |
 
 <br />
 
@@ -193,6 +211,18 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G4: Season 7 Game 73: Fridays 6  @  7 Magic |
 | G5: Season 7 Game 74: Fridays 2  @  6 Magic |
 | G6: Season 7 Game 75: Fridays 7  @ 10 Magic |
+
+<br />
+
+| 6 Game Losing Streak by the Fridays |
+| ----- |
+| Season 8 Games 68, 69, 70, 71, 72, 73 |
+| G1: Season 8 Game 69: Fridays 7  @  8 Shoe Thieves |
+| G2: Season 8 Game 70: Pies 4  @  0 Fridays |
+| G3: Season 8 Game 71: Pies 10 @  4 Fridays |
+| G4: Season 8 Game 72: Pies 5  @  4 Fridays |
+| G5: Season 8 Game 73: Fridays 1  @  4 Pies |
+| G6: Season 8 Game 74: Fridays 2  @  4 Pies |
 
 <br />
 
@@ -317,6 +347,17 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Fridays |
+| ----- |
+| Season 8 Games 81, 82, 83, 84, 85 |
+| G1: Season 8 Game 82: Tigers 9  @  3 Fridays |
+| G2: Season 8 Game 83: Tigers 5  @  2 Fridays |
+| G3: Season 8 Game 84: Tigers 9  @  3 Fridays |
+| G4: Season 8 Game 85: Fridays 4  @  9 Steaks |
+| G5: Season 8 Game 86: Fridays 2  @  5 Steaks |
+
+<br />
+
 | 4 Game Losing Streak by the Fridays |
 | ----- |
 | Season 1 Games 86, 87, 88, 89 |
@@ -394,6 +435,26 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G2: Season 7 Game 15: Millennials 4  @  2 Fridays |
 | G3: Season 7 Game 16: Pies 4  @  3 Fridays |
 | G4: Season 7 Game 17: Pies 13 @  8 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 8 Games 4, 5, 6, 7 |
+| G1: Season 8 Game 5: Fridays 3  @  6 Magic |
+| G2: Season 8 Game 6: Fridays 2  @  3 Magic |
+| G3: Season 8 Game 7: Shoe Thieves 7  @  3 Fridays |
+| G4: Season 8 Game 8: Shoe Thieves 4  @  2 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 8 Games 87, 88, 89, 90 |
+| G1: Season 8 Game 88: Pies 4  @  1 Fridays |
+| G2: Season 8 Game 89: Pies 4  @  2 Fridays |
+| G3: Season 8 Game 90: Pies 9  @  4 Fridays |
+| G4: Season 8 Game 91: Garages 8  @  6 Fridays |
 
 
 

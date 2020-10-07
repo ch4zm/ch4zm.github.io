@@ -15,12 +15,14 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
 | 4 | 60 | San Francisco Lovers | 15 - 6 | Unlimited Tacos | 
 | 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
+| 8 | 66 | Houston Spies | 14 - 0 | Unlimited Tacos | 
 | 4 | 15 | Chicago Firefighters | 14 - 3 | Unlimited Tacos | 
 | 6 | 98 | Unlimited Tacos | 14 - 4 | Hellmouth Sunbeams | 
 | 5 | 64 | New York Millennials | 14 - 5 | Unlimited Tacos | 
 | 4 | 10 | Kansas City Breath Mints | 14 - 6 | Unlimited Tacos | 
 | 5 | 60 | Boston Flowers | 14 - 12 | Unlimited Tacos | 
 | 4 | 90 | Chicago Firefighters | 13 - 1 | Unlimited Tacos | 
+| 8 | 60 | Houston Spies | 13 - 1 | Unlimited Tacos | 
 | 5 | 65 | New York Millennials | 13 - 2 | Unlimited Tacos | 
 | 1 | 89 | Los Angeles Tacos | 13 - 3 | Kansas City Breath Mints | 
 | 3 | 99 | Los Angeles Tacos | 13 - 5 | Dallas Steaks | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 25 | San Francisco Lovers | 12 - 1 | Unlimited Tacos | 
 | 5 | 39 | Chicago Firefighters | 12 - 1 | Unlimited Tacos | 
 | 6 | 82 | Seattle Garages | 12 - 1 | Unlimited Tacos | 
-| 1 | 69 | Los Angeles Tacos | 12 - 2 | San Francisco Lovers | 
-| 2 | 74 | Los Angeles Tacos | 12 - 2 | Hawaii Fridays | 
 
 

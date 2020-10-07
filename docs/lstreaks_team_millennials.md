@@ -1,5 +1,5 @@
 # Millennials Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -11,8 +11,10 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Millennials                    | 8          | 8          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Millennials                    | 7          | 1          | 15, 16, 17, 18, 19, 20, 21 |
 | Millennials                    | 7          | 2          | 37, 38, 39, 40, 41, 42, 43 |
+| Millennials                    | 7          | 8          | 6, 7, 8, 9, 10, 11, 12 |
 | Millennials                    | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Millennials                    | 6          | 2          | 90, 91, 92, 93, 94, 95 |
 | Millennials                    | 6          | 7          | 1, 2, 3, 4, 5, 6 |
@@ -28,6 +30,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 4          | 5          | 45, 46, 47, 48 |
 | Millennials                    | 4          | 7          | 17, 18, 19, 20 |
 | Millennials                    | 4          | 7          | 32, 33, 34, 35 |
+| Millennials                    | 4          | 8          | 14, 15, 16, 17 |
 
 
 
@@ -54,6 +57,20 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 
 <br />
 
+| 8 Game Losing Streak by the Millennials |
+| ----- |
+| Season 8 Games 45, 46, 47, 48, 49, 50, 51, 52 |
+| G1: Season 8 Game 46: Millennials 8  @  9 Lovers |
+| G2: Season 8 Game 47: Millennials 5  @ 10 Lovers |
+| G3: Season 8 Game 48: Millennials 7  @  8 Lovers |
+| G4: Season 8 Game 49: Millennials 6  @  7 Flowers |
+| G5: Season 8 Game 50: Millennials 2  @  4 Flowers |
+| G6: Season 8 Game 51: Millennials -1 @  7 Flowers |
+| G7: Season 8 Game 52: Spies 10 @  4 Millennials |
+| G8: Season 8 Game 53: Spies 7  @  2 Millennials |
+
+<br />
+
 | 7 Game Losing Streak by the Millennials |
 | ----- |
 | Season 1 Games 14, 15, 16, 17, 18, 19, 20 |
@@ -77,6 +94,19 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G5: Season 2 Game 41: Tacos 8  @  1 Millennials |
 | G6: Season 2 Game 42: Tacos 6  @  5 Millennials |
 | G7: Season 2 Game 43: Millennials 7  @  8 Firefighters |
+
+<br />
+
+| 7 Game Losing Streak by the Millennials |
+| ----- |
+| Season 8 Games 5, 6, 7, 8, 9, 10, 11 |
+| G1: Season 8 Game 6: Flowers 11 @  6 Millennials |
+| G2: Season 8 Game 7: Crabs 4  @  2 Millennials |
+| G3: Season 8 Game 8: Crabs 4  @  0 Millennials |
+| G4: Season 8 Game 9: Crabs 9  @  5 Millennials |
+| G5: Season 8 Game 10: Dale 3  @  1 Millennials |
+| G6: Season 8 Game 11: Dale 9  @  7 Millennials |
+| G7: Season 8 Game 12: Dale 5  @  2 Millennials |
 
 <br />
 
@@ -238,6 +268,16 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G2: Season 7 Game 33: Firefighters 5  @  3 Millennials |
 | G3: Season 7 Game 34: Millennials 1  @  8 Tacos |
 | G4: Season 7 Game 35: Millennials 1  @  2 Tacos |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 8 Games 13, 14, 15, 16 |
+| G1: Season 8 Game 14: Jazz Hands 3  @  0 Millennials |
+| G2: Season 8 Game 15: Jazz Hands 5  @  3 Millennials |
+| G3: Season 8 Game 16: Crabs 11 @  6 Millennials |
+| G4: Season 8 Game 17: Crabs 12 @  3 Millennials |
 
 
 

@@ -31,6 +31,6 @@ Maxed out games (high-scoring one-run games) for all time for team Flowers (note
 | 5 | 49 | New York Millennials | 2 - 1 | Boston Flowers | 
 | 5 | 52 | Boston Flowers | 2 - 1 | Miami Dalé | 
 | 6 | 78 | Boston Flowers | 2 - 1 | Unlimited Tacos | 
-| 1 | 37 | Kansas City Breath Mints | 3 - 2 | Boston Flowers | 
+| 8 | 9 | Boston Flowers | 2 - 1 | Houston Spies | 
 
 

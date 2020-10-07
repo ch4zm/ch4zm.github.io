@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,24 +10,22 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Wild Wings                     | 11         | 4          | 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20 |
 | Wild Wings                     | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
-| Wild Wings                     | 7          | 2          | 48, 49, 50, 51, 52, 53, 54 |
-| Wild Wings                     | 7          | 4          | 6, 7, 8, 9, 10, 11, 12 |
+| Wild Wings                     | 7          | 8          | 41, 42, 43, 44, 45, 46, 47 |
 | Wild Wings                     | 6          | 3          | 9, 10, 11, 12, 13, 14 |
 | Wild Wings                     | 6          | 3          | 43, 44, 45, 46, 47, 48 |
+| Wild Wings                     | 6          | 8          | 83, 84, 85, 86, 87, 88 |
 | Wild Wings                     | 5          | 1          | 55, 56, 57, 58, 59 |
-| Wild Wings                     | 5          | 3          | 74, 75, 76, 77, 78 |
-| Wild Wings                     | 5          | 4          | 16, 17, 18, 19, 20 |
 | Wild Wings                     | 5          | 4          | 76, 77, 78, 79, 88 |
 | Wild Wings                     | 5          | 6          | 28, 29, 30, 31, 32 |
 | Wild Wings                     | 5          | 6          | 54, 55, 56, 57, 58 |
 | Wild Wings                     | 5          | 7          | 45, 46, 47, 48, 49 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
-| Wild Wings                     | 4          | 1          | 76, 77, 78, 79 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
 | Wild Wings                     | 4          | 1          | 93, 94, 95, 96 |
-| Wild Wings                     | 4          | 2          | 7, 8, 9, 10 |
 | Wild Wings                     | 4          | 2          | 14, 15, 16, 17 |
+| Wild Wings                     | 4          | 2          | 45, 52, 53, 54 |
 | Wild Wings                     | 4          | 2          | 66, 67, 68, 69 |
 | Wild Wings                     | 4          | 3          | 16, 17, 18, 19 |
 | Wild Wings                     | 4          | 3          | 34, 35, 36, 37 |
@@ -48,6 +46,23 @@ Note: all days and seasons displayed are 1-indexed.
 
 Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
+| 11 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 4 Games 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19 |
+| G1: Season 4 Game 7: Wild Wings 1  @  3 Garages |
+| G2: Season 4 Game 8: Wild Wings 1  @  4 Garages |
+| G3: Season 4 Game 9: Wild Wings 4  @ 10 Garages |
+| G4: Season 4 Game 10: Wild Wings 1  @  6 Crabs |
+| G5: Season 4 Game 11: Wild Wings 2  @  3 Crabs |
+| G6: Season 4 Game 12: Wild Wings 5  @  6 Crabs |
+| G7: Season 4 Game 16: Tigers 18 @  8 Wild Wings |
+| G8: Season 4 Game 17: Tigers 6  @  2 Wild Wings |
+| G9: Season 4 Game 18: Tigers 10 @  4 Wild Wings |
+| G10: Season 4 Game 19: Sunbeams 10 @  7 Wild Wings |
+| G11: Season 4 Game 20: Sunbeams 6  @  4 Wild Wings |
+
+<br />
+
 | 8 Game Losing Streak by the Wild Wings |
 | ----- |
 | Season 5 Games 45, 46, 47, 48, 49, 50, 51, 52 |
@@ -64,27 +79,14 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 7 Game Losing Streak by the Wild Wings |
 | ----- |
-| Season 2 Games 47, 48, 49, 50, 51, 52, 53 |
-| G1: Season 2 Game 48: Wild Wings 6  @  8 Dalé |
-| G2: Season 2 Game 49: Dalé 5  @  1 Wild Wings |
-| G3: Season 2 Game 50: Dalé 4  @  2 Wild Wings |
-| G4: Season 2 Game 51: Dalé 5  @  4 Wild Wings |
-| G5: Season 2 Game 52: Wild Wings 4  @  9 Pies |
-| G6: Season 2 Game 53: Wild Wings 2  @  5 Pies |
-| G7: Season 2 Game 54: Wild Wings 1  @  3 Pies |
-
-<br />
-
-| 7 Game Losing Streak by the Wild Wings |
-| ----- |
-| Season 4 Games 5, 6, 7, 8, 9, 10, 11 |
-| G1: Season 4 Game 6: Dalé 5  @  1 Wild Wings |
-| G2: Season 4 Game 7: Wild Wings 1  @  3 Garages |
-| G3: Season 4 Game 8: Wild Wings 1  @  4 Garages |
-| G4: Season 4 Game 9: Wild Wings 4  @ 10 Garages |
-| G5: Season 4 Game 10: Wild Wings 1  @  6 Crabs |
-| G6: Season 4 Game 11: Wild Wings 2  @  3 Crabs |
-| G7: Season 4 Game 12: Wild Wings 5  @  6 Crabs |
+| Season 8 Games 40, 41, 42, 43, 44, 45, 46 |
+| G1: Season 8 Game 41: Fridays 5  @  2 Wild Wings |
+| G2: Season 8 Game 42: Fridays 6  @  2 Wild Wings |
+| G3: Season 8 Game 43: Tigers 6  @  1 Wild Wings |
+| G4: Season 8 Game 44: Tigers 7  @  1 Wild Wings |
+| G5: Season 8 Game 45: Tigers 9  @  0 Wild Wings |
+| G6: Season 8 Game 46: Wild Wings 1  @  3 Shoe Thieves |
+| G7: Season 8 Game 47: Wild Wings 0  @  7 Shoe Thieves |
 
 <br />
 
@@ -112,6 +114,18 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 8 Games 82, 83, 84, 85, 86, 87 |
+| G1: Season 8 Game 83: Steaks 12 @  3 Wild Wings |
+| G2: Season 8 Game 84: Steaks 5  @  1 Wild Wings |
+| G3: Season 8 Game 85: Wild Wings 0  @  1 Shoe Thieves |
+| G4: Season 8 Game 86: Wild Wings 2  @ 12 Shoe Thieves |
+| G5: Season 8 Game 87: Wild Wings 4  @  5 Shoe Thieves |
+| G6: Season 8 Game 88: Garages 2  @  1 Wild Wings |
+
+<br />
+
 | 5 Game Losing Streak by the Wild Wings |
 | ----- |
 | Season 1 Games 54, 55, 56, 57, 58 |
@@ -120,28 +134,6 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 1 Game 57: Pies 12 @  3 Wild Wings |
 | G4: Season 1 Game 58: Sunbeams 4  @  1 Wild Wings |
 | G5: Season 1 Game 59: Sunbeams 13 @  6 Wild Wings |
-
-<br />
-
-| 5 Game Losing Streak by the Wild Wings |
-| ----- |
-| Season 3 Games 73, 74, 75, 76, 77 |
-| G1: Season 3 Game 74: Wild Wings 1  @  3 Moist Talkers |
-| G2: Season 3 Game 75: Wild Wings 1  @  2 Moist Talkers |
-| G3: Season 3 Game 76: Wild Wings 2  @  4 Dalé |
-| G4: Season 3 Game 77: Wild Wings 6  @  7 Dalé |
-| G5: Season 3 Game 78: Wild Wings 6  @ 10 Dalé |
-
-<br />
-
-| 5 Game Losing Streak by the Wild Wings |
-| ----- |
-| Season 4 Games 15, 16, 17, 18, 19 |
-| G1: Season 4 Game 16: Tigers 18 @  8 Wild Wings |
-| G2: Season 4 Game 17: Tigers 6  @  2 Wild Wings |
-| G3: Season 4 Game 18: Tigers 10 @  4 Wild Wings |
-| G4: Season 4 Game 19: Sunbeams 10 @  7 Wild Wings |
-| G5: Season 4 Game 20: Sunbeams 6  @  4 Wild Wings |
 
 <br />
 
@@ -201,16 +193,6 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 4 Game Losing Streak by the Wild Wings |
 | ----- |
-| Season 1 Games 75, 76, 77, 78 |
-| G1: Season 1 Game 76: Dalé 1  @  0 Wild Wings |
-| G2: Season 1 Game 77: Dalé 7  @  5 Wild Wings |
-| G3: Season 1 Game 78: Dalé 8  @  1 Wild Wings |
-| G4: Season 1 Game 79: Tigers 3  @  2 Wild Wings |
-
-<br />
-
-| 4 Game Losing Streak by the Wild Wings |
-| ----- |
 | Season 1 Games 85, 86, 87, 88 |
 | G1: Season 1 Game 86: Wild Wings 2  @ 12 Jazz Hands |
 | G2: Season 1 Game 87: Wild Wings 1  @  4 Jazz Hands |
@@ -231,21 +213,21 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 4 Game Losing Streak by the Wild Wings |
 | ----- |
-| Season 2 Games 6, 7, 8, 9 |
-| G1: Season 2 Game 7: Wild Wings 2  @  3 Crabs |
-| G2: Season 2 Game 8: Wild Wings 3  @  4 Crabs |
-| G3: Season 2 Game 9: Wild Wings 7  @  8 Crabs |
-| G4: Season 2 Game 10: Wild Wings 3  @  6 Dalé |
-
-<br />
-
-| 4 Game Losing Streak by the Wild Wings |
-| ----- |
 | Season 2 Games 13, 14, 15, 16 |
 | G1: Season 2 Game 14: Tigers 8  @  2 Wild Wings |
 | G2: Season 2 Game 15: Tigers 7  @  5 Wild Wings |
 | G3: Season 2 Game 16: Jazz Hands 13 @ 11 Wild Wings |
 | G4: Season 2 Game 17: Jazz Hands 9  @  5 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 2 Games 44, 51, 52, 53 |
+| G1: Season 2 Game 45: Sunbeams 5  @  4 Wild Wings |
+| G2: Season 2 Game 52: Wild Wings 4  @  9 Pies |
+| G3: Season 2 Game 53: Wild Wings 2  @  5 Pies |
+| G4: Season 2 Game 54: Wild Wings 1  @  3 Pies |
 
 <br />
 

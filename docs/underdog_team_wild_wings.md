@@ -10,6 +10,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 82 | Seattle Garages (44%) | 14 - 0 | Mexico City Wild Wings (56%) | 
 | 1 | 86 | Breckenridge Jazz Hands (45%) | 12 - 2 | Mexico City Wild Wings (55%) | 
 | 7 | 41 | Hawaii Fridays (44%) | 12 - 3 | Mexico City Wild Wings (56%) | 
+| 8 | 83 | Dallas Steaks (40%) | 12 - 3 | Mexico City Wild Wings (60%) | 
 | 1 | 35 | Hades Tigers (43%) | 11 - 2 | Mexico City Wild Wings (57%) | 
 | 3 | 42 | Mexico City Wild Wings (44%) | 10 - 2 | Breckenridge Jazz Hands (56%) | 
 | 2 | 67 | Hades Tigers (46%) | 8 - 0 | Mexico City Wild Wings (54%) | 
@@ -23,14 +24,13 @@ Underdog games (games where the underdog won with large run differential) for al
 | 7 | 30 | Hawaii Fridays (44%) | 10 - 4 | Mexico City Wild Wings (56%) | 
 | 4 | 42 | Baltimore Crabs (40%) | 9 - 3 | Mexico City Wild Wings (60%) | 
 | 6 | 19 | Philly Pies (38%) | 9 - 3 | Mexico City Wild Wings (62%) | 
+| 8 | 13 | Canada Moist Talkers (31%) | 9 - 3 | Mexico City Wild Wings (69%) | 
 | 6 | 37 | Mexico City Wild Wings (42%) | 8 - 2 | Yellowstone Magic (58%) | 
 | 7 | 77 | Dallas Steaks (39%) | 8 - 2 | Mexico City Wild Wings (61%) | 
 | 6 | 85 | Charleston Shoe Thieves (31%) | 7 - 1 | Mexico City Wild Wings (69%) | 
+| 8 | 36 | Mexico City Wild Wings (44%) | 7 - 1 | Seattle Garages (56%) | 
+| 8 | 61 | Yellowstone Magic (42%) | 6 - 0 | Mexico City Wild Wings (58%) | 
+| 8 | 73 | Yellowstone Magic (46%) | 6 - 0 | Mexico City Wild Wings (54%) | 
 | 3 | 67 | Hellmouth Sunbeams (45%) | 10 - 5 | Mexico City Wild Wings (55%) | 
-| 6 | 22 | Mexico City Wild Wings (43%) | 10 - 5 | Philly Pies (57%) | 
-| 1 | 67 | Seattle Garages (46%) | 9 - 4 | Mexico City Wild Wings (54%) | 
-| 3 | 57 | Houston Spies (42%) | 9 - 4 | Mexico City Wild Wings (58%) | 
-| 3 | 82 | Houston Spies (40%) | 9 - 4 | Mexico City Wild Wings (60%) | 
-| 4 | 43 | Hellmouth Sunbeams (39%) | 9 - 4 | Mexico City Wild Wings (61%) | 
 
 

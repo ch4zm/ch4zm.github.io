@@ -14,6 +14,7 @@ Maxed out games (high-scoring one-run games) for all time for team Steaks (note:
 | 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
 | 5 | 81 | Yellowstone Magic | 1 - 0 | Dallas Steaks | 
 | 6 | 65 | Dallas Steaks | 1 - 0 | Seattle Garages | 
+| 8 | 60 | Dallas Steaks | 1 - 0 | Philly Pies | 
 | 1 | 31 | Dallas Steaks | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 59 | Boston Flowers | 2 - 1 | Dallas Steaks | 
 | 1 | 81 | Boston Flowers | 2 - 1 | Dallas Steaks | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Steaks (note:
 | 5 | 63 | Unlimited Tacos | 2 - 1 | Dallas Steaks | 
 | 5 | 83 | Dallas Steaks | 2 - 1 | San Francisco Lovers | 
 | 6 | 18 | Dallas Steaks | 2 - 1 | Hellmouth Sunbeams | 
-| 6 | 50 | Dallas Steaks | 2 - 1 | Hawaii Fridays | 
 
 

@@ -14,6 +14,7 @@ Shame games (games where the loser was shamed) for all time for team Shoe Thieve
 | 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
 | 2 | 14 | Charleston Shoe Thieves | 10 - 6 | Yellowstone Magic | 
 | 2 | 66 | Hawaii Fridays | 9 - 5 | Charleston Shoe Thieves | 
+| 8 | 9 | Hawaii Fridays | 9 - 5 | Charleston Shoe Thieves | 
 | 5 | 10 | Hawaii Fridays | 8 - 4 | Charleston Shoe Thieves | 
 | 6 | 20 | San Francisco Lovers | 12 - 9 | Charleston Shoe Thieves | 
 | 2 | 55 | Boston Flowers | 11 - 8 | Charleston Shoe Thieves | 
@@ -23,14 +24,13 @@ Shame games (games where the loser was shamed) for all time for team Shoe Thieve
 | 1 | 38 | Yellowstone Magic | 11 - 9 | Charleston Shoe Thieves | 
 | 3 | 76 | Charleston Shoe Thieves | 9 - 7 | San Francisco Lovers | 
 | 5 | 85 | Dallas Steaks | 9 - 7 | Charleston Shoe Thieves | 
+| 8 | 71 | Dallas Steaks | 9 - 7 | Charleston Shoe Thieves | 
 | 1 | 66 | Charleston Shoe Thieves | 8 - 6 | New York Millennials | 
 | 3 | 30 | Charleston Shoe Thieves | 8 - 6 | New York Millennials | 
 | 7 | 85 | Yellowstone Magic | 8 - 6 | Charleston Shoe Thieves | 
 | 2 | 40 | Dallas Steaks | 7 - 5 | Charleston Shoe Thieves | 
 | 3 | 64 | Charleston Shoe Thieves | 7 - 5 | New York Millennials | 
-| 1 | 81 | Charleston Shoe Thieves | 6 - 4 | Hawaii Fridays | 
-| 2 | 11 | Dallas Steaks | 6 - 4 | Charleston Shoe Thieves | 
-| 3 | 97 | Charleston Shoe Thieves | 6 - 4 | Hawaii Fridays | 
-| 2 | 98 | Chicago Firefighters | 5 - 3 | Charleston Shoe Thieves | 
+| 8 | 39 | Mexico City Wild Wings | 7 - 5 | Charleston Shoe Thieves | 
+| 8 | 65 | Seattle Garages | 7 - 5 | Charleston Shoe Thieves | 
 
 

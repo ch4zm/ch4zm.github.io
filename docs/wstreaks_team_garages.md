@@ -1,5 +1,5 @@
 # Garages Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -10,9 +10,10 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Garages                        | 11         | 8          | 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67 |
+| Garages                        | 9          | 8          | 8, 9, 10, 11, 12, 13, 14, 15, 16 |
 | Garages                        | 7          | 6          | 99, 100, 101, 102, 105, 106, 107 |
 | Garages                        | 6          | 1          | 60, 61, 62, 63, 64, 65 |
-| Garages                        | 6          | 2          | 29, 30, 31, 32, 33, 34 |
 | Garages                        | 6          | 5          | 89, 90, 91, 92, 93, 94 |
 | Garages                        | 5          | 2          | 78, 79, 80, 81, 82 |
 | Garages                        | 5          | 3          | 56, 57, 58, 59, 60 |
@@ -26,7 +27,6 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 5          | 7          | 33, 34, 35, 36, 37 |
 | Garages                        | 4          | 2          | 36, 37, 38, 39 |
 | Garages                        | 4          | 3          | 49, 50, 51, 52 |
-| Garages                        | 4          | 4          | 36, 37, 38, 39 |
 | Garages                        | 4          | 4          | 72, 73, 74, 75 |
 | Garages                        | 4          | 4          | 94, 95, 96, 97 |
 | Garages                        | 4          | 5          | 71, 72, 73, 74 |
@@ -34,6 +34,7 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 7          | 28, 29, 30, 31 |
 | Garages                        | 4          | 7          | 70, 71, 72, 73 |
 | Garages                        | 4          | 7          | 97, 98, 99, 100 |
+| Garages                        | 4          | 8          | 30, 31, 32, 33 |
 
 
 
@@ -44,6 +45,38 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Garages versus all teams for all time
+
+| 11 Game Winning Streak by the Garages |
+| ----- |
+| Season 8 Games 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 |
+| G1: Season 8 Game 57: Steaks 4  @  8 Garages |
+| G2: Season 8 Game 58: Breath Mints 5  @  8 Garages |
+| G3: Season 8 Game 59: Breath Mints 1  @  2 Garages |
+| G4: Season 8 Game 60: Breath Mints 2  @  3 Garages |
+| G5: Season 8 Game 61: Garages 9  @  5 Firefighters |
+| G6: Season 8 Game 62: Garages 9  @  6 Firefighters |
+| G7: Season 8 Game 63: Garages 5  @  0 Firefighters |
+| G8: Season 8 Game 64: Shoe Thieves 4  @ 10 Garages |
+| G9: Season 8 Game 65: Shoe Thieves 5  @  7 Garages |
+| G10: Season 8 Game 66: Shoe Thieves 3  @  6 Garages |
+| G11: Season 8 Game 67: Pies 1  @  9 Garages |
+
+<br />
+
+| 9 Game Winning Streak by the Garages |
+| ----- |
+| Season 8 Games 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| G1: Season 8 Game 8: Breath Mints 2  @  5 Garages |
+| G2: Season 8 Game 9: Breath Mints 4  @  7 Garages |
+| G3: Season 8 Game 10: Breath Mints 4  @  5 Garages |
+| G4: Season 8 Game 11: Breath Mints 3  @ 10 Garages |
+| G5: Season 8 Game 12: Breath Mints 3  @  8 Garages |
+| G6: Season 8 Game 13: Magic 1  @  4 Garages |
+| G7: Season 8 Game 14: Magic 7  @  8 Garages |
+| G8: Season 8 Game 15: Magic 0  @  1 Garages |
+| G9: Season 8 Game 16: Garages 4  @  3 Pies |
+
+<br />
 
 | 7 Game Winning Streak by the Garages |
 | ----- |
@@ -67,18 +100,6 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G4: Season 1 Game 63: Pies 3  @  8 Garages |
 | G5: Season 1 Game 64: Garages 3  @  2 Sunbeams |
 | G6: Season 1 Game 65: Garages 4  @  1 Sunbeams |
-
-<br />
-
-| 6 Game Winning Streak by the Garages |
-| ----- |
-| Season 2 Games 28, 29, 30, 31, 32, 33 |
-| G1: Season 2 Game 29: Jazz Hands 2  @  7 Garages |
-| G2: Season 2 Game 30: Jazz Hands 2  @  8 Garages |
-| G3: Season 2 Game 31: Garages 1  @  0 Dalé |
-| G4: Season 2 Game 32: Garages 4  @  3 Dalé |
-| G5: Season 2 Game 33: Garages 4  @  3 Dalé |
-| G6: Season 2 Game 34: Crabs 2  @  3 Garages |
 
 <br />
 
@@ -226,16 +247,6 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 | 4 Game Winning Streak by the Garages |
 | ----- |
-| Season 4 Games 35, 36, 37, 38 |
-| G1: Season 4 Game 36: Dalé 1  @  2 Garages |
-| G2: Season 4 Game 37: Moist Talkers 6  @  8 Garages |
-| G3: Season 4 Game 38: Moist Talkers 4  @  5 Garages |
-| G4: Season 4 Game 39: Moist Talkers 4  @  5 Garages |
-
-<br />
-
-| 4 Game Winning Streak by the Garages |
-| ----- |
 | Season 4 Games 71, 72, 73, 74 |
 | G1: Season 4 Game 72: Moist Talkers 2  @  5 Garages |
 | G2: Season 4 Game 73: Pies 2  @  7 Garages |
@@ -301,6 +312,16 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 7 Game 98: Fridays 2  @  3 Garages |
 | G3: Season 7 Game 99: Fridays 2  @  4 Garages |
 | G4: Season 7 Game 100: Garages 5  @  3 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 8 Games 29, 30, 31, 32 |
+| G1: Season 8 Game 30: Pies 1  @  2 Garages |
+| G2: Season 8 Game 31: Garages 7  @  6 Shoe Thieves |
+| G3: Season 8 Game 32: Garages 8  @  4 Shoe Thieves |
+| G4: Season 8 Game 33: Garages 2  @  1 Shoe Thieves |
 
 
 

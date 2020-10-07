@@ -24,6 +24,8 @@
 
 * [Season 7 Shutouts](shutouts_season7.md)
 
+* [Season 8 Shutouts](shutouts_season8.md)
+
 ## By Team
 
 * [Breath Mints Shutouts Summary](shutouts_team_breath_mints.md)

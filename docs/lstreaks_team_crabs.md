@@ -1,5 +1,5 @@
 # Crabs Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,20 +12,20 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Crabs                          | 8          | 1          | 80, 81, 82, 83, 84, 85, 86, 87 |
 | Crabs                          | 7          | 1          | 32, 33, 34, 35, 36, 37, 38 |
-| Crabs                          | 7          | 2          | 36, 37, 38, 39, 40, 41, 42 |
 | Crabs                          | 7          | 3          | 16, 17, 18, 19, 20, 21, 22 |
 | Crabs                          | 6          | 2          | 1, 2, 3, 4, 5, 6 |
 | Crabs                          | 5          | 1          | 60, 61, 62, 63, 64 |
 | Crabs                          | 5          | 1          | 66, 67, 68, 69, 70 |
+| Crabs                          | 5          | 2          | 75, 79, 80, 81, 85 |
 | Crabs                          | 5          | 2          | 94, 95, 96, 97, 98 |
 | Crabs                          | 5          | 4          | 77, 78, 79, 88, 89 |
 | Crabs                          | 4          | 1          | 2, 3, 4, 5 |
 | Crabs                          | 4          | 1          | 17, 18, 19, 20 |
+| Crabs                          | 4          | 1          | 24, 28, 29, 30 |
 | Crabs                          | 4          | 1          | 44, 45, 46, 47 |
 | Crabs                          | 4          | 1          | 72, 73, 74, 75 |
 | Crabs                          | 4          | 2          | 22, 23, 24, 25 |
-| Crabs                          | 4          | 4          | 67, 68, 69, 70 |
-| Crabs                          | 4          | 4          | 72, 73, 74, 75 |
+| Crabs                          | 4          | 2          | 36, 40, 41, 42 |
 | Crabs                          | 4          | 7          | 55, 56, 57, 58 |
 | Crabs                          | 4          | 7          | 95, 96, 97, 98 |
 
@@ -63,19 +63,6 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | G5: Season 1 Game 36: Crabs 1  @  7 Moist Talkers |
 | G6: Season 1 Game 37: Crabs 1  @  7 Pies |
 | G7: Season 1 Game 38: Crabs 1  @  2 Pies |
-
-<br />
-
-| 7 Game Losing Streak by the Crabs |
-| ----- |
-| Season 2 Games 35, 36, 37, 38, 39, 40, 41 |
-| G1: Season 2 Game 36: Crabs 2  @  4 Garages |
-| G2: Season 2 Game 37: Crabs 2  @  3 Dalé |
-| G3: Season 2 Game 38: Crabs 3  @  5 Dalé |
-| G4: Season 2 Game 39: Crabs 2  @  5 Dalé |
-| G5: Season 2 Game 40: Pies 7  @  3 Crabs |
-| G6: Season 2 Game 41: Pies 3  @  2 Crabs |
-| G7: Season 2 Game 42: Pies 3  @  0 Crabs |
 
 <br />
 
@@ -128,6 +115,17 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 
 | 5 Game Losing Streak by the Crabs |
 | ----- |
+| Season 2 Games 74, 78, 79, 80, 84 |
+| G1: Season 2 Game 75: Wild Wings 4  @  2 Crabs |
+| G2: Season 2 Game 79: Tigers 7  @  3 Crabs |
+| G3: Season 2 Game 80: Tigers 4  @  1 Crabs |
+| G4: Season 2 Game 81: Tigers 5  @  1 Crabs |
+| G5: Season 2 Game 85: Crabs 3  @ 13 Tigers |
+
+<br />
+
+| 5 Game Losing Streak by the Crabs |
+| ----- |
 | Season 2 Games 93, 94, 95, 96, 97 |
 | G1: Season 2 Game 94: Pies 3  @  1 Crabs |
 | G2: Season 2 Game 95: Pies 4  @  0 Crabs |
@@ -170,6 +168,16 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 
 | 4 Game Losing Streak by the Crabs |
 | ----- |
+| Season 1 Games 23, 27, 28, 29 |
+| G1: Season 1 Game 24: Garages 7  @  3 Crabs |
+| G2: Season 1 Game 28: Crabs 0  @ 10 Jazz Hands |
+| G3: Season 1 Game 29: Crabs 4  @  8 Jazz Hands |
+| G4: Season 1 Game 30: Crabs 6  @ 10 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Crabs |
+| ----- |
 | Season 1 Games 43, 44, 45, 46 |
 | G1: Season 1 Game 44: Crabs 3  @  5 Wild Wings |
 | G2: Season 1 Game 45: Crabs 1  @  5 Wild Wings |
@@ -200,21 +208,11 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 
 | 4 Game Losing Streak by the Crabs |
 | ----- |
-| Season 4 Games 66, 67, 68, 69 |
-| G1: Season 4 Game 67: Crabs 7  @ 11 Dalé |
-| G2: Season 4 Game 68: Crabs 6  @  7 Dalé |
-| G3: Season 4 Game 69: Crabs 1  @  9 Dalé |
-| G4: Season 4 Game 70: Dalé 5  @  2 Crabs |
-
-<br />
-
-| 4 Game Losing Streak by the Crabs |
-| ----- |
-| Season 4 Games 71, 72, 73, 74 |
-| G1: Season 4 Game 72: Dalé 9  @  6 Crabs |
-| G2: Season 4 Game 73: Crabs 3  @  7 Tigers |
-| G3: Season 4 Game 74: Crabs 1  @  5 Tigers |
-| G4: Season 4 Game 75: Crabs 4  @  5 Tigers |
+| Season 2 Games 35, 39, 40, 41 |
+| G1: Season 2 Game 36: Crabs 2  @  4 Garages |
+| G2: Season 2 Game 40: Pies 7  @  3 Crabs |
+| G3: Season 2 Game 41: Pies 3  @  2 Crabs |
+| G4: Season 2 Game 42: Pies 3  @  0 Crabs |
 
 <br />
 

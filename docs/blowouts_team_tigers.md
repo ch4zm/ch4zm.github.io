@@ -8,12 +8,14 @@ Blowout games (games with high scores and high run differentials) for all time f
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 3 | 5 | Hades Tigers | 20 - 3 | Philly Pies | 
+| 8 | 48 | Hades Tigers | 18 - 2 | Seattle Garages | 
 | 7 | 16 | Seattle Garages | 18 - 4 | Hades Tigers | 
 | 4 | 16 | Hades Tigers | 18 - 8 | Mexico City Wild Wings | 
 | 3 | 94 | Hades Tigers | 17 - 1 | Canada Moist Talkers | 
 | 7 | 33 | Hades Tigers | 16 - 2 | Canada Moist Talkers | 
 | 4 | 32 | Hades Tigers | 16 - 4 | Philly Pies | 
 | 6 | 103* | Hades Tigers | 16 - 6 | Kansas City Breath Mints | 
+| 8 | 73 | Hades Tigers | 16 - 8 | Dallas Steaks | 
 | 5 | 50 | Hades Tigers | 15 - 8 | Seattle Garages | 
 | 3 | 32 | Hades Tigers | 15 - 10 | Breckenridge Jazz Hands | 
 | 3 | 48 | Hades Tigers | 14 - 1 | Hellmouth Sunbeams | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 70 | Hades Tigers | 13 - 2 | Houston Spies | 
 | 7 | 88 | Hades Tigers | 13 - 2 | Dallas Steaks | 
 | 1 | 22 | Miami Dalé | 13 - 3 | Hades Tigers | 
-| 2 | 85 | Hades Tigers | 13 - 3 | Baltimore Crabs | 
-| 3 | 56 | Hellmouth Sunbeams | 13 - 5 | Hades Tigers | 
 
 

@@ -10,6 +10,7 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 7 | 16 | Mexico City Wild Wings | 11 - 10 | Canada Moist Talkers | 
 | 3 | 41 | Breckenridge Jazz Hands | 10 - 9 | Mexico City Wild Wings | 
 | 6 | 79 | Yellowstone Magic | 9 - 8 | Mexico City Wild Wings | 
+| 8 | 75 | Mexico City Wild Wings | 9 - 8 | Yellowstone Magic | 
 | 2 | 9 | Baltimore Crabs | 8 - 7 | Mexico City Wild Wings | 
 | 3 | 97 | Philly Pies | 8 - 7 | Mexico City Wild Wings | 
 | 4 | 14 | Miami Dalé | 8 - 7 | Mexico City Wild Wings | 
@@ -30,7 +31,6 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 7 | 46 | Yellowstone Magic | 7 - 6 | Mexico City Wild Wings | 
 | 7 | 61 | Mexico City Wild Wings | 7 - 6 | Hades Tigers | 
 | 7 | 69 | Mexico City Wild Wings | 7 - 6 | Yellowstone Magic | 
-| 1 | 31 | Seattle Garages | 6 - 5 | Mexico City Wild Wings | 
-| 1 | 51 | Mexico City Wild Wings | 6 - 5 | Canada Moist Talkers | 
+| 8 | 25 | Yellowstone Magic | 7 - 6 | Mexico City Wild Wings | 
 
 

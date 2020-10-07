@@ -1,5 +1,5 @@
 # Pies Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -18,22 +18,26 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 6          | 5          | 48, 49, 50, 51, 52, 53 |
 | Pies                           | 6          | 6          | 28, 29, 30, 31, 32, 33 |
 | Pies                           | 6          | 6          | 90, 91, 92, 93, 94, 95 |
-| Pies                           | 5          | 1          | 17, 18, 19, 20, 21 |
+| Pies                           | 6          | 8          | 79, 80, 81, 82, 83, 84 |
 | Pies                           | 5          | 2          | 71, 72, 73, 74, 75 |
 | Pies                           | 5          | 2          | 94, 95, 96, 97, 98 |
 | Pies                           | 5          | 4          | 17, 18, 19, 20, 21 |
 | Pies                           | 5          | 6          | 3, 4, 5, 6, 7 |
+| Pies                           | 5          | 8          | 70, 71, 72, 73, 74 |
 | Pies                           | 4          | 1          | 66, 67, 68, 69 |
 | Pies                           | 4          | 2          | 51, 52, 53, 54 |
 | Pies                           | 4          | 2          | 66, 67, 68, 69 |
 | Pies                           | 4          | 3          | 41, 42, 43, 44 |
+| Pies                           | 4          | 3          | 53, 54, 61, 62 |
 | Pies                           | 4          | 4          | 42, 43, 44, 45 |
 | Pies                           | 4          | 5          | 24, 25, 26, 27 |
 | Pies                           | 4          | 5          | 85, 86, 87, 88 |
 | Pies                           | 4          | 6          | 68, 69, 70, 71 |
 | Pies                           | 4          | 6          | 75, 76, 77, 78 |
-| Pies                           | 4          | 7          | 11, 12, 16, 17 |
 | Pies                           | 4          | 7          | 46, 47, 48, 49 |
+| Pies                           | 4          | 8          | 61, 62, 63, 64 |
+| Pies                           | 4          | 8          | 88, 89, 90, 91 |
+| Pies                           | 4          | 8          | 99, 100, 101, 102 |
 
 
 
@@ -145,14 +149,15 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
-| 5 Game Winning Streak by the Pies |
+| 6 Game Winning Streak by the Pies |
 | ----- |
-| Season 1 Games 16, 17, 18, 19, 20 |
-| G1: Season 1 Game 17: Pies 14 @  0 Dalé |
-| G2: Season 1 Game 18: Pies 10 @  7 Dalé |
-| G3: Season 1 Game 19: Millennials 4  @  7 Pies |
-| G4: Season 1 Game 20: Millennials 3  @  4 Pies |
-| G5: Season 1 Game 21: Millennials 1  @  6 Pies |
+| Season 8 Games 78, 79, 80, 81, 82, 83 |
+| G1: Season 8 Game 79: Pies 6  @  4 Breath Mints |
+| G2: Season 8 Game 80: Pies 4  @  0 Breath Mints |
+| G3: Season 8 Game 81: Pies 4  @  1 Breath Mints |
+| G4: Season 8 Game 82: Pies 10 @  3 Magic |
+| G5: Season 8 Game 83: Pies 6  @  4 Magic |
+| G6: Season 8 Game 84: Pies 10 @  2 Magic |
 
 <br />
 
@@ -200,6 +205,17 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 8 Games 69, 70, 71, 72, 73 |
+| G1: Season 8 Game 70: Pies 4  @  0 Fridays |
+| G2: Season 8 Game 71: Pies 10 @  4 Fridays |
+| G3: Season 8 Game 72: Pies 5  @  4 Fridays |
+| G4: Season 8 Game 73: Fridays 1  @  4 Pies |
+| G5: Season 8 Game 74: Fridays 2  @  4 Pies |
+
+<br />
+
 | 4 Game Winning Streak by the Pies |
 | ----- |
 | Season 1 Games 65, 66, 67, 68 |
@@ -237,6 +253,16 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 3 Game 42: Tigers 2  @  5 Pies |
 | G3: Season 3 Game 43: Fridays 2  @  4 Pies |
 | G4: Season 3 Game 44: Fridays 1  @  6 Pies |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 3 Games 52, 53, 60, 61 |
+| G1: Season 3 Game 53: Pies 5  @  2 Sunbeams |
+| G2: Season 3 Game 54: Pies 12 @  4 Sunbeams |
+| G3: Season 3 Game 61: Jazz Hands 2  @ 10 Pies |
+| G4: Season 3 Game 62: Jazz Hands 2  @  4 Pies |
 
 <br />
 
@@ -292,21 +318,41 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 
 | 4 Game Winning Streak by the Pies |
 | ----- |
-| Season 7 Games 10, 11, 15, 16 |
-| G1: Season 7 Game 11: Pies 9  @  3 Flowers |
-| G2: Season 7 Game 12: Pies 6  @  2 Flowers |
-| G3: Season 7 Game 16: Pies 4  @  3 Fridays |
-| G4: Season 7 Game 17: Pies 13 @  8 Fridays |
-
-<br />
-
-| 4 Game Winning Streak by the Pies |
-| ----- |
 | Season 7 Games 45, 46, 47, 48 |
 | G1: Season 7 Game 46: Pies 4  @  3 Fridays |
 | G2: Season 7 Game 47: Pies 4  @  3 Fridays |
 | G3: Season 7 Game 48: Pies 9  @  6 Fridays |
 | G4: Season 7 Game 49: Wild Wings 3  @  5 Pies |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 8 Games 60, 61, 62, 63 |
+| G1: Season 8 Game 61: Pies 8  @  2 Fridays |
+| G2: Season 8 Game 62: Pies 4  @  2 Fridays |
+| G3: Season 8 Game 63: Pies 8  @  2 Fridays |
+| G4: Season 8 Game 64: Pies 4  @  1 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 8 Games 87, 88, 89, 90 |
+| G1: Season 8 Game 88: Pies 4  @  1 Fridays |
+| G2: Season 8 Game 89: Pies 4  @  2 Fridays |
+| G3: Season 8 Game 90: Pies 9  @  4 Fridays |
+| G4: Season 8 Game 91: Shoe Thieves 5  @  7 Pies |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 8 Games 98, 99, 100, 101 |
+| G1: Season 8 Game 99: Pies 4  @  3 Fridays |
+| G2: Season 8 Game 100: Pies 7  @  3 Garages |
+| G3: Season 8 Game 101: Garages 0  @  4 Pies |
+| G4: Season 8 Game 102: Pies 5  @  4 Garages |
 
 
 

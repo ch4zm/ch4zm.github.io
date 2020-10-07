@@ -21,6 +21,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 67 | Hades Tigers (46%) | 8 - 0 | Mexico City Wild Wings (54%) | 
 | 1 | 37 | Hades Tigers (44%) | 8 - 1 | Mexico City Wild Wings (56%) | 
 | 3 | 111* | Hades Tigers (44%) | 8 - 1 | New York Millennials (56%) | 
+| 8 | 90 | Canada Moist Talkers (45%) | 8 - 1 | Hades Tigers (55%) | 
 | 6 | 37 | Dallas Steaks (46%) | 12 - 6 | Hades Tigers (54%) | 
 | 1 | 46 | Canada Moist Talkers (40%) | 10 - 4 | Hades Tigers (60%) | 
 | 5 | 94 | Hellmouth Sunbeams (28%) | 9 - 3 | Hades Tigers (72%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 32 | Hades Tigers (46%) | 15 - 10 | Breckenridge Jazz Hands (54%) | 
 | 2 | 90 | Philly Pies (41%) | 10 - 5 | Hades Tigers (59%) | 
 | 7 | 37 | Canada Moist Talkers (43%) | 9 - 4 | Hades Tigers (57%) | 
-| 1 | 21 | Houston Spies (37%) | 8 - 3 | Hades Tigers (63%) | 
 
 

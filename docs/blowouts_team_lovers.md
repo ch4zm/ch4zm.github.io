@@ -19,6 +19,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 53 | Boston Flowers | 16 - 4 | San Francisco Lovers | 
 | 4 | 60 | San Francisco Lovers | 15 - 6 | Unlimited Tacos | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
+| 8 | 2 | Chicago Firefighters | 14 - 1 | San Francisco Lovers | 
 | 4 | 14 | San Francisco Lovers | 14 - 3 | Kansas City Breath Mints | 
 | 3 | 95 | San Francisco Lovers | 14 - 4 | Kansas City Breath Mints | 
 | 4 | 67 | New York Millennials | 14 - 4 | San Francisco Lovers | 
@@ -30,7 +31,6 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 85 | New York Millennials | 13 - 0 | San Francisco Lovers | 
 | 1 | 51 | Boston Flowers | 13 - 2 | San Francisco Lovers | 
 | 4 | 41 | Dallas Steaks | 13 - 3 | San Francisco Lovers | 
-| 2 | 80 | Charleston Shoe Thieves | 13 - 6 | San Francisco Lovers | 
-| 1 | 55 | Charleston Shoe Thieves | 13 - 9 | San Francisco Lovers | 
+| 8 | 49 | Breckenridge Jazz Hands | 13 - 5 | San Francisco Lovers | 
 
 

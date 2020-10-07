@@ -1,5 +1,5 @@
 # Blaseball Postseason Defensive Games
-(Through season 7)
+(Through season 8)
 
 
 
@@ -11,6 +11,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 1 | 102* | Boston Flowers | 1 - 0 | Yellowstone Magic | 
 | 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
 | 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
+| 8 | 105* | Hades Tigers | 1 - 0 | Philly Pies | 
 | 1 | 101* | Philly Pies | 2 - 1 | Breckenridge Jazz Hands | 
 | 2 | 103* | Chicago Firefighters | 2 - 1 | Boston Flowers | 
 | 3 | 105* | San Francisco Lovers | 2 - 1 | New York Millennials | 
@@ -20,6 +21,8 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 7 | 101* | Breckenridge Jazz Hands | 2 - 1 | San Francisco Lovers | 
 | 7 | 108* | Mexico City Wild Wings | 2 - 1 | Seattle Garages | 
 | 7 | 110* | Mexico City Wild Wings | 2 - 1 | San Francisco Lovers | 
+| 8 | 106* | Baltimore Crabs | 2 - 1 | Houston Spies | 
+| 8 | 106* | Philly Pies | 2 - 1 | Hades Tigers | 
 | 1 | 101* | Boston Flowers | 3 - 2 | Yellowstone Magic | 
 | 1 | 103* | Hades Tigers | 3 - 2 | Houston Spies | 
 | 1 | 104* | Houston Spies | 3 - 2 | Hades Tigers | 
@@ -30,8 +33,5 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 5 | 112* | Chicago Firefighters | 3 - 2 | Breckenridge Jazz Hands | 
 | 6 | 104* | Hades Tigers | 3 - 2 | Kansas City Breath Mints | 
 | 6 | 105* | Seattle Garages | 3 - 2 | Hades Tigers | 
-| 1 | 101* | Houston Spies | 4 - 3 | Hades Tigers | 
-| 3 | 100* | Charleston Shoe Thieves | 4 - 3 | San Francisco Lovers | 
-| 4 | 100* | Breckenridge Jazz Hands | 4 - 3 | Philly Pies | 
 
 

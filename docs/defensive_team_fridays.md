@@ -14,6 +14,7 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 4 | 42 | Hawaii Fridays | 1 - 0 | Boston Flowers | 
 | 7 | 21 | Hawaii Fridays | 1 - 0 | Kansas City Breath Mints | 
 | 7 | 61 | Hawaii Fridays | 1 - 0 | Yellowstone Magic | 
+| 8 | 43 | Seattle Garages | 1 - 0 | Hawaii Fridays | 
 | 1 | 13 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 1 | 14 | San Francisco Lovers | 2 - 1 | Hawaii Fridays | 
 | 1 | 79 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 5 | 44 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 5 | 94 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
 | 6 | 19 | Unlimited Tacos | 2 - 1 | Hawaii Fridays | 
-| 6 | 50 | Dallas Steaks | 2 - 1 | Hawaii Fridays | 
 
 

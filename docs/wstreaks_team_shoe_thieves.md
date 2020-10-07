@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -12,9 +12,11 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | ----- | ----- | ----- | ----- |
 | Shoe Thieves                   | 8          | 3          | 5, 6, 7, 8, 9, 10, 11, 12 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
+| Shoe Thieves                   | 8          | 8          | 83, 84, 85, 86, 87, 88, 89, 90 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
 | Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
+| Shoe Thieves                   | 6          | 8          | 42, 43, 44, 45, 46, 47 |
 | Shoe Thieves                   | 5          | 2          | 77, 78, 79, 80, 81 |
 | Shoe Thieves                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
@@ -72,6 +74,20 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 
 <br />
 
+| 8 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 8 Games 82, 83, 84, 85, 86, 87, 88, 89 |
+| G1: Season 8 Game 83: Shoe Thieves 9  @  6 Moist Talkers |
+| G2: Season 8 Game 84: Shoe Thieves 9  @  6 Moist Talkers |
+| G3: Season 8 Game 85: Wild Wings 0  @  1 Shoe Thieves |
+| G4: Season 8 Game 86: Wild Wings 2  @ 12 Shoe Thieves |
+| G5: Season 8 Game 87: Wild Wings 4  @  5 Shoe Thieves |
+| G6: Season 8 Game 88: Magic 2  @ 10 Shoe Thieves |
+| G7: Season 8 Game 89: Magic 2  @  8 Shoe Thieves |
+| G8: Season 8 Game 90: Magic 1  @  4 Shoe Thieves |
+
+<br />
+
 | 7 Game Winning Streak by the Shoe Thieves |
 | ----- |
 | Season 2 Games 101, 102, 103, 104, 105, 106, 107 |
@@ -106,6 +122,18 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G4: Season 7 Game 68: Shoe Thieves 10 @  5 Pies |
 | G5: Season 7 Game 69: Shoe Thieves 7  @  3 Pies |
 | G6: Season 7 Game 70: Shoe Thieves 3  @  2 Breath Mints |
+
+<br />
+
+| 6 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 8 Games 41, 42, 43, 44, 45, 46 |
+| G1: Season 8 Game 42: Shoe Thieves 8  @  3 Pies |
+| G2: Season 8 Game 43: Shoe Thieves 10 @  1 Moist Talkers |
+| G3: Season 8 Game 44: Shoe Thieves 9  @  6 Moist Talkers |
+| G4: Season 8 Game 45: Shoe Thieves 10 @  3 Moist Talkers |
+| G5: Season 8 Game 46: Wild Wings 1  @  3 Shoe Thieves |
+| G6: Season 8 Game 47: Wild Wings 0  @  7 Shoe Thieves |
 
 <br />
 

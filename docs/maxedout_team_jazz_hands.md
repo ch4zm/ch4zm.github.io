@@ -14,6 +14,7 @@ Maxed out games (high-scoring one-run games) for all time for team Jazz Hands (n
 | 4 | 22 | Breckenridge Jazz Hands | 9 - 8 | Miami Dalé | 
 | 6 | 64 | Chicago Firefighters | 9 - 8 | Breckenridge Jazz Hands | 
 | 6 | 71 | Boston Flowers | 9 - 8 | Breckenridge Jazz Hands | 
+| 8 | 52 | Breckenridge Jazz Hands | 9 - 8 | San Francisco Lovers | 
 | 4 | 42 | Miami Dalé | 8 - 7 | Breckenridge Jazz Hands | 
 | 6 | 11 | Chicago Firefighters | 8 - 7 | Breckenridge Jazz Hands | 
 | 6 | 16 | New York Millennials | 8 - 7 | Breckenridge Jazz Hands | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Jazz Hands (n
 | 5 | 56 | Miami Dalé | 7 - 6 | Breckenridge Jazz Hands | 
 | 5 | 77 | Breckenridge Jazz Hands | 7 - 6 | Canada Moist Talkers | 
 | 6 | 31 | Breckenridge Jazz Hands | 7 - 6 | Hellmouth Sunbeams | 
-| 6 | 44 | Breckenridge Jazz Hands | 7 - 6 | Hellmouth Sunbeams | 
 
 

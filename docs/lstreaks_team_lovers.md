@@ -1,5 +1,5 @@
 # Lovers Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -11,7 +11,9 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Lovers                         | 16         | 2          | 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |
+| Lovers                         | 9          | 8          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Lovers                         | 7          | 2          | 62, 63, 64, 65, 66, 67, 68 |
+| Lovers                         | 7          | 8          | 17, 18, 19, 20, 21, 22, 23 |
 | Lovers                         | 6          | 1          | 37, 38, 39, 40, 41, 42 |
 | Lovers                         | 6          | 2          | 27, 28, 29, 30, 31, 32 |
 | Lovers                         | 6          | 2          | 38, 39, 40, 41, 42, 43 |
@@ -19,6 +21,7 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 2          | 91, 92, 93, 94, 95 |
 | Lovers                         | 5          | 3          | 82, 83, 84, 85, 86 |
 | Lovers                         | 5          | 7          | 82, 83, 84, 85, 86 |
+| Lovers                         | 5          | 8          | 36, 37, 38, 39, 40 |
 | Lovers                         | 4          | 1          | 19, 20, 21, 22 |
 | Lovers                         | 4          | 1          | 24, 25, 26, 27 |
 | Lovers                         | 4          | 1          | 74, 75, 76, 77 |
@@ -63,6 +66,21 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 9 Game Losing Streak by the Lovers |
+| ----- |
+| Season 8 Games 70, 71, 72, 73, 74, 75, 76, 77, 78 |
+| G1: Season 8 Game 71: Jazz Hands 4  @  3 Lovers |
+| G2: Season 8 Game 72: Jazz Hands 10 @  7 Lovers |
+| G3: Season 8 Game 73: Millennials 7  @  4 Lovers |
+| G4: Season 8 Game 74: Millennials 6  @  4 Lovers |
+| G5: Season 8 Game 75: Millennials 7  @  3 Lovers |
+| G6: Season 8 Game 76: Dale 8  @  7 Lovers |
+| G7: Season 8 Game 77: Dale 6  @  5 Lovers |
+| G8: Season 8 Game 78: Dale 7  @  5 Lovers |
+| G9: Season 8 Game 79: Jazz Hands 3  @  1 Lovers |
+
+<br />
+
 | 7 Game Losing Streak by the Lovers |
 | ----- |
 | Season 2 Games 61, 62, 63, 64, 65, 66, 67 |
@@ -73,6 +91,19 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G5: Season 2 Game 66: Lovers 7  @ 11 Millennials |
 | G6: Season 2 Game 67: Breath Mints 6  @  0 Lovers |
 | G7: Season 2 Game 68: Breath Mints 9  @  3 Lovers |
+
+<br />
+
+| 7 Game Losing Streak by the Lovers |
+| ----- |
+| Season 8 Games 16, 17, 18, 19, 20, 21, 22 |
+| G1: Season 8 Game 17: Firefighters 12 @  3 Lovers |
+| G2: Season 8 Game 18: Firefighters 3  @  2 Lovers |
+| G3: Season 8 Game 19: Lovers 4  @  5 Sunbeams |
+| G4: Season 8 Game 20: Lovers 3  @  6 Sunbeams |
+| G5: Season 8 Game 21: Lovers 0  @  1 Sunbeams |
+| G6: Season 8 Game 22: Lovers 1  @  6 Millennials |
+| G7: Season 8 Game 23: Lovers 2  @  4 Millennials |
 
 <br />
 
@@ -153,6 +184,17 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 7 Game 84: Crabs 10 @  2 Lovers |
 | G4: Season 7 Game 85: Millennials 6  @  0 Lovers |
 | G5: Season 7 Game 86: Millennials 4  @  3 Lovers |
+
+<br />
+
+| 5 Game Losing Streak by the Lovers |
+| ----- |
+| Season 8 Games 35, 36, 37, 38, 39 |
+| G1: Season 8 Game 36: Lovers 2  @  4 Firefighters |
+| G2: Season 8 Game 37: Crabs 3  @  1 Lovers |
+| G3: Season 8 Game 38: Crabs 4  @  2 Lovers |
+| G4: Season 8 Game 39: Crabs 3  @  2 Lovers |
+| G5: Season 8 Game 40: Flowers 4  @  3 Lovers |
 
 <br />
 

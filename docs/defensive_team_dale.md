@@ -2,7 +2,7 @@
 
 
 
-Maxed out games (high-scoring one-run games) for all time for team Dalé (note: all days and seasons displayed are 1-indexed) (asterisk indicates a postseason game)
+Maxed out games (high-scoring one-run games) for all time for team Dale (note: all days and seasons displayed are 1-indexed) (asterisk indicates a postseason game)
 
 
 | Sea | Day | Winner | Score | Loser | 
@@ -18,6 +18,8 @@ Maxed out games (high-scoring one-run games) for all time for team Dalé (note: 
 | 3 | 94 | Mexico City Wild Wings | 1 - 0 | Miami Dalé | 
 | 4 | 5 | Mexico City Wild Wings | 1 - 0 | Miami Dalé | 
 | 4 | 23 | Breckenridge Jazz Hands | 1 - 0 | Miami Dalé | 
+| 7 | 42 | Miami Dale | 1 - 0 | Chicago Firefighters | 
+| 8 | 57 | Charleston Shoe Thieves | 1 - 0 | Miami Dale | 
 | 1 | 16 | Miami Dalé | 2 - 1 | Philly Pies | 
 | 1 | 32 | Miami Dalé | 2 - 1 | Breckenridge Jazz Hands | 
 | 1 | 36 | Miami Dalé | 2 - 1 | Houston Spies | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Dalé (note: 
 | 4 | 36 | Seattle Garages | 2 - 1 | Miami Dalé | 
 | 4 | 53 | Breckenridge Jazz Hands | 2 - 1 | Miami Dalé | 
 | 4 | 76 | Breckenridge Jazz Hands | 2 - 1 | Miami Dalé | 
-| 5 | 4 | Miami Dalé | 2 - 1 | Mexico City Wild Wings | 
-| 5 | 6 | Mexico City Wild Wings | 2 - 1 | Miami Dalé | 
 
 

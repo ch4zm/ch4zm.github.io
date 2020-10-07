@@ -7,8 +7,12 @@ Maxed out games (high-scoring one-run games) for all time for team Pies (note: a
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 8 | 17 | Philly Pies | 10 - 9 | Seattle Garages | 
+| 8 | 19 | Philly Pies | 10 - 9 | Seattle Garages | 
 | 1 | 44 | Philly Pies | 9 - 8 | Moab Sunbeams | 
 | 3 | 92 | Canada Moist Talkers | 9 - 8 | Philly Pies | 
+| 8 | 93 | Philly Pies | 9 - 8 | Charleston Shoe Thieves | 
+| 8 | 108* | Hades Tigers | 9 - 8 | Philly Pies | 
 | 1 | 106* | Philly Pies | 8 - 7 | Houston Spies | 
 | 2 | 62 | Philly Pies | 8 - 7 | Hades Tigers | 
 | 2 | 101* | Philly Pies | 8 - 7 | Canada Moist Talkers | 
@@ -28,9 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Pies (note: a
 | 3 | 96 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
 | 4 | 42 | Philly Pies | 7 - 6 | Houston Spies | 
 | 4 | 99 | Canada Moist Talkers | 7 - 6 | Philly Pies | 
-| 4 | 101* | Breckenridge Jazz Hands | 7 - 6 | Philly Pies | 
-| 5 | 29 | Philly Pies | 7 - 6 | Hades Tigers | 
-| 5 | 62 | Baltimore Crabs | 7 - 6 | Philly Pies | 
-| 6 | 70 | Philly Pies | 7 - 6 | Charleston Shoe Thieves | 
 
 

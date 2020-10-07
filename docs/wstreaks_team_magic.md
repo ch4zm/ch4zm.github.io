@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -31,6 +31,8 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 5          | 53, 54, 55, 56 |
 | Magic                          | 4          | 5          | 73, 74, 75, 76 |
 | Magic                          | 4          | 6          | 33, 34, 35, 36 |
+| Magic                          | 4          | 8          | 23, 24, 25, 26 |
+| Magic                          | 4          | 8          | 70, 71, 72, 73 |
 
 
 
@@ -273,6 +275,26 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 6 Game 34: Moist Talkers 4  @  5 Magic |
 | G3: Season 6 Game 35: Moist Talkers 11 @ 15 Magic |
 | G4: Season 6 Game 36: Moist Talkers 4  @  5 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 8 Games 22, 23, 24, 25 |
+| G1: Season 8 Game 23: Fridays 4  @  5 Magic |
+| G2: Season 8 Game 24: Fridays 3  @  4 Magic |
+| G3: Season 8 Game 25: Wild Wings 6  @  7 Magic |
+| G4: Season 8 Game 26: Wild Wings 3  @  8 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 8 Games 69, 70, 71, 72 |
+| G1: Season 8 Game 70: Magic 7  @  5 Breath Mints |
+| G2: Season 8 Game 71: Magic 6  @  5 Breath Mints |
+| G3: Season 8 Game 72: Magic 6  @  4 Breath Mints |
+| G4: Season 8 Game 73: Magic 6  @  0 Wild Wings |
 
 
 

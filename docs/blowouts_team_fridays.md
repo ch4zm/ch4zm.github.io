@@ -13,6 +13,9 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 11 | Kansas City Breath Mints | 18 - 3 | Hawaii Fridays | 
 | 5 | 27 | Hawaii Fridays | 18 - 6 | Charleston Shoe Thieves | 
 | 3 | 55 | Hawaii Fridays | 17 - 2 | New York Millennials | 
+| 8 | 35 | Dallas Steaks | 15 - 2 | Hawaii Fridays | 
+| 8 | 37 | Yellowstone Magic | 15 - 2 | Hawaii Fridays | 
+| 8 | 97 | Philly Pies | 15 - 3 | Hawaii Fridays | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
 | 4 | 90 | Hawaii Fridays | 15 - 4 | Yellowstone Magic | 
 | 5 | 51 | Hawaii Fridays | 15 - 5 | Charleston Shoe Thieves | 
@@ -25,12 +28,9 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 49 | Hawaii Fridays | 13 - 2 | Charleston Shoe Thieves | 
 | 5 | 62 | Boston Flowers | 13 - 3 | Hawaii Fridays | 
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
+| 8 | 67 | Charleston Shoe Thieves | 13 - 5 | Hawaii Fridays | 
 | 3 | 15 | Boston Flowers | 13 - 6 | Hawaii Fridays | 
 | 2 | 4 | Chicago Firefighters | 13 - 8 | Hawaii Fridays | 
 | 7 | 17 | Philly Pies | 13 - 8 | Hawaii Fridays | 
-| 1 | 35 | Hawaii Fridays | 13 - 10 | Yellowstone Magic | 
-| 3 | 75 | Hawaii Fridays | 13 - 11 | Kansas City Breath Mints | 
-| 6 | 56 | Dallas Steaks | 13 - 11 | Hawaii Fridays | 
-| 6 | 92 | Seattle Garages | 12 - 0 | Hawaii Fridays | 
 
 

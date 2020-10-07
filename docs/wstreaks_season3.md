@@ -11,14 +11,12 @@ Winning streaks of 7 or more games for all teams versus all teams for season 3
 | ----- | ----- | ----- | ----- |
 | Tigers                         | 12         | 3          | 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Steaks                         | 10         | 3          | 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 |
-| Dalé                           | 9          | 3          | 74, 75, 76, 77, 78, 79, 80, 81, 82 |
 | Shoe Thieves                   | 8          | 3          | 5, 6, 7, 8, 9, 10, 11, 12 |
 | Magic                          | 7          | 3          | 1, 2, 3, 4, 5, 6, 7 |
 | Fridays                        | 7          | 3          | 45, 46, 47, 48, 49, 50, 51 |
 | Tigers                         | 7          | 3          | 47, 48, 49, 50, 51, 52, 53 |
 | Moist Talkers                  | 7          | 3          | 60, 61, 62, 63, 64, 65, 66 |
 | Steaks                         | 7          | 3          | 71, 72, 73, 74, 75, 76, 77 |
-| Wild Wings                     | 7          | 3          | 90, 91, 92, 93, 94, 95, 96 |
 
 
 
@@ -61,21 +59,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 3
 | G8: Season 3 Game 27: Steaks 5  @  4 Tacos |
 | G9: Season 3 Game 28: Steaks 5  @  0 Fridays |
 | G10: Season 3 Game 29: Steaks 8  @  2 Fridays |
-
-<br />
-
-| 9 Game Winning Streak by the Dalé |
-| ----- |
-| Season 3 Games 73, 74, 75, 76, 77, 78, 79, 80, 81 |
-| G1: Season 3 Game 74: Dalé 5  @  3 Pies |
-| G2: Season 3 Game 75: Dalé 6  @  3 Pies |
-| G3: Season 3 Game 76: Wild Wings 2  @  4 Dalé |
-| G4: Season 3 Game 77: Wild Wings 6  @  7 Dalé |
-| G5: Season 3 Game 78: Wild Wings 6  @ 10 Dalé |
-| G6: Season 3 Game 79: Garages 1  @  2 Dalé |
-| G7: Season 3 Game 80: Garages 0  @  9 Dalé |
-| G8: Season 3 Game 81: Garages 1  @  5 Dalé |
-| G9: Season 3 Game 82: Moist Talkers 4  @  7 Dalé |
 
 <br />
 
@@ -155,19 +138,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 3
 | G5: Season 3 Game 75: Steaks 20 @  6 Lovers |
 | G6: Season 3 Game 76: Steaks 3  @  1 Firefighters |
 | G7: Season 3 Game 77: Steaks 12 @  1 Firefighters |
-
-<br />
-
-| 7 Game Winning Streak by the Wild Wings |
-| ----- |
-| Season 3 Games 89, 90, 91, 92, 93, 94, 95 |
-| G1: Season 3 Game 90: Tigers 3  @  4 Wild Wings |
-| G2: Season 3 Game 91: Wild Wings 7  @  3 Sunbeams |
-| G3: Season 3 Game 92: Wild Wings 7  @  3 Sunbeams |
-| G4: Season 3 Game 93: Wild Wings 14 @  2 Sunbeams |
-| G5: Season 3 Game 94: Dalé 0  @  1 Wild Wings |
-| G6: Season 3 Game 95: Dalé 1  @  5 Wild Wings |
-| G7: Season 3 Game 96: Dalé 2  @  4 Wild Wings |
 
 
 

@@ -1,5 +1,5 @@
 # Shoe Thieves Losing Streaks
-(Through season 7)
+(Through season 8)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | Shoe Thieves                   | 9          | 7          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Shoe Thieves                   | 6          | 2          | 40, 41, 42, 43, 44, 45 |
 | Shoe Thieves                   | 6          | 2          | 86, 87, 88, 89, 90, 91 |
+| Shoe Thieves                   | 6          | 8          | 74, 75, 76, 77, 78, 79 |
 | Shoe Thieves                   | 5          | 5          | 1, 2, 3, 4, 5 |
 | Shoe Thieves                   | 5          | 5          | 87, 88, 89, 90, 91 |
 | Shoe Thieves                   | 5          | 6          | 42, 43, 44, 45, 46 |
@@ -23,10 +24,11 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | Shoe Thieves                   | 4          | 4          | 16, 17, 18, 19 |
 | Shoe Thieves                   | 4          | 4          | 30, 31, 32, 33 |
 | Shoe Thieves                   | 4          | 4          | 40, 41, 42, 43 |
-| Shoe Thieves                   | 4          | 5          | 40, 41, 42, 43 |
 | Shoe Thieves                   | 4          | 5          | 51, 52, 53, 54 |
 | Shoe Thieves                   | 4          | 6          | 49, 50, 51, 52 |
 | Shoe Thieves                   | 4          | 6          | 54, 55, 56, 57 |
+| Shoe Thieves                   | 4          | 8          | 31, 32, 33, 34 |
+| Shoe Thieves                   | 4          | 8          | 58, 59, 60, 61 |
 
 
 
@@ -74,6 +76,18 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | G4: Season 2 Game 89: Shoe Thieves 2  @  4 Steaks |
 | G5: Season 2 Game 90: Shoe Thieves 3  @  7 Steaks |
 | G6: Season 2 Game 91: Shoe Thieves 0  @  4 Steaks |
+
+<br />
+
+| 6 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 8 Games 73, 74, 75, 76, 77, 78 |
+| G1: Season 8 Game 74: Moist Talkers 6  @  1 Shoe Thieves |
+| G2: Season 8 Game 75: Moist Talkers 6  @  3 Shoe Thieves |
+| G3: Season 8 Game 76: Garages 6  @  3 Shoe Thieves |
+| G4: Season 8 Game 77: Garages 7  @  3 Shoe Thieves |
+| G5: Season 8 Game 78: Garages 2  @  0 Shoe Thieves |
+| G6: Season 8 Game 79: Shoe Thieves 7  @ 14 Wild Wings |
 
 <br />
 
@@ -184,16 +198,6 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 
 | 4 Game Losing Streak by the Shoe Thieves |
 | ----- |
-| Season 5 Games 39, 40, 41, 42 |
-| G1: Season 5 Game 40: Dalé 5  @  3 Shoe Thieves |
-| G2: Season 5 Game 41: Dalé 6  @  2 Shoe Thieves |
-| G3: Season 5 Game 42: Dalé 8  @  5 Shoe Thieves |
-| G4: Season 5 Game 43: Shoe Thieves 4  @  7 Firefighters |
-
-<br />
-
-| 4 Game Losing Streak by the Shoe Thieves |
-| ----- |
 | Season 5 Games 50, 51, 52, 53 |
 | G1: Season 5 Game 51: Shoe Thieves 5  @ 15 Fridays |
 | G2: Season 5 Game 52: Shoe Thieves 5  @  6 Millennials |
@@ -219,6 +223,26 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | G2: Season 6 Game 55: Shoe Thieves 4  @ 14 Lovers |
 | G3: Season 6 Game 56: Shoe Thieves 0  @  8 Lovers |
 | G4: Season 6 Game 57: Shoe Thieves 0  @  1 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 8 Games 30, 31, 32, 33 |
+| G1: Season 8 Game 31: Garages 7  @  6 Shoe Thieves |
+| G2: Season 8 Game 32: Garages 8  @  4 Shoe Thieves |
+| G3: Season 8 Game 33: Garages 2  @  1 Shoe Thieves |
+| G4: Season 8 Game 34: Pies 7  @  2 Shoe Thieves |
+
+<br />
+
+| 4 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 8 Games 57, 58, 59, 60 |
+| G1: Season 8 Game 58: Shoe Thieves 3  @  4 Tigers |
+| G2: Season 8 Game 59: Shoe Thieves 1  @  4 Tigers |
+| G3: Season 8 Game 60: Shoe Thieves 4  @  6 Tigers |
+| G4: Season 8 Game 61: Tacos 7  @  2 Shoe Thieves |
 
 
 
