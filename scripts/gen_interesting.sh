@@ -9,7 +9,7 @@ ROOT_DIR=$(dirname $(readlink -f "$0"))
 INTERESTING="$ROOT_DIR/../vp/bin/interesting-blaseball-games"
 ACTIVATE_SCRIPT="$ROOT_DIR/../vp/bin/activate"
 
-LASTSEASON=8
+LASTSEASON=9
 
 # Enter the virtual environment
 source $ACTIVATE_SCRIPT
