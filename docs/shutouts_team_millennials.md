@@ -24,6 +24,7 @@ Shutout games (games where the loser had zero runs) for all time for team Millen
 | 4 | 31 | New York Millennials | 7 - 0 | Charleston Shoe Thieves | 
 | 4 | 64 | New York Millennials | 7 - 0 | Hawaii Fridays | 
 | 6 | 28 | New York Millennials | 7 - 0 | Miami Dalé | 
+| 9 | 78 | New York Millennials | 7 - 0 | Hawaii Fridays | 
 | 1 | 49 | New York Millennials | 6 - 0 | Yellowstone Magic | 
 | 1 | 61 | Yellowstone Magic | 6 - 0 | New York Millennials | 
 | 3 | 4 | New York Millennials | 6 - 0 | Boston Flowers | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Millen
 | 6 | 17 | Breckenridge Jazz Hands | 6 - 0 | New York Millennials | 
 | 6 | 71 | San Francisco Lovers | 6 - 0 | New York Millennials | 
 | 7 | 85 | New York Millennials | 6 - 0 | San Francisco Lovers | 
-| 7 | 88 | Chicago Firefighters | 6 - 0 | New York Millennials | 
 
 

@@ -22,6 +22,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 16 | Yellowstone Magic | 17 - 5 | Charleston Shoe Thieves | 
 | 3 | 93 | Charleston Shoe Thieves | 17 - 11 | Dallas Steaks | 
 | 3 | 73 | Charleston Shoe Thieves | 17 - 14 | Los Angeles Tacos | 
+| 9 | 1 | Charleston Shoe Thieves | 16 - 1 | Yellowstone Magic | 
 | 8 | 14 | Philly Pies | 15 - 3 | Charleston Shoe Thieves | 
 | 2 | 78 | Charleston Shoe Thieves | 15 - 4 | Chicago Firefighters | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 97 | Mexico City Wild Wings | 15 - 8 | Charleston Shoe Thieves | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
 | 6 | 55 | San Francisco Lovers | 14 - 4 | Charleston Shoe Thieves | 
-| 7 | 64 | Philly Pies | 14 - 4 | Charleston Shoe Thieves | 
 
 

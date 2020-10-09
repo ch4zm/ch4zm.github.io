@@ -1,5 +1,5 @@
 # Blaseball Postseason Defensive Games
-(Through season 8)
+(Through season 9)
 
 
 

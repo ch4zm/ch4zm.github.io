@@ -1,5 +1,5 @@
 # Steaks Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -21,11 +21,13 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 7          | 3          | 71, 72, 73, 74, 75, 76, 77 |
 | Steaks                         | 7          | 4          | 74, 75, 76, 77, 78, 79, 88 |
 | Steaks                         | 6          | 2          | 56, 57, 58, 59, 60, 61 |
+| Steaks                         | 6          | 9          | 6, 7, 8, 9, 10, 11 |
 | Steaks                         | 5          | 2          | 87, 88, 89, 90, 91 |
 | Steaks                         | 5          | 3          | 49, 50, 51, 52, 53 |
 | Steaks                         | 5          | 6          | 70, 71, 72, 73, 74 |
 | Steaks                         | 5          | 7          | 70, 71, 72, 73, 74 |
 | Steaks                         | 5          | 8          | 28, 29, 30, 31, 32 |
+| Steaks                         | 5          | 9          | 49, 50, 51, 52, 53 |
 | Steaks                         | 4          | 1          | 3, 4, 5, 6 |
 | Steaks                         | 4          | 1          | 85, 86, 87, 88 |
 | Steaks                         | 4          | 2          | 78, 79, 80, 81 |
@@ -41,6 +43,7 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 7          | 58, 59, 60, 61 |
 | Steaks                         | 4          | 8          | 2, 3, 4, 5 |
 | Steaks                         | 4          | 8          | 83, 84, 85, 86 |
+| Steaks                         | 4          | 9          | 14, 15, 16, 17 |
 
 
 
@@ -208,6 +211,18 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Steaks |
+| ----- |
+| Season 9 Games 5, 6, 7, 8, 9, 10 |
+| G1: Season 9 Game 6: Steaks 4  @  3 Millennials |
+| G2: Season 9 Game 7: Moist Talkers 5  @  6 Steaks |
+| G3: Season 9 Game 8: Moist Talkers 5  @  6 Steaks |
+| G4: Season 9 Game 9: Moist Talkers 4  @  5 Steaks |
+| G5: Season 9 Game 10: Moist Talkers 5  @  7 Steaks |
+| G6: Season 9 Game 11: Moist Talkers 2  @  6 Steaks |
+
+<br />
+
 | 5 Game Winning Streak by the Steaks |
 | ----- |
 | Season 2 Games 86, 87, 88, 89, 90 |
@@ -260,6 +275,17 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G3: Season 8 Game 30: Moist Talkers 0  @  6 Steaks |
 | G4: Season 8 Game 31: Steaks 2  @  1 Magic |
 | G5: Season 8 Game 32: Steaks 7  @  5 Magic |
+
+<br />
+
+| 5 Game Winning Streak by the Steaks |
+| ----- |
+| Season 9 Games 48, 49, 50, 51, 52 |
+| G1: Season 9 Game 49: Millennials 2  @  8 Steaks |
+| G2: Season 9 Game 50: Millennials 2  @  7 Steaks |
+| G3: Season 9 Game 51: Millennials 2  @  8 Steaks |
+| G4: Season 9 Game 52: Tigers 7  @  8 Steaks |
+| G5: Season 9 Game 53: Tigers 6  @  7 Steaks |
 
 <br />
 
@@ -410,6 +436,16 @@ Winning streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 8 Game 84: Steaks 5  @  1 Wild Wings |
 | G3: Season 8 Game 85: Fridays 4  @  9 Steaks |
 | G4: Season 8 Game 86: Fridays 2  @  5 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Steaks |
+| ----- |
+| Season 9 Games 13, 14, 15, 16 |
+| G1: Season 9 Game 14: Garages 3  @  9 Steaks |
+| G2: Season 9 Game 15: Garages 4  @  6 Steaks |
+| G3: Season 9 Game 16: Fridays 2  @  9 Steaks |
+| G4: Season 9 Game 17: Fridays 0  @  6 Steaks |
 
 
 

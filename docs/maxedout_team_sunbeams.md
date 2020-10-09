@@ -21,6 +21,7 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 6 | 91 | Boston Flowers | 8 - 7 | Hellmouth Sunbeams | 
 | 7 | 34 | Hellmouth Sunbeams | 8 - 7 | Houston Spies | 
 | 8 | 82 | Hellmouth Sunbeams | 8 - 7 | Houston Spies | 
+| 9 | 94 | Miami Dale | 8 - 7 | Hellmouth Sunbeams | 
 | 1 | 5 | Mexico City Wild Wings | 7 - 6 | Moab Sunbeams | 
 | 2 | 2 | Hellmouth Sunbeams | 7 - 6 | Mexico City Wild Wings | 
 | 2 | 44 | Mexico City Wild Wings | 7 - 6 | Hellmouth Sunbeams | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 3 | 89 | Philly Pies | 7 - 6 | Hellmouth Sunbeams | 
 | 3 | 96 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
 | 4 | 99 | Baltimore Crabs | 7 - 6 | Hellmouth Sunbeams | 
-| 6 | 29 | Hellmouth Sunbeams | 7 - 6 | Boston Flowers | 
 
 

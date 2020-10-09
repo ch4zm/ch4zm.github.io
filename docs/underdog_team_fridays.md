@@ -12,6 +12,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 62 | Boston Flowers (43%) | 13 - 3 | Hawaii Fridays (57%) | 
 | 2 | 74 | Los Angeles Tacos (44%) | 12 - 2 | Hawaii Fridays (56%) | 
 | 3 | 46 | Hawaii Fridays (43%) | 12 - 2 | Chicago Firefighters (57%) | 
+| 9 | 18 | Hawaii Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
 | 7 | 41 | Hawaii Fridays (44%) | 12 - 3 | Mexico City Wild Wings (56%) | 
 | 5 | 90 | Hawaii Fridays (43%) | 11 - 2 | Boston Flowers (57%) | 
 | 2 | 82 | Boston Flowers (45%) | 10 - 1 | Hawaii Fridays (55%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 80 | Hawaii Fridays (36%) | 7 - 0 | Seattle Garages (64%) | 
 | 7 | 30 | Hawaii Fridays (44%) | 10 - 4 | Mexico City Wild Wings (56%) | 
 | 3 | 17 | Houston Spies (41%) | 9 - 3 | Hawaii Fridays (59%) | 
-| 8 | 75 | Hawaii Fridays (41%) | 9 - 3 | Philly Pies (59%) | 
 
 

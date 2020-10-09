@@ -26,6 +26,8 @@
 
 * [Season 8 Blowouts](blowouts_season8.md)
 
+* [Season 9 Blowouts](blowouts_season9.md)
+
 ## By Team
 
 * [Breath Mints Blowouts Summary](blowouts_team_breath_mints.md)

@@ -1,5 +1,5 @@
 # Breath Mints Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Breath Mints                   | 8          | 8          | 54, 55, 56, 57, 58, 59, 60, 61 |
+| Breath Mints                   | 8          | 9          | 44, 45, 46, 47, 48, 49, 50, 51 |
 | Breath Mints                   | 7          | 1          | 67, 68, 69, 70, 71, 72, 73 |
 | Breath Mints                   | 7          | 2          | 4, 5, 6, 7, 8, 9, 10 |
 | Breath Mints                   | 7          | 4          | 72, 73, 74, 75, 76, 77, 78 |
@@ -34,6 +35,7 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 4          | 6          | 58, 59, 60, 61 |
 | Breath Mints                   | 4          | 7          | 4, 5, 6, 7 |
 | Breath Mints                   | 4          | 8          | 24, 25, 26, 27 |
+| Breath Mints                   | 4          | 9          | 30, 31, 32, 33 |
 
 
 
@@ -56,6 +58,20 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G6: Season 8 Game 59: Breath Mints 1  @  2 Garages |
 | G7: Season 8 Game 60: Breath Mints 2  @  3 Garages |
 | G8: Season 8 Game 61: Steaks 2  @  1 Breath Mints |
+
+<br />
+
+| 8 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 43, 44, 45, 46, 47, 48, 49, 50 |
+| G1: Season 9 Game 44: Breath Mints 2  @  3 Pies |
+| G2: Season 9 Game 45: Breath Mints 1  @  2 Pies |
+| G3: Season 9 Game 46: Breath Mints 1  @  4 Tigers |
+| G4: Season 9 Game 47: Breath Mints 3  @  5 Tigers |
+| G5: Season 9 Game 48: Breath Mints 4  @  5 Tigers |
+| G6: Season 9 Game 49: Shoe Thieves 8  @  3 Breath Mints |
+| G7: Season 9 Game 50: Shoe Thieves 6  @  2 Breath Mints |
+| G8: Season 9 Game 51: Shoe Thieves 8  @  1 Breath Mints |
 
 <br />
 
@@ -309,6 +325,16 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G2: Season 8 Game 25: Breath Mints 4  @  6 Tigers |
 | G3: Season 8 Game 26: Breath Mints 0  @  2 Tigers |
 | G4: Season 8 Game 27: Breath Mints 1  @  3 Tigers |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 29, 30, 31, 32 |
+| G1: Season 9 Game 30: Pies 4  @  2 Breath Mints |
+| G2: Season 9 Game 31: Garages 3  @  1 Breath Mints |
+| G3: Season 9 Game 32: Garages 4  @  1 Breath Mints |
+| G4: Season 9 Game 33: Garages 13 @  6 Breath Mints |
 
 
 

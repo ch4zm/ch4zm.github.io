@@ -1,5 +1,5 @@
 # Shoe Thieves Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -29,6 +29,7 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | Shoe Thieves                   | 4          | 6          | 54, 55, 56, 57 |
 | Shoe Thieves                   | 4          | 8          | 31, 32, 33, 34 |
 | Shoe Thieves                   | 4          | 8          | 58, 59, 60, 61 |
+| Shoe Thieves                   | 4          | 9          | 22, 23, 24, 25 |
 
 
 
@@ -243,6 +244,16 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | G2: Season 8 Game 59: Shoe Thieves 1  @  4 Tigers |
 | G3: Season 8 Game 60: Shoe Thieves 4  @  6 Tigers |
 | G4: Season 8 Game 61: Tacos 7  @  2 Shoe Thieves |
+
+<br />
+
+| 4 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 21, 22, 23, 24 |
+| G1: Season 9 Game 22: Shoe Thieves 0  @  1 Breath Mints |
+| G2: Season 9 Game 23: Shoe Thieves 2  @  3 Breath Mints |
+| G3: Season 9 Game 24: Shoe Thieves 0  @  1 Breath Mints |
+| G4: Season 9 Game 25: Pies 7  @  0 Shoe Thieves |
 
 
 

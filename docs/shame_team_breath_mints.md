@@ -10,12 +10,14 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 3 | 57 | Kansas City Breath Mints | 21 - 16 | Charleston Shoe Thieves | 
 | 4 | 36 | Kansas City Breath Mints | 11 - 7 | San Francisco Lovers | 
 | 3 | 11 | Boston Flowers | 10 - 6 | Kansas City Breath Mints | 
+| 9 | 62 | Chicago Firefighters | 6 - 2 | Kansas City Breath Mints | 
 | 4 | 91 | Hawaii Fridays | 9 - 6 | Kansas City Breath Mints | 
 | 1 | 26 | Kansas City Breath Mints | 8 - 5 | New York Millennials | 
 | 1 | 29 | Kansas City Breath Mints | 8 - 5 | San Francisco Lovers | 
 | 5 | 73 | Kansas City Breath Mints | 8 - 5 | Unlimited Tacos | 
 | 5 | 78 | Dallas Steaks | 6 - 3 | Kansas City Breath Mints | 
 | 3 | 34 | Kansas City Breath Mints | 5 - 2 | Dallas Steaks | 
+| 9 | 99 | Kansas City Breath Mints | 5 - 2 | Hawai'i Fridays | 
 | 1 | 75 | Kansas City Breath Mints | 10 - 8 | San Francisco Lovers | 
 | 1 | 23 | San Francisco Lovers | 9 - 7 | Kansas City Breath Mints | 
 | 7 | 37 | Philly Pies | 9 - 7 | Kansas City Breath Mints | 
@@ -28,9 +30,7 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 8 | 25 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
 | 8 | 98 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
 | 1 | 34 | San Francisco Lovers | 5 - 3 | Kansas City Breath Mints | 
-| 5 | 49 | Kansas City Breath Mints | 4 - 2 | Unlimited Tacos | 
-| 5 | 24 | Hawaii Fridays | 3 - 1 | Kansas City Breath Mints | 
-| 8 | 29 | Hades Tigers | 3 - 1 | Kansas City Breath Mints | 
-| 6 | 66 | Kansas City Breath Mints | 8 - 7 | Hawaii Fridays | 
+| 9 | 47 | Hades Tigers | 5 - 3 | Kansas City Breath Mints | 
+| 9 | 71 | Yellowstone Magic | 5 - 3 | Kansas City Breath Mints | 
 
 

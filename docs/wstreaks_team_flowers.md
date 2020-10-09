@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -16,6 +16,7 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 6          | 1          | 81, 82, 83, 84, 85, 86 |
 | Flowers                        | 6          | 3          | 93, 94, 95, 96, 97, 98 |
 | Flowers                        | 6          | 8          | 13, 14, 15, 16, 17, 18 |
+| Flowers                        | 6          | 9          | 37, 38, 39, 40, 41, 42 |
 | Flowers                        | 5          | 3          | 21, 22, 23, 24, 25 |
 | Flowers                        | 5          | 5          | 65, 66, 67, 68, 69 |
 | Flowers                        | 4          | 1          | 18, 19, 20, 21 |
@@ -26,6 +27,9 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 3          | 62, 63, 64, 65 |
 | Flowers                        | 4          | 3          | 80, 81, 82, 83 |
 | Flowers                        | 4          | 7          | 91, 92, 93, 94 |
+| Flowers                        | 4          | 9          | 13, 14, 15, 16 |
+| Flowers                        | 4          | 9          | 32, 33, 34, 35 |
+| Flowers                        | 4          | 9          | 46, 47, 48, 49 |
 
 
 
@@ -110,6 +114,18 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G4: Season 8 Game 16: Dale 2  @  7 Flowers |
 | G5: Season 8 Game 17: Dale 6  @ 12 Flowers |
 | G6: Season 8 Game 18: Dale 3  @  8 Flowers |
+
+<br />
+
+| 6 Game Winning Streak by the Flowers |
+| ----- |
+| Season 9 Games 36, 37, 38, 39, 40, 41 |
+| G1: Season 9 Game 37: Lovers 4  @  6 Flowers |
+| G2: Season 9 Game 38: Lovers 9  @ 10 Flowers |
+| G3: Season 9 Game 39: Lovers 1  @  3 Flowers |
+| G4: Season 9 Game 40: Dale 7  @  8 Flowers |
+| G5: Season 9 Game 41: Dale 1  @  2 Flowers |
+| G6: Season 9 Game 42: Dale 2  @  3 Flowers |
 
 <br />
 
@@ -212,6 +228,36 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 7 Game 92: Tacos 8  @ 11 Flowers |
 | G3: Season 7 Game 93: Tacos 5  @ 10 Flowers |
 | G4: Season 7 Game 94: Flowers 10 @  7 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 9 Games 12, 13, 14, 15 |
+| G1: Season 9 Game 13: Tacos 5  @  9 Flowers |
+| G2: Season 9 Game 14: Tacos 4  @  6 Flowers |
+| G3: Season 9 Game 15: Tacos 5  @  7 Flowers |
+| G4: Season 9 Game 16: Dale 1  @  3 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 9 Games 31, 32, 33, 34 |
+| G1: Season 9 Game 32: Flowers 3  @  2 Firefighters |
+| G2: Season 9 Game 33: Flowers 3  @  2 Firefighters |
+| G3: Season 9 Game 34: Dale 5  @ 10 Flowers |
+| G4: Season 9 Game 35: Dale 3  @  6 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 9 Games 45, 46, 47, 48 |
+| G1: Season 9 Game 46: Tacos 5  @ 10 Flowers |
+| G2: Season 9 Game 47: Tacos 2  @  5 Flowers |
+| G3: Season 9 Game 48: Tacos 3  @  5 Flowers |
+| G4: Season 9 Game 49: Crabs 3  @  8 Flowers |
 
 
 

@@ -1,5 +1,5 @@
 # Moist Talkers Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -15,8 +15,11 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | Moist Talkers                  | 6          | 5          | 27, 28, 29, 30, 40, 41 |
 | Moist Talkers                  | 6          | 6          | 20, 21, 22, 23, 24, 25 |
 | Moist Talkers                  | 6          | 7          | 47, 48, 49, 50, 51, 52 |
+| Moist Talkers                  | 6          | 9          | 43, 44, 45, 46, 47, 48 |
+| Moist Talkers                  | 6          | 9          | 86, 87, 88, 89, 90, 91 |
 | Moist Talkers                  | 5          | 3          | 69, 70, 71, 72, 73 |
 | Moist Talkers                  | 5          | 7          | 66, 67, 68, 69, 70 |
+| Moist Talkers                  | 5          | 9          | 7, 8, 9, 10, 11 |
 | Moist Talkers                  | 4          | 1          | 85, 86, 87, 91 |
 | Moist Talkers                  | 4          | 2          | 59, 60, 61, 62 |
 | Moist Talkers                  | 4          | 3          | 29, 30, 34, 35 |
@@ -104,6 +107,30 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 
 <br />
 
+| 6 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 9 Games 42, 43, 44, 45, 46, 47 |
+| G1: Season 9 Game 43: Moist Talkers 0  @  6 Tigers |
+| G2: Season 9 Game 44: Moist Talkers 5  @ 10 Tigers |
+| G3: Season 9 Game 45: Moist Talkers 2  @  3 Tigers |
+| G4: Season 9 Game 46: Sunbeams 6  @  3 Moist Talkers |
+| G5: Season 9 Game 47: Sunbeams 6  @  2 Moist Talkers |
+| G6: Season 9 Game 48: Sunbeams 8  @  4 Moist Talkers |
+
+<br />
+
+| 6 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 9 Games 85, 86, 87, 88, 89, 90 |
+| G1: Season 9 Game 86: Shoe Thieves 7  @  6 Moist Talkers |
+| G2: Season 9 Game 87: Shoe Thieves 6  @  0 Moist Talkers |
+| G3: Season 9 Game 88: Pies 6  @  1 Moist Talkers |
+| G4: Season 9 Game 89: Pies 9  @  2 Moist Talkers |
+| G5: Season 9 Game 90: Pies 9  @  0 Moist Talkers |
+| G6: Season 9 Game 91: Magic 6  @  3 Moist Talkers |
+
+<br />
+
 | 5 Game Losing Streak by the Moist Talkers |
 | ----- |
 | Season 3 Games 68, 69, 70, 71, 72 |
@@ -123,6 +150,17 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G3: Season 7 Game 68: Moist Talkers 8  @ 13 Breath Mints |
 | G4: Season 7 Game 69: Moist Talkers 2  @  8 Breath Mints |
 | G5: Season 7 Game 70: Moist Talkers 1  @  4 Pies |
+
+<br />
+
+| 5 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 9 Games 6, 7, 8, 9, 10 |
+| G1: Season 9 Game 7: Moist Talkers 5  @  6 Steaks |
+| G2: Season 9 Game 8: Moist Talkers 5  @  6 Steaks |
+| G3: Season 9 Game 9: Moist Talkers 4  @  5 Steaks |
+| G4: Season 9 Game 10: Moist Talkers 5  @  7 Steaks |
+| G5: Season 9 Game 11: Moist Talkers 2  @  6 Steaks |
 
 <br />
 

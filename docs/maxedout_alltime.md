@@ -1,5 +1,5 @@
 # All-Time Maxed Out
-(Through season 8)
+(Through season 9)
 
 ## Summary
 
@@ -24,6 +24,9 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 4 | 97 | Miami Dalé | 11 - 10 | Breckenridge Jazz Hands | 
 | 5 | 76 | New York Millennials | 11 - 10 | Charleston Shoe Thieves | 
 | 7 | 16 | Mexico City Wild Wings | 11 - 10 | Canada Moist Talkers | 
+| 9 | 31 | Chicago Firefighters | 11 - 10 | Boston Flowers | 
+| 9 | 52 | New York Millennials | 11 - 10 | Philly Pies | 
+| 9 | 83 | San Francisco Lovers | 11 - 10 | Houston Spies | 
 | 1 | 37 | Seattle Garages | 10 - 9 | Miami Dalé | 
 | 1 | 78 | Kansas City Breath Mints | 10 - 9 | Los Angeles Tacos | 
 | 1 | 99 | Kansas City Breath Mints | 10 - 9 | Boston Flowers | 
@@ -32,8 +35,5 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 3 | 41 | Breckenridge Jazz Hands | 10 - 9 | Mexico City Wild Wings | 
 | 3 | 69 | Yellowstone Magic | 10 - 9 | New York Millennials | 
 | 3 | 95 | Houston Spies | 10 - 9 | Seattle Garages | 
-| 4 | 56 | Boston Flowers | 10 - 9 | Charleston Shoe Thieves | 
-| 4 | 63 | San Francisco Lovers | 10 - 9 | Kansas City Breath Mints | 
-| 4 | 67 | Kansas City Breath Mints | 10 - 9 | Charleston Shoe Thieves | 
 
 

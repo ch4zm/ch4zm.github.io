@@ -1,5 +1,5 @@
 # Lovers Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -17,11 +17,13 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 6          | 1          | 37, 38, 39, 40, 41, 42 |
 | Lovers                         | 6          | 2          | 27, 28, 29, 30, 31, 32 |
 | Lovers                         | 6          | 2          | 38, 39, 40, 41, 42, 43 |
+| Lovers                         | 6          | 9          | 73, 74, 75, 76, 77, 78 |
 | Lovers                         | 5          | 2          | 79, 80, 81, 82, 83 |
 | Lovers                         | 5          | 2          | 91, 92, 93, 94, 95 |
 | Lovers                         | 5          | 3          | 82, 83, 84, 85, 86 |
 | Lovers                         | 5          | 7          | 82, 83, 84, 85, 86 |
 | Lovers                         | 5          | 8          | 36, 37, 38, 39, 40 |
+| Lovers                         | 5          | 9          | 36, 37, 38, 39, 40 |
 | Lovers                         | 4          | 1          | 19, 20, 21, 22 |
 | Lovers                         | 4          | 1          | 24, 25, 26, 27 |
 | Lovers                         | 4          | 1          | 74, 75, 76, 77 |
@@ -33,6 +35,8 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 5          | 44, 45, 46, 47 |
 | Lovers                         | 4          | 5          | 51, 52, 53, 54 |
 | Lovers                         | 4          | 6          | 87, 88, 89, 90 |
+| Lovers                         | 4          | 9          | 11, 12, 13, 14 |
+| Lovers                         | 4          | 9          | 62, 63, 64, 65 |
 
 
 
@@ -143,6 +147,18 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Lovers |
+| ----- |
+| Season 9 Games 72, 73, 74, 75, 76, 77 |
+| G1: Season 9 Game 73: Lovers 2  @  9 Jazz Hands |
+| G2: Season 9 Game 74: Lovers 3  @  4 Jazz Hands |
+| G3: Season 9 Game 75: Lovers 0  @  2 Jazz Hands |
+| G4: Season 9 Game 76: Lovers 4  @  5 Sunbeams |
+| G5: Season 9 Game 77: Lovers 3  @  6 Sunbeams |
+| G6: Season 9 Game 78: Lovers 3  @ 11 Sunbeams |
+
+<br />
+
 | 5 Game Losing Streak by the Lovers |
 | ----- |
 | Season 2 Games 78, 79, 80, 81, 82 |
@@ -195,6 +211,17 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 8 Game 38: Crabs 4  @  2 Lovers |
 | G4: Season 8 Game 39: Crabs 3  @  2 Lovers |
 | G5: Season 8 Game 40: Flowers 4  @  3 Lovers |
+
+<br />
+
+| 5 Game Losing Streak by the Lovers |
+| ----- |
+| Season 9 Games 35, 36, 37, 38, 39 |
+| G1: Season 9 Game 36: Lovers 1  @  2 Tacos |
+| G2: Season 9 Game 37: Lovers 4  @  6 Flowers |
+| G3: Season 9 Game 38: Lovers 9  @ 10 Flowers |
+| G4: Season 9 Game 39: Lovers 1  @  3 Flowers |
+| G5: Season 9 Game 40: Tacos 5  @  4 Lovers |
 
 <br />
 
@@ -305,6 +332,26 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 6 Game 88: Lovers 0  @  6 Firefighters |
 | G3: Season 6 Game 89: Lovers 5  @  7 Firefighters |
 | G4: Season 6 Game 90: Lovers 5  @  8 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Lovers |
+| ----- |
+| Season 9 Games 10, 11, 12, 13 |
+| G1: Season 9 Game 11: Tigers 7  @  4 Lovers |
+| G2: Season 9 Game 12: Tigers 3  @  2 Lovers |
+| G3: Season 9 Game 13: Lovers 3  @ 10 Jazz Hands |
+| G4: Season 9 Game 14: Lovers 3  @  4 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Lovers |
+| ----- |
+| Season 9 Games 61, 62, 63, 64 |
+| G1: Season 9 Game 62: Lovers 2  @  3 Wild Wings |
+| G2: Season 9 Game 63: Lovers 0  @  2 Wild Wings |
+| G3: Season 9 Game 64: Crabs 4  @  3 Lovers |
+| G4: Season 9 Game 65: Crabs 6  @  5 Lovers |
 
 
 

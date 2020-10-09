@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 8          | 3          | 5, 6, 7, 8, 9, 10, 11, 12 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
 | Shoe Thieves                   | 8          | 8          | 83, 84, 85, 86, 87, 88, 89, 90 |
+| Shoe Thieves                   | 8          | 9          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
 | Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
@@ -21,6 +22,7 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
 | Shoe Thieves                   | 5          | 7          | 80, 81, 82, 83, 84 |
+| Shoe Thieves                   | 5          | 9          | 65, 66, 67, 68, 69 |
 | Shoe Thieves                   | 4          | 1          | 7, 8, 9, 10 |
 | Shoe Thieves                   | 4          | 1          | 26, 27, 28, 29 |
 | Shoe Thieves                   | 4          | 1          | 57, 58, 59, 60 |
@@ -35,6 +37,13 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 4          | 5          | 92, 93, 94, 95 |
 | Shoe Thieves                   | 4          | 6          | 11, 12, 13, 14 |
 | Shoe Thieves                   | 4          | 6          | 34, 35, 36, 37 |
+| Shoe Thieves                   | 4          | 9          | 1, 2, 3, 4 |
+| Shoe Thieves                   | 4          | 9          | 7, 8, 9, 10 |
+| Shoe Thieves                   | 4          | 9          | 16, 17, 18, 19 |
+| Shoe Thieves                   | 4          | 9          | 49, 50, 51, 52 |
+| Shoe Thieves                   | 4          | 9          | 76, 77, 78, 79 |
+| Shoe Thieves                   | 4          | 9          | 86, 87, 88, 89 |
+| Shoe Thieves                   | 4          | 9          | 92, 93, 94, 95 |
 
 
 
@@ -85,6 +94,20 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G6: Season 8 Game 88: Magic 2  @ 10 Shoe Thieves |
 | G7: Season 8 Game 89: Magic 2  @  8 Shoe Thieves |
 | G8: Season 8 Game 90: Magic 1  @  4 Shoe Thieves |
+
+<br />
+
+| 8 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 35, 36, 37, 38, 39, 40, 41, 42 |
+| G1: Season 9 Game 36: Breath Mints 4  @  8 Shoe Thieves |
+| G2: Season 9 Game 37: Shoe Thieves 12 @  2 Fridays |
+| G3: Season 9 Game 38: Shoe Thieves 6  @  3 Fridays |
+| G4: Season 9 Game 39: Shoe Thieves 10 @  0 Fridays |
+| G5: Season 9 Game 40: Shoe Thieves 8  @  3 Magic |
+| G6: Season 9 Game 41: Shoe Thieves 3  @  2 Magic |
+| G7: Season 9 Game 42: Shoe Thieves 4  @  1 Magic |
+| G8: Season 9 Game 43: Shoe Thieves 6  @  0 Magic |
 
 <br />
 
@@ -178,6 +201,17 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G3: Season 7 Game 82: Shoe Thieves 7  @  3 Steaks |
 | G4: Season 7 Game 83: Shoe Thieves 7  @  3 Steaks |
 | G5: Season 7 Game 84: Shoe Thieves 5  @  4 Steaks |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 64, 65, 66, 67, 68 |
+| G1: Season 9 Game 65: Moist Talkers 1  @  9 Shoe Thieves |
+| G2: Season 9 Game 66: Moist Talkers 4  @  5 Shoe Thieves |
+| G3: Season 9 Game 67: Shoe Thieves 7  @  4 Pies |
+| G4: Season 9 Game 68: Shoe Thieves 10 @  9 Pies |
+| G5: Season 9 Game 69: Shoe Thieves 12 @  5 Pies |
 
 <br />
 
@@ -318,6 +352,76 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G2: Season 6 Game 35: Shoe Thieves 4  @  3 Fridays |
 | G3: Season 6 Game 36: Shoe Thieves 9  @  2 Fridays |
 | G4: Season 6 Game 37: Garages 1  @  2 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 0, 1, 2, 3 |
+| G1: Season 9 Game 1: Shoe Thieves 16 @  1 Magic |
+| G2: Season 9 Game 2: Shoe Thieves 10 @  2 Magic |
+| G3: Season 9 Game 3: Shoe Thieves 12 @  7 Magic |
+| G4: Season 9 Game 4: Shoe Thieves 5  @  2 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 6, 7, 8, 9 |
+| G1: Season 9 Game 7: Shoe Thieves 8  @  0 Fridays |
+| G2: Season 9 Game 8: Shoe Thieves 2  @  0 Fridays |
+| G3: Season 9 Game 9: Shoe Thieves 3  @  2 Fridays |
+| G4: Season 9 Game 10: Wild Wings 2  @  3 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 15, 16, 17, 18 |
+| G1: Season 9 Game 16: Shoe Thieves 6  @  0 Magic |
+| G2: Season 9 Game 17: Shoe Thieves 6  @  0 Magic |
+| G3: Season 9 Game 18: Shoe Thieves 8  @  4 Magic |
+| G4: Season 9 Game 19: Tigers 0  @  4 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 48, 49, 50, 51 |
+| G1: Season 9 Game 49: Shoe Thieves 8  @  3 Breath Mints |
+| G2: Season 9 Game 50: Shoe Thieves 6  @  2 Breath Mints |
+| G3: Season 9 Game 51: Shoe Thieves 8  @  1 Breath Mints |
+| G4: Season 9 Game 52: Shoe Thieves 8  @  1 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 75, 76, 77, 78 |
+| G1: Season 9 Game 76: Magic 0  @  3 Shoe Thieves |
+| G2: Season 9 Game 77: Magic 4  @  8 Shoe Thieves |
+| G3: Season 9 Game 78: Magic 1  @  5 Shoe Thieves |
+| G4: Season 9 Game 79: Shoe Thieves 6  @  1 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 85, 86, 87, 88 |
+| G1: Season 9 Game 86: Shoe Thieves 7  @  6 Moist Talkers |
+| G2: Season 9 Game 87: Shoe Thieves 6  @  0 Moist Talkers |
+| G3: Season 9 Game 88: Fridays 4  @  7 Shoe Thieves |
+| G4: Season 9 Game 89: Fridays 0  @  5 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 91, 92, 93, 94 |
+| G1: Season 9 Game 92: Shoe Thieves 3  @  2 Breath Mints |
+| G2: Season 9 Game 93: Shoe Thieves 9  @  8 Breath Mints |
+| G3: Season 9 Game 94: Shoe Thieves 7  @  4 Spies |
+| G4: Season 9 Game 95: Shoe Thieves 6  @  4 Spies |
 
 
 

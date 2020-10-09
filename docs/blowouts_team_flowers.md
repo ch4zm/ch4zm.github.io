@@ -7,6 +7,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 9 | 30 | Hellmouth Sunbeams | 20 - 5 | Boston Flowers | 
 | 7 | 59 | Unlimited Tacos | 19 - 5 | Boston Flowers | 
 | 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
 | 1 | 16 | Boston Flowers | 18 - 0 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 27 | Boston Flowers | 14 - 4 | Miami Dalé | 
 | 7 | 52 | Houston Spies | 14 - 4 | Boston Flowers | 
 | 3 | 13 | Hawaii Fridays | 14 - 5 | Boston Flowers | 
-| 1 | 48 | Boston Flowers | 14 - 6 | Charleston Shoe Thieves | 
 
 

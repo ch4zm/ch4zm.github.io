@@ -24,13 +24,13 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 23 | Seattle Garages (45%) | 7 - 1 | Baltimore Crabs (55%) | 
 | 7 | 109* | San Francisco Lovers (43%) | 7 - 1 | Baltimore Crabs (57%) | 
 | 8 | 87 | Miami Dale (44%) | 7 - 1 | Baltimore Crabs (56%) | 
+| 9 | 45 | Chicago Firefighters (41%) | 7 - 1 | Baltimore Crabs (59%) | 
 | 3 | 67 | Baltimore Crabs (41%) | 6 - 0 | Breckenridge Jazz Hands (59%) | 
 | 5 | 55 | Baltimore Crabs (46%) | 6 - 0 | Philly Pies (54%) | 
+| 9 | 75 | Unlimited Tacos (34%) | 6 - 0 | Baltimore Crabs (66%) | 
 | 4 | 44 | Houston Spies (44%) | 10 - 5 | Baltimore Crabs (56%) | 
 | 8 | 83 | Chicago Firefighters (38%) | 9 - 4 | Baltimore Crabs (62%) | 
+| 9 | 49 | Boston Flowers (45%) | 8 - 3 | Baltimore Crabs (55%) | 
 | 3 | 16 | San Francisco Lovers (46%) | 7 - 2 | Baltimore Crabs (54%) | 
-| 2 | 53 | Baltimore Crabs (46%) | 6 - 1 | Breckenridge Jazz Hands (54%) | 
-| 4 | 10 | Baltimore Crabs (40%) | 6 - 1 | Mexico City Wild Wings (60%) | 
-| 8 | 32 | Breckenridge Jazz Hands (41%) | 6 - 1 | Baltimore Crabs (59%) | 
 
 

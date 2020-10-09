@@ -9,6 +9,8 @@ Maxed out games (high-scoring one-run games) for all time for team Tigers (note:
 | ------ |------ |------ |------ |------ |
 | 1 | 12 | Boston Flowers | 11 - 10 | Hades Tigers | 
 | 3 | 22 | Seattle Garages | 11 - 10 | Hades Tigers | 
+| 9 | 50 | Hades Tigers | 10 - 9 | Seattle Garages | 
+| 9 | 65 | New York Millennials | 10 - 9 | Hades Tigers | 
 | 6 | 69 | Canada Moist Talkers | 9 - 8 | Hades Tigers | 
 | 8 | 108* | Hades Tigers | 9 - 8 | Philly Pies | 
 | 2 | 62 | Philly Pies | 8 - 7 | Hades Tigers | 
@@ -17,6 +19,11 @@ Maxed out games (high-scoring one-run games) for all time for team Tigers (note:
 | 4 | 9 | Hades Tigers | 8 - 7 | Miami Dalé | 
 | 4 | 44 | Philly Pies | 8 - 7 | Hades Tigers | 
 | 7 | 12 | Hawaii Fridays | 8 - 7 | Hades Tigers | 
+| 9 | 7 | Hades Tigers | 8 - 7 | Yellowstone Magic | 
+| 9 | 9 | Hades Tigers | 8 - 7 | Yellowstone Magic | 
+| 9 | 32 | Hades Tigers | 8 - 7 | Dallas Steaks | 
+| 9 | 37 | Seattle Garages | 8 - 7 | Hades Tigers | 
+| 9 | 52 | Dallas Steaks | 8 - 7 | Hades Tigers | 
 | 1 | 6 | Baltimore Crabs | 7 - 6 | Hades Tigers | 
 | 1 | 92 | Hades Tigers | 7 - 6 | Miami Dalé | 
 | 1 | 96 | Hades Tigers | 7 - 6 | Philly Pies | 
@@ -25,12 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Tigers (note:
 | 5 | 14 | Hades Tigers | 7 - 6 | Breckenridge Jazz Hands | 
 | 5 | 29 | Philly Pies | 7 - 6 | Hades Tigers | 
 | 6 | 51 | Hades Tigers | 7 - 6 | Charleston Shoe Thieves | 
-| 7 | 32 | Canada Moist Talkers | 7 - 6 | Hades Tigers | 
-| 7 | 61 | Mexico City Wild Wings | 7 - 6 | Hades Tigers | 
-| 8 | 23 | Hades Tigers | 7 - 6 | Canada Moist Talkers | 
-| 8 | 40 | Hades Tigers | 7 - 6 | Yellowstone Magic | 
-| 1 | 70 | Breckenridge Jazz Hands | 6 - 5 | Hades Tigers | 
-| 1 | 77 | Houston Spies | 6 - 5 | Hades Tigers | 
-| 2 | 7 | Hades Tigers | 6 - 5 | Philly Pies | 
 
 

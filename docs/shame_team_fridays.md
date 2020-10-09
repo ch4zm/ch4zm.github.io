@@ -15,6 +15,7 @@ Shame games (games where the loser was shamed) for all time for team Fridays (no
 | 4 | 5 | Hawaii Fridays | 10 - 7 | San Francisco Lovers | 
 | 4 | 91 | Hawaii Fridays | 9 - 6 | Kansas City Breath Mints | 
 | 3 | 57 | New York Millennials | 7 - 4 | Hawaii Fridays | 
+| 9 | 99 | Kansas City Breath Mints | 5 - 2 | Hawai'i Fridays | 
 | 1 | 73 | Hawaii Fridays | 4 - 1 | New York Millennials | 
 | 3 | 68 | Charleston Shoe Thieves | 4 - 1 | Hawaii Fridays | 
 | 3 | 94 | Hawaii Fridays | 15 - 13 | New York Millennials | 
@@ -30,7 +31,6 @@ Shame games (games where the loser was shamed) for all time for team Fridays (no
 | 3 | 97 | Charleston Shoe Thieves | 6 - 4 | Hawaii Fridays | 
 | 7 | 85 | Hawaii Fridays | 6 - 4 | Philly Pies | 
 | 8 | 80 | Yellowstone Magic | 6 - 4 | Hawaii Fridays | 
-| 2 | 73 | Hawaii Fridays | 5 - 3 | Los Angeles Tacos | 
-| 6 | 51 | Dallas Steaks | 5 - 3 | Hawaii Fridays | 
+| 9 | 24 | Philly Pies | 6 - 4 | Hawaii Fridays | 
 
 

@@ -1,5 +1,5 @@
 # Tacos Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -10,6 +10,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Tacos                          | 6          | 9          | 59, 60, 61, 62, 63, 64 |
 | Tacos                          | 5          | 2          | 32, 33, 34, 35, 36 |
 | Tacos                          | 5          | 4          | 53, 54, 55, 56, 57 |
 | Tacos                          | 5          | 8          | 10, 11, 12, 13, 14 |
@@ -19,6 +20,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 7          | 1, 2, 3, 4 |
 | Tacos                          | 4          | 7          | 86, 87, 88, 89 |
 | Tacos                          | 4          | 8          | 5, 6, 7, 8 |
+| Tacos                          | 4          | 9          | 79, 80, 81, 82 |
 
 
 
@@ -29,6 +31,18 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Tacos versus all teams for all time
+
+| 6 Game Winning Streak by the Tacos |
+| ----- |
+| Season 9 Games 58, 59, 60, 61, 62, 63 |
+| G1: Season 9 Game 59: Tacos 8  @  0 Sunbeams |
+| G2: Season 9 Game 60: Tacos 11 @  7 Sunbeams |
+| G3: Season 9 Game 61: Tacos 13 @  0 Fridays |
+| G4: Season 9 Game 62: Tacos 2  @  1 Fridays |
+| G5: Season 9 Game 63: Tacos 12 @  1 Fridays |
+| G6: Season 9 Game 64: Sunbeams 8  @ 10 Tacos |
+
+<br />
 
 | 5 Game Winning Streak by the Tacos |
 | ----- |
@@ -120,6 +134,16 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 8 Game 6: Firefighters 8  @  9 Tacos |
 | G3: Season 8 Game 7: Tacos 3  @  1 Jazz Hands |
 | G4: Season 8 Game 8: Tacos 5  @  4 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
+| Season 9 Games 78, 79, 80, 81 |
+| G1: Season 9 Game 79: Wild Wings 1  @  3 Tacos |
+| G2: Season 9 Game 80: Wild Wings 1  @  3 Tacos |
+| G3: Season 9 Game 81: Wild Wings 0  @  4 Tacos |
+| G4: Season 9 Game 82: Flowers 2  @  5 Tacos |
 
 
 

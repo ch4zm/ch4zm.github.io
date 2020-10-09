@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Steaks                         | 6          | 5          | 61, 62, 63, 64, 65, 66 |
+| Steaks                         | 6          | 9          | 88, 89, 90, 91, 92, 93 |
 | Steaks                         | 5          | 7          | 51, 52, 53, 54, 55 |
 | Steaks                         | 4          | 1          | 7, 8, 9, 10 |
 | Steaks                         | 4          | 1          | 26, 27, 28, 29 |
@@ -23,6 +24,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 6          | 75, 76, 77, 78 |
 | Steaks                         | 4          | 7          | 82, 83, 84, 85 |
 | Steaks                         | 4          | 8          | 62, 63, 64, 65 |
+| Steaks                         | 4          | 9          | 65, 66, 67, 68 |
 
 
 
@@ -57,6 +59,18 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G4: Season 5 Game 64: Steaks 2  @  5 Breath Mints |
 | G5: Season 5 Game 65: Steaks 4  @  6 Breath Mints |
 | G6: Season 5 Game 66: Steaks 4  @  5 Breath Mints |
+
+<br />
+
+| 6 Game Losing Streak by the Steaks |
+| ----- |
+| Season 9 Games 87, 88, 89, 90, 91, 92 |
+| G1: Season 9 Game 88: Steaks 4  @  6 Magic |
+| G2: Season 9 Game 89: Steaks 3  @  4 Magic |
+| G3: Season 9 Game 90: Steaks 3  @  6 Magic |
+| G4: Season 9 Game 91: Steaks 2  @  5 Millennials |
+| G5: Season 9 Game 92: Steaks 1  @  2 Millennials |
+| G6: Season 9 Game 93: Steaks 3  @  8 Millennials |
 
 <br />
 
@@ -168,6 +182,16 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 8 Game 63: Steaks 3  @  7 Breath Mints |
 | G3: Season 8 Game 64: Moist Talkers 7  @  1 Steaks |
 | G4: Season 8 Game 65: Moist Talkers 6  @  4 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 9 Games 64, 65, 66, 67 |
+| G1: Season 9 Game 65: Breath Mints 3  @  2 Steaks |
+| G2: Season 9 Game 66: Breath Mints 3  @  1 Steaks |
+| G3: Season 9 Game 67: Steaks 3  @  4 Fridays |
+| G4: Season 9 Game 68: Steaks 3  @  6 Fridays |
 
 
 

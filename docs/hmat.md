@@ -6,7 +6,7 @@ advertisements from Ch4zm.
 
 ## OLD SCHOOL TV SPOT
 
-This ad was found on an old VHS tape in a dusty cabinet.
+This vintage Hellmouth Anti-Tourism ad was found on an old VHS tape in a dusty cabinet.
 
 <video controls width=500>
 <source src="/mov/oldschool.mp4" type="video/mp4">

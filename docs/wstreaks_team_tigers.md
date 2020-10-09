@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -21,6 +21,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 7          | 3          | 47, 48, 49, 50, 51, 52, 53 |
 | Tigers                         | 7          | 4          | 14, 15, 16, 17, 18, 19, 20 |
 | Tigers                         | 7          | 4          | 69, 70, 71, 72, 73, 74, 75 |
+| Tigers                         | 7          | 9          | 66, 67, 68, 69, 70, 71, 72 |
 | Tigers                         | 6          | 1          | 71, 72, 73, 74, 75, 76 |
 | Tigers                         | 6          | 1          | 95, 96, 97, 98, 99, 100 |
 | Tigers                         | 6          | 2          | 21, 22, 23, 24, 25, 26 |
@@ -29,6 +30,9 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 6          | 6          | 93, 94, 95, 96, 97, 98 |
 | Tigers                         | 6          | 8          | 22, 23, 24, 25, 26, 27 |
 | Tigers                         | 6          | 8          | 40, 41, 42, 43, 44, 45 |
+| Tigers                         | 6          | 9          | 11, 12, 13, 14, 15, 16 |
+| Tigers                         | 6          | 9          | 43, 44, 45, 46, 47, 48 |
+| Tigers                         | 6          | 9          | 78, 79, 80, 81, 82, 83 |
 | Tigers                         | 5          | 2          | 14, 15, 16, 17, 18 |
 | Tigers                         | 5          | 3          | 1, 2, 3, 4, 5 |
 | Tigers                         | 5          | 3          | 63, 64, 65, 66, 67 |
@@ -220,6 +224,19 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 <br />
 
+| 7 Game Winning Streak by the Tigers |
+| ----- |
+| Season 9 Games 65, 66, 67, 68, 69, 70, 71 |
+| G1: Season 9 Game 66: Tigers 7  @  5 Millennials |
+| G2: Season 9 Game 67: Tigers 7  @  2 Millennials |
+| G3: Season 9 Game 68: Tigers 10 @  2 Millennials |
+| G4: Season 9 Game 69: Tigers 6  @  4 Millennials |
+| G5: Season 9 Game 70: Tigers 7  @  1 Fridays |
+| G6: Season 9 Game 71: Tigers 6  @  2 Fridays |
+| G7: Season 9 Game 72: Tigers 15 @  2 Fridays |
+
+<br />
+
 | 6 Game Winning Streak by the Tigers |
 | ----- |
 | Season 1 Games 70, 71, 72, 73, 74, 75 |
@@ -313,6 +330,42 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G4: Season 8 Game 43: Tigers 6  @  1 Wild Wings |
 | G5: Season 8 Game 44: Tigers 7  @  1 Wild Wings |
 | G6: Season 8 Game 45: Tigers 9  @  0 Wild Wings |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 9 Games 10, 11, 12, 13, 14, 15 |
+| G1: Season 9 Game 11: Tigers 7  @  4 Lovers |
+| G2: Season 9 Game 12: Tigers 3  @  2 Lovers |
+| G3: Season 9 Game 13: Millennials 6  @  7 Tigers |
+| G4: Season 9 Game 14: Millennials 5  @  6 Tigers |
+| G5: Season 9 Game 15: Millennials 3  @ 15 Tigers |
+| G6: Season 9 Game 16: Tigers 10 @  5 Breath Mints |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 9 Games 42, 43, 44, 45, 46, 47 |
+| G1: Season 9 Game 43: Moist Talkers 0  @  6 Tigers |
+| G2: Season 9 Game 44: Moist Talkers 5  @ 10 Tigers |
+| G3: Season 9 Game 45: Moist Talkers 2  @  3 Tigers |
+| G4: Season 9 Game 46: Breath Mints 1  @  4 Tigers |
+| G5: Season 9 Game 47: Breath Mints 3  @  5 Tigers |
+| G6: Season 9 Game 48: Breath Mints 4  @  5 Tigers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 9 Games 77, 78, 79, 80, 81, 82 |
+| G1: Season 9 Game 78: Pies 5  @  6 Tigers |
+| G2: Season 9 Game 79: Tigers 8  @  1 Fridays |
+| G3: Season 9 Game 80: Tigers 8  @  4 Fridays |
+| G4: Season 9 Game 81: Tigers 3  @  2 Fridays |
+| G5: Season 9 Game 82: Magic 3  @  7 Tigers |
+| G6: Season 9 Game 83: Magic 5  @  8 Tigers |
 
 <br />
 

@@ -14,6 +14,7 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 6 | 25 | Breckenridge Jazz Hands | 12 - 0 | New York Millennials | 
 | 7 | 61 | Breckenridge Jazz Hands | 12 - 0 | Unlimited Tacos | 
 | 5 | 43 | Breckenridge Jazz Hands | 11 - 0 | Hellmouth Sunbeams | 
+| 9 | 23 | Breckenridge Jazz Hands | 11 - 0 | Boston Flowers | 
 | 1 | 28 | Breckenridge Jazz Hands | 10 - 0 | Baltimore Crabs | 
 | 4 | 28 | Breckenridge Jazz Hands | 9 - 0 | Seattle Garages | 
 | 6 | 81 | San Francisco Lovers | 9 - 0 | Breckenridge Jazz Hands | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 4 | 7 | Breckenridge Jazz Hands | 6 - 0 | Philly Pies | 
 | 5 | 21 | Canada Moist Talkers | 6 - 0 | Breckenridge Jazz Hands | 
 | 5 | 81 | Philly Pies | 6 - 0 | Breckenridge Jazz Hands | 
-| 5 | 113* | Chicago Firefighters | 6 - 0 | Breckenridge Jazz Hands | 
 
 

@@ -18,7 +18,16 @@ Teaching schedule for Fall 2020: [Teaching](teaching.md)
 
 ## Hellmouth Anti-Tourism Ads
 
-Hellmouth Anti-Tourism Ads: [HMAT Ads](hmat.md)
+See the gallery of [Hellmouth Anti-Tourism Ads](hmat.md) that Ch4zm has created.
+
+## Other Hellmouth Ads
+
+See the gallery of [Other Hellmouth Ads](otherads.md) that Ch4zm has created.
+
+## Tillman at the Plate
+
+["Tillman at the Plate"](tillman.md) is a blaseball poem in the spirit of "Casey at the Bat",
+except it's about that no-good loser Tillman Henderson.
 
 ## Blaseball Tools
 

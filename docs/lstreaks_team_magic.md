@@ -1,5 +1,5 @@
 # Magic Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Magic                          | 12         | 8          | 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92 |
 | Magic                          | 8          | 8          | 38, 39, 40, 41, 42, 43, 44, 45 |
+| Magic                          | 8          | 9          | 72, 73, 74, 75, 76, 77, 78, 79 |
 | Magic                          | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Magic                          | 6          | 2          | 13, 14, 15, 16, 17, 18 |
 | Magic                          | 6          | 3          | 37, 38, 39, 40, 41, 42 |
@@ -20,12 +21,14 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 6          | 5          | 47, 48, 49, 50, 51, 52 |
 | Magic                          | 6          | 8          | 12, 13, 14, 15, 16, 17 |
 | Magic                          | 6          | 8          | 64, 65, 66, 67, 68, 69 |
+| Magic                          | 6          | 9          | 25, 26, 27, 28, 29, 30 |
 | Magic                          | 5          | 2          | 28, 29, 30, 31, 32 |
 | Magic                          | 5          | 4          | 50, 51, 52, 53, 54 |
 | Magic                          | 5          | 6          | 37, 38, 39, 40, 41 |
 | Magic                          | 5          | 6          | 61, 62, 63, 64, 65 |
 | Magic                          | 5          | 7          | 24, 25, 26, 27, 28 |
 | Magic                          | 5          | 7          | 53, 54, 55, 56, 57 |
+| Magic                          | 5          | 9          | 52, 53, 54, 55, 56 |
 | Magic                          | 4          | 1          | 57, 58, 59, 60 |
 | Magic                          | 4          | 2          | 44, 45, 46, 47 |
 | Magic                          | 4          | 2          | 62, 63, 64, 65 |
@@ -40,6 +43,8 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 8          | 19, 20, 21, 22 |
 | Magic                          | 4          | 8          | 49, 50, 51, 52 |
 | Magic                          | 4          | 8          | 74, 75, 76, 77 |
+| Magic                          | 4          | 9          | 40, 41, 42, 43 |
+| Magic                          | 4          | 9          | 47, 48, 49, 50 |
 
 
 
@@ -80,6 +85,20 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G6: Season 8 Game 43: Magic 1  @  4 Steaks |
 | G7: Season 8 Game 44: Magic 4  @  6 Steaks |
 | G8: Season 8 Game 45: Magic 2  @  4 Steaks |
+
+<br />
+
+| 8 Game Losing Streak by the Magic |
+| ----- |
+| Season 9 Games 71, 72, 73, 74, 75, 76, 77, 78 |
+| G1: Season 9 Game 72: Breath Mints 7  @  6 Magic |
+| G2: Season 9 Game 73: Magic 2  @  3 Breath Mints |
+| G3: Season 9 Game 74: Magic 3  @  4 Breath Mints |
+| G4: Season 9 Game 75: Magic 4  @  5 Breath Mints |
+| G5: Season 9 Game 76: Magic 0  @  3 Shoe Thieves |
+| G6: Season 9 Game 77: Magic 4  @  8 Shoe Thieves |
+| G7: Season 9 Game 78: Magic 1  @  5 Shoe Thieves |
+| G8: Season 9 Game 79: Shoe Thieves 6  @  1 Magic |
 
 <br />
 
@@ -179,6 +198,18 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Magic |
+| ----- |
+| Season 9 Games 24, 25, 26, 27, 28, 29 |
+| G1: Season 9 Game 25: Sunbeams 14 @  2 Magic |
+| G2: Season 9 Game 26: Sunbeams 6  @  2 Magic |
+| G3: Season 9 Game 27: Sunbeams 21 @  2 Magic |
+| G4: Season 9 Game 28: Garages 12 @  2 Magic |
+| G5: Season 9 Game 29: Garages 8  @  5 Magic |
+| G6: Season 9 Game 30: Garages 9  @  4 Magic |
+
+<br />
+
 | 5 Game Losing Streak by the Magic |
 | ----- |
 | Season 2 Games 27, 28, 29, 30, 31 |
@@ -242,6 +273,17 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G3: Season 7 Game 55: Magic 0  @  3 Firefighters |
 | G4: Season 7 Game 56: Magic 3  @  6 Firefighters |
 | G5: Season 7 Game 57: Magic 4  @  7 Firefighters |
+
+<br />
+
+| 5 Game Losing Streak by the Magic |
+| ----- |
+| Season 9 Games 51, 52, 53, 54, 55 |
+| G1: Season 9 Game 52: Magic 1  @  5 Breath Mints |
+| G2: Season 9 Game 53: Magic 2  @  3 Breath Mints |
+| G3: Season 9 Game 54: Magic 0  @  7 Breath Mints |
+| G4: Season 9 Game 55: Millennials 17 @  6 Magic |
+| G5: Season 9 Game 56: Millennials 8  @  1 Magic |
 
 <br />
 
@@ -382,6 +424,26 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 8 Game 75: Magic 8  @  9 Wild Wings |
 | G3: Season 8 Game 76: Pies 9  @  4 Magic |
 | G4: Season 8 Game 77: Pies 4  @  0 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 9 Games 39, 40, 41, 42 |
+| G1: Season 9 Game 40: Shoe Thieves 8  @  3 Magic |
+| G2: Season 9 Game 41: Shoe Thieves 3  @  2 Magic |
+| G3: Season 9 Game 42: Shoe Thieves 4  @  1 Magic |
+| G4: Season 9 Game 43: Shoe Thieves 6  @  0 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 9 Games 46, 47, 48, 49 |
+| G1: Season 9 Game 47: Dale 9  @  6 Magic |
+| G2: Season 9 Game 48: Dale 5  @  3 Magic |
+| G3: Season 9 Game 49: Moist Talkers 7  @  5 Magic |
+| G4: Season 9 Game 50: Moist Talkers 8  @  5 Magic |
 
 
 

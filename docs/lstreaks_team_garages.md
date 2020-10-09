@@ -1,5 +1,5 @@
 # Garages Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -29,6 +29,8 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 3          | 77, 78, 82, 83 |
 | Garages                        | 4          | 3          | 95, 96, 97, 98 |
 | Garages                        | 4          | 7          | 17, 18, 19, 20 |
+| Garages                        | 4          | 9          | 77, 78, 79, 80 |
+| Garages                        | 4          | 9          | 95, 96, 97, 98 |
 
 
 
@@ -247,6 +249,26 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 7 Game 18: Garages 1  @  3 Tigers |
 | G3: Season 7 Game 19: Garages 1  @  6 Steaks |
 | G4: Season 7 Game 20: Garages 2  @  5 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 9 Games 76, 77, 78, 79 |
+| G1: Season 9 Game 77: Breath Mints 4  @  2 Garages |
+| G2: Season 9 Game 78: Breath Mints 5  @  3 Garages |
+| G3: Season 9 Game 79: Breath Mints 5  @  2 Garages |
+| G4: Season 9 Game 80: Breath Mints 4  @  3 Garages |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 9 Games 94, 95, 96, 97 |
+| G1: Season 9 Game 95: Garages 3  @  9 Tigers |
+| G2: Season 9 Game 96: Garages 7  @ 11 Tigers |
+| G3: Season 9 Game 97: Garages 3  @  5 Steaks |
+| G4: Season 9 Game 98: Garages 1  @  4 Steaks |
 
 
 

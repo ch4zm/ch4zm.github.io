@@ -7,6 +7,7 @@ Shame games (games where the loser was shamed) for all time for team Flowers (no
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 9 | 46 | Boston Flowers | 10 - 5 | Unlimited Tacos | 
 | 5 | 80 | Boston Flowers | 8 - 3 | Charleston Shoe Thieves | 
 | 3 | 11 | Boston Flowers | 10 - 6 | Kansas City Breath Mints | 
 | 3 | 37 | Boston Flowers | 7 - 3 | Yellowstone Magic | 
@@ -30,7 +31,6 @@ Shame games (games where the loser was shamed) for all time for team Flowers (no
 | 7 | 43 | Boston Flowers | 8 - 6 | Hellmouth Sunbeams | 
 | 1 | 20 | Boston Flowers | 7 - 5 | Hawaii Fridays | 
 | 3 | 42 | Kansas City Breath Mints | 7 - 5 | Boston Flowers | 
-| 2 | 77 | Hawaii Fridays | 6 - 4 | Boston Flowers | 
-| 5 | 24 | Yellowstone Magic | 6 - 4 | Boston Flowers | 
+| 9 | 86 | Baltimore Crabs | 7 - 5 | Boston Flowers | 
 
 

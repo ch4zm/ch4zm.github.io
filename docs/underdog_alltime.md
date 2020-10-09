@@ -1,5 +1,5 @@
 # All-Time Underdog Wins
-(Through season 8)
+(Through season 9)
 
 ## Summary
 
@@ -26,6 +26,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 90 | Hawaii Fridays (46%) | 15 - 4 | Yellowstone Magic (54%) | 
 | 2 | 5 | Breckenridge Jazz Hands (36%) | 14 - 3 | Canada Moist Talkers (64%) | 
 | 2 | 40 | Yellowstone Magic (37%) | 14 - 3 | Chicago Firefighters (63%) | 
+| 9 | 7 | Unlimited Tacos (38%) | 14 - 3 | Miami Dale (62%) | 
+| 9 | 67 | Yellowstone Magic (42%) | 13 - 2 | Seattle Garages (58%) | 
 | 3 | 26 | Kansas City Breath Mints (44%) | 12 - 1 | San Francisco Lovers (56%) | 
 | 6 | 98 | Unlimited Tacos (44%) | 14 - 4 | Hellmouth Sunbeams (56%) | 
 | 1 | 22 | Miami Dalé (43%) | 13 - 3 | Hades Tigers (57%) | 
@@ -33,7 +35,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 10 | Breckenridge Jazz Hands (42%) | 13 - 3 | Hellmouth Sunbeams (58%) | 
 | 2 | 29 | Hellmouth Sunbeams (41%) | 13 - 3 | Canada Moist Talkers (59%) | 
 | 5 | 62 | Boston Flowers (43%) | 13 - 3 | Hawaii Fridays (57%) | 
-| 5 | 72 | Miami Dalé (42%) | 13 - 3 | Yellowstone Magic (58%) | 
-| 1 | 86 | Breckenridge Jazz Hands (45%) | 12 - 2 | Mexico City Wild Wings (55%) | 
 
 

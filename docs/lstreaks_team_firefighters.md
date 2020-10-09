@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -11,6 +11,8 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
+| Firefighters                   | 9          | 9          | 9, 10, 11, 12, 13, 14, 15, 16, 17 |
+| Firefighters                   | 8          | 9          | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Firefighters                   | 6          | 1          | 47, 48, 49, 50, 51, 52 |
 | Firefighters                   | 6          | 8          | 11, 12, 13, 14, 15, 16 |
 | Firefighters                   | 6          | 8          | 59, 60, 61, 62, 63, 64 |
@@ -34,6 +36,7 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 4          | 7          | 89, 90, 91, 92 |
 | Firefighters                   | 4          | 8          | 5, 6, 7, 8 |
 | Firefighters                   | 4          | 8          | 54, 55, 56, 57 |
+| Firefighters                   | 4          | 9          | 51, 52, 53, 54 |
 
 
 
@@ -57,6 +60,35 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G7: Season 3 Game 57: Steaks 9  @  0 Firefighters |
 | G8: Season 3 Game 58: Firefighters 0  @  3 Tacos |
 | G9: Season 3 Game 59: Firefighters 0  @  7 Tacos |
+
+<br />
+
+| 9 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 9 Games 8, 9, 10, 11, 12, 13, 14, 15, 16 |
+| G1: Season 9 Game 9: Firefighters 5  @ 10 Jazz Hands |
+| G2: Season 9 Game 10: Firefighters 0  @  3 Spies |
+| G3: Season 9 Game 11: Firefighters 0  @  8 Spies |
+| G4: Season 9 Game 12: Firefighters 4  @  5 Spies |
+| G5: Season 9 Game 13: Firefighters 7  @ 10 Crabs |
+| G6: Season 9 Game 14: Firefighters 5  @  8 Crabs |
+| G7: Season 9 Game 15: Firefighters 1  @  3 Crabs |
+| G8: Season 9 Game 16: Wild Wings 3  @  2 Firefighters |
+| G9: Season 9 Game 17: Wild Wings 2  @  1 Firefighters |
+
+<br />
+
+| 8 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 9 Games 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 9 Game 75: Firefighters 1  @  2 Wild Wings |
+| G2: Season 9 Game 76: Crabs 5  @  1 Firefighters |
+| G3: Season 9 Game 77: Crabs 5  @  1 Firefighters |
+| G4: Season 9 Game 78: Crabs 7  @  2 Firefighters |
+| G5: Season 9 Game 79: Firefighters 2  @  7 Spies |
+| G6: Season 9 Game 80: Firefighters 10 @ 12 Spies |
+| G7: Season 9 Game 81: Firefighters 0  @  2 Spies |
+| G8: Season 9 Game 82: Jazz Hands 10 @  6 Firefighters |
 
 <br />
 
@@ -300,6 +332,16 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G2: Season 8 Game 55: Firefighters 2  @  4 Crabs |
 | G3: Season 8 Game 56: Firefighters 3  @  5 Crabs |
 | G4: Season 8 Game 57: Firefighters 3  @  6 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 9 Games 50, 51, 52, 53 |
+| G1: Season 9 Game 51: Firefighters 1  @  2 Wild Wings |
+| G2: Season 9 Game 52: Lovers 2  @  1 Firefighters |
+| G3: Season 9 Game 53: Lovers 2  @  1 Firefighters |
+| G4: Season 9 Game 54: Lovers 4  @  1 Firefighters |
 
 
 

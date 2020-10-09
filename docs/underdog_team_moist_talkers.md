@@ -24,13 +24,13 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 7 | Canada Moist Talkers (43%) | 7 - 0 | Hellmouth Sunbeams (57%) | 
 | 7 | 17 | Mexico City Wild Wings (45%) | 7 - 0 | Canada Moist Talkers (55%) | 
 | 5 | 69 | Canada Moist Talkers (39%) | 12 - 6 | Breckenridge Jazz Hands (61%) | 
+| 9 | 29 | Canada Moist Talkers (38%) | 12 - 6 | Charleston Shoe Thieves (62%) | 
 | 1 | 46 | Canada Moist Talkers (40%) | 10 - 4 | Hades Tigers (60%) | 
 | 1 | 76 | Canada Moist Talkers (41%) | 10 - 4 | Breckenridge Jazz Hands (59%) | 
 | 1 | 97 | Canada Moist Talkers (45%) | 9 - 3 | Breckenridge Jazz Hands (55%) | 
 | 8 | 13 | Canada Moist Talkers (31%) | 9 - 3 | Mexico City Wild Wings (69%) | 
 | 5 | 65 | Miami Dalé (43%) | 8 - 2 | Canada Moist Talkers (57%) | 
 | 6 | 62 | Canada Moist Talkers (40%) | 8 - 2 | Hades Tigers (60%) | 
-| 1 | 36 | Canada Moist Talkers (39%) | 7 - 1 | Baltimore Crabs (61%) | 
-| 3 | 27 | Houston Spies (39%) | 7 - 1 | Canada Moist Talkers (61%) | 
+| 9 | 71 | Canada Moist Talkers (43%) | 8 - 2 | New York Millennials (57%) | 
 
 

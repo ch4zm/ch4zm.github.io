@@ -9,6 +9,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | ------ |------ |------ |------ |------ |
 | 1 | 88 | Dallas Steaks (45%) | 15 - 2 | Chicago Firefighters (55%) | 
 | 3 | 15 | Dallas Steaks (42%) | 11 - 1 | Chicago Firefighters (58%) | 
+| 9 | 18 | Hawaii Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
 | 8 | 83 | Dallas Steaks (40%) | 12 - 3 | Mexico City Wild Wings (60%) | 
 | 8 | 1 | Seattle Garages (42%) | 10 - 1 | Dallas Steaks (58%) | 
 | 3 | 32 | Dallas Steaks (45%) | 11 - 4 | San Francisco Lovers (55%) | 
@@ -19,18 +20,17 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 93 | Charleston Shoe Thieves (45%) | 17 - 11 | Dallas Steaks (55%) | 
 | 4 | 29 | Hellmouth Sunbeams (43%) | 12 - 6 | Dallas Steaks (57%) | 
 | 6 | 37 | Dallas Steaks (46%) | 12 - 6 | Hades Tigers (54%) | 
+| 9 | 22 | Yellowstone Magic (35%) | 10 - 4 | Dallas Steaks (65%) | 
 | 6 | 34 | Dallas Steaks (45%) | 9 - 3 | Kansas City Breath Mints (55%) | 
+| 9 | 14 | Dallas Steaks (43%) | 9 - 3 | Seattle Garages (57%) | 
 | 7 | 77 | Dallas Steaks (39%) | 8 - 2 | Mexico City Wild Wings (61%) | 
+| 9 | 49 | Dallas Steaks (41%) | 8 - 2 | New York Millennials (59%) | 
 | 4 | 48 | Unlimited Tacos (41%) | 7 - 1 | Dallas Steaks (59%) | 
 | 8 | 64 | Canada Moist Talkers (45%) | 7 - 1 | Dallas Steaks (55%) | 
+| 9 | 78 | Dallas Steaks (43%) | 7 - 1 | Canada Moist Talkers (57%) | 
 | 8 | 42 | Kansas City Breath Mints (45%) | 11 - 6 | Dallas Steaks (55%) | 
 | 1 | 100* | Chicago Firefighters (43%) | 10 - 5 | Dallas Steaks (57%) | 
 | 1 | 17 | Los Angeles Tacos (42%) | 7 - 2 | Dallas Steaks (58%) | 
 | 6 | 23 | Hawaii Fridays (39%) | 7 - 2 | Dallas Steaks (61%) | 
-| 6 | 57 | Hawaii Fridays (32%) | 7 - 2 | Dallas Steaks (68%) | 
-| 7 | 40 | Yellowstone Magic (46%) | 7 - 2 | Dallas Steaks (54%) | 
-| 7 | 51 | Hades Tigers (44%) | 7 - 2 | Dallas Steaks (56%) | 
-| 8 | 96 | Dallas Steaks (46%) | 7 - 2 | Philly Pies (54%) | 
-| 3 | 40 | Chicago Firefighters (36%) | 6 - 1 | Dallas Steaks (64%) | 
 
 

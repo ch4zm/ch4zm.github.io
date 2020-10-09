@@ -1,5 +1,5 @@
 # Pies Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -24,6 +24,10 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 5          | 4          | 17, 18, 19, 20, 21 |
 | Pies                           | 5          | 6          | 3, 4, 5, 6, 7 |
 | Pies                           | 5          | 8          | 70, 71, 72, 73, 74 |
+| Pies                           | 5          | 9          | 30, 31, 32, 33, 34 |
+| Pies                           | 5          | 9          | 73, 74, 75, 76, 77 |
+| Pies                           | 5          | 9          | 79, 80, 81, 82, 83 |
+| Pies                           | 5          | 9          | 86, 87, 88, 89, 90 |
 | Pies                           | 4          | 1          | 66, 67, 68, 69 |
 | Pies                           | 4          | 2          | 51, 52, 53, 54 |
 | Pies                           | 4          | 2          | 66, 67, 68, 69 |
@@ -38,6 +42,8 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 8          | 61, 62, 63, 64 |
 | Pies                           | 4          | 8          | 88, 89, 90, 91 |
 | Pies                           | 4          | 8          | 99, 100, 101, 102 |
+| Pies                           | 4          | 9          | 48, 49, 50, 51 |
+| Pies                           | 4          | 9          | 53, 54, 55, 56 |
 
 
 
@@ -216,6 +222,50 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 29, 30, 31, 32, 33 |
+| G1: Season 9 Game 30: Pies 4  @  2 Breath Mints |
+| G2: Season 9 Game 31: Pies 6  @  4 Fridays |
+| G3: Season 9 Game 32: Pies 9  @  3 Fridays |
+| G4: Season 9 Game 33: Pies 14 @  2 Fridays |
+| G5: Season 9 Game 34: Steaks 4  @  5 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 72, 73, 74, 75, 76 |
+| G1: Season 9 Game 73: Fridays 3  @  4 Pies |
+| G2: Season 9 Game 74: Fridays 2  @  4 Pies |
+| G3: Season 9 Game 75: Fridays 0  @ 10 Pies |
+| G4: Season 9 Game 76: Pies 8  @  4 Tigers |
+| G5: Season 9 Game 77: Pies 7  @  5 Tigers |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 78, 79, 80, 81, 82 |
+| G1: Season 9 Game 79: Pies 9  @  6 Steaks |
+| G2: Season 9 Game 80: Pies 8  @  1 Steaks |
+| G3: Season 9 Game 81: Pies 8  @  6 Steaks |
+| G4: Season 9 Game 82: Millennials 1  @  4 Pies |
+| G5: Season 9 Game 83: Millennials 8  @ 10 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 85, 86, 87, 88, 89 |
+| G1: Season 9 Game 86: Pies 8  @  3 Firefighters |
+| G2: Season 9 Game 87: Pies 6  @  2 Firefighters |
+| G3: Season 9 Game 88: Pies 6  @  1 Moist Talkers |
+| G4: Season 9 Game 89: Pies 9  @  2 Moist Talkers |
+| G5: Season 9 Game 90: Pies 9  @  0 Moist Talkers |
+
+<br />
+
 | 4 Game Winning Streak by the Pies |
 | ----- |
 | Season 1 Games 65, 66, 67, 68 |
@@ -353,6 +403,26 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 8 Game 100: Pies 7  @  3 Garages |
 | G3: Season 8 Game 101: Garages 0  @  4 Pies |
 | G4: Season 8 Game 102: Pies 5  @  4 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 47, 48, 49, 50 |
+| G1: Season 9 Game 48: Pies 8  @  4 Steaks |
+| G2: Season 9 Game 49: Pies 3  @  1 Fridays |
+| G3: Season 9 Game 50: Pies 2  @  1 Fridays |
+| G4: Season 9 Game 51: Pies 4  @  0 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 9 Games 52, 53, 54, 55 |
+| G1: Season 9 Game 53: Pies 13 @  3 Millennials |
+| G2: Season 9 Game 54: Pies 14 @  3 Millennials |
+| G3: Season 9 Game 55: Pies 5  @  3 Fridays |
+| G4: Season 9 Game 56: Pies 8  @  0 Fridays |
 
 
 

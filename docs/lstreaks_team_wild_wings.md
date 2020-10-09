@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 11         | 4          | 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20 |
 | Wild Wings                     | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Wild Wings                     | 7          | 8          | 41, 42, 43, 44, 45, 46, 47 |
+| Wild Wings                     | 7          | 9          | 78, 79, 80, 81, 82, 83, 84 |
 | Wild Wings                     | 6          | 3          | 9, 10, 11, 12, 13, 14 |
 | Wild Wings                     | 6          | 3          | 43, 44, 45, 46, 47, 48 |
 | Wild Wings                     | 6          | 8          | 83, 84, 85, 86, 87, 88 |
@@ -21,6 +22,7 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 5          | 6          | 28, 29, 30, 31, 32 |
 | Wild Wings                     | 5          | 6          | 54, 55, 56, 57, 58 |
 | Wild Wings                     | 5          | 7          | 45, 46, 47, 48, 49 |
+| Wild Wings                     | 5          | 9          | 90, 91, 92, 93, 94 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
 | Wild Wings                     | 4          | 1          | 93, 94, 95, 96 |
@@ -35,6 +37,10 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 6          | 66, 67, 68, 69 |
 | Wild Wings                     | 4          | 7          | 9, 10, 11, 12 |
 | Wild Wings                     | 4          | 7          | 70, 71, 72, 73 |
+| Wild Wings                     | 4          | 9          | 22, 23, 24, 25 |
+| Wild Wings                     | 4          | 9          | 31, 32, 33, 34 |
+| Wild Wings                     | 4          | 9          | 47, 48, 49, 50 |
+| Wild Wings                     | 4          | 9          | 67, 68, 69, 70 |
 
 
 
@@ -87,6 +93,19 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G5: Season 8 Game 45: Tigers 9  @  0 Wild Wings |
 | G6: Season 8 Game 46: Wild Wings 1  @  3 Shoe Thieves |
 | G7: Season 8 Game 47: Wild Wings 0  @  7 Shoe Thieves |
+
+<br />
+
+| 7 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 77, 78, 79, 80, 81, 82, 83 |
+| G1: Season 9 Game 78: Wild Wings 3  @  5 Flowers |
+| G2: Season 9 Game 79: Wild Wings 1  @  3 Tacos |
+| G3: Season 9 Game 80: Wild Wings 1  @  3 Tacos |
+| G4: Season 9 Game 81: Wild Wings 0  @  4 Tacos |
+| G5: Season 9 Game 82: Crabs 12 @  0 Wild Wings |
+| G6: Season 9 Game 83: Crabs 2  @  1 Wild Wings |
+| G7: Season 9 Game 84: Crabs 8  @  3 Wild Wings |
 
 <br />
 
@@ -178,6 +197,17 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 7 Game 47: Wild Wings 0  @  5 Magic |
 | G4: Season 7 Game 48: Wild Wings 3  @  9 Magic |
 | G5: Season 7 Game 49: Wild Wings 3  @  5 Pies |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 89, 90, 91, 92, 93 |
+| G1: Season 9 Game 90: Crabs 7  @  2 Wild Wings |
+| G2: Season 9 Game 91: Crabs 3  @  2 Wild Wings |
+| G3: Season 9 Game 92: Crabs 3  @  2 Wild Wings |
+| G4: Season 9 Game 93: Crabs 4  @  3 Wild Wings |
+| G5: Season 9 Game 94: Jazz Hands 10 @  2 Wild Wings |
 
 <br />
 
@@ -318,6 +348,46 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 7 Game 71: Steaks 15 @  2 Wild Wings |
 | G3: Season 7 Game 72: Steaks 11 @  9 Wild Wings |
 | G4: Season 7 Game 73: Breath Mints 2  @  1 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 21, 22, 23, 24 |
+| G1: Season 9 Game 22: Spies 6  @  2 Wild Wings |
+| G2: Season 9 Game 23: Spies 6  @  0 Wild Wings |
+| G3: Season 9 Game 24: Spies 8  @  1 Wild Wings |
+| G4: Season 9 Game 25: Wild Wings 5  @  9 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 30, 31, 32, 33 |
+| G1: Season 9 Game 31: Wild Wings 2  @  3 Crabs |
+| G2: Season 9 Game 32: Wild Wings 8  @ 11 Crabs |
+| G3: Season 9 Game 33: Wild Wings 0  @  6 Crabs |
+| G4: Season 9 Game 34: Firefighters 3  @  1 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 46, 47, 48, 49 |
+| G1: Season 9 Game 47: Jazz Hands 7  @  1 Wild Wings |
+| G2: Season 9 Game 48: Jazz Hands 5  @  3 Wild Wings |
+| G3: Season 9 Game 49: Firefighters 11 @  5 Wild Wings |
+| G4: Season 9 Game 50: Firefighters 7  @  3 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 9 Games 66, 67, 68, 69 |
+| G1: Season 9 Game 67: Crabs 7  @  0 Wild Wings |
+| G2: Season 9 Game 68: Crabs 6  @  1 Wild Wings |
+| G3: Season 9 Game 69: Crabs 8  @  0 Wild Wings |
+| G4: Season 9 Game 70: Firefighters 8  @  4 Wild Wings |
 
 
 

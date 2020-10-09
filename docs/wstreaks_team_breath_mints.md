@@ -1,5 +1,5 @@
 # Breath Mints Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -18,11 +18,13 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 6          | 6          | 14, 15, 16, 17, 18, 22 |
 | Breath Mints                   | 6          | 6          | 27, 28, 29, 30, 31, 32 |
 | Breath Mints                   | 6          | 7          | 8, 9, 10, 11, 12, 13 |
+| Breath Mints                   | 6          | 9          | 5, 6, 7, 8, 9, 10 |
 | Breath Mints                   | 5          | 1          | 84, 85, 86, 87, 88 |
 | Breath Mints                   | 5          | 3          | 16, 17, 18, 19, 20 |
 | Breath Mints                   | 5          | 4          | 64, 65, 66, 67, 68 |
 | Breath Mints                   | 5          | 6          | 74, 75, 76, 77, 78 |
 | Breath Mints                   | 5          | 7          | 47, 48, 49, 50, 51 |
+| Breath Mints                   | 5          | 9          | 20, 21, 22, 23, 24 |
 | Breath Mints                   | 4          | 1          | 19, 20, 21, 22 |
 | Breath Mints                   | 4          | 3          | 7, 8, 9, 10 |
 | Breath Mints                   | 4          | 4          | 35, 36, 37, 38 |
@@ -32,6 +34,8 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 4          | 7          | 75, 76, 77, 78 |
 | Breath Mints                   | 4          | 7          | 88, 89, 90, 91 |
 | Breath Mints                   | 4          | 7          | 93, 94, 95, 96 |
+| Breath Mints                   | 4          | 9          | 72, 73, 74, 75 |
+| Breath Mints                   | 4          | 9          | 77, 78, 79, 80 |
 
 
 
@@ -142,6 +146,18 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 
 <br />
 
+| 6 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 4, 5, 6, 7, 8, 9 |
+| G1: Season 9 Game 5: Shoe Thieves 4  @  6 Breath Mints |
+| G2: Season 9 Game 6: Shoe Thieves 1  @  2 Breath Mints |
+| G3: Season 9 Game 7: Breath Mints 10 @  9 Millennials |
+| G4: Season 9 Game 8: Breath Mints 6  @  4 Millennials |
+| G5: Season 9 Game 9: Breath Mints 7  @  3 Millennials |
+| G6: Season 9 Game 10: Flowers 1  @  3 Breath Mints |
+
+<br />
+
 | 5 Game Winning Streak by the Breath Mints |
 | ----- |
 | Season 1 Games 83, 84, 85, 86, 87 |
@@ -194,6 +210,17 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G3: Season 7 Game 49: Moist Talkers 1  @  2 Breath Mints |
 | G4: Season 7 Game 50: Moist Talkers 5  @  8 Breath Mints |
 | G5: Season 7 Game 51: Moist Talkers 2  @  3 Breath Mints |
+
+<br />
+
+| 5 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 19, 20, 21, 22, 23 |
+| G1: Season 9 Game 20: Breath Mints 4  @  1 Fridays |
+| G2: Season 9 Game 21: Breath Mints 5  @  4 Fridays |
+| G3: Season 9 Game 22: Shoe Thieves 0  @  1 Breath Mints |
+| G4: Season 9 Game 23: Shoe Thieves 2  @  3 Breath Mints |
+| G5: Season 9 Game 24: Shoe Thieves 0  @  1 Breath Mints |
 
 <br />
 
@@ -284,6 +311,26 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G2: Season 7 Game 94: Garages 1  @  4 Breath Mints |
 | G3: Season 7 Game 95: Garages 2  @  5 Breath Mints |
 | G4: Season 7 Game 96: Garages 4  @  5 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 71, 72, 73, 74 |
+| G1: Season 9 Game 72: Breath Mints 7  @  6 Magic |
+| G2: Season 9 Game 73: Magic 2  @  3 Breath Mints |
+| G3: Season 9 Game 74: Magic 3  @  4 Breath Mints |
+| G4: Season 9 Game 75: Magic 4  @  5 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 9 Games 76, 77, 78, 79 |
+| G1: Season 9 Game 77: Breath Mints 4  @  2 Garages |
+| G2: Season 9 Game 78: Breath Mints 5  @  3 Garages |
+| G3: Season 9 Game 79: Breath Mints 5  @  2 Garages |
+| G4: Season 9 Game 80: Breath Mints 4  @  3 Garages |
 
 
 

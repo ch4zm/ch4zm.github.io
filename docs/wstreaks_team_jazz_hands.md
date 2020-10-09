@@ -1,5 +1,5 @@
 # Jazz Hands Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 

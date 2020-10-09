@@ -1,5 +1,5 @@
 # Sunbeams Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -17,6 +17,7 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 7          | 1          | 33, 34, 35, 36, 37, 38, 39 |
 | Sunbeams                       | 7          | 5          | 81, 82, 83, 84, 85, 86, 87 |
 | Sunbeams                       | 7          | 7          | 9, 10, 11, 12, 13, 14, 15 |
+| Sunbeams                       | 7          | 9          | 36, 37, 38, 39, 40, 41, 42 |
 | Sunbeams                       | 6          | 3          | 36, 37, 38, 39, 43, 44 |
 | Sunbeams                       | 6          | 3          | 81, 82, 83, 84, 85, 86 |
 | Sunbeams                       | 5          | 2          | 36, 37, 38, 39, 40 |
@@ -143,6 +144,19 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G5: Season 7 Game 13: Sunbeams 5  @ 11 Jazz Hands |
 | G6: Season 7 Game 14: Sunbeams 0  @  6 Jazz Hands |
 | G7: Season 7 Game 15: Sunbeams 1  @  7 Jazz Hands |
+
+<br />
+
+| 7 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 9 Games 35, 36, 37, 38, 39, 40, 41 |
+| G1: Season 9 Game 36: Crabs 9  @  0 Sunbeams |
+| G2: Season 9 Game 37: Crabs 10 @  3 Sunbeams |
+| G3: Season 9 Game 38: Crabs 5  @  2 Sunbeams |
+| G4: Season 9 Game 39: Crabs 8  @  2 Sunbeams |
+| G5: Season 9 Game 40: Crabs 14 @  0 Sunbeams |
+| G6: Season 9 Game 41: Crabs 8  @  2 Sunbeams |
+| G7: Season 9 Game 42: Crabs 6  @  1 Sunbeams |
 
 <br />
 

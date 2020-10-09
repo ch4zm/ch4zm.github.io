@@ -22,6 +22,8 @@ Maxed out games (high-scoring one-run games) for all time for team Steaks (note:
 | 6 | 58 | Hawaii Fridays | 8 - 7 | Dallas Steaks | 
 | 8 | 68 | Canada Moist Talkers | 8 - 7 | Dallas Steaks | 
 | 8 | 72 | Dallas Steaks | 8 - 7 | Charleston Shoe Thieves | 
+| 9 | 32 | Hades Tigers | 8 - 7 | Dallas Steaks | 
+| 9 | 52 | Dallas Steaks | 8 - 7 | Hades Tigers | 
 | 1 | 43 | Dallas Steaks | 7 - 6 | Charleston Shoe Thieves | 
 | 2 | 50 | New York Millennials | 7 - 6 | Dallas Steaks | 
 | 2 | 72 | Dallas Steaks | 7 - 6 | San Francisco Lovers | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Steaks (note:
 | 4 | 21 | Boston Flowers | 7 - 6 | Dallas Steaks | 
 | 5 | 48 | San Francisco Lovers | 7 - 6 | Dallas Steaks | 
 | 6 | 49 | Hawaii Fridays | 7 - 6 | Dallas Steaks | 
-| 7 | 24 | Dallas Steaks | 7 - 6 | Kansas City Breath Mints | 
-| 7 | 43 | Dallas Steaks | 7 - 6 | Canada Moist Talkers | 
 
 

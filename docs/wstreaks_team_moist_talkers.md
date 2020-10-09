@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -11,6 +11,8 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Moist Talkers                  | 7          | 3          | 60, 61, 62, 63, 64, 65, 66 |
+| Moist Talkers                  | 7          | 9          | 69, 70, 71, 72, 73, 74, 75 |
+| Moist Talkers                  | 7          | 9          | 79, 80, 81, 82, 83, 84, 85 |
 | Moist Talkers                  | 6          | 4          | 92, 93, 94, 95, 96, 97 |
 | Moist Talkers                  | 6          | 5          | 6, 7, 8, 9, 10, 11 |
 | Moist Talkers                  | 6          | 8          | 33, 34, 35, 36, 37, 38 |
@@ -56,6 +58,32 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G5: Season 3 Game 64: Garages 0  @  1 Moist Talkers |
 | G6: Season 3 Game 65: Garages 5  @  6 Moist Talkers |
 | G7: Season 3 Game 66: Garages 5  @  6 Moist Talkers |
+
+<br />
+
+| 7 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 9 Games 68, 69, 70, 71, 72, 73, 74 |
+| G1: Season 9 Game 69: Breath Mints 2  @  4 Moist Talkers |
+| G2: Season 9 Game 70: Millennials 3  @  5 Moist Talkers |
+| G3: Season 9 Game 71: Millennials 2  @  8 Moist Talkers |
+| G4: Season 9 Game 72: Millennials 3  @  4 Moist Talkers |
+| G5: Season 9 Game 73: Millennials 1  @  3 Moist Talkers |
+| G6: Season 9 Game 74: Millennials 4  @  5 Moist Talkers |
+| G7: Season 9 Game 75: Millennials 4  @  5 Moist Talkers |
+
+<br />
+
+| 7 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 9 Games 78, 79, 80, 81, 82, 83, 84 |
+| G1: Season 9 Game 79: Millennials 0  @  5 Moist Talkers |
+| G2: Season 9 Game 80: Millennials 2  @  5 Moist Talkers |
+| G3: Season 9 Game 81: Millennials 1  @  5 Moist Talkers |
+| G4: Season 9 Game 82: Moist Talkers 8  @  0 Fridays |
+| G5: Season 9 Game 83: Moist Talkers 6  @  1 Fridays |
+| G6: Season 9 Game 84: Moist Talkers 11 @  1 Fridays |
+| G7: Season 9 Game 85: Shoe Thieves 1  @  3 Moist Talkers |
 
 <br />
 

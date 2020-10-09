@@ -26,6 +26,8 @@
 
 * [Season 8 Defensive Games](defensive_season8.md)
 
+* [Season 9 Defensive Games](defensive_season9.md)
+
 ## By Team
 
 * [Breath Mints Defensive Games Summary](defensive_team_breath_mints.md)

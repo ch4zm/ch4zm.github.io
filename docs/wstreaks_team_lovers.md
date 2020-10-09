@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -14,6 +14,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 9          | 5          | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
 | Lovers                         | 7          | 5          | 21, 22, 23, 24, 25, 26, 27 |
 | Lovers                         | 7          | 7          | 1, 2, 3, 4, 5, 6, 7 |
+| Lovers                         | 7          | 9          | 15, 16, 17, 18, 19, 20, 21 |
 | Lovers                         | 6          | 3          | 14, 15, 16, 17, 18, 19 |
 | Lovers                         | 6          | 3          | 43, 44, 45, 46, 47, 48 |
 | Lovers                         | 6          | 6          | 54, 55, 56, 57, 58, 59 |
@@ -39,6 +40,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 7          | 68, 69, 70, 71 |
 | Lovers                         | 4          | 7          | 78, 79, 80, 81 |
 | Lovers                         | 4          | 8          | 13, 14, 15, 16 |
+| Lovers                         | 4          | 9          | 94, 95, 96, 97 |
 
 
 
@@ -104,6 +106,19 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G5: Season 7 Game 5: Lovers 3  @  1 Millennials |
 | G6: Season 7 Game 6: Lovers 12 @  4 Millennials |
 | G7: Season 7 Game 7: Sunbeams 11 @ 14 Lovers |
+
+<br />
+
+| 7 Game Winning Streak by the Lovers |
+| ----- |
+| Season 9 Games 14, 15, 16, 17, 18, 19, 20 |
+| G1: Season 9 Game 15: Lovers 4  @  2 Jazz Hands |
+| G2: Season 9 Game 16: Tacos 4  @  6 Lovers |
+| G3: Season 9 Game 17: Tacos 3  @  6 Lovers |
+| G4: Season 9 Game 18: Tacos 5  @ 11 Lovers |
+| G5: Season 9 Game 19: Lovers 2  @  1 Firefighters |
+| G6: Season 9 Game 20: Lovers 10 @  0 Firefighters |
+| G7: Season 9 Game 21: Lovers 9  @  6 Firefighters |
 
 <br />
 
@@ -370,6 +385,16 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 8 Game 14: Firefighters 6  @  7 Lovers |
 | G3: Season 8 Game 15: Firefighters 2  @  3 Lovers |
 | G4: Season 8 Game 16: Firefighters -1 @  0 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 9 Games 93, 94, 95, 96 |
+| G1: Season 9 Game 94: Tacos 2  @ 11 Lovers |
+| G2: Season 9 Game 95: Tacos 4  @  7 Lovers |
+| G3: Season 9 Game 96: Tacos 2  @  5 Lovers |
+| G4: Season 9 Game 97: Wild Wings 2  @  5 Lovers |
 
 
 

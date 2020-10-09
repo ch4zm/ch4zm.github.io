@@ -1,5 +1,5 @@
 # Fridays Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -10,11 +10,14 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Fridays                        | 17         | 9          | 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85 |
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
 | Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
 | Fridays                        | 7          | 8          | 14, 15, 16, 17, 18, 19, 20 |
+| Fridays                        | 7          | 9          | 7, 8, 9, 10, 11, 12, 13 |
+| Fridays                        | 7          | 9          | 46, 47, 48, 49, 50, 51, 52 |
 | Fridays                        | 6          | 3          | 1, 2, 3, 4, 5, 6 |
 | Fridays                        | 6          | 4          | 7, 8, 9, 10, 11, 12 |
 | Fridays                        | 6          | 4          | 52, 53, 54, 55, 56, 57 |
@@ -23,6 +26,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 6          | 6          | 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 6          | 7          | 70, 71, 72, 73, 74, 75 |
 | Fridays                        | 6          | 8          | 69, 70, 71, 72, 73, 74 |
+| Fridays                        | 6          | 9          | 29, 30, 31, 32, 33, 34 |
 | Fridays                        | 5          | 2          | 30, 31, 32, 33, 34 |
 | Fridays                        | 5          | 2          | 81, 82, 83, 84, 85 |
 | Fridays                        | 5          | 3          | 21, 22, 23, 24, 25 |
@@ -45,6 +49,9 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 4          | 7          | 14, 15, 16, 17 |
 | Fridays                        | 4          | 8          | 5, 6, 7, 8 |
 | Fridays                        | 4          | 8          | 88, 89, 90, 91 |
+| Fridays                        | 4          | 9          | 24, 25, 26, 27 |
+| Fridays                        | 4          | 9          | 36, 37, 38, 39 |
+| Fridays                        | 4          | 9          | 60, 61, 62, 63 |
 
 
 
@@ -55,6 +62,29 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Fridays versus all teams for all time
+
+| 17 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 |
+| G1: Season 9 Game 69: Steaks 7  @  2 Fridays |
+| G2: Season 9 Game 70: Tigers 7  @  1 Fridays |
+| G3: Season 9 Game 71: Tigers 6  @  2 Fridays |
+| G4: Season 9 Game 72: Tigers 15 @  2 Fridays |
+| G5: Season 9 Game 73: Fridays 3  @  4 Pies |
+| G6: Season 9 Game 74: Fridays 2  @  4 Pies |
+| G7: Season 9 Game 75: Fridays 0  @ 10 Pies |
+| G8: Season 9 Game 76: Fridays 2  @  3 Millennials |
+| G9: Season 9 Game 77: Fridays 4  @  8 Millennials |
+| G10: Season 9 Game 78: Fridays 0  @  7 Millennials |
+| G11: Season 9 Game 79: Tigers 8  @  1 Fridays |
+| G12: Season 9 Game 80: Tigers 8  @  4 Fridays |
+| G13: Season 9 Game 81: Tigers 3  @  2 Fridays |
+| G14: Season 9 Game 82: Moist Talkers 8  @  0 Fridays |
+| G15: Season 9 Game 83: Moist Talkers 6  @  1 Fridays |
+| G16: Season 9 Game 84: Moist Talkers 11 @  1 Fridays |
+| G17: Season 9 Game 85: Fridays 1  @  2 Steaks |
+
+<br />
 
 | 14 Game Losing Streak by the Fridays |
 | ----- |
@@ -127,6 +157,32 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G5: Season 8 Game 18: Fridays 1  @  3 Wild Wings |
 | G6: Season 8 Game 19: Wild Wings 12 @  4 Fridays |
 | G7: Season 8 Game 20: Wild Wings 9  @  4 Fridays |
+
+<br />
+
+| 7 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 6, 7, 8, 9, 10, 11, 12 |
+| G1: Season 9 Game 7: Shoe Thieves 8  @  0 Fridays |
+| G2: Season 9 Game 8: Shoe Thieves 2  @  0 Fridays |
+| G3: Season 9 Game 9: Shoe Thieves 3  @  2 Fridays |
+| G4: Season 9 Game 10: Millennials 9  @  8 Fridays |
+| G5: Season 9 Game 11: Millennials 5  @  1 Fridays |
+| G6: Season 9 Game 12: Millennials 8  @  1 Fridays |
+| G7: Season 9 Game 13: Moist Talkers 6  @  4 Fridays |
+
+<br />
+
+| 7 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 45, 46, 47, 48, 49, 50, 51 |
+| G1: Season 9 Game 46: Fridays 0  @  4 Garages |
+| G2: Season 9 Game 47: Fridays 3  @ 11 Garages |
+| G3: Season 9 Game 48: Fridays 3  @  7 Garages |
+| G4: Season 9 Game 49: Pies 3  @  1 Fridays |
+| G5: Season 9 Game 50: Pies 2  @  1 Fridays |
+| G6: Season 9 Game 51: Pies 4  @  0 Fridays |
+| G7: Season 9 Game 52: Shoe Thieves 8  @  1 Fridays |
 
 <br />
 
@@ -223,6 +279,18 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G4: Season 8 Game 72: Pies 5  @  4 Fridays |
 | G5: Season 8 Game 73: Fridays 1  @  4 Pies |
 | G6: Season 8 Game 74: Fridays 2  @  4 Pies |
+
+<br />
+
+| 6 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 28, 29, 30, 31, 32, 33 |
+| G1: Season 9 Game 29: Steaks 6  @  2 Fridays |
+| G2: Season 9 Game 30: Steaks 4  @  2 Fridays |
+| G3: Season 9 Game 31: Pies 6  @  4 Fridays |
+| G4: Season 9 Game 32: Pies 9  @  3 Fridays |
+| G5: Season 9 Game 33: Pies 14 @  2 Fridays |
+| G6: Season 9 Game 34: Fridays 0  @  7 Magic |
 
 <br />
 
@@ -455,6 +523,36 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G2: Season 8 Game 89: Pies 4  @  2 Fridays |
 | G3: Season 8 Game 90: Pies 9  @  4 Fridays |
 | G4: Season 8 Game 91: Garages 8  @  6 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 23, 24, 25, 26 |
+| G1: Season 9 Game 24: Fridays 4  @  6 Pies |
+| G2: Season 9 Game 25: Fridays 4  @  5 Steaks |
+| G3: Season 9 Game 26: Fridays 2  @  4 Steaks |
+| G4: Season 9 Game 27: Fridays 3  @  8 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 35, 36, 37, 38 |
+| G1: Season 9 Game 36: Fridays 8  @ 10 Magic |
+| G2: Season 9 Game 37: Shoe Thieves 12 @  2 Fridays |
+| G3: Season 9 Game 38: Shoe Thieves 6  @  3 Fridays |
+| G4: Season 9 Game 39: Shoe Thieves 10 @  0 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 59, 60, 61, 62 |
+| G1: Season 9 Game 60: Fridays 0  @  4 Pies |
+| G2: Season 9 Game 61: Tacos 13 @  0 Fridays |
+| G3: Season 9 Game 62: Tacos 2  @  1 Fridays |
+| G4: Season 9 Game 63: Tacos 12 @  1 Fridays |
 
 
 

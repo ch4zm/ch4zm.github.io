@@ -14,6 +14,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 40 | Yellowstone Magic (37%) | 14 - 3 | Chicago Firefighters (63%) | 
 | 3 | 46 | Hawaii Fridays (43%) | 12 - 2 | Chicago Firefighters (57%) | 
 | 3 | 15 | Dallas Steaks (42%) | 11 - 1 | Chicago Firefighters (58%) | 
+| 9 | 7 | Breckenridge Jazz Hands (38%) | 12 - 3 | Chicago Firefighters (62%) | 
 | 1 | 51 | Los Angeles Tacos (43%) | 10 - 2 | Chicago Firefighters (57%) | 
 | 7 | 39 | Boston Flowers (40%) | 9 - 1 | Chicago Firefighters (60%) | 
 | 5 | 93 | Kansas City Breath Mints (42%) | 8 - 0 | Chicago Firefighters (58%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 56 | Unlimited Tacos (39%) | 7 - 1 | Chicago Firefighters (61%) | 
 | 8 | 8 | Miami Dale (37%) | 7 - 1 | Chicago Firefighters (63%) | 
 | 8 | 85 | Breckenridge Jazz Hands (42%) | 7 - 1 | Chicago Firefighters (58%) | 
-| 7 | 88 | Chicago Firefighters (42%) | 6 - 0 | New York Millennials (58%) | 
 
 

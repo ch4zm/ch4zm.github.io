@@ -11,6 +11,7 @@ Shutout games (games where the loser had zero runs) for all time for team Flower
 | 5 | 95 | Boston Flowers | 14 - 0 | Kansas City Breath Mints | 
 | 2 | 1 | Boston Flowers | 13 - 0 | Charleston Shoe Thieves | 
 | 2 | 37 | Dallas Steaks | 11 - 0 | Boston Flowers | 
+| 9 | 23 | Breckenridge Jazz Hands | 11 - 0 | Boston Flowers | 
 | 1 | 41 | Boston Flowers | 10 - 0 | New York Millennials | 
 | 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
 | 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
@@ -24,13 +25,12 @@ Shutout games (games where the loser had zero runs) for all time for team Flower
 | 6 | 2 | Boston Flowers | 7 - 0 | Miami Dalé | 
 | 7 | 7 | Miami Dale | 7 - 0 | Boston Flowers | 
 | 7 | 82 | Miami Dale | 7 - 0 | Boston Flowers | 
+| 9 | 72 | Houston Spies | 7 - 0 | Boston Flowers | 
 | 3 | 4 | New York Millennials | 6 - 0 | Boston Flowers | 
 | 3 | 14 | Boston Flowers | 6 - 0 | Hawaii Fridays | 
 | 6 | 34 | Baltimore Crabs | 6 - 0 | Boston Flowers | 
 | 7 | 74 | Unlimited Tacos | 6 - 0 | Boston Flowers | 
-| 2 | 21 | Kansas City Breath Mints | 5 - 0 | Boston Flowers | 
-| 2 | 41 | Hellmouth Sunbeams | 5 - 0 | Boston Flowers | 
-| 3 | 65 | Boston Flowers | 5 - 0 | Dallas Steaks | 
-| 3 | 72 | Boston Flowers | 5 - 0 | Los Angeles Tacos | 
+| 9 | 3 | Hellmouth Sunbeams | 6 - 0 | Boston Flowers | 
+| 9 | 6 | Miami Dale | 6 - 0 | Boston Flowers | 
 
 

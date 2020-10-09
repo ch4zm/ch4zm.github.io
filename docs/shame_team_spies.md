@@ -18,6 +18,8 @@ Shame games (games where the loser was shamed) for all time for team Spies (note
 | 5 | 27 | Houston Spies | 6 - 3 | Seattle Garages | 
 | 2 | 29 | Houston Spies | 5 - 2 | Baltimore Crabs | 
 | 6 | 16 | Houston Spies | 5 - 2 | Boston Flowers | 
+| 9 | 84 | San Francisco Lovers | 4 - 1 | Houston Spies | 
+| 9 | 80 | Houston Spies | 12 - 10 | Chicago Firefighters | 
 | 4 | 34 | Houston Spies | 9 - 7 | Canada Moist Talkers | 
 | 1 | 2 | Houston Spies | 8 - 6 | Hades Tigers | 
 | 1 | 51 | Houston Spies | 8 - 6 | Breckenridge Jazz Hands | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Spies (note
 | 7 | 60 | Houston Spies | 6 - 4 | Hellmouth Sunbeams | 
 | 7 | 92 | New York Millennials | 6 - 4 | Houston Spies | 
 | 8 | 23 | Houston Spies | 6 - 4 | Breckenridge Jazz Hands | 
-| 8 | 72 | Miami Dale | 6 - 4 | Houston Spies | 
-| 3 | 14 | Hades Tigers | 5 - 3 | Houston Spies | 
 
 

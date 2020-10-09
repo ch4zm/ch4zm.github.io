@@ -10,6 +10,7 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 | 7 | 38 | San Francisco Lovers | 8 - 2 | New York Millennials | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 4 | 99 | Chicago Firefighters | 11 - 6 | New York Millennials | 
+| 9 | 93 | New York Millennials | 8 - 3 | Dallas Steaks | 
 | 1 | 84 | Los Angeles Tacos | 6 - 1 | New York Millennials | 
 | 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
 | 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Millennials
 | 3 | 30 | Charleston Shoe Thieves | 8 - 6 | New York Millennials | 
 | 3 | 64 | Charleston Shoe Thieves | 7 - 5 | New York Millennials | 
 | 7 | 72 | New York Millennials | 7 - 5 | Breckenridge Jazz Hands | 
-| 2 | 19 | Chicago Firefighters | 6 - 4 | New York Millennials | 
 
 

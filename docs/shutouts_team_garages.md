@@ -12,9 +12,12 @@ Shutout games (games where the loser had zero runs) for all time for team Garage
 | 6 | 43 | Seattle Garages | 12 - 0 | Yellowstone Magic | 
 | 6 | 92 | Seattle Garages | 12 - 0 | Hawaii Fridays | 
 | 6 | 95 | Seattle Garages | 11 - 0 | Charleston Shoe Thieves | 
+| 9 | 54 | Canada Moist Talkers | 11 - 0 | Seattle Garages | 
+| 9 | 72 | Dallas Steaks | 11 - 0 | Seattle Garages | 
 | 2 | 46 | Hellmouth Sunbeams | 10 - 0 | Seattle Garages | 
 | 6 | 45 | Seattle Garages | 10 - 0 | Yellowstone Magic | 
 | 8 | 79 | Hades Tigers | 10 - 0 | Seattle Garages | 
+| 9 | 35 | Seattle Garages | 10 - 0 | Canada Moist Talkers | 
 | 2 | 90 | Mexico City Wild Wings | 9 - 0 | Seattle Garages | 
 | 3 | 80 | Miami Dalé | 9 - 0 | Seattle Garages | 
 | 4 | 28 | Breckenridge Jazz Hands | 9 - 0 | Seattle Garages | 
@@ -29,8 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Garage
 | 6 | 80 | Hawaii Fridays | 7 - 0 | Seattle Garages | 
 | 7 | 79 | Seattle Garages | 7 - 0 | Hades Tigers | 
 | 8 | 39 | Philly Pies | 7 - 0 | Seattle Garages | 
-| 8 | 54 | Hades Tigers | 7 - 0 | Seattle Garages | 
-| 1 | 19 | Charleston Shoe Thieves | 6 - 0 | Seattle Garages | 
-| 5 | 12 | Philly Pies | 6 - 0 | Seattle Garages | 
 
 

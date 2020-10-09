@@ -1,5 +1,5 @@
 # Blaseball Postseason Maxed Out
-(Through season 8)
+(Through season 9)
 
 
 

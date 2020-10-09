@@ -8,6 +8,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 3 | 75 | Dallas Steaks | 20 - 6 | San Francisco Lovers | 
+| 9 | 58 | Hades Tigers | 20 - 6 | Dallas Steaks | 
 | 6 | 79 | Dallas Steaks | 19 - 13 | Canada Moist Talkers | 
 | 3 | 93 | Charleston Shoe Thieves | 17 - 11 | Dallas Steaks | 
 | 4 | 35 | Dallas Steaks | 17 - 12 | Unlimited Tacos | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 8 | 99 | Dallas Steaks | 13 - 5 | Yellowstone Magic | 
 | 1 | 60 | Dallas Steaks | 13 - 7 | Boston Flowers | 
 | 3 | 36 | Dallas Steaks | 13 - 8 | Kansas City Breath Mints | 
-| 6 | 56 | Dallas Steaks | 13 - 11 | Hawaii Fridays | 
 
 

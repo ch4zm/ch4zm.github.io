@@ -17,6 +17,7 @@ Shutout games (games where the loser had zero runs) for all time for team Dale (
 | 3 | 43 | Hades Tigers | 8 - 0 | Miami Dalé | 
 | 4 | 51 | Hades Tigers | 8 - 0 | Miami Dalé | 
 | 6 | 90 | Baltimore Crabs | 8 - 0 | Miami Dalé | 
+| 9 | 89 | Unlimited Tacos | 8 - 0 | Miami Dale | 
 | 1 | 63 | Hades Tigers | 7 - 0 | Miami Dalé | 
 | 2 | 4 | Miami Dalé | 7 - 0 | Seattle Garages | 
 | 4 | 29 | Miami Dalé | 7 - 0 | Houston Spies | 
@@ -26,11 +27,10 @@ Shutout games (games where the loser had zero runs) for all time for team Dale (
 | 7 | 7 | Miami Dale | 7 - 0 | Boston Flowers | 
 | 7 | 82 | Miami Dale | 7 - 0 | Boston Flowers | 
 | 8 | 30 | Unlimited Tacos | 7 - 0 | Miami Dale | 
+| 9 | 52 | Baltimore Crabs | 7 - 0 | Miami Dale | 
 | 2 | 86 | Miami Dalé | 6 - 0 | Breckenridge Jazz Hands | 
 | 5 | 5 | Miami Dalé | 6 - 0 | Mexico City Wild Wings | 
 | 6 | 17 | Miami Dalé | 6 - 0 | Unlimited Tacos | 
 | 7 | 32 | Miami Dale | 6 - 0 | Unlimited Tacos | 
-| 8 | 41 | Houston Spies | 6 - 0 | Miami Dale | 
-| 1 | 34 | Miami Dalé | 5 - 0 | Houston Spies | 
 
 

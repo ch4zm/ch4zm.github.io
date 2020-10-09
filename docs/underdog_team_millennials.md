@@ -16,6 +16,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 35 | New York Millennials (46%) | 10 - 2 | Houston Spies (54%) | 
 | 7 | 9 | New York Millennials (39%) | 10 - 2 | Baltimore Crabs (61%) | 
 | 2 | 8 | New York Millennials (37%) | 10 - 3 | Hawaii Fridays (63%) | 
+| 9 | 3 | Philly Pies (45%) | 10 - 3 | New York Millennials (55%) | 
 | 4 | 45 | Charleston Shoe Thieves (41%) | 9 - 2 | New York Millennials (59%) | 
 | 3 | 111* | Hades Tigers (44%) | 8 - 1 | New York Millennials (56%) | 
 | 6 | 91 | New York Millennials (44%) | 8 - 1 | Baltimore Crabs (56%) | 
@@ -29,8 +30,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 47 | Kansas City Breath Mints (43%) | 9 - 3 | New York Millennials (57%) | 
 | 1 | 35 | New York Millennials (44%) | 8 - 2 | Chicago Firefighters (56%) | 
 | 5 | 40 | Kansas City Breath Mints (43%) | 8 - 2 | New York Millennials (57%) | 
-| 1 | 49 | New York Millennials (41%) | 6 - 0 | Yellowstone Magic (59%) | 
-| 3 | 4 | New York Millennials (42%) | 6 - 0 | Boston Flowers (58%) | 
-| 6 | 17 | Breckenridge Jazz Hands (45%) | 6 - 0 | New York Millennials (55%) | 
+| 9 | 49 | Dallas Steaks (41%) | 8 - 2 | New York Millennials (59%) | 
+| 9 | 71 | Canada Moist Talkers (43%) | 8 - 2 | New York Millennials (57%) | 
 
 

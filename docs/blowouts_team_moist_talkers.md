@@ -11,6 +11,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 8 | 3 | Mexico City Wild Wings | 18 - 1 | Canada Moist Talkers | 
 | 2 | 96 | Canada Moist Talkers | 18 - 3 | Seattle Garages | 
 | 6 | 24 | Charleston Shoe Thieves | 18 - 7 | Canada Moist Talkers | 
+| 9 | 17 | Philly Pies | 18 - 7 | Canada Moist Talkers | 
 | 3 | 94 | Hades Tigers | 17 - 1 | Canada Moist Talkers | 
 | 4 | 44 | Miami Dalé | 17 - 3 | Canada Moist Talkers | 
 | 7 | 58 | Charleston Shoe Thieves | 17 - 4 | Canada Moist Talkers | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 26 | Mexico City Wild Wings | 13 - 2 | Canada Moist Talkers | 
 | 8 | 99 | Seattle Garages | 13 - 2 | Canada Moist Talkers | 
 | 2 | 29 | Hellmouth Sunbeams | 13 - 3 | Canada Moist Talkers | 
-| 7 | 78 | Kansas City Breath Mints | 13 - 3 | Canada Moist Talkers | 
 
 

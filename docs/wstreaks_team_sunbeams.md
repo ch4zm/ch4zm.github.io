@@ -1,5 +1,5 @@
 # Sunbeams Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Sunbeams                       | 8          | 8          | 15, 16, 17, 18, 19, 20, 21, 22 |
 | Sunbeams                       | 8          | 8          | 75, 76, 77, 78, 79, 80, 81, 82 |
+| Sunbeams                       | 8          | 9          | 45, 46, 47, 48, 49, 50, 51, 52 |
 | Sunbeams                       | 6          | 8          | 38, 39, 40, 41, 42, 43 |
 | Sunbeams                       | 5          | 1          | 14, 15, 16, 17, 18 |
 | Sunbeams                       | 5          | 1          | 80, 81, 85, 86, 87 |
@@ -25,6 +26,7 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 7          | 76, 77, 78, 79 |
 | Sunbeams                       | 4          | 7          | 88, 89, 90, 91 |
 | Sunbeams                       | 4          | 8          | 94, 95, 96, 97 |
+| Sunbeams                       | 4          | 9          | 69, 70, 71, 72 |
 
 
 
@@ -61,6 +63,20 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G6: Season 8 Game 80: Sunbeams 5  @  3 Dale |
 | G7: Season 8 Game 81: Sunbeams 13 @  3 Dale |
 | G8: Season 8 Game 82: Spies 7  @  8 Sunbeams |
+
+<br />
+
+| 8 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 9 Games 44, 45, 46, 47, 48, 49, 50, 51 |
+| G1: Season 9 Game 45: Jazz Hands 4  @  5 Sunbeams |
+| G2: Season 9 Game 46: Sunbeams 6  @  3 Moist Talkers |
+| G3: Season 9 Game 47: Sunbeams 6  @  2 Moist Talkers |
+| G4: Season 9 Game 48: Sunbeams 8  @  4 Moist Talkers |
+| G5: Season 9 Game 49: Sunbeams 7  @  1 Dale |
+| G6: Season 9 Game 50: Sunbeams 4  @  2 Dale |
+| G7: Season 9 Game 51: Sunbeams 6  @  4 Dale |
+| G8: Season 9 Game 52: Flowers 2  @  6 Sunbeams |
 
 <br />
 
@@ -195,6 +211,16 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 8 Game 95: Sunbeams 4  @  3 Lovers |
 | G3: Season 8 Game 96: Sunbeams 11 @  3 Lovers |
 | G4: Season 8 Game 97: Sunbeams 3  @  1 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 9 Games 68, 69, 70, 71 |
+| G1: Season 9 Game 69: Lovers 1  @  4 Sunbeams |
+| G2: Season 9 Game 70: Tacos 0  @  8 Sunbeams |
+| G3: Season 9 Game 71: Tacos 4  @  8 Sunbeams |
+| G4: Season 9 Game 72: Tacos 3  @  9 Sunbeams |
 
 
 

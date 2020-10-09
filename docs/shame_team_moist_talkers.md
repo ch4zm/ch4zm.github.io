@@ -25,12 +25,12 @@ Shame games (games where the loser was shamed) for all time for team Moist Talke
 | 2 | 20 | Canada Moist Talkers | 6 - 3 | Hellmouth Sunbeams | 
 | 6 | 87 | Canada Moist Talkers | 6 - 3 | Hades Tigers | 
 | 3 | 21 | Canada Moist Talkers | 5 - 2 | Philly Pies | 
+| 9 | 1 | Canada Moist Talkers | 5 - 2 | Hades Tigers | 
 | 4 | 34 | Houston Spies | 9 - 7 | Canada Moist Talkers | 
 | 1 | 14 | Canada Moist Talkers | 8 - 6 | Seattle Garages | 
 | 2 | 4 | Breckenridge Jazz Hands | 8 - 6 | Canada Moist Talkers | 
 | 5 | 71 | San Francisco Lovers | 7 - 5 | Canada Moist Talkers | 
 | 7 | 20 | Canada Moist Talkers | 7 - 5 | Mexico City Wild Wings | 
 | 7 | 48 | Kansas City Breath Mints | 7 - 5 | Canada Moist Talkers | 
-| 2 | 12 | Hades Tigers | 6 - 4 | Canada Moist Talkers | 
 
 

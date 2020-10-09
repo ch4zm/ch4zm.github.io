@@ -1,5 +1,5 @@
 # Garages Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -11,10 +11,12 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Garages                        | 11         | 8          | 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67 |
+| Garages                        | 11         | 9          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38 |
 | Garages                        | 9          | 8          | 8, 9, 10, 11, 12, 13, 14, 15, 16 |
 | Garages                        | 7          | 6          | 99, 100, 101, 102, 105, 106, 107 |
 | Garages                        | 6          | 1          | 60, 61, 62, 63, 64, 65 |
 | Garages                        | 6          | 5          | 89, 90, 91, 92, 93, 94 |
+| Garages                        | 6          | 9          | 89, 90, 91, 92, 93, 94 |
 | Garages                        | 5          | 2          | 78, 79, 80, 81, 82 |
 | Garages                        | 5          | 3          | 56, 57, 58, 59, 60 |
 | Garages                        | 5          | 4          | 63, 64, 65, 66, 67 |
@@ -35,6 +37,11 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 7          | 70, 71, 72, 73 |
 | Garages                        | 4          | 7          | 97, 98, 99, 100 |
 | Garages                        | 4          | 8          | 30, 31, 32, 33 |
+| Garages                        | 4          | 9          | 1, 2, 3, 4 |
+| Garages                        | 4          | 9          | 23, 24, 25, 26 |
+| Garages                        | 4          | 9          | 40, 41, 42, 43 |
+| Garages                        | 4          | 9          | 46, 47, 48, 49 |
+| Garages                        | 4          | 9          | 84, 85, 86, 87 |
 
 
 
@@ -60,6 +67,23 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G9: Season 8 Game 65: Shoe Thieves 5  @  7 Garages |
 | G10: Season 8 Game 66: Shoe Thieves 3  @  6 Garages |
 | G11: Season 8 Game 67: Pies 1  @  9 Garages |
+
+<br />
+
+| 11 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37 |
+| G1: Season 9 Game 28: Garages 12 @  2 Magic |
+| G2: Season 9 Game 29: Garages 8  @  5 Magic |
+| G3: Season 9 Game 30: Garages 9  @  4 Magic |
+| G4: Season 9 Game 31: Garages 3  @  1 Breath Mints |
+| G5: Season 9 Game 32: Garages 4  @  1 Breath Mints |
+| G6: Season 9 Game 33: Garages 13 @  6 Breath Mints |
+| G7: Season 9 Game 34: Garages 9  @  4 Moist Talkers |
+| G8: Season 9 Game 35: Garages 10 @  0 Moist Talkers |
+| G9: Season 9 Game 36: Garages 9  @  5 Moist Talkers |
+| G10: Season 9 Game 37: Tigers 7  @  8 Garages |
+| G11: Season 9 Game 38: Tigers 3  @  4 Garages |
 
 <br />
 
@@ -112,6 +136,18 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G4: Season 5 Game 92: Garages 3  @  2 Spies |
 | G5: Season 5 Game 93: Garages 1  @  0 Spies |
 | G6: Season 5 Game 94: Garages 5  @  3 Wild Wings |
+
+<br />
+
+| 6 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 88, 89, 90, 91, 92, 93 |
+| G1: Season 9 Game 89: Garages 3  @  1 Breath Mints |
+| G2: Season 9 Game 90: Garages 6  @  5 Breath Mints |
+| G3: Season 9 Game 91: Fridays 4  @  5 Garages |
+| G4: Season 9 Game 92: Fridays 0  @  5 Garages |
+| G5: Season 9 Game 93: Fridays 4  @  8 Garages |
+| G6: Season 9 Game 94: Garages 3  @  0 Tigers |
 
 <br />
 
@@ -322,6 +358,56 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 8 Game 31: Garages 7  @  6 Shoe Thieves |
 | G3: Season 8 Game 32: Garages 8  @  4 Shoe Thieves |
 | G4: Season 8 Game 33: Garages 2  @  1 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 0, 1, 2, 3 |
+| G1: Season 9 Game 1: Garages 3  @  0 Fridays |
+| G2: Season 9 Game 2: Garages 4  @  3 Fridays |
+| G3: Season 9 Game 3: Garages 2  @  1 Fridays |
+| G4: Season 9 Game 4: Tigers 4  @  5 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 22, 23, 24, 25 |
+| G1: Season 9 Game 23: Millennials 2  @  3 Garages |
+| G2: Season 9 Game 24: Millennials 3  @  7 Garages |
+| G3: Season 9 Game 25: Breath Mints 1  @  2 Garages |
+| G4: Season 9 Game 26: Breath Mints 7  @  8 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 39, 40, 41, 42 |
+| G1: Season 9 Game 40: Garages 7  @  2 Tigers |
+| G2: Season 9 Game 41: Garages 9  @  2 Tigers |
+| G3: Season 9 Game 42: Garages 4  @  3 Tigers |
+| G4: Season 9 Game 43: Steaks 2  @  6 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 45, 46, 47, 48 |
+| G1: Season 9 Game 46: Fridays 0  @  4 Garages |
+| G2: Season 9 Game 47: Fridays 3  @ 11 Garages |
+| G3: Season 9 Game 48: Fridays 3  @  7 Garages |
+| G4: Season 9 Game 49: Tigers 6  @  8 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 9 Games 83, 84, 85, 86 |
+| G1: Season 9 Game 84: Garages 3  @  2 Breath Mints |
+| G2: Season 9 Game 85: Tacos 3  @  5 Garages |
+| G3: Season 9 Game 86: Tacos 5  @  7 Garages |
+| G4: Season 9 Game 87: Tacos 3  @  9 Garages |
 
 
 

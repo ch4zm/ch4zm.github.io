@@ -1,5 +1,5 @@
 # Jazz Hands Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -27,6 +27,8 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 7          | 36, 37, 38, 39 |
 | Jazz Hands                     | 4          | 7          | 86, 87, 88, 89 |
 | Jazz Hands                     | 4          | 8          | 10, 11, 12, 13 |
+| Jazz Hands                     | 4          | 9          | 61, 62, 63, 64 |
+| Jazz Hands                     | 4          | 9          | 89, 90, 91, 92 |
 
 
 
@@ -224,6 +226,26 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 8 Game 11: Jazz Hands 2  @  3 Sunbeams |
 | G3: Season 8 Game 12: Jazz Hands 1  @  3 Sunbeams |
 | G4: Season 8 Game 13: Jazz Hands 5  @  6 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 9 Games 60, 61, 62, 63 |
+| G1: Season 9 Game 61: Jazz Hands 0  @  6 Spies |
+| G2: Season 9 Game 62: Jazz Hands 5  @  6 Spies |
+| G3: Season 9 Game 63: Jazz Hands 2  @  6 Spies |
+| G4: Season 9 Game 64: Jazz Hands 9  @ 10 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 9 Games 88, 89, 90, 91 |
+| G1: Season 9 Game 89: Jazz Hands 1  @  7 Spies |
+| G2: Season 9 Game 90: Jazz Hands 4  @  5 Spies |
+| G3: Season 9 Game 91: Jazz Hands 1  @  2 Sunbeams |
+| G4: Season 9 Game 92: Jazz Hands 7  @ 12 Sunbeams |
 
 
 

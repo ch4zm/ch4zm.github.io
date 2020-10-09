@@ -1,5 +1,5 @@
 # Blaseball Postseason Shame Runs
-(Through season 8)
+(Through season 9)
 
 
 

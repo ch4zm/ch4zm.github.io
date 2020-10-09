@@ -15,6 +15,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 42 | Mexico City Wild Wings (44%) | 10 - 2 | Breckenridge Jazz Hands (56%) | 
 | 2 | 67 | Hades Tigers (46%) | 8 - 0 | Mexico City Wild Wings (54%) | 
 | 1 | 59 | Moab Sunbeams (27%) | 13 - 6 | Mexico City Wild Wings (73%) | 
+| 9 | 52 | Mexico City Wild Wings (41%) | 12 - 5 | Breckenridge Jazz Hands (59%) | 
 | 1 | 7 | Houston Spies (38%) | 9 - 2 | Mexico City Wild Wings (62%) | 
 | 7 | 19 | Mexico City Wild Wings (45%) | 9 - 2 | Canada Moist Talkers (55%) | 
 | 1 | 37 | Hades Tigers (44%) | 8 - 1 | Mexico City Wild Wings (56%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 8 | 36 | Mexico City Wild Wings (44%) | 7 - 1 | Seattle Garages (56%) | 
 | 8 | 61 | Yellowstone Magic (42%) | 6 - 0 | Mexico City Wild Wings (58%) | 
 | 8 | 73 | Yellowstone Magic (46%) | 6 - 0 | Mexico City Wild Wings (54%) | 
-| 3 | 67 | Hellmouth Sunbeams (45%) | 10 - 5 | Mexico City Wild Wings (55%) | 
 
 

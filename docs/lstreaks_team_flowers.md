@@ -1,5 +1,5 @@
 # Flowers Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -21,6 +21,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 6          | 4          | 58, 59, 60, 61, 62, 63 |
 | Flowers                        | 6          | 8          | 41, 42, 43, 44, 45, 46 |
 | Flowers                        | 6          | 8          | 76, 77, 78, 79, 80, 81 |
+| Flowers                        | 6          | 9          | 58, 59, 60, 61, 62, 63 |
 | Flowers                        | 5          | 3          | 4, 5, 6, 7, 8 |
 | Flowers                        | 5          | 5          | 75, 76, 77, 78, 79 |
 | Flowers                        | 5          | 5          | 90, 91, 92, 93, 94 |
@@ -197,6 +198,18 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G4: Season 8 Game 79: Crabs 6  @  4 Flowers |
 | G5: Season 8 Game 80: Crabs 7  @  1 Flowers |
 | G6: Season 8 Game 81: Crabs 6  @  3 Flowers |
+
+<br />
+
+| 6 Game Losing Streak by the Flowers |
+| ----- |
+| Season 9 Games 57, 58, 59, 60, 61, 62 |
+| G1: Season 9 Game 58: Flowers 6  @  7 Crabs |
+| G2: Season 9 Game 59: Flowers 1  @  5 Crabs |
+| G3: Season 9 Game 60: Flowers 4  @  8 Crabs |
+| G4: Season 9 Game 61: Flowers 3  @  4 Crabs |
+| G5: Season 9 Game 62: Flowers 3  @  7 Crabs |
+| G6: Season 9 Game 63: Flowers 3  @  5 Crabs |
 
 <br />
 

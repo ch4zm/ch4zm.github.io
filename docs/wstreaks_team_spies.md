@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -12,11 +12,13 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Spies                          | 9          | 7          | 66, 67, 68, 69, 70, 71, 72, 73, 74 |
 | Spies                          | 8          | 8          | 64, 65, 66, 67, 68, 69, 70, 71 |
+| Spies                          | 8          | 9          | 41, 42, 43, 44, 45, 46, 47, 48 |
 | Spies                          | 6          | 1          | 66, 67, 68, 69, 73, 74 |
 | Spies                          | 6          | 8          | 48, 49, 50, 51, 52, 53 |
 | Spies                          | 5          | 1          | 37, 38, 39, 40, 41 |
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
 | Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
+| Spies                          | 5          | 9          | 21, 22, 23, 24, 25 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
@@ -27,6 +29,9 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 8          | 34, 35, 36, 37 |
 | Spies                          | 4          | 8          | 73, 74, 75, 76 |
 | Spies                          | 4          | 8          | 100, 101, 102, 104 |
+| Spies                          | 4          | 9          | 4, 5, 6, 7 |
+| Spies                          | 4          | 9          | 9, 10, 11, 12 |
+| Spies                          | 4          | 9          | 74, 75, 76, 77 |
 
 
 
@@ -64,6 +69,20 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G6: Season 8 Game 69: Tacos 0  @  2 Spies |
 | G7: Season 8 Game 70: Spies 3  @  1 Dale |
 | G8: Season 8 Game 71: Spies 6  @  5 Dale |
+
+<br />
+
+| 8 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 40, 41, 42, 43, 44, 45, 46, 47 |
+| G1: Season 9 Game 41: Jazz Hands 3  @  8 Spies |
+| G2: Season 9 Game 42: Jazz Hands 1  @  8 Spies |
+| G3: Season 9 Game 43: Tacos 0  @  5 Spies |
+| G4: Season 9 Game 44: Tacos 1  @  3 Spies |
+| G5: Season 9 Game 45: Tacos 4  @ 11 Spies |
+| G6: Season 9 Game 46: Spies 6  @  2 Lovers |
+| G7: Season 9 Game 47: Spies 1  @  0 Lovers |
+| G8: Season 9 Game 48: Spies 5  @  3 Lovers |
 
 <br />
 
@@ -121,6 +140,17 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 6 Game 14: Spies 10 @  6 Flowers |
 | G4: Season 6 Game 15: Spies 9  @  4 Flowers |
 | G5: Season 6 Game 16: Flowers 2  @  5 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 20, 21, 22, 23, 24 |
+| G1: Season 9 Game 21: Sunbeams 1  @  3 Spies |
+| G2: Season 9 Game 22: Spies 6  @  2 Wild Wings |
+| G3: Season 9 Game 23: Spies 6  @  0 Wild Wings |
+| G4: Season 9 Game 24: Spies 8  @  1 Wild Wings |
+| G5: Season 9 Game 25: Wild Wings 5  @  9 Spies |
 
 <br />
 
@@ -221,6 +251,36 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 8 Game 101: Sunbeams 2  @  7 Spies |
 | G3: Season 8 Game 102: Spies 5  @  2 Sunbeams |
 | G4: Season 8 Game 104: Spies 5  @  2 Crabs |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 3, 4, 5, 6 |
+| G1: Season 9 Game 4: Spies 15 @  2 Tacos |
+| G2: Season 9 Game 5: Spies 3  @  2 Tacos |
+| G3: Season 9 Game 6: Spies 10 @  2 Tacos |
+| G4: Season 9 Game 7: Spies 7  @  4 Wild Wings |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 8, 9, 10, 11 |
+| G1: Season 9 Game 9: Spies 7  @  3 Wild Wings |
+| G2: Season 9 Game 10: Firefighters 0  @  3 Spies |
+| G3: Season 9 Game 11: Firefighters 0  @  8 Spies |
+| G4: Season 9 Game 12: Firefighters 4  @  5 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 73, 74, 75, 76 |
+| G1: Season 9 Game 74: Dale 4  @  8 Spies |
+| G2: Season 9 Game 75: Dale 7  @ 10 Spies |
+| G3: Season 9 Game 76: Spies 7  @  6 Jazz Hands |
+| G4: Season 9 Game 77: Spies 6  @  3 Jazz Hands |
 
 
 

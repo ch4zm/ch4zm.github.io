@@ -1,5 +1,5 @@
 # Tacos Losing Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -14,9 +14,11 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 11         | 8          | 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Tacos                          | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Tacos                          | 10         | 6          | 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Tacos                          | 9          | 9          | 10, 11, 12, 13, 14, 15, 16, 17, 18 |
 | Tacos                          | 8          | 1          | 19, 20, 21, 22, 23, 24, 25, 26 |
 | Tacos                          | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Tacos                          | 8          | 5          | 75, 76, 77, 78, 79, 80, 81, 82 |
+| Tacos                          | 8          | 9          | 41, 42, 43, 44, 45, 46, 47, 48 |
 | Tacos                          | 7          | 1          | 28, 29, 30, 31, 32, 33, 34 |
 | Tacos                          | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
 | Tacos                          | 7          | 3          | 62, 63, 64, 65, 66, 67, 68 |
@@ -26,18 +28,21 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 7          | 7          | 24, 25, 26, 27, 28, 29, 30 |
 | Tacos                          | 7          | 7          | 65, 66, 67, 68, 69, 70, 71 |
 | Tacos                          | 7          | 8          | 38, 39, 40, 41, 42, 43, 44 |
+| Tacos                          | 7          | 9          | 20, 21, 22, 23, 24, 25, 26 |
 | Tacos                          | 6          | 1          | 74, 75, 76, 77, 78, 79 |
 | Tacos                          | 6          | 4          | 25, 26, 27, 28, 29, 30 |
 | Tacos                          | 6          | 4          | 38, 39, 40, 41, 42, 43 |
 | Tacos                          | 6          | 5          | 22, 23, 24, 25, 26, 27 |
 | Tacos                          | 6          | 6          | 21, 25, 26, 27, 28, 29 |
 | Tacos                          | 6          | 8          | 49, 50, 51, 52, 53, 54 |
+| Tacos                          | 6          | 9          | 83, 84, 85, 86, 87, 88 |
 | Tacos                          | 5          | 2          | 52, 53, 54, 55, 56 |
 | Tacos                          | 5          | 3          | 72, 73, 74, 75, 76 |
 | Tacos                          | 5          | 3          | 80, 81, 82, 83, 84 |
 | Tacos                          | 5          | 5          | 49, 50, 51, 52, 53 |
 | Tacos                          | 5          | 6          | 90, 91, 92, 93, 94 |
 | Tacos                          | 5          | 8          | 21, 22, 23, 24, 25 |
+| Tacos                          | 5          | 9          | 70, 71, 72, 73, 74 |
 | Tacos                          | 4          | 1          | 85, 86, 87, 88 |
 | Tacos                          | 4          | 2          | 6, 7, 8, 9 |
 | Tacos                          | 4          | 5          | 1, 2, 3, 4 |
@@ -50,6 +55,10 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 8          | 1, 2, 3, 4 |
 | Tacos                          | 4          | 8          | 15, 16, 17, 18 |
 | Tacos                          | 4          | 8          | 81, 82, 83, 84 |
+| Tacos                          | 4          | 9          | 3, 4, 5, 6 |
+| Tacos                          | 4          | 9          | 55, 56, 57, 58 |
+| Tacos                          | 4          | 9          | 65, 66, 67, 68 |
+| Tacos                          | 4          | 9          | 93, 94, 95, 96 |
 
 
 
@@ -130,6 +139,21 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 9 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 9, 10, 11, 12, 13, 14, 15, 16, 17 |
+| G1: Season 9 Game 10: Tacos 5  @ 15 Crabs |
+| G2: Season 9 Game 11: Tacos 2  @  8 Crabs |
+| G3: Season 9 Game 12: Tacos 4  @ 10 Crabs |
+| G4: Season 9 Game 13: Tacos 5  @  9 Flowers |
+| G5: Season 9 Game 14: Tacos 4  @  6 Flowers |
+| G6: Season 9 Game 15: Tacos 5  @  7 Flowers |
+| G7: Season 9 Game 16: Tacos 4  @  6 Lovers |
+| G8: Season 9 Game 17: Tacos 3  @  6 Lovers |
+| G9: Season 9 Game 18: Tacos 5  @ 11 Lovers |
+
+<br />
+
 | 8 Game Losing Streak by the Tacos |
 | ----- |
 | Season 1 Games 18, 19, 20, 21, 22, 23, 24, 25 |
@@ -169,6 +193,20 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G6: Season 5 Game 80: Millennials 10 @  1 Tacos |
 | G7: Season 5 Game 81: Millennials 4  @  2 Tacos |
 | G8: Season 5 Game 82: Spies 7  @  6 Tacos |
+
+<br />
+
+| 8 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 40, 41, 42, 43, 44, 45, 46, 47 |
+| G1: Season 9 Game 41: Tacos 5  @  7 Lovers |
+| G2: Season 9 Game 42: Tacos 5  @  6 Lovers |
+| G3: Season 9 Game 43: Tacos 0  @  5 Spies |
+| G4: Season 9 Game 44: Tacos 1  @  3 Spies |
+| G5: Season 9 Game 45: Tacos 4  @ 11 Spies |
+| G6: Season 9 Game 46: Tacos 5  @ 10 Flowers |
+| G7: Season 9 Game 47: Tacos 2  @  5 Flowers |
+| G8: Season 9 Game 48: Tacos 3  @  5 Flowers |
 
 <br />
 
@@ -289,6 +327,19 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 7 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 19, 20, 21, 22, 23, 24, 25 |
+| G1: Season 9 Game 20: Wild Wings 9  @  8 Tacos |
+| G2: Season 9 Game 21: Wild Wings 7  @  4 Tacos |
+| G3: Season 9 Game 22: Dale 5  @  1 Tacos |
+| G4: Season 9 Game 23: Dale 4  @  1 Tacos |
+| G5: Season 9 Game 24: Dale 8  @  7 Tacos |
+| G6: Season 9 Game 25: Jazz Hands 4  @  0 Tacos |
+| G7: Season 9 Game 26: Jazz Hands 6  @  3 Tacos |
+
+<br />
+
 | 6 Game Losing Streak by the Tacos |
 | ----- |
 | Season 1 Games 73, 74, 75, 76, 77, 78 |
@@ -361,6 +412,18 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 82, 83, 84, 85, 86, 87 |
+| G1: Season 9 Game 83: Flowers 14 @ 10 Tacos |
+| G2: Season 9 Game 84: Flowers 3  @  2 Tacos |
+| G3: Season 9 Game 85: Tacos 3  @  5 Garages |
+| G4: Season 9 Game 86: Tacos 5  @  7 Garages |
+| G5: Season 9 Game 87: Tacos 3  @  9 Garages |
+| G6: Season 9 Game 88: Tacos 6  @  7 Dale |
+
+<br />
+
 | 5 Game Losing Streak by the Tacos |
 | ----- |
 | Season 2 Games 51, 52, 53, 54, 55 |
@@ -424,6 +487,17 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G3: Season 8 Game 23: Crabs 3  @  2 Tacos |
 | G4: Season 8 Game 24: Crabs 4  @  1 Tacos |
 | G5: Season 8 Game 25: Tacos 2  @  3 Flowers |
+
+<br />
+
+| 5 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 69, 70, 71, 72, 73 |
+| G1: Season 9 Game 70: Tacos 0  @  8 Sunbeams |
+| G2: Season 9 Game 71: Tacos 4  @  8 Sunbeams |
+| G3: Season 9 Game 72: Tacos 3  @  9 Sunbeams |
+| G4: Season 9 Game 73: Tacos 3  @  7 Crabs |
+| G5: Season 9 Game 74: Tacos 0  @  9 Crabs |
 
 <br />
 
@@ -544,6 +618,46 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 8 Game 82: Tacos 2  @  8 Millennials |
 | G3: Season 8 Game 83: Tacos 4  @  6 Millennials |
 | G4: Season 8 Game 84: Tacos 6  @  8 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 2, 3, 4, 5 |
+| G1: Season 9 Game 3: Tacos 1  @  2 Dale |
+| G2: Season 9 Game 4: Spies 15 @  2 Tacos |
+| G3: Season 9 Game 5: Spies 3  @  2 Tacos |
+| G4: Season 9 Game 6: Spies 10 @  2 Tacos |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 54, 55, 56, 57 |
+| G1: Season 9 Game 55: Spies 8  @  2 Tacos |
+| G2: Season 9 Game 56: Spies 5  @  2 Tacos |
+| G3: Season 9 Game 57: Spies 9  @  3 Tacos |
+| G4: Season 9 Game 58: Tacos 4  @  5 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 64, 65, 66, 67 |
+| G1: Season 9 Game 65: Sunbeams 11 @  2 Tacos |
+| G2: Season 9 Game 66: Sunbeams 8  @  2 Tacos |
+| G3: Season 9 Game 67: Tacos 4  @  5 Firefighters |
+| G4: Season 9 Game 68: Tacos 2  @  9 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 9 Games 92, 93, 94, 95 |
+| G1: Season 9 Game 93: Flowers 9  @  5 Tacos |
+| G2: Season 9 Game 94: Tacos 2  @ 11 Lovers |
+| G3: Season 9 Game 95: Tacos 4  @  7 Lovers |
+| G4: Season 9 Game 96: Tacos 2  @  5 Lovers |
 
 
 

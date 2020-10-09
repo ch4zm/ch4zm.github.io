@@ -18,6 +18,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 99 | Seattle Garages | 17 - 3 | Philly Pies | 
 | 2 | 83 | Philly Pies | 16 - 0 | Seattle Garages | 
 | 6 | 87 | Seattle Garages | 15 - 3 | Philly Pies | 
+| 9 | 6 | Hades Tigers | 15 - 4 | Seattle Garages | 
 | 5 | 64 | Seattle Garages | 15 - 7 | Houston Spies | 
 | 5 | 50 | Hades Tigers | 15 - 8 | Seattle Garages | 
 | 5 | 28 | Seattle Garages | 15 - 9 | Miami Dalé | 
@@ -26,11 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 17 | Seattle Garages | 14 - 11 | Yellowstone Magic | 
 | 7 | 33 | Seattle Garages | 13 - 1 | Philly Pies | 
 | 8 | 99 | Seattle Garages | 13 - 2 | Canada Moist Talkers | 
+| 9 | 67 | Yellowstone Magic | 13 - 2 | Seattle Garages | 
 | 4 | 26 | Seattle Garages | 13 - 4 | Houston Spies | 
 | 4 | 53 | Seattle Garages | 13 - 4 | Dallas Steaks | 
+| 9 | 33 | Seattle Garages | 13 - 6 | Kansas City Breath Mints | 
 | 3 | 1 | Seattle Garages | 13 - 7 | Hellmouth Sunbeams | 
-| 8 | 71 | Hades Tigers | 13 - 7 | Seattle Garages | 
-| 3 | 16 | Breckenridge Jazz Hands | 13 - 9 | Seattle Garages | 
-| 6 | 43 | Seattle Garages | 12 - 0 | Yellowstone Magic | 
 
 

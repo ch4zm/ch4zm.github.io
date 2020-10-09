@@ -22,6 +22,8 @@ Shutout games (games where the loser had zero runs) for all time for team Magic 
 | 6 | 73 | Mexico City Wild Wings | 7 - 0 | Yellowstone Magic | 
 | 6 | 91 | Philly Pies | 7 - 0 | Yellowstone Magic | 
 | 8 | 67 | Mexico City Wild Wings | 7 - 0 | Yellowstone Magic | 
+| 9 | 34 | Yellowstone Magic | 7 - 0 | Hawaii Fridays | 
+| 9 | 54 | Kansas City Breath Mints | 7 - 0 | Yellowstone Magic | 
 | 1 | 49 | New York Millennials | 6 - 0 | Yellowstone Magic | 
 | 1 | 61 | Yellowstone Magic | 6 - 0 | New York Millennials | 
 | 4 | 25 | Yellowstone Magic | 6 - 0 | Unlimited Tacos | 
@@ -30,7 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Magic 
 | 5 | 76 | Yellowstone Magic | 6 - 0 | Hawaii Fridays | 
 | 6 | 77 | Hades Tigers | 6 - 0 | Yellowstone Magic | 
 | 6 | 82 | Hades Tigers | 6 - 0 | Yellowstone Magic | 
-| 8 | 61 | Yellowstone Magic | 6 - 0 | Mexico City Wild Wings | 
-| 8 | 73 | Yellowstone Magic | 6 - 0 | Mexico City Wild Wings | 
 
 

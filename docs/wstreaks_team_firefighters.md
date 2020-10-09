@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -45,6 +45,8 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 7          | 9, 10, 11, 12 |
 | Firefighters                   | 4          | 7          | 59, 60, 61, 62 |
 | Firefighters                   | 4          | 8          | 36, 37, 38, 39 |
+| Firefighters                   | 4          | 9          | 40, 41, 42, 43 |
+| Firefighters                   | 4          | 9          | 62, 63, 64, 65 |
 
 
 
@@ -444,6 +446,26 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 8 Game 37: Firefighters 5  @  0 Jazz Hands |
 | G3: Season 8 Game 38: Firefighters 12 @  9 Jazz Hands |
 | G4: Season 8 Game 39: Firefighters 3  @  2 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 9 Games 39, 40, 41, 42 |
+| G1: Season 9 Game 40: Firefighters 3  @  1 Wild Wings |
+| G2: Season 9 Game 41: Firefighters 3  @  2 Wild Wings |
+| G3: Season 9 Game 42: Firefighters 7  @  6 Wild Wings |
+| G4: Season 9 Game 43: Crabs 0  @  3 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 9 Games 61, 62, 63, 64 |
+| G1: Season 9 Game 62: Breath Mints 2  @  6 Firefighters |
+| G2: Season 9 Game 63: Breath Mints 4  @  7 Firefighters |
+| G3: Season 9 Game 64: Dale 6  @  7 Firefighters |
+| G4: Season 9 Game 65: Dale 1  @  3 Firefighters |
 
 
 

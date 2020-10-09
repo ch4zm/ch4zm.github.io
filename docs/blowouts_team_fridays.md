@@ -15,22 +15,22 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 55 | Hawaii Fridays | 17 - 2 | New York Millennials | 
 | 8 | 35 | Dallas Steaks | 15 - 2 | Hawaii Fridays | 
 | 8 | 37 | Yellowstone Magic | 15 - 2 | Hawaii Fridays | 
+| 9 | 72 | Hades Tigers | 15 - 2 | Hawaii Fridays | 
 | 8 | 97 | Philly Pies | 15 - 3 | Hawaii Fridays | 
 | 3 | 41 | Hawaii Fridays | 15 - 4 | Charleston Shoe Thieves | 
 | 4 | 90 | Hawaii Fridays | 15 - 4 | Yellowstone Magic | 
 | 5 | 51 | Hawaii Fridays | 15 - 5 | Charleston Shoe Thieves | 
 | 3 | 94 | Hawaii Fridays | 15 - 13 | New York Millennials | 
+| 9 | 33 | Philly Pies | 14 - 2 | Hawaii Fridays | 
 | 2 | 42 | Hawaii Fridays | 14 - 4 | Miami Dalé | 
 | 3 | 3 | San Francisco Lovers | 14 - 5 | Hawaii Fridays | 
 | 3 | 13 | Hawaii Fridays | 14 - 5 | Boston Flowers | 
 | 4 | 72 | Yellowstone Magic | 14 - 8 | Hawaii Fridays | 
+| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
 | 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
 | 7 | 49 | Hawaii Fridays | 13 - 2 | Charleston Shoe Thieves | 
 | 5 | 62 | Boston Flowers | 13 - 3 | Hawaii Fridays | 
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
 | 8 | 67 | Charleston Shoe Thieves | 13 - 5 | Hawaii Fridays | 
-| 3 | 15 | Boston Flowers | 13 - 6 | Hawaii Fridays | 
-| 2 | 4 | Chicago Firefighters | 13 - 8 | Hawaii Fridays | 
-| 7 | 17 | Philly Pies | 13 - 8 | Hawaii Fridays | 
 
 

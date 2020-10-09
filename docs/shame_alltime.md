@@ -1,5 +1,5 @@
 # All-Time Shame Runs
-(Through season 8)
+(Through season 9)
 
 ## Summary
 
@@ -21,11 +21,13 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 | 4 | 104* | Hades Tigers | 12 - 7 | Canada Moist Talkers | 
 | 4 | 99 | Chicago Firefighters | 11 - 6 | New York Millennials | 
+| 9 | 46 | Boston Flowers | 10 - 5 | Unlimited Tacos | 
 | 1 | 67 | Seattle Garages | 9 - 4 | Mexico City Wild Wings | 
 | 3 | 8 | Charleston Shoe Thieves | 9 - 4 | Dallas Steaks | 
 | 7 | 67 | Mexico City Wild Wings | 9 - 4 | Yellowstone Magic | 
 | 5 | 80 | Boston Flowers | 8 - 3 | Charleston Shoe Thieves | 
 | 6 | 4 | Breckenridge Jazz Hands | 8 - 3 | Unlimited Tacos | 
+| 9 | 93 | New York Millennials | 8 - 3 | Dallas Steaks | 
 | 3 | 82 | Hades Tigers | 7 - 2 | Hellmouth Sunbeams | 
 | 4 | 34 | Baltimore Crabs | 7 - 2 | Philly Pies | 
 | 5 | 102* | San Francisco Lovers | 7 - 2 | Dallas Steaks | 
@@ -33,7 +35,5 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 | 3 | 51 | Canada Moist Talkers | 5 - 0 | Breckenridge Jazz Hands | 
 | 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
 | 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
-| 4 | 76 | New York Millennials | 13 - 9 | Charleston Shoe Thieves | 
-| 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
 
 

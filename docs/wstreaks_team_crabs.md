@@ -1,5 +1,5 @@
 # Crabs Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -19,15 +19,20 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 9          | 7          | 34, 35, 36, 37, 38, 39, 40, 41, 42 |
 | Crabs                          | 9          | 8          | 1, 2, 3, 4, 5, 6, 7, 8, 9 |
 | Crabs                          | 9          | 8          | 61, 62, 63, 64, 65, 66, 67, 68, 69 |
+| Crabs                          | 9          | 9          | 57, 58, 59, 60, 61, 62, 63, 64, 65 |
+| Crabs                          | 9          | 9          | 76, 77, 78, 79, 80, 81, 82, 83, 84 |
 | Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
 | Crabs                          | 7          | 4          | 57, 58, 59, 60, 61, 62, 63 |
 | Crabs                          | 7          | 5          | 45, 46, 47, 48, 49, 50, 51 |
 | Crabs                          | 7          | 7          | 65, 66, 67, 68, 69, 70, 71 |
 | Crabs                          | 7          | 8          | 35, 36, 37, 38, 39, 40, 41 |
+| Crabs                          | 7          | 9          | 10, 11, 12, 13, 14, 15, 16 |
+| Crabs                          | 7          | 9          | 36, 37, 38, 39, 40, 41, 42 |
 | Crabs                          | 6          | 1          | 6, 7, 8, 9, 10, 11 |
 | Crabs                          | 6          | 4          | 8, 9, 10, 11, 12, 13 |
 | Crabs                          | 6          | 8          | 21, 22, 23, 24, 25, 26 |
 | Crabs                          | 6          | 8          | 54, 55, 56, 57, 58, 59 |
+| Crabs                          | 6          | 9          | 90, 91, 92, 93, 94, 95 |
 | Crabs                          | 5          | 5          | 78, 82, 83, 84, 85 |
 | Crabs                          | 5          | 6          | 44, 45, 46, 47, 48 |
 | Crabs                          | 5          | 7          | 10, 11, 12, 13, 14 |
@@ -45,6 +50,9 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 4          | 5          | 34, 35, 36, 37 |
 | Crabs                          | 4          | 7          | 99, 100, 101, 102 |
 | Crabs                          | 4          | 8          | 11, 12, 13, 14 |
+| Crabs                          | 4          | 9          | 1, 2, 3, 4 |
+| Crabs                          | 4          | 9          | 31, 32, 33, 34 |
+| Crabs                          | 4          | 9          | 50, 51, 52, 53 |
 
 
 
@@ -212,6 +220,36 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 <br />
 
+| 9 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 56, 57, 58, 59, 60, 61, 62, 63, 64 |
+| G1: Season 9 Game 57: Crabs 7  @  5 Sunbeams |
+| G2: Season 9 Game 58: Flowers 6  @  7 Crabs |
+| G3: Season 9 Game 59: Flowers 1  @  5 Crabs |
+| G4: Season 9 Game 60: Flowers 4  @  8 Crabs |
+| G5: Season 9 Game 61: Flowers 3  @  4 Crabs |
+| G6: Season 9 Game 62: Flowers 3  @  7 Crabs |
+| G7: Season 9 Game 63: Flowers 3  @  5 Crabs |
+| G8: Season 9 Game 64: Crabs 4  @  3 Lovers |
+| G9: Season 9 Game 65: Crabs 6  @  5 Lovers |
+
+<br />
+
+| 9 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 75, 76, 77, 78, 79, 80, 81, 82, 83 |
+| G1: Season 9 Game 76: Crabs 5  @  1 Firefighters |
+| G2: Season 9 Game 77: Crabs 5  @  1 Firefighters |
+| G3: Season 9 Game 78: Crabs 7  @  2 Firefighters |
+| G4: Season 9 Game 79: Jazz Hands 1  @  6 Crabs |
+| G5: Season 9 Game 80: Jazz Hands 1  @  5 Crabs |
+| G6: Season 9 Game 81: Jazz Hands 3  @ 12 Crabs |
+| G7: Season 9 Game 82: Crabs 12 @  0 Wild Wings |
+| G8: Season 9 Game 83: Crabs 2  @  1 Wild Wings |
+| G9: Season 9 Game 84: Crabs 8  @  3 Wild Wings |
+
+<br />
+
 | 8 Game Winning Streak by the Crabs |
 | ----- |
 | Season 7 Games 17, 18, 19, 20, 21, 22, 23, 24 |
@@ -278,6 +316,32 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 <br />
 
+| 7 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 9, 10, 11, 12, 13, 14, 15 |
+| G1: Season 9 Game 10: Tacos 5  @ 15 Crabs |
+| G2: Season 9 Game 11: Tacos 2  @  8 Crabs |
+| G3: Season 9 Game 12: Tacos 4  @ 10 Crabs |
+| G4: Season 9 Game 13: Firefighters 7  @ 10 Crabs |
+| G5: Season 9 Game 14: Firefighters 5  @  8 Crabs |
+| G6: Season 9 Game 15: Firefighters 1  @  3 Crabs |
+| G7: Season 9 Game 16: Jazz Hands 2  @  9 Crabs |
+
+<br />
+
+| 7 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 35, 36, 37, 38, 39, 40, 41 |
+| G1: Season 9 Game 36: Crabs 9  @  0 Sunbeams |
+| G2: Season 9 Game 37: Crabs 10 @  3 Sunbeams |
+| G3: Season 9 Game 38: Crabs 5  @  2 Sunbeams |
+| G4: Season 9 Game 39: Crabs 8  @  2 Sunbeams |
+| G5: Season 9 Game 40: Crabs 14 @  0 Sunbeams |
+| G6: Season 9 Game 41: Crabs 8  @  2 Sunbeams |
+| G7: Season 9 Game 42: Crabs 6  @  1 Sunbeams |
+
+<br />
+
 | 6 Game Winning Streak by the Crabs |
 | ----- |
 | Season 1 Games 5, 6, 7, 8, 9, 10 |
@@ -323,6 +387,18 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G4: Season 8 Game 57: Firefighters 3  @  6 Crabs |
 | G5: Season 8 Game 58: Millennials 4  @  5 Crabs |
 | G6: Season 8 Game 59: Millennials 1  @  6 Crabs |
+
+<br />
+
+| 6 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 89, 90, 91, 92, 93, 94 |
+| G1: Season 9 Game 90: Crabs 7  @  2 Wild Wings |
+| G2: Season 9 Game 91: Crabs 3  @  2 Wild Wings |
+| G3: Season 9 Game 92: Crabs 3  @  2 Wild Wings |
+| G4: Season 9 Game 93: Crabs 4  @  3 Wild Wings |
+| G5: Season 9 Game 94: Firefighters 7  @ 10 Crabs |
+| G6: Season 9 Game 95: Firefighters 2  @  3 Crabs |
 
 <br />
 
@@ -499,6 +575,36 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G2: Season 8 Game 12: Firefighters 2  @  8 Crabs |
 | G3: Season 8 Game 13: Crabs 6  @  4 Dale |
 | G4: Season 8 Game 14: Crabs 4  @  1 Dale |
+
+<br />
+
+| 4 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 0, 1, 2, 3 |
+| G1: Season 9 Game 1: Wild Wings 1  @  5 Crabs |
+| G2: Season 9 Game 2: Wild Wings 2  @ 10 Crabs |
+| G3: Season 9 Game 3: Wild Wings 1  @  2 Crabs |
+| G4: Season 9 Game 4: Crabs 7  @  0 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 30, 31, 32, 33 |
+| G1: Season 9 Game 31: Wild Wings 2  @  3 Crabs |
+| G2: Season 9 Game 32: Wild Wings 8  @ 11 Crabs |
+| G3: Season 9 Game 33: Wild Wings 0  @  6 Crabs |
+| G4: Season 9 Game 34: Crabs 5  @  4 Sunbeams |
+
+<br />
+
+| 4 Game Winning Streak by the Crabs |
+| ----- |
+| Season 9 Games 49, 50, 51, 52 |
+| G1: Season 9 Game 50: Crabs 6  @  2 Flowers |
+| G2: Season 9 Game 51: Crabs 7  @  2 Flowers |
+| G3: Season 9 Game 52: Crabs 7  @  0 Dale |
+| G4: Season 9 Game 53: Crabs 4  @  1 Dale |
 
 
 

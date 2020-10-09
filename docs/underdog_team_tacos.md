@@ -7,10 +7,13 @@ Underdog games (games where the underdog won with large run differential) for al
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 9 | 7 | Unlimited Tacos (38%) | 14 - 3 | Miami Dale (62%) | 
 | 6 | 98 | Unlimited Tacos (44%) | 14 - 4 | Hellmouth Sunbeams (56%) | 
 | 1 | 89 | Los Angeles Tacos (44%) | 13 - 3 | Kansas City Breath Mints (56%) | 
 | 2 | 74 | Los Angeles Tacos (44%) | 12 - 2 | Hawaii Fridays (56%) | 
+| 9 | 49 | Unlimited Tacos (36%) | 11 - 1 | Houston Spies (64%) | 
 | 1 | 6 | Kansas City Breath Mints (37%) | 12 - 4 | Los Angeles Tacos (63%) | 
+| 9 | 54 | Unlimited Tacos (41%) | 11 - 3 | Houston Spies (59%) | 
 | 1 | 51 | Los Angeles Tacos (43%) | 10 - 2 | Chicago Firefighters (57%) | 
 | 1 | 27 | Los Angeles Tacos (39%) | 9 - 1 | Hawaii Fridays (61%) | 
 | 2 | 12 | Kansas City Breath Mints (42%) | 9 - 1 | Los Angeles Tacos (58%) | 
@@ -27,10 +30,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 48 | Unlimited Tacos (41%) | 7 - 1 | Dallas Steaks (59%) | 
 | 6 | 56 | Unlimited Tacos (39%) | 7 - 1 | Chicago Firefighters (61%) | 
 | 7 | 8 | Houston Spies (45%) | 7 - 1 | Unlimited Tacos (55%) | 
+| 9 | 75 | Unlimited Tacos (34%) | 6 - 0 | Baltimore Crabs (66%) | 
 | 1 | 76 | Kansas City Breath Mints (43%) | 10 - 5 | Los Angeles Tacos (57%) | 
-| 2 | 85 | Boston Flowers (43%) | 9 - 4 | Los Angeles Tacos (57%) | 
-| 4 | 56 | Unlimited Tacos (42%) | 9 - 4 | Kansas City Breath Mints (58%) | 
-| 6 | 16 | Unlimited Tacos (45%) | 9 - 4 | Miami Dalé (55%) | 
-| 1 | 17 | Los Angeles Tacos (42%) | 7 - 2 | Dallas Steaks (58%) | 
 
 

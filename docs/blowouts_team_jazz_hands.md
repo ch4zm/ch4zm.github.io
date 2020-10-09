@@ -8,6 +8,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 7 | 45 | Breckenridge Jazz Hands | 17 - 5 | Chicago Firefighters | 
+| 9 | 36 | Houston Spies | 16 - 1 | Breckenridge Jazz Hands | 
 | 2 | 12 | Breckenridge Jazz Hands | 16 - 3 | Hellmouth Sunbeams | 
 | 7 | 68 | Breckenridge Jazz Hands | 15 - 0 | Hellmouth Sunbeams | 
 | 5 | 5 | Breckenridge Jazz Hands | 15 - 4 | Canada Moist Talkers | 
@@ -26,11 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 5 | 45 | Breckenridge Jazz Hands | 13 - 0 | Hellmouth Sunbeams | 
 | 6 | 60 | Breckenridge Jazz Hands | 13 - 1 | Miami Dalé | 
 | 6 | 86 | Breckenridge Jazz Hands | 13 - 1 | Miami Dalé | 
+| 9 | 99 | Baltimore Crabs | 13 - 1 | Breckenridge Jazz Hands | 
 | 2 | 10 | Breckenridge Jazz Hands | 13 - 3 | Hellmouth Sunbeams | 
 | 6 | 59 | Miami Dalé | 13 - 3 | Breckenridge Jazz Hands | 
+| 9 | 70 | Breckenridge Jazz Hands | 13 - 3 | San Francisco Lovers | 
 | 2 | 107* | Philly Pies | 13 - 4 | Breckenridge Jazz Hands | 
-| 7 | 73 | Breckenridge Jazz Hands | 13 - 4 | New York Millennials | 
-| 6 | 27 | Breckenridge Jazz Hands | 13 - 5 | New York Millennials | 
-| 8 | 49 | Breckenridge Jazz Hands | 13 - 5 | San Francisco Lovers | 
 
 

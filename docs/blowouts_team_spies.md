@@ -9,6 +9,8 @@ Blowout games (games with high scores and high run differentials) for all time f
 | ------ |------ |------ |------ |------ |
 | 5 | 26 | Seattle Garages | 18 - 6 | Houston Spies | 
 | 5 | 34 | Seattle Garages | 17 - 3 | Houston Spies | 
+| 9 | 36 | Houston Spies | 16 - 1 | Breckenridge Jazz Hands | 
+| 9 | 4 | Houston Spies | 15 - 2 | Unlimited Tacos | 
 | 5 | 64 | Seattle Garages | 15 - 7 | Houston Spies | 
 | 2 | 1 | Houston Spies | 15 - 9 | Chicago Firefighters | 
 | 8 | 66 | Houston Spies | 14 - 0 | Unlimited Tacos | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 59 | Hellmouth Sunbeams | 13 - 7 | Houston Spies | 
 | 8 | 63 | Baltimore Crabs | 12 - -2 | Houston Spies | 
 | 5 | 62 | Breckenridge Jazz Hands | 12 - 1 | Houston Spies | 
-| 2 | 41 | Houston Spies | 12 - 2 | Hades Tigers | 
-| 4 | 55 | Miami Dalé | 12 - 2 | Houston Spies | 
 
 

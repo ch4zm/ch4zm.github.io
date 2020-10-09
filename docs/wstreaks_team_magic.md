@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 8)
+(Through season 9)
 ## Summary
 
 
@@ -33,6 +33,7 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 6          | 33, 34, 35, 36 |
 | Magic                          | 4          | 8          | 23, 24, 25, 26 |
 | Magic                          | 4          | 8          | 70, 71, 72, 73 |
+| Magic                          | 4          | 9          | 88, 89, 90, 91 |
 
 
 
@@ -295,6 +296,16 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 8 Game 71: Magic 6  @  5 Breath Mints |
 | G3: Season 8 Game 72: Magic 6  @  4 Breath Mints |
 | G4: Season 8 Game 73: Magic 6  @  0 Wild Wings |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 9 Games 87, 88, 89, 90 |
+| G1: Season 9 Game 88: Steaks 4  @  6 Magic |
+| G2: Season 9 Game 89: Steaks 3  @  4 Magic |
+| G3: Season 9 Game 90: Steaks 3  @  6 Magic |
+| G4: Season 9 Game 91: Magic 6  @  3 Moist Talkers |
 
 
 

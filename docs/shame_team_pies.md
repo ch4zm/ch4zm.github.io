@@ -14,10 +14,12 @@ Shame games (games where the loser was shamed) for all time for team Pies (note:
 | 7 | 10 | Boston Flowers | 10 - 7 | Philly Pies | 
 | 7 | 61 | Canada Moist Talkers | 10 - 7 | Philly Pies | 
 | 7 | 92 | Philly Pies | 9 - 6 | Charleston Shoe Thieves | 
+| 9 | 66 | Philly Pies | 9 - 6 | Seattle Garages | 
 | 4 | 63 | Seattle Garages | 8 - 5 | Philly Pies | 
 | 2 | 1 | Miami Dalé | 6 - 3 | Philly Pies | 
 | 3 | 6 | Philly Pies | 6 - 3 | Hades Tigers | 
 | 5 | 1 | Philly Pies | 6 - 3 | Miami Dalé | 
+| 9 | 70 | Philly Pies | 6 - 3 | Charleston Shoe Thieves | 
 | 3 | 21 | Canada Moist Talkers | 5 - 2 | Philly Pies | 
 | 1 | 76 | Philly Pies | 10 - 8 | Seattle Garages | 
 | 7 | 37 | Philly Pies | 9 - 7 | Kansas City Breath Mints | 
@@ -26,11 +28,9 @@ Shame games (games where the loser was shamed) for all time for team Pies (note:
 | 6 | 54 | Philly Pies | 6 - 4 | Mexico City Wild Wings | 
 | 7 | 1 | Philly Pies | 6 - 4 | Dallas Steaks | 
 | 7 | 85 | Hawaii Fridays | 6 - 4 | Philly Pies | 
+| 9 | 16 | Canada Moist Talkers | 6 - 4 | Philly Pies | 
+| 9 | 24 | Philly Pies | 6 - 4 | Hawaii Fridays | 
 | 3 | 52 | Hellmouth Sunbeams | 5 - 3 | Philly Pies | 
 | 3 | 56 | Miami Dalé | 5 - 3 | Philly Pies | 
-| 5 | 45 | Miami Dalé | 5 - 3 | Philly Pies | 
-| 5 | 90 | Seattle Garages | 5 - 3 | Philly Pies | 
-| 4 | 56 | Philly Pies | 4 - 2 | Hellmouth Sunbeams | 
-| 5 | 6 | Baltimore Crabs | 4 - 2 | Philly Pies | 
 
 
