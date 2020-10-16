@@ -9,7 +9,7 @@ ROOT_DIR=$(dirname $(readlink -f "$0"))
 STREAK_FINDER="$ROOT_DIR/../vp/bin/streak-finder"
 ACTIVATE_SCRIPT="$ROOT_DIR/../vp/bin/activate"
 
-LASTSEASON=9
+LASTSEASON=10
 
 # Enter the virtual environment
 source $ACTIVATE_SCRIPT
