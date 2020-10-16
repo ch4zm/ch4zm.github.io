@@ -1,5 +1,5 @@
 # Tigers Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -17,6 +17,8 @@ Losing streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 4          | 4          | 43, 44, 45, 46 |
 | Tigers                         | 4          | 5          | 2, 3, 4, 5 |
 | Tigers                         | 4          | 5          | 64, 65, 66, 67 |
+| Tigers                         | 4          | 10         | 46, 47, 48, 49 |
+| Tigers                         | 4          | 10         | 66, 67, 68, 69 |
 
 
 
@@ -100,6 +102,26 @@ Losing streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 5 Game 65: Crabs 2  @  1 Tigers |
 | G3: Season 5 Game 66: Crabs 6  @  4 Tigers |
 | G4: Season 5 Game 67: Tigers 2  @  3 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Tigers |
+| ----- |
+| Season 10 Games 45, 46, 47, 48 |
+| G1: Season 10 Game 46: Tigers 1  @  4 Spies |
+| G2: Season 10 Game 47: Tigers 1  @  4 Spies |
+| G3: Season 10 Game 48: Tigers 7  @  8 Spies |
+| G4: Season 10 Game 49: Tigers 0  @  2 Shoe Thieves |
+
+<br />
+
+| 4 Game Losing Streak by the Tigers |
+| ----- |
+| Season 10 Games 65, 66, 67, 68 |
+| G1: Season 10 Game 66: Tigers 4  @  6 Moist Talkers |
+| G2: Season 10 Game 67: Tigers 2  @  4 Millennials |
+| G3: Season 10 Game 68: Tigers 1  @  2 Millennials |
+| G4: Season 10 Game 69: Tigers 1  @ 10 Millennials |
 
 
 

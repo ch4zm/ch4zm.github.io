@@ -24,6 +24,7 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 8 | 85 | Charleston Shoe Thieves | 1 - 0 | Mexico City Wild Wings | 
 | 9 | 4 | Mexico City Wild Wings | 1 - 0 | San Francisco Lovers | 
 | 9 | 58 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
+| 10 | 52 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
 | 1 | 10 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 1 | 18 | Mexico City Wild Wings | 2 - 1 | Hades Tigers | 
 | 1 | 33 | Seattle Garages | 2 - 1 | Mexico City Wild Wings | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 2 | 73 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 2 | 84 | Mexico City Wild Wings | 2 - 1 | Canada Moist Talkers | 
 | 3 | 15 | Mexico City Wild Wings | 2 - 1 | Seattle Garages | 
-| 3 | 19 | Hellmouth Sunbeams | 2 - 1 | Mexico City Wild Wings | 
 
 

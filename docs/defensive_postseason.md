@@ -1,5 +1,5 @@
 # Blaseball Postseason Defensive Games
-(Through season 9)
+(Through season 10)
 
 
 
@@ -23,6 +23,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 7 | 110* | Mexico City Wild Wings | 2 - 1 | San Francisco Lovers | 
 | 8 | 106* | Baltimore Crabs | 2 - 1 | Houston Spies | 
 | 8 | 106* | Philly Pies | 2 - 1 | Hades Tigers | 
+| 9 | 104* | Charleston Shoe Thieves | 2 - 1 | Hades Tigers | 
 | 1 | 101* | Boston Flowers | 3 - 2 | Yellowstone Magic | 
 | 1 | 103* | Hades Tigers | 3 - 2 | Houston Spies | 
 | 1 | 104* | Houston Spies | 3 - 2 | Hades Tigers | 
@@ -32,6 +33,5 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 5 | 106* | Canada Moist Talkers | 3 - 2 | Breckenridge Jazz Hands | 
 | 5 | 112* | Chicago Firefighters | 3 - 2 | Breckenridge Jazz Hands | 
 | 6 | 104* | Hades Tigers | 3 - 2 | Kansas City Breath Mints | 
-| 6 | 105* | Seattle Garages | 3 - 2 | Hades Tigers | 
 
 

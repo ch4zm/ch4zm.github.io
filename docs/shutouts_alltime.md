@@ -1,5 +1,5 @@
 # All-Time Shutouts
-(Through season 9)
+(Through season 10)
 
 ## Summary
 
@@ -24,6 +24,7 @@ Shutout games (games where the loser had zero runs) for all time for all teams (
 | 8 | 34 | Breckenridge Jazz Hands | 14 - 0 | New York Millennials | 
 | 8 | 66 | Houston Spies | 14 - 0 | Unlimited Tacos | 
 | 9 | 40 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
+| 10 | 77 | Baltimore Crabs | 14 - 0 | Mexico City Wild Wings | 
 | 1 | 57 | Baltimore Crabs | 13 - 0 | Hades Tigers | 
 | 2 | 1 | Boston Flowers | 13 - 0 | Charleston Shoe Thieves | 
 | 2 | 85 | New York Millennials | 13 - 0 | San Francisco Lovers | 
@@ -34,6 +35,5 @@ Shutout games (games where the loser had zero runs) for all time for all teams (
 | 1 | 49 | Charleston Shoe Thieves | 12 - 0 | Kansas City Breath Mints | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
 | 4 | 29 | Chicago Firefighters | 12 - 0 | Kansas City Breath Mints | 
-| 5 | 1 | Chicago Firefighters | 12 - 0 | Dallas Steaks | 
 
 

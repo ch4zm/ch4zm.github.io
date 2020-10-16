@@ -15,9 +15,11 @@ Shame games (games where the loser was shamed) for all time for team Crabs (note
 | 9 | 32 | Baltimore Crabs | 11 - 8 | Mexico City Wild Wings | 
 | 9 | 13 | Baltimore Crabs | 10 - 7 | Chicago Firefighters | 
 | 9 | 14 | Baltimore Crabs | 8 - 5 | Chicago Firefighters | 
+| 10 | 40 | Houston Spies | 6 - 3 | Baltimore Crabs | 
 | 2 | 29 | Houston Spies | 5 - 2 | Baltimore Crabs | 
 | 6 | 92 | Baltimore Crabs | 5 - 2 | New York Millennials | 
 | 7 | 69 | Baltimore Crabs | 5 - 2 | Boston Flowers | 
+| 10 | 56 | San Francisco Lovers | 4 - 1 | Baltimore Crabs | 
 | 3 | 99 | Baltimore Crabs | 12 - 10 | Hellmouth Sunbeams | 
 | 3 | 79 | Baltimore Crabs | 10 - 8 | Hellmouth Sunbeams | 
 | 1 | 32 | Hades Tigers | 9 - 7 | Baltimore Crabs | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Crabs (note
 | 1 | 34 | Canada Moist Talkers | 5 - 3 | Baltimore Crabs | 
 | 3 | 10 | Canada Moist Talkers | 5 - 3 | Baltimore Crabs | 
 | 3 | 84 | Seattle Garages | 5 - 3 | Baltimore Crabs | 
-| 3 | 95 | Baltimore Crabs | 5 - 3 | Breckenridge Jazz Hands | 
-| 4 | 51 | Hellmouth Sunbeams | 5 - 3 | Baltimore Crabs | 
 
 

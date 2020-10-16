@@ -16,6 +16,11 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 7 | 87 | Unlimited Tacos | 1 - 0 | Hellmouth Sunbeams | 
 | 8 | 21 | Hellmouth Sunbeams | 1 - 0 | San Francisco Lovers | 
 | 8 | 62 | Hellmouth Sunbeams | 1 - 0 | Hades Tigers | 
+| 10 | 2 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 46 | Hellmouth Sunbeams | 1 - 0 | Boston Flowers | 
+| 10 | 48 | Boston Flowers | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 53 | San Francisco Lovers | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 71 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
 | 1 | 73 | Moab Sunbeams | 2 - 1 | Philly Pies | 
 | 2 | 17 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
 | 2 | 23 | Hawaii Fridays | 2 - 1 | Hellmouth Sunbeams | 
@@ -27,10 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 3 | 19 | Hellmouth Sunbeams | 2 - 1 | Mexico City Wild Wings | 
 | 3 | 39 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
 | 3 | 61 | Hellmouth Sunbeams | 2 - 1 | Baltimore Crabs | 
-| 4 | 54 | Hellmouth Sunbeams | 2 - 1 | Mexico City Wild Wings | 
-| 4 | 65 | Hades Tigers | 2 - 1 | Hellmouth Sunbeams | 
-| 4 | 76 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
-| 4 | 88 | Breckenridge Jazz Hands | 2 - 1 | Hellmouth Sunbeams | 
-| 5 | 35 | Hellmouth Sunbeams | 2 - 1 | Hades Tigers | 
 
 

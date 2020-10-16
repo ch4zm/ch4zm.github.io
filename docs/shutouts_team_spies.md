@@ -25,12 +25,12 @@ Shutout games (games where the loser had zero runs) for all time for team Spies 
 | 4 | 43 | Baltimore Crabs | 7 - 0 | Houston Spies | 
 | 4 | 97 | Hades Tigers | 7 - 0 | Houston Spies | 
 | 9 | 72 | Houston Spies | 7 - 0 | Boston Flowers | 
+| 10 | 30 | Houston Spies | 7 - 0 | Unlimited Tacos | 
 | 4 | 75 | Mexico City Wild Wings | 6 - 0 | Houston Spies | 
 | 5 | 45 | Canada Moist Talkers | 6 - 0 | Houston Spies | 
 | 6 | 12 | Houston Spies | 6 - 0 | Hellmouth Sunbeams | 
 | 8 | 41 | Houston Spies | 6 - 0 | Miami Dale | 
 | 8 | 59 | Houston Spies | 6 - 0 | Unlimited Tacos | 
 | 8 | 105* | Baltimore Crabs | 6 - 0 | Houston Spies | 
-| 9 | 23 | Houston Spies | 6 - 0 | Mexico City Wild Wings | 
 
 

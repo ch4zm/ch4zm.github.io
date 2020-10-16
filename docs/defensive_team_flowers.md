@@ -10,6 +10,12 @@ Maxed out games (high-scoring one-run games) for all time for team Flowers (note
 | 1 | 102* | Boston Flowers | 1 - 0 | Yellowstone Magic | 
 | 2 | 91 | Boston Flowers | 1 - 0 | Miami Dalé | 
 | 4 | 42 | Hawaii Fridays | 1 - 0 | Boston Flowers | 
+| 10 | 4 | Houston Spies | 1 - 0 | Boston Flowers | 
+| 10 | 18 | Baltimore Crabs | 1 - 0 | Boston Flowers | 
+| 10 | 34 | Boston Flowers | 1 - 0 | Kansas City Breath Mints | 
+| 10 | 46 | Hellmouth Sunbeams | 1 - 0 | Boston Flowers | 
+| 10 | 48 | Boston Flowers | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 74 | Houston Spies | 1 - 0 | Boston Flowers | 
 | 1 | 47 | Boston Flowers | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 59 | Boston Flowers | 2 - 1 | Dallas Steaks | 
 | 1 | 66 | Chicago Firefighters | 2 - 1 | Boston Flowers | 
@@ -26,11 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Flowers (note
 | 3 | 71 | Los Angeles Tacos | 2 - 1 | Boston Flowers | 
 | 4 | 27 | Boston Flowers | 2 - 1 | Kansas City Breath Mints | 
 | 4 | 77 | Boston Flowers | 2 - 1 | Mexico City Wild Wings | 
-| 4 | 99 | Boston Flowers | 2 - 1 | Unlimited Tacos | 
-| 5 | 32 | Boston Flowers | 2 - 1 | Kansas City Breath Mints | 
-| 5 | 49 | New York Millennials | 2 - 1 | Boston Flowers | 
-| 5 | 52 | Boston Flowers | 2 - 1 | Miami Dalé | 
-| 6 | 78 | Boston Flowers | 2 - 1 | Unlimited Tacos | 
-| 8 | 9 | Boston Flowers | 2 - 1 | Houston Spies | 
 
 

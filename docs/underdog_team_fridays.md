@@ -17,6 +17,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 90 | Hawaii Fridays (43%) | 11 - 2 | Boston Flowers (57%) | 
 | 2 | 82 | Boston Flowers (45%) | 10 - 1 | Hawaii Fridays (55%) | 
 | 7 | 9 | Hawaii Fridays (38%) | 10 - 1 | Yellowstone Magic (62%) | 
+| 10 | 40 | Hawai'i Fridays (45%) | 10 - 1 | Charleston Shoe Thieves (55%) | 
+| 10 | 9 | Breckenridge Jazz Hands (34%) | 9 - 0 | Hawai'i Fridays (66%) | 
 | 5 | 66 | Boston Flowers (45%) | 10 - 2 | Hawaii Fridays (55%) | 
 | 1 | 27 | Los Angeles Tacos (39%) | 9 - 1 | Hawaii Fridays (61%) | 
 | 8 | 32 | Hawaii Fridays (42%) | 9 - 1 | Canada Moist Talkers (58%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 25 | Hawaii Fridays (45%) | 7 - 0 | Charleston Shoe Thieves (55%) | 
 | 6 | 71 | Hawaii Fridays (36%) | 7 - 0 | Kansas City Breath Mints (64%) | 
 | 6 | 80 | Hawaii Fridays (36%) | 7 - 0 | Seattle Garages (64%) | 
-| 7 | 30 | Hawaii Fridays (44%) | 10 - 4 | Mexico City Wild Wings (56%) | 
-| 3 | 17 | Houston Spies (41%) | 9 - 3 | Hawaii Fridays (59%) | 
 
 

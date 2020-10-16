@@ -21,6 +21,7 @@ Maxed out games (high-scoring one-run games) for all time for team Firefighters 
 | 6 | 67 | Hellmouth Sunbeams | 9 - 8 | Chicago Firefighters | 
 | 8 | 6 | Unlimited Tacos | 9 - 8 | Chicago Firefighters | 
 | 8 | 9 | Chicago Firefighters | 9 - 8 | Miami Dale | 
+| 10 | 57 | Chicago Firefighters | 9 - 8 | Hellmouth Sunbeams | 
 | 1 | 13 | Chicago Firefighters | 8 - 7 | Boston Flowers | 
 | 1 | 17 | Chicago Firefighters | 8 - 7 | Yellowstone Magic | 
 | 1 | 63 | Chicago Firefighters | 8 - 7 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Firefighters 
 | 4 | 101* | Chicago Firefighters | 8 - 7 | Charleston Shoe Thieves | 
 | 6 | 11 | Chicago Firefighters | 8 - 7 | Breckenridge Jazz Hands | 
 | 6 | 37 | Boston Flowers | 8 - 7 | Chicago Firefighters | 
-| 1 | 38 | Chicago Firefighters | 7 - 6 | Hawaii Fridays | 
 
 

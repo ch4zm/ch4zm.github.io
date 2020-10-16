@@ -16,6 +16,12 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 7 | 61 | Hawaii Fridays | 1 - 0 | Yellowstone Magic | 
 | 8 | 43 | Seattle Garages | 1 - 0 | Hawaii Fridays | 
 | 9 | 65 | Yellowstone Magic | 1 - 0 | Hawaii Fridays | 
+| 10 | 3 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
+| 10 | 4 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
+| 10 | 27 | Dallas Steaks | 1 - 0 | Hawai'i Fridays | 
+| 10 | 44 | New York Millennials | 1 - 0 | Hawai'i Fridays | 
+| 10 | 59 | Hawai'i Fridays | 1 - 0 | Canada Moist Talkers | 
+| 10 | 62 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
 | 1 | 13 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 1 | 14 | San Francisco Lovers | 2 - 1 | Hawaii Fridays | 
 | 1 | 79 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
@@ -26,11 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 2 | 38 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 2 | 69 | Hawaii Fridays | 2 - 1 | Boston Flowers | 
 | 3 | 22 | Dallas Steaks | 2 - 1 | Hawaii Fridays | 
-| 3 | 49 | Hawaii Fridays | 2 - 1 | New York Millennials | 
-| 3 | 58 | Hawaii Fridays | 2 - 1 | Yellowstone Magic | 
-| 4 | 58 | Hawaii Fridays | 2 - 1 | Dallas Steaks | 
-| 5 | 34 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
-| 5 | 44 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
-| 5 | 94 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
 
 

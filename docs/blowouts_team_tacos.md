@@ -30,7 +30,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 8 | 60 | Houston Spies | 13 - 1 | Unlimited Tacos | 
 | 5 | 65 | New York Millennials | 13 - 2 | Unlimited Tacos | 
 | 1 | 89 | Los Angeles Tacos | 13 - 3 | Kansas City Breath Mints | 
+| 10 | 48 | Canada Moist Talkers | 13 - 4 | Unlimited Tacos | 
 | 3 | 99 | Los Angeles Tacos | 13 - 5 | Dallas Steaks | 
-| 2 | 99 | Yellowstone Magic | 13 - 6 | Los Angeles Tacos | 
 
 

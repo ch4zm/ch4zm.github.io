@@ -25,12 +25,12 @@ Blowout games (games with high scores and high run differentials) for season 9 f
 | 9 | 7 | Unlimited Tacos | 14 - 3 | Miami Dale | 
 | 9 | 54 | Philly Pies | 14 - 3 | New York Millennials | 
 | 9 | 25 | New York Millennials | 14 - 6 | Miami Dale | 
+| 9 | 109* | Charleston Shoe Thieves | 14 - 6 | Seattle Garages | 
 | 9 | 1 | Hellmouth Sunbeams | 14 - 8 | Boston Flowers | 
 | 9 | 83 | Boston Flowers | 14 - 10 | Unlimited Tacos | 
 | 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
 | 9 | 8 | Hellmouth Sunbeams | 13 - 1 | San Francisco Lovers | 
 | 9 | 99 | Baltimore Crabs | 13 - 1 | Breckenridge Jazz Hands | 
-| 9 | 44 | Boston Flowers | 13 - 2 | Mexico City Wild Wings | 
-| 9 | 67 | Yellowstone Magic | 13 - 2 | Seattle Garages | 
+| 9 | 100* | Hades Tigers | 13 - 1 | Hawai'i Fridays | 
 
 

@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 9          | 3          | 51, 52, 53, 54, 55, 56, 57, 58, 59 |
 | Firefighters                   | 9          | 9          | 9, 10, 11, 12, 13, 14, 15, 16, 17 |
 | Firefighters                   | 8          | 9          | 75, 76, 77, 78, 79, 80, 81, 82 |
+| Firefighters                   | 7          | 10         | 31, 32, 33, 34, 35, 36, 37 |
 | Firefighters                   | 6          | 1          | 47, 48, 49, 50, 51, 52 |
 | Firefighters                   | 6          | 8          | 11, 12, 13, 14, 15, 16 |
 | Firefighters                   | 6          | 8          | 59, 60, 61, 62, 63, 64 |
@@ -37,6 +38,8 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 4          | 8          | 5, 6, 7, 8 |
 | Firefighters                   | 4          | 8          | 54, 55, 56, 57 |
 | Firefighters                   | 4          | 9          | 51, 52, 53, 54 |
+| Firefighters                   | 4          | 10         | 17, 18, 19, 20 |
+| Firefighters                   | 4          | 10         | 58, 59, 60, 61 |
 
 
 
@@ -89,6 +92,19 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G6: Season 9 Game 80: Firefighters 10 @ 12 Spies |
 | G7: Season 9 Game 81: Firefighters 0  @  2 Spies |
 | G8: Season 9 Game 82: Jazz Hands 10 @  6 Firefighters |
+
+<br />
+
+| 7 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 10 Games 30, 31, 32, 33, 34, 35, 36 |
+| G1: Season 10 Game 31: Crabs 3  @  0 Firefighters |
+| G2: Season 10 Game 32: Crabs 2  @  0 Firefighters |
+| G3: Season 10 Game 33: Crabs 7  @  1 Firefighters |
+| G4: Season 10 Game 34: Firefighters 2  @ 10 Crabs |
+| G5: Season 10 Game 35: Firefighters 2  @ 12 Crabs |
+| G6: Season 10 Game 36: Firefighters 3  @  8 Crabs |
+| G7: Season 10 Game 37: Firefighters 1  @  5 Lovers |
 
 <br />
 
@@ -342,6 +358,26 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G2: Season 9 Game 52: Lovers 2  @  1 Firefighters |
 | G3: Season 9 Game 53: Lovers 2  @  1 Firefighters |
 | G4: Season 9 Game 54: Lovers 4  @  1 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 10 Games 16, 17, 18, 19 |
+| G1: Season 10 Game 17: Firefighters 0  @  8 Tacos |
+| G2: Season 10 Game 18: Firefighters 1  @  2 Tacos |
+| G3: Season 10 Game 19: Firefighters 5  @  6 Crabs |
+| G4: Season 10 Game 20: Firefighters 5  @  8 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 10 Games 57, 58, 59, 60 |
+| G1: Season 10 Game 58: Wild Wings 6  @  2 Firefighters |
+| G2: Season 10 Game 59: Wild Wings 9  @  6 Firefighters |
+| G3: Season 10 Game 60: Wild Wings 3  @  2 Firefighters |
+| G4: Season 10 Game 61: Firefighters 1  @  2 Crabs |
 
 
 

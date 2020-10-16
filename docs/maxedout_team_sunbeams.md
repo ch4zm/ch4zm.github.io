@@ -16,6 +16,7 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 6 | 67 | Hellmouth Sunbeams | 9 - 8 | Chicago Firefighters | 
 | 7 | 28 | Hellmouth Sunbeams | 9 - 8 | Baltimore Crabs | 
 | 7 | 86 | Unlimited Tacos | 9 - 8 | Hellmouth Sunbeams | 
+| 10 | 57 | Chicago Firefighters | 9 - 8 | Hellmouth Sunbeams | 
 | 3 | 62 | Baltimore Crabs | 8 - 7 | Hellmouth Sunbeams | 
 | 4 | 28 | Dallas Steaks | 8 - 7 | Hellmouth Sunbeams | 
 | 6 | 91 | Boston Flowers | 8 - 7 | Hellmouth Sunbeams | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 3 | 45 | Hellmouth Sunbeams | 7 - 6 | Charleston Shoe Thieves | 
 | 3 | 89 | Philly Pies | 7 - 6 | Hellmouth Sunbeams | 
 | 3 | 96 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
-| 4 | 99 | Baltimore Crabs | 7 - 6 | Hellmouth Sunbeams | 
 
 

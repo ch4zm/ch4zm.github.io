@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Lovers                         | 10         | 5          | 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Lovers                         | 9          | 5          | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
+| Lovers                         | 9          | 10         | 59, 60, 61, 62, 63, 64, 65, 66, 67 |
 | Lovers                         | 7          | 5          | 21, 22, 23, 24, 25, 26, 27 |
 | Lovers                         | 7          | 7          | 1, 2, 3, 4, 5, 6, 7 |
 | Lovers                         | 7          | 9          | 15, 16, 17, 18, 19, 20, 21 |
@@ -19,6 +20,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 6          | 3          | 43, 44, 45, 46, 47, 48 |
 | Lovers                         | 6          | 6          | 54, 55, 56, 57, 58, 59 |
 | Lovers                         | 6          | 6          | 70, 71, 72, 73, 74, 75 |
+| Lovers                         | 6          | 10         | 39, 40, 41, 42, 43, 44 |
 | Lovers                         | 5          | 1          | 14, 15, 16, 17, 18 |
 | Lovers                         | 5          | 3          | 64, 65, 66, 67, 68 |
 | Lovers                         | 5          | 3          | 95, 96, 97, 98, 99 |
@@ -27,6 +29,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 4          | 74, 75, 76, 77, 78 |
 | Lovers                         | 5          | 5          | 5, 6, 7, 8, 9 |
 | Lovers                         | 5          | 6          | 63, 64, 65, 66, 67 |
+| Lovers                         | 5          | 10         | 18, 19, 20, 21, 22 |
 | Lovers                         | 4          | 1          | 47, 48, 49, 50 |
 | Lovers                         | 4          | 2          | 75, 76, 77, 78 |
 | Lovers                         | 4          | 3          | 27, 28, 29, 30 |
@@ -41,6 +44,8 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 7          | 78, 79, 80, 81 |
 | Lovers                         | 4          | 8          | 13, 14, 15, 16 |
 | Lovers                         | 4          | 9          | 94, 95, 96, 97 |
+| Lovers                         | 4          | 10         | 11, 12, 13, 14 |
+| Lovers                         | 4          | 10         | 51, 52, 53, 54 |
 
 
 
@@ -80,6 +85,21 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G7: Season 5 Game 17: Tacos 1  @  6 Lovers |
 | G8: Season 5 Game 18: Tacos 1  @  6 Lovers |
 | G9: Season 5 Game 19: Lovers 6  @  3 Steaks |
+
+<br />
+
+| 9 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 58, 59, 60, 61, 62, 63, 64, 65, 66 |
+| G1: Season 10 Game 59: Sunbeams 5  @ 10 Lovers |
+| G2: Season 10 Game 60: Sunbeams 2  @  3 Lovers |
+| G3: Season 10 Game 61: Lovers 13 @  4 Jazz Hands |
+| G4: Season 10 Game 62: Lovers 6  @  4 Jazz Hands |
+| G5: Season 10 Game 63: Lovers 5  @  2 Jazz Hands |
+| G6: Season 10 Game 64: Lovers 9  @  2 Wild Wings |
+| G7: Season 10 Game 65: Lovers 8  @  2 Wild Wings |
+| G8: Season 10 Game 66: Lovers 12 @  6 Wild Wings |
+| G9: Season 10 Game 67: Spies 2  @  3 Lovers |
 
 <br />
 
@@ -170,6 +190,18 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 38, 39, 40, 41, 42, 43 |
+| G1: Season 10 Game 39: Firefighters 2  @  6 Lovers |
+| G2: Season 10 Game 40: Tacos 2  @  3 Lovers |
+| G3: Season 10 Game 41: Tacos 0  @  1 Lovers |
+| G4: Season 10 Game 42: Tacos 1  @  6 Lovers |
+| G5: Season 10 Game 43: Dale 1  @  5 Lovers |
+| G6: Season 10 Game 44: Dale 1  @  8 Lovers |
+
+<br />
+
 | 5 Game Winning Streak by the Lovers |
 | ----- |
 | Season 1 Games 13, 14, 15, 16, 17 |
@@ -255,6 +287,17 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 6 Game 65: Lovers 5  @  4 Spies |
 | G4: Season 6 Game 66: Lovers 8  @  1 Spies |
 | G5: Season 6 Game 67: Lovers 3  @  1 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 17, 18, 19, 20, 21 |
+| G1: Season 10 Game 18: Wild Wings 2  @  6 Lovers |
+| G2: Season 10 Game 19: Flowers 0  @  5 Lovers |
+| G3: Season 10 Game 20: Flowers 5  @ 18 Lovers |
+| G4: Season 10 Game 21: Flowers 2  @  6 Lovers |
+| G5: Season 10 Game 22: Sunbeams 0  @  4 Lovers |
 
 <br />
 
@@ -395,6 +438,26 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 9 Game 95: Tacos 4  @  7 Lovers |
 | G3: Season 9 Game 96: Tacos 2  @  5 Lovers |
 | G4: Season 9 Game 97: Wild Wings 2  @  5 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 10, 11, 12, 13 |
+| G1: Season 10 Game 11: Jazz Hands 3  @ 10 Lovers |
+| G2: Season 10 Game 12: Jazz Hands 0  @  3 Lovers |
+| G3: Season 10 Game 13: Jazz Hands 1  @  3 Lovers |
+| G4: Season 10 Game 14: Jazz Hands 3  @ 14 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 50, 51, 52, 53 |
+| G1: Season 10 Game 51: Crabs 3  @  4 Lovers |
+| G2: Season 10 Game 52: Lovers 6  @  2 Sunbeams |
+| G3: Season 10 Game 53: Lovers 1  @  0 Sunbeams |
+| G4: Season 10 Game 54: Lovers 4  @  0 Sunbeams |
 
 
 

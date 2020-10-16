@@ -1,5 +1,5 @@
 # Flowers Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -16,6 +16,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 7          | 3          | 52, 53, 54, 55, 56, 57, 58 |
 | Flowers                        | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
 | Flowers                        | 7          | 7          | 76, 77, 78, 79, 80, 81, 82 |
+| Flowers                        | 7          | 10         | 16, 17, 18, 19, 20, 21, 22 |
 | Flowers                        | 6          | 3          | 45, 46, 47, 48, 49, 50 |
 | Flowers                        | 6          | 4          | 33, 34, 35, 36, 37, 38 |
 | Flowers                        | 6          | 4          | 58, 59, 60, 61, 62, 63 |
@@ -27,6 +28,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 5          | 5          | 90, 91, 92, 93, 94 |
 | Flowers                        | 5          | 6          | 12, 13, 14, 15, 16 |
 | Flowers                        | 5          | 8          | 26, 27, 28, 29, 30 |
+| Flowers                        | 5          | 10         | 1, 2, 3, 4, 5 |
 | Flowers                        | 4          | 1          | 4, 5, 6, 7 |
 | Flowers                        | 4          | 2          | 44, 45, 46, 47 |
 | Flowers                        | 4          | 3          | 28, 29, 30, 31 |
@@ -43,6 +45,8 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 7          | 4, 5, 6, 7 |
 | Flowers                        | 4          | 7          | 11, 12, 13, 14 |
 | Flowers                        | 4          | 8          | 19, 20, 21, 22 |
+| Flowers                        | 4          | 10         | 8, 9, 10, 11 |
+| Flowers                        | 4          | 10         | 69, 70, 71, 72 |
 
 
 
@@ -138,6 +142,19 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G5: Season 7 Game 80: Crabs 6  @  3 Flowers |
 | G6: Season 7 Game 81: Crabs 12 @  4 Flowers |
 | G7: Season 7 Game 82: Dale 7  @  0 Flowers |
+
+<br />
+
+| 7 Game Losing Streak by the Flowers |
+| ----- |
+| Season 10 Games 15, 16, 17, 18, 19, 20, 21 |
+| G1: Season 10 Game 16: Flowers 0  @  2 Crabs |
+| G2: Season 10 Game 17: Flowers 1  @  3 Crabs |
+| G3: Season 10 Game 18: Flowers 0  @  1 Crabs |
+| G4: Season 10 Game 19: Flowers 0  @  5 Lovers |
+| G5: Season 10 Game 20: Flowers 5  @ 18 Lovers |
+| G6: Season 10 Game 21: Flowers 2  @  6 Lovers |
+| G7: Season 10 Game 22: Flowers 5  @  9 Spies |
 
 <br />
 
@@ -265,6 +282,17 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G3: Season 8 Game 28: Jazz Hands 2  @  1 Flowers |
 | G4: Season 8 Game 29: Jazz Hands 14 @  8 Flowers |
 | G5: Season 8 Game 30: Jazz Hands 7  @  5 Flowers |
+
+<br />
+
+| 5 Game Losing Streak by the Flowers |
+| ----- |
+| Season 10 Games 0, 1, 2, 3, 4 |
+| G1: Season 10 Game 1: Dale 7  @  4 Flowers |
+| G2: Season 10 Game 2: Dale 3  @  0 Flowers |
+| G3: Season 10 Game 3: Dale 4  @  0 Flowers |
+| G4: Season 10 Game 4: Spies 1  @  0 Flowers |
+| G5: Season 10 Game 5: Spies 5  @  2 Flowers |
 
 <br />
 
@@ -425,6 +453,26 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 8 Game 20: Flowers 2  @  3 Firefighters |
 | G3: Season 8 Game 21: Flowers 3  @  6 Firefighters |
 | G4: Season 8 Game 22: Sunbeams 12 @ 11 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Flowers |
+| ----- |
+| Season 10 Games 7, 8, 9, 10 |
+| G1: Season 10 Game 8: Tacos 5  @  2 Flowers |
+| G2: Season 10 Game 9: Tacos 3  @  2 Flowers |
+| G3: Season 10 Game 10: Firefighters 6  @  2 Flowers |
+| G4: Season 10 Game 11: Firefighters 2  @  0 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Flowers |
+| ----- |
+| Season 10 Games 68, 69, 70, 71 |
+| G1: Season 10 Game 69: Flowers 2  @  4 Wild Wings |
+| G2: Season 10 Game 70: Tacos 5  @  0 Flowers |
+| G3: Season 10 Game 71: Tacos 7  @  6 Flowers |
+| G4: Season 10 Game 72: Tacos 5  @  3 Flowers |
 
 
 

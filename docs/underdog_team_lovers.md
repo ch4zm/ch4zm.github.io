@@ -10,6 +10,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 93 | Chicago Firefighters (44%) | 19 - 6 | San Francisco Lovers (56%) | 
 | 3 | 26 | Kansas City Breath Mints (44%) | 12 - 1 | San Francisco Lovers (56%) | 
 | 1 | 35 | Kansas City Breath Mints (43%) | 10 - 0 | San Francisco Lovers (57%) | 
+| 10 | 48 | San Francisco Lovers (41%) | 11 - 2 | Chicago Firefighters (59%) | 
+| 10 | 47 | Chicago Firefighters (45%) | 9 - 1 | San Francisco Lovers (55%) | 
 | 3 | 32 | Dallas Steaks (45%) | 11 - 4 | San Francisco Lovers (55%) | 
 | 2 | 37 | San Francisco Lovers (39%) | 8 - 1 | Hawaii Fridays (61%) | 
 | 2 | 84 | San Francisco Lovers (33%) | 8 - 1 | Breckenridge Jazz Hands (67%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 5 | 28 | Charleston Shoe Thieves (35%) | 8 - 3 | San Francisco Lovers (65%) | 
 | 8 | 35 | San Francisco Lovers (45%) | 8 - 3 | Chicago Firefighters (55%) | 
 | 8 | 55 | Hawaii Fridays (39%) | 8 - 3 | San Francisco Lovers (61%) | 
-| 3 | 16 | San Francisco Lovers (46%) | 7 - 2 | Baltimore Crabs (54%) | 
-| 3 | 62 | Hawaii Fridays (46%) | 7 - 2 | San Francisco Lovers (54%) | 
 
 

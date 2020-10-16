@@ -29,8 +29,8 @@ Shutout games (games where the loser had zero runs) for all time for team Tacos 
 | 9 | 59 | Unlimited Tacos | 8 - 0 | Hellmouth Sunbeams | 
 | 9 | 70 | Hellmouth Sunbeams | 8 - 0 | Unlimited Tacos | 
 | 9 | 89 | Unlimited Tacos | 8 - 0 | Miami Dale | 
+| 10 | 17 | Unlimited Tacos | 8 - 0 | Chicago Firefighters | 
 | 1 | 99 | Hawaii Fridays | 7 - 0 | Los Angeles Tacos | 
 | 3 | 59 | Los Angeles Tacos | 7 - 0 | Chicago Firefighters | 
-| 8 | 30 | Unlimited Tacos | 7 - 0 | Miami Dale | 
 
 

@@ -26,11 +26,11 @@ Shutout games (games where the loser had zero runs) for all time for team Sunbea
 | 8 | 60 | Hellmouth Sunbeams | 8 - 0 | Chicago Firefighters | 
 | 9 | 59 | Unlimited Tacos | 8 - 0 | Hellmouth Sunbeams | 
 | 9 | 70 | Hellmouth Sunbeams | 8 - 0 | Unlimited Tacos | 
+| 9 | 103* | Baltimore Crabs | 8 - 0 | Hellmouth Sunbeams | 
+| 10 | 63 | Boston Flowers | 8 - 0 | Hellmouth Sunbeams | 
 | 1 | 32 | Moab Sunbeams | 7 - 0 | Philly Pies | 
 | 1 | 63 | Canada Moist Talkers | 7 - 0 | Moab Sunbeams | 
 | 2 | 7 | Canada Moist Talkers | 7 - 0 | Hellmouth Sunbeams | 
 | 5 | 2 | Hellmouth Sunbeams | 7 - 0 | Mexico City Wild Wings | 
-| 2 | 25 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
-| 2 | 61 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
 
 

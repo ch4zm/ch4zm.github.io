@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -10,11 +10,13 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Shoe Thieves                   | 9          | 10         | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
 | Shoe Thieves                   | 8          | 3          | 5, 6, 7, 8, 9, 10, 11, 12 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
 | Shoe Thieves                   | 8          | 8          | 83, 84, 85, 86, 87, 88, 89, 90 |
 | Shoe Thieves                   | 8          | 9          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
+| Shoe Thieves                   | 7          | 10         | 1, 2, 3, 4, 5, 6, 7 |
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
 | Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
 | Shoe Thieves                   | 6          | 8          | 42, 43, 44, 45, 46, 47 |
@@ -23,6 +25,10 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
 | Shoe Thieves                   | 5          | 7          | 80, 81, 82, 83, 84 |
 | Shoe Thieves                   | 5          | 9          | 65, 66, 67, 68, 69 |
+| Shoe Thieves                   | 5          | 9          | 97, 98, 99, 103, 104 |
+| Shoe Thieves                   | 5          | 10         | 16, 17, 18, 19, 20 |
+| Shoe Thieves                   | 5          | 10         | 45, 46, 47, 48, 49 |
+| Shoe Thieves                   | 5          | 10         | 68, 69, 70, 71, 72 |
 | Shoe Thieves                   | 4          | 1          | 7, 8, 9, 10 |
 | Shoe Thieves                   | 4          | 1          | 26, 27, 28, 29 |
 | Shoe Thieves                   | 4          | 1          | 57, 58, 59, 60 |
@@ -54,6 +60,21 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Shoe Thieves versus all teams for all time
+
+| 9 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 55, 56, 57, 58, 59, 60, 61, 62, 63 |
+| G1: Season 10 Game 56: Pies 1  @  2 Shoe Thieves |
+| G2: Season 10 Game 57: Pies -1 @  3 Shoe Thieves |
+| G3: Season 10 Game 58: Shoe Thieves 13 @  1 Steaks |
+| G4: Season 10 Game 59: Shoe Thieves 3  @  2 Steaks |
+| G5: Season 10 Game 60: Shoe Thieves 5  @  4 Steaks |
+| G6: Season 10 Game 61: Shoe Thieves 3  @  2 Fridays |
+| G7: Season 10 Game 62: Shoe Thieves 1  @  0 Fridays |
+| G8: Season 10 Game 63: Shoe Thieves 6  @  2 Fridays |
+| G9: Season 10 Game 64: Shoe Thieves 6  @  4 Fridays |
+
+<br />
 
 | 8 Game Winning Streak by the Shoe Thieves |
 | ----- |
@@ -121,6 +142,19 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G5: Season 2 Game 106: Flowers 4  @  5 Shoe Thieves |
 | G6: Season 2 Game 107: Flowers 0  @ 10 Shoe Thieves |
 | G7: Season 2 Game 108: Pies 4  @  9 Shoe Thieves |
+
+<br />
+
+| 7 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 0, 1, 2, 3, 4, 5, 6 |
+| G1: Season 10 Game 1: Fridays 1  @  4 Shoe Thieves |
+| G2: Season 10 Game 2: Fridays 0  @  3 Shoe Thieves |
+| G3: Season 10 Game 3: Fridays 0  @  1 Shoe Thieves |
+| G4: Season 10 Game 4: Shoe Thieves 1  @  0 Fridays |
+| G5: Season 10 Game 5: Shoe Thieves 4  @  1 Fridays |
+| G6: Season 10 Game 6: Shoe Thieves 6  @  2 Fridays |
+| G7: Season 10 Game 7: Shoe Thieves 8  @  0 Pies |
 
 <br />
 
@@ -212,6 +246,50 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G3: Season 9 Game 67: Shoe Thieves 7  @  4 Pies |
 | G4: Season 9 Game 68: Shoe Thieves 10 @  9 Pies |
 | G5: Season 9 Game 69: Shoe Thieves 12 @  5 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 9 Games 96, 97, 98, 102, 103 |
+| G1: Season 9 Game 97: Shoe Thieves 8  @  0 Pies |
+| G2: Season 9 Game 98: Shoe Thieves 12 @  5 Pies |
+| G3: Season 9 Game 99: Shoe Thieves 8  @  3 Pies |
+| G4: Season 9 Game 103: Tigers 4  @  6 Shoe Thieves |
+| G5: Season 9 Game 104: Tigers 1  @  2 Shoe Thieves |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 15, 16, 17, 18, 19 |
+| G1: Season 10 Game 16: Shoe Thieves 4  @  3 Steaks |
+| G2: Season 10 Game 17: Shoe Thieves 1  @  0 Steaks |
+| G3: Season 10 Game 18: Shoe Thieves 6  @  3 Steaks |
+| G4: Season 10 Game 19: Fridays 2  @  3 Shoe Thieves |
+| G5: Season 10 Game 20: Fridays 1  @  3 Shoe Thieves |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 44, 45, 46, 47, 48 |
+| G1: Season 10 Game 45: Shoe Thieves 12 @  0 Magic |
+| G2: Season 10 Game 46: Garages 1  @  2 Shoe Thieves |
+| G3: Season 10 Game 47: Garages 1  @  5 Shoe Thieves |
+| G4: Season 10 Game 48: Garages 1  @  5 Shoe Thieves |
+| G5: Season 10 Game 49: Tigers 0  @  2 Shoe Thieves |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 67, 68, 69, 70, 71 |
+| G1: Season 10 Game 68: Shoe Thieves 3  @  2 Pies |
+| G2: Season 10 Game 69: Shoe Thieves 6  @  1 Pies |
+| G3: Season 10 Game 70: Shoe Thieves 4  @  3 Pies |
+| G4: Season 10 Game 71: Shoe Thieves 3  @  0 Pies |
+| G5: Season 10 Game 72: Shoe Thieves 9  @  8 Pies |
 
 <br />
 

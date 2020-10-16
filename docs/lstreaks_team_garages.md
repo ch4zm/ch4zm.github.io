@@ -1,5 +1,5 @@
 # Garages Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -16,12 +16,14 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 6          | 3          | 61, 62, 63, 64, 65, 66 |
 | Garages                        | 6          | 4          | 12, 13, 14, 15, 16, 17 |
 | Garages                        | 6          | 6          | 27, 28, 29, 30, 31, 32 |
+| Garages                        | 6          | 10         | 56, 57, 58, 59, 60, 61 |
 | Garages                        | 5          | 1          | 25, 26, 27, 28, 29 |
 | Garages                        | 5          | 1          | 34, 35, 36, 40, 41 |
 | Garages                        | 5          | 2          | 56, 57, 58, 59, 60 |
 | Garages                        | 5          | 2          | 83, 84, 85, 86, 87 |
 | Garages                        | 5          | 4          | 48, 49, 50, 51, 52 |
 | Garages                        | 5          | 5          | 52, 53, 54, 55, 56 |
+| Garages                        | 5          | 10         | 5, 6, 7, 8, 9 |
 | Garages                        | 4          | 1          | 83, 84, 88, 89 |
 | Garages                        | 4          | 2          | 40, 41, 42, 43 |
 | Garages                        | 4          | 2          | 71, 72, 76, 77 |
@@ -31,6 +33,8 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 7          | 17, 18, 19, 20 |
 | Garages                        | 4          | 9          | 77, 78, 79, 80 |
 | Garages                        | 4          | 9          | 95, 96, 97, 98 |
+| Garages                        | 4          | 10         | 69, 70, 71, 72 |
+| Garages                        | 4          | 10         | 75, 76, 77, 78 |
 
 
 
@@ -116,6 +120,18 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Garages |
+| ----- |
+| Season 10 Games 55, 56, 57, 58, 59, 60 |
+| G1: Season 10 Game 56: Garages 2  @  4 Fridays |
+| G2: Season 10 Game 57: Garages 0  @  5 Fridays |
+| G3: Season 10 Game 58: Millennials 12 @  4 Garages |
+| G4: Season 10 Game 59: Millennials 9  @  8 Garages |
+| G5: Season 10 Game 60: Millennials 2  @  1 Garages |
+| G6: Season 10 Game 61: Pies 4  @  1 Garages |
+
+<br />
+
 | 5 Game Losing Streak by the Garages |
 | ----- |
 | Season 1 Games 24, 25, 26, 27, 28 |
@@ -179,6 +195,17 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G3: Season 5 Game 54: Garages 4  @ 11 Jazz Hands |
 | G4: Season 5 Game 55: Garages 2  @  3 Wild Wings |
 | G5: Season 5 Game 56: Garages 3  @  5 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Garages |
+| ----- |
+| Season 10 Games 4, 5, 6, 7, 8 |
+| G1: Season 10 Game 5: Garages 6  @  8 Millennials |
+| G2: Season 10 Game 6: Garages 5  @ 10 Millennials |
+| G3: Season 10 Game 7: Millennials 2  @  1 Garages |
+| G4: Season 10 Game 8: Millennials 5  @  1 Garages |
+| G5: Season 10 Game 9: Millennials 3  @  0 Garages |
 
 <br />
 
@@ -269,6 +296,26 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 9 Game 96: Garages 7  @ 11 Tigers |
 | G3: Season 9 Game 97: Garages 3  @  5 Steaks |
 | G4: Season 9 Game 98: Garages 1  @  4 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 10 Games 68, 69, 70, 71 |
+| G1: Season 10 Game 69: Fridays 5  @  4 Garages |
+| G2: Season 10 Game 70: Millennials 4  @  2 Garages |
+| G3: Season 10 Game 71: Millennials 8  @  2 Garages |
+| G4: Season 10 Game 72: Millennials 9  @  4 Garages |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 10 Games 74, 75, 76, 77 |
+| G1: Season 10 Game 75: Pies 4  @  2 Garages |
+| G2: Season 10 Game 76: Garages 5  @  6 Pies |
+| G3: Season 10 Game 77: Garages 6  @ 12 Pies |
+| G4: Season 10 Game 78: Garages 4  @  7 Pies |
 
 
 

@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -47,6 +47,7 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 8          | 36, 37, 38, 39 |
 | Firefighters                   | 4          | 9          | 40, 41, 42, 43 |
 | Firefighters                   | 4          | 9          | 62, 63, 64, 65 |
+| Firefighters                   | 4          | 10         | 3, 4, 5, 6 |
 
 
 
@@ -466,6 +467,16 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 9 Game 63: Breath Mints 4  @  7 Firefighters |
 | G3: Season 9 Game 64: Dale 6  @  7 Firefighters |
 | G4: Season 9 Game 65: Dale 1  @  3 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 10 Games 2, 3, 4, 5 |
+| G1: Season 10 Game 3: Firefighters 4  @  3 Lovers |
+| G2: Season 10 Game 4: Jazz Hands 7  @  8 Firefighters |
+| G3: Season 10 Game 5: Jazz Hands 5  @  6 Firefighters |
+| G4: Season 10 Game 6: Jazz Hands 4  @  9 Firefighters |
 
 
 

@@ -24,6 +24,8 @@
 
 * [Season 9 Winning Streaks](wstreaks_season9.md)
 
+* [Season 10 Winning Streaks](wstreaks_season10.md)
+
 ## By Team
 
 * [Breath Mints Winning Streaks](wstreaks_team_breath_mints.md)

@@ -1,5 +1,5 @@
 # Sunbeams Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -14,12 +14,15 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 9          | 1          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
 | Sunbeams                       | 8          | 2          | 7, 8, 9, 10, 11, 12, 13, 14 |
+| Sunbeams                       | 8          | 10         | 11, 12, 13, 14, 15, 16, 17, 18 |
 | Sunbeams                       | 7          | 1          | 33, 34, 35, 36, 37, 38, 39 |
 | Sunbeams                       | 7          | 5          | 81, 82, 83, 84, 85, 86, 87 |
 | Sunbeams                       | 7          | 7          | 9, 10, 11, 12, 13, 14, 15 |
 | Sunbeams                       | 7          | 9          | 36, 37, 38, 39, 40, 41, 42 |
 | Sunbeams                       | 6          | 3          | 36, 37, 38, 39, 43, 44 |
 | Sunbeams                       | 6          | 3          | 81, 82, 83, 84, 85, 86 |
+| Sunbeams                       | 6          | 10         | 32, 33, 34, 35, 36, 37 |
+| Sunbeams                       | 6          | 10         | 59, 60, 61, 62, 63, 64 |
 | Sunbeams                       | 5          | 2          | 36, 37, 38, 39, 40 |
 | Sunbeams                       | 5          | 3          | 47, 48, 49, 50, 51 |
 | Sunbeams                       | 5          | 4          | 58, 59, 60, 61, 62 |
@@ -37,6 +40,9 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 6          | 73, 74, 75, 76 |
 | Sunbeams                       | 4          | 6          | 89, 90, 91, 92 |
 | Sunbeams                       | 4          | 7          | 68, 69, 70, 71 |
+| Sunbeams                       | 4          | 10         | 6, 7, 8, 9 |
+| Sunbeams                       | 4          | 10         | 51, 52, 53, 54 |
+| Sunbeams                       | 4          | 10         | 70, 71, 72, 73 |
 
 
 
@@ -105,6 +111,20 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G6: Season 2 Game 12: Jazz Hands 16 @  3 Sunbeams |
 | G7: Season 2 Game 13: Sunbeams 1  @  6 Moist Talkers |
 | G8: Season 2 Game 14: Sunbeams 1  @  4 Moist Talkers |
+
+<br />
+
+| 8 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 10, 11, 12, 13, 14, 15, 16, 17 |
+| G1: Season 10 Game 11: Sunbeams 2  @  4 Spies |
+| G2: Season 10 Game 12: Sunbeams 4  @  6 Spies |
+| G3: Season 10 Game 13: Tacos 6  @  3 Sunbeams |
+| G4: Season 10 Game 14: Tacos 6  @  5 Sunbeams |
+| G5: Season 10 Game 15: Tacos 9  @  3 Sunbeams |
+| G6: Season 10 Game 16: Dale 3  @  0 Sunbeams |
+| G7: Season 10 Game 17: Dale 2  @  1 Sunbeams |
+| G8: Season 10 Game 18: Dale 3  @  2 Sunbeams |
 
 <br />
 
@@ -181,6 +201,30 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G4: Season 3 Game 84: Sunbeams 5  @ 10 Tigers |
 | G5: Season 3 Game 85: Sunbeams 2  @  9 Moist Talkers |
 | G6: Season 3 Game 86: Sunbeams 3  @  5 Moist Talkers |
+
+<br />
+
+| 6 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 31, 32, 33, 34, 35, 36 |
+| G1: Season 10 Game 32: Tacos 5  @  3 Sunbeams |
+| G2: Season 10 Game 33: Tacos 5  @  2 Sunbeams |
+| G3: Season 10 Game 34: Moist Talkers 14 @  4 Sunbeams |
+| G4: Season 10 Game 35: Moist Talkers 7  @  2 Sunbeams |
+| G5: Season 10 Game 36: Moist Talkers 11 @  3 Sunbeams |
+| G6: Season 10 Game 37: Sunbeams 6  @ 10 Flowers |
+
+<br />
+
+| 6 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 58, 59, 60, 61, 62, 63 |
+| G1: Season 10 Game 59: Sunbeams 5  @ 10 Lovers |
+| G2: Season 10 Game 60: Sunbeams 2  @  3 Lovers |
+| G3: Season 10 Game 61: Flowers 4  @  2 Sunbeams |
+| G4: Season 10 Game 62: Flowers 5  @  4 Sunbeams |
+| G5: Season 10 Game 63: Flowers 8  @  0 Sunbeams |
+| G6: Season 10 Game 64: Sunbeams 1  @  9 Crabs |
 
 <br />
 
@@ -356,6 +400,36 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 7 Game 69: Sunbeams 4  @  5 Jazz Hands |
 | G3: Season 7 Game 70: Sunbeams 2  @  6 Crabs |
 | G4: Season 7 Game 71: Sunbeams 2  @  4 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 5, 6, 7, 8 |
+| G1: Season 10 Game 6: Sunbeams 2  @  5 Tacos |
+| G2: Season 10 Game 7: Sunbeams 3  @ 16 Crabs |
+| G3: Season 10 Game 8: Sunbeams 4  @  8 Crabs |
+| G4: Season 10 Game 9: Sunbeams 4  @  7 Crabs |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 50, 51, 52, 53 |
+| G1: Season 10 Game 51: Dale 4  @  2 Sunbeams |
+| G2: Season 10 Game 52: Lovers 6  @  2 Sunbeams |
+| G3: Season 10 Game 53: Lovers 1  @  0 Sunbeams |
+| G4: Season 10 Game 54: Lovers 4  @  0 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 69, 70, 71, 72 |
+| G1: Season 10 Game 70: Spies 3  @  2 Sunbeams |
+| G2: Season 10 Game 71: Spies 1  @  0 Sunbeams |
+| G3: Season 10 Game 72: Spies 7  @  5 Sunbeams |
+| G4: Season 10 Game 73: Firefighters 9  @  1 Sunbeams |
 
 
 

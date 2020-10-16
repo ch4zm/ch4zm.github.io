@@ -1,5 +1,5 @@
 # Tacos Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -36,6 +36,7 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 6          | 6          | 21, 25, 26, 27, 28, 29 |
 | Tacos                          | 6          | 8          | 49, 50, 51, 52, 53, 54 |
 | Tacos                          | 6          | 9          | 83, 84, 85, 86, 87, 88 |
+| Tacos                          | 6          | 10         | 63, 64, 65, 66, 67, 68 |
 | Tacos                          | 5          | 2          | 52, 53, 54, 55, 56 |
 | Tacos                          | 5          | 3          | 72, 73, 74, 75, 76 |
 | Tacos                          | 5          | 3          | 80, 81, 82, 83, 84 |
@@ -43,6 +44,7 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 5          | 6          | 90, 91, 92, 93, 94 |
 | Tacos                          | 5          | 8          | 21, 22, 23, 24, 25 |
 | Tacos                          | 5          | 9          | 70, 71, 72, 73, 74 |
+| Tacos                          | 5          | 10         | 34, 35, 36, 37, 38 |
 | Tacos                          | 4          | 1          | 85, 86, 87, 88 |
 | Tacos                          | 4          | 2          | 6, 7, 8, 9 |
 | Tacos                          | 4          | 5          | 1, 2, 3, 4 |
@@ -59,6 +61,7 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 9          | 55, 56, 57, 58 |
 | Tacos                          | 4          | 9          | 65, 66, 67, 68 |
 | Tacos                          | 4          | 9          | 93, 94, 95, 96 |
+| Tacos                          | 4          | 10         | 40, 41, 42, 43 |
 
 
 
@@ -424,6 +427,18 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Tacos |
+| ----- |
+| Season 10 Games 62, 63, 64, 65, 66, 67 |
+| G1: Season 10 Game 63: Tacos 0  @  7 Wild Wings |
+| G2: Season 10 Game 64: Tacos 4  @  6 Spies |
+| G3: Season 10 Game 65: Tacos 2  @  3 Spies |
+| G4: Season 10 Game 66: Tacos 1  @  4 Spies |
+| G5: Season 10 Game 67: Tacos 4  @  7 Jazz Hands |
+| G6: Season 10 Game 68: Tacos 1  @  2 Jazz Hands |
+
+<br />
+
 | 5 Game Losing Streak by the Tacos |
 | ----- |
 | Season 2 Games 51, 52, 53, 54, 55 |
@@ -498,6 +513,17 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G3: Season 9 Game 72: Tacos 3  @  9 Sunbeams |
 | G4: Season 9 Game 73: Tacos 3  @  7 Crabs |
 | G5: Season 9 Game 74: Tacos 0  @  9 Crabs |
+
+<br />
+
+| 5 Game Losing Streak by the Tacos |
+| ----- |
+| Season 10 Games 33, 34, 35, 36, 37 |
+| G1: Season 10 Game 34: Tacos 2  @  3 Spies |
+| G2: Season 10 Game 35: Tacos 3  @  4 Spies |
+| G3: Season 10 Game 36: Tacos 1  @  3 Spies |
+| G4: Season 10 Game 37: Tacos 6  @  7 Breath Mints |
+| G5: Season 10 Game 38: Tacos 2  @  4 Breath Mints |
 
 <br />
 
@@ -658,6 +684,16 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 9 Game 94: Tacos 2  @ 11 Lovers |
 | G3: Season 9 Game 95: Tacos 4  @  7 Lovers |
 | G4: Season 9 Game 96: Tacos 2  @  5 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 10 Games 39, 40, 41, 42 |
+| G1: Season 10 Game 40: Tacos 2  @  3 Lovers |
+| G2: Season 10 Game 41: Tacos 0  @  1 Lovers |
+| G3: Season 10 Game 42: Tacos 1  @  6 Lovers |
+| G4: Season 10 Game 43: Tacos 2  @  3 Jazz Hands |
 
 
 

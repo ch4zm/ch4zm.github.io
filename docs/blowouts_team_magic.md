@@ -27,10 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
 | 2 | 75 | Boston Flowers | 14 - 2 | Yellowstone Magic | 
 | 9 | 25 | Hellmouth Sunbeams | 14 - 2 | Yellowstone Magic | 
+| 10 | 65 | New York Millennials | 14 - 2 | Yellowstone Magic | 
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 6 | 47 | Seattle Garages | 14 - 5 | Yellowstone Magic | 
 | 8 | 59 | Canada Moist Talkers | 14 - 5 | Yellowstone Magic | 
 | 5 | 95 | New York Millennials | 14 - 6 | Yellowstone Magic | 
-| 6 | 29 | Yellowstone Magic | 14 - 6 | Dallas Steaks | 
 
 

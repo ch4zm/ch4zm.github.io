@@ -1,5 +1,5 @@
 # Wild Wings Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -29,6 +29,7 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 8          | 31, 32, 33, 34 |
 | Wild Wings                     | 4          | 8          | 48, 49, 50, 51 |
 | Wild Wings                     | 4          | 8          | 55, 56, 57, 58 |
+| Wild Wings                     | 4          | 10         | 3, 4, 5, 6 |
 
 
 
@@ -247,6 +248,16 @@ Winning streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 8 Game 56: Breath Mints 4  @  5 Wild Wings |
 | G3: Season 8 Game 57: Breath Mints 2  @  8 Wild Wings |
 | G4: Season 8 Game 58: Fridays 2  @  4 Wild Wings |
+
+<br />
+
+| 4 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 2, 3, 4, 5 |
+| G1: Season 10 Game 3: Wild Wings 3  @  1 Tacos |
+| G2: Season 10 Game 4: Dale 1  @  3 Wild Wings |
+| G3: Season 10 Game 5: Dale 0  @  3 Wild Wings |
+| G4: Season 10 Game 6: Dale 1  @ 13 Wild Wings |
 
 
 

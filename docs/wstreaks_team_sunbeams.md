@@ -1,5 +1,5 @@
 # Sunbeams Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -16,6 +16,7 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 6          | 8          | 38, 39, 40, 41, 42, 43 |
 | Sunbeams                       | 5          | 1          | 14, 15, 16, 17, 18 |
 | Sunbeams                       | 5          | 1          | 80, 81, 85, 86, 87 |
+| Sunbeams                       | 5          | 9          | 97, 98, 99, 100, 101 |
 | Sunbeams                       | 4          | 3          | 70, 71, 72, 73 |
 | Sunbeams                       | 4          | 4          | 4, 5, 6, 7 |
 | Sunbeams                       | 4          | 5          | 93, 94, 95, 96 |
@@ -111,6 +112,17 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G3: Season 1 Game 85: Sunbeams 6  @  5 Spies |
 | G4: Season 1 Game 86: Sunbeams 6  @  2 Spies |
 | G5: Season 1 Game 87: Sunbeams 4  @  3 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 9 Games 96, 97, 98, 99, 100 |
+| G1: Season 9 Game 97: Firefighters 3  @  4 Sunbeams |
+| G2: Season 9 Game 98: Firefighters 3  @  5 Sunbeams |
+| G3: Season 9 Game 99: Firefighters 0  @  4 Sunbeams |
+| G4: Season 9 Game 100: Firefighters 3  @  6 Sunbeams |
+| G5: Season 9 Game 101: Sunbeams 8  @  5 Firefighters |
 
 <br />
 

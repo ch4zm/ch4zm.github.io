@@ -24,13 +24,13 @@ Shame games (games where the loser was shamed) for all time for team Wild Wings 
 | 3 | 62 | Mexico City Wild Wings | 7 - 5 | Miami Dalé | 
 | 7 | 20 | Canada Moist Talkers | 7 - 5 | Mexico City Wild Wings | 
 | 8 | 39 | Mexico City Wild Wings | 7 - 5 | Charleston Shoe Thieves | 
+| 10 | 29 | Chicago Firefighters | 7 - 5 | Mexico City Wild Wings | 
 | 5 | 69 | Baltimore Crabs | 6 - 4 | Mexico City Wild Wings | 
 | 6 | 54 | Philly Pies | 6 - 4 | Mexico City Wild Wings | 
 | 9 | 71 | Mexico City Wild Wings | 5 - 3 | Chicago Firefighters | 
+| 10 | 36 | Mexico City Wild Wings | 5 - 3 | Philly Pies | 
 | 6 | 15 | Seattle Garages | 4 - 2 | Mexico City Wild Wings | 
 | 1 | 36 | Mexico City Wild Wings | 3 - 1 | Hades Tigers | 
 | 3 | 74 | Canada Moist Talkers | 3 - 1 | Mexico City Wild Wings | 
-| 7 | 7 | Mexico City Wild Wings | 3 - 1 | Dallas Steaks | 
-| 9 | 6 | San Francisco Lovers | 3 - 1 | Mexico City Wild Wings | 
 
 

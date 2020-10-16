@@ -1,5 +1,5 @@
 # Pies Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -19,6 +19,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 6          | 6          | 28, 29, 30, 31, 32, 33 |
 | Pies                           | 6          | 6          | 90, 91, 92, 93, 94, 95 |
 | Pies                           | 6          | 8          | 79, 80, 81, 82, 83, 84 |
+| Pies                           | 6          | 10         | 30, 31, 32, 33, 34, 35 |
 | Pies                           | 5          | 2          | 71, 72, 73, 74, 75 |
 | Pies                           | 5          | 2          | 94, 95, 96, 97, 98 |
 | Pies                           | 5          | 4          | 17, 18, 19, 20, 21 |
@@ -28,6 +29,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 5          | 9          | 73, 74, 75, 76, 77 |
 | Pies                           | 5          | 9          | 79, 80, 81, 82, 83 |
 | Pies                           | 5          | 9          | 86, 87, 88, 89, 90 |
+| Pies                           | 5          | 10         | 38, 39, 40, 41, 42 |
 | Pies                           | 4          | 1          | 66, 67, 68, 69 |
 | Pies                           | 4          | 2          | 51, 52, 53, 54 |
 | Pies                           | 4          | 2          | 66, 67, 68, 69 |
@@ -44,6 +46,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 8          | 99, 100, 101, 102 |
 | Pies                           | 4          | 9          | 48, 49, 50, 51 |
 | Pies                           | 4          | 9          | 53, 54, 55, 56 |
+| Pies                           | 4          | 10         | 14, 15, 16, 17 |
 
 
 
@@ -167,6 +170,18 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 29, 30, 31, 32, 33, 34 |
+| G1: Season 10 Game 30: Breath Mints 2  @  3 Pies |
+| G2: Season 10 Game 31: Magic 2  @  6 Pies |
+| G3: Season 10 Game 32: Magic 1  @  2 Pies |
+| G4: Season 10 Game 33: Magic 3  @  4 Pies |
+| G5: Season 10 Game 34: Pies 7  @  5 Wild Wings |
+| G6: Season 10 Game 35: Pies 5  @  0 Wild Wings |
+
+<br />
+
 | 5 Game Winning Streak by the Pies |
 | ----- |
 | Season 2 Games 70, 71, 72, 73, 74 |
@@ -263,6 +278,17 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G3: Season 9 Game 88: Pies 6  @  1 Moist Talkers |
 | G4: Season 9 Game 89: Pies 9  @  2 Moist Talkers |
 | G5: Season 9 Game 90: Pies 9  @  0 Moist Talkers |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 37, 38, 39, 40, 41 |
+| G1: Season 10 Game 38: Pies 5  @  2 Garages |
+| G2: Season 10 Game 39: Pies 7  @  4 Garages |
+| G3: Season 10 Game 40: Pies 3  @  2 Steaks |
+| G4: Season 10 Game 41: Pies 6  @  3 Steaks |
+| G5: Season 10 Game 42: Pies 5  @  2 Steaks |
 
 <br />
 
@@ -423,6 +449,16 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 9 Game 54: Pies 14 @  3 Millennials |
 | G3: Season 9 Game 55: Pies 5  @  3 Fridays |
 | G4: Season 9 Game 56: Pies 8  @  0 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 13, 14, 15, 16 |
+| G1: Season 10 Game 14: Pies 2  @  0 Shoe Thieves |
+| G2: Season 10 Game 15: Pies 6  @  2 Shoe Thieves |
+| G3: Season 10 Game 16: Tigers 2  @  4 Pies |
+| G4: Season 10 Game 17: Tigers 1  @  9 Pies |
 
 
 

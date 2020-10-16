@@ -13,8 +13,10 @@ Shutout games (games where the loser had zero runs) for all time for team Breath
 | 1 | 35 | Kansas City Breath Mints | 10 - 0 | San Francisco Lovers | 
 | 4 | 69 | Charleston Shoe Thieves | 10 - 0 | Kansas City Breath Mints | 
 | 7 | 4 | Seattle Garages | 9 - 0 | Kansas City Breath Mints | 
+| 10 | 56 | Kansas City Breath Mints | 9 - 0 | Yellowstone Magic | 
 | 5 | 93 | Kansas City Breath Mints | 8 - 0 | Chicago Firefighters | 
 | 8 | 97 | Hades Tigers | 8 - 0 | Kansas City Breath Mints | 
+| 10 | 27 | Canada Moist Talkers | 8 - 0 | Kansas City Breath Mints | 
 | 2 | 94 | Chicago Firefighters | 7 - 0 | Kansas City Breath Mints | 
 | 4 | 9 | New York Millennials | 7 - 0 | Kansas City Breath Mints | 
 | 4 | 17 | Kansas City Breath Mints | 7 - 0 | Dallas Steaks | 
@@ -30,7 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Breath
 | 1 | 36 | San Francisco Lovers | 6 - 0 | Kansas City Breath Mints | 
 | 2 | 14 | Kansas City Breath Mints | 6 - 0 | Hawaii Fridays | 
 | 2 | 60 | San Francisco Lovers | 6 - 0 | Kansas City Breath Mints | 
-| 2 | 67 | Kansas City Breath Mints | 6 - 0 | San Francisco Lovers | 
-| 4 | 43 | Kansas City Breath Mints | 6 - 0 | Hawaii Fridays | 
 
 

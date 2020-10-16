@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Tigers                         | 12         | 3          | 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
+| Tigers                         | 10         | 10         | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38 |
 | Tigers                         | 9          | 4          | 29, 30, 31, 32, 33, 34, 35, 36, 37 |
 | Tigers                         | 9          | 8          | 53, 54, 55, 56, 57, 58, 59, 60, 61 |
 | Tigers                         | 8          | 2          | 5, 6, 7, 8, 9, 10, 11, 12 |
@@ -33,6 +34,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 6          | 9          | 11, 12, 13, 14, 15, 16 |
 | Tigers                         | 6          | 9          | 43, 44, 45, 46, 47, 48 |
 | Tigers                         | 6          | 9          | 78, 79, 80, 81, 82, 83 |
+| Tigers                         | 6          | 10         | 40, 41, 42, 43, 44, 45 |
 | Tigers                         | 5          | 2          | 14, 15, 16, 17, 18 |
 | Tigers                         | 5          | 3          | 1, 2, 3, 4, 5 |
 | Tigers                         | 5          | 3          | 63, 64, 65, 66, 67 |
@@ -85,6 +87,22 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G10: Season 3 Game 87: Tigers 8  @  6 Garages |
 | G11: Season 3 Game 88: Tigers 2  @  0 Wild Wings |
 | G12: Season 3 Game 89: Tigers 3  @  1 Wild Wings |
+
+<br />
+
+| 10 Game Winning Streak by the Tigers |
+| ----- |
+| Season 10 Games 28, 29, 30, 31, 32, 33, 34, 35, 36, 37 |
+| G1: Season 10 Game 29: Garages 2  @  4 Tigers |
+| G2: Season 10 Game 30: Garages 1  @  3 Tigers |
+| G3: Season 10 Game 31: Shoe Thieves 3  @  9 Tigers |
+| G4: Season 10 Game 32: Shoe Thieves 7  @ 10 Tigers |
+| G5: Season 10 Game 33: Shoe Thieves -1 @  1 Tigers |
+| G6: Season 10 Game 34: Millennials 0  @  2 Tigers |
+| G7: Season 10 Game 35: Millennials 2  @  8 Tigers |
+| G8: Season 10 Game 36: Millennials 2  @  4 Tigers |
+| G9: Season 10 Game 37: Tigers 5  @  3 Fridays |
+| G10: Season 10 Game 38: Tigers 9  @  0 Fridays |
 
 <br />
 
@@ -366,6 +384,18 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G4: Season 9 Game 81: Tigers 3  @  2 Fridays |
 | G5: Season 9 Game 82: Magic 3  @  7 Tigers |
 | G6: Season 9 Game 83: Magic 5  @  8 Tigers |
+
+<br />
+
+| 6 Game Winning Streak by the Tigers |
+| ----- |
+| Season 10 Games 39, 40, 41, 42, 43, 44 |
+| G1: Season 10 Game 40: Tigers 3  @  2 Magic |
+| G2: Season 10 Game 41: Tigers 6  @  0 Magic |
+| G3: Season 10 Game 42: Tigers 3  @  1 Magic |
+| G4: Season 10 Game 43: Tigers 4  @  3 Steaks |
+| G5: Season 10 Game 44: Tigers 7  @  5 Steaks |
+| G6: Season 10 Game 45: Tigers 3  @  1 Steaks |
 
 <br />
 

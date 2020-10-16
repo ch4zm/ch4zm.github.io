@@ -15,9 +15,14 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 7 | 61 | Breckenridge Jazz Hands | 12 - 0 | Unlimited Tacos | 
 | 5 | 43 | Breckenridge Jazz Hands | 11 - 0 | Hellmouth Sunbeams | 
 | 9 | 23 | Breckenridge Jazz Hands | 11 - 0 | Boston Flowers | 
+| 10 | 51 | Boston Flowers | 11 - 0 | Breckenridge Jazz Hands | 
 | 1 | 28 | Breckenridge Jazz Hands | 10 - 0 | Baltimore Crabs | 
+| 10 | 2 | Breckenridge Jazz Hands | 10 - 0 | Baltimore Crabs | 
+| 10 | 72 | Baltimore Crabs | 10 - 0 | Breckenridge Jazz Hands | 
 | 4 | 28 | Breckenridge Jazz Hands | 9 - 0 | Seattle Garages | 
 | 6 | 81 | San Francisco Lovers | 9 - 0 | Breckenridge Jazz Hands | 
+| 10 | 9 | Breckenridge Jazz Hands | 9 - 0 | Hawai'i Fridays | 
+| 10 | 60 | Baltimore Crabs | 9 - 0 | Breckenridge Jazz Hands | 
 | 5 | 66 | Breckenridge Jazz Hands | 8 - 0 | Hellmouth Sunbeams | 
 | 5 | 12 | Breckenridge Jazz Hands | 7 - 0 | Canada Moist Talkers | 
 | 5 | 75 | Breckenridge Jazz Hands | 7 - 0 | Seattle Garages | 
@@ -27,10 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 2 | 25 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
 | 2 | 61 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
 | 2 | 86 | Miami Dalé | 6 - 0 | Breckenridge Jazz Hands | 
-| 3 | 67 | Baltimore Crabs | 6 - 0 | Breckenridge Jazz Hands | 
-| 3 | 73 | Breckenridge Jazz Hands | 6 - 0 | Baltimore Crabs | 
-| 4 | 7 | Breckenridge Jazz Hands | 6 - 0 | Philly Pies | 
-| 5 | 21 | Canada Moist Talkers | 6 - 0 | Breckenridge Jazz Hands | 
-| 5 | 81 | Philly Pies | 6 - 0 | Breckenridge Jazz Hands | 
 
 

@@ -10,6 +10,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 75 | Boston Flowers (40%) | 14 - 2 | Yellowstone Magic (60%) | 
 | 7 | 38 | Boston Flowers (44%) | 19 - 8 | Chicago Firefighters (56%) | 
 | 2 | 18 | New York Millennials (37%) | 15 - 4 | Boston Flowers (63%) | 
+| 10 | 51 | Boston Flowers (42%) | 11 - 0 | Breckenridge Jazz Hands (58%) | 
 | 5 | 62 | Boston Flowers (43%) | 13 - 3 | Hawaii Fridays (57%) | 
 | 5 | 90 | Hawaii Fridays (43%) | 11 - 2 | Boston Flowers (57%) | 
 | 2 | 82 | Boston Flowers (45%) | 10 - 1 | Hawaii Fridays (55%) | 
@@ -17,6 +18,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 72 | Breckenridge Jazz Hands (46%) | 12 - 4 | Boston Flowers (54%) | 
 | 5 | 66 | Boston Flowers (45%) | 10 - 2 | Hawaii Fridays (55%) | 
 | 7 | 39 | Boston Flowers (40%) | 9 - 1 | Chicago Firefighters (60%) | 
+| 10 | 63 | Boston Flowers (43%) | 8 - 0 | Hellmouth Sunbeams (57%) | 
 | 1 | 100* | Boston Flowers (42%) | 14 - 7 | Yellowstone Magic (58%) | 
 | 3 | 15 | Boston Flowers (38%) | 13 - 6 | Hawaii Fridays (62%) | 
 | 6 | 92 | Boston Flowers (45%) | 10 - 3 | Hellmouth Sunbeams (55%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 11 | Boston Flowers (46%) | 10 - 4 | Kansas City Breath Mints (54%) | 
 | 2 | 53 | New York Millennials (42%) | 9 - 3 | Boston Flowers (58%) | 
 | 6 | 1 | Boston Flowers (42%) | 9 - 3 | Miami Dalé (58%) | 
-| 4 | 70 | Boston Flowers (36%) | 8 - 2 | San Francisco Lovers (64%) | 
-| 6 | 98 | Boston Flowers (42%) | 8 - 2 | Breckenridge Jazz Hands (58%) | 
 
 

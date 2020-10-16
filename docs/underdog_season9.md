@@ -14,6 +14,7 @@ Underdog games (games where the underdog won with large run differential) for se
 | 9 | 7 | Breckenridge Jazz Hands (38%) | 12 - 3 | Chicago Firefighters (62%) | 
 | 9 | 54 | Unlimited Tacos (41%) | 11 - 3 | Houston Spies (59%) | 
 | 9 | 52 | Mexico City Wild Wings (41%) | 12 - 5 | Breckenridge Jazz Hands (59%) | 
+| 9 | 104* | Seattle Garages (40%) | 11 - 4 | Philly Pies (60%) | 
 | 9 | 3 | Philly Pies (45%) | 10 - 3 | New York Millennials (55%) | 
 | 9 | 84 | Hellmouth Sunbeams (45%) | 9 - 2 | Miami Dale (55%) | 
 | 9 | 54 | Kansas City Breath Mints (45%) | 7 - 0 | Yellowstone Magic (55%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for se
 | 9 | 26 | Mexico City Wild Wings (36%) | 6 - 0 | Houston Spies (64%) | 
 | 9 | 57 | Hawaii Fridays (35%) | 6 - 0 | Philly Pies (65%) | 
 | 9 | 75 | Unlimited Tacos (34%) | 6 - 0 | Baltimore Crabs (66%) | 
-| 9 | 68 | San Francisco Lovers (40%) | 11 - 6 | Hellmouth Sunbeams (60%) | 
 
 

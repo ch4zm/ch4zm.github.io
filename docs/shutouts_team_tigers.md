@@ -17,6 +17,8 @@ Shutout games (games where the loser had zero runs) for all time for team Tigers
 | 3 | 9 | Hades Tigers | 9 - 0 | Hellmouth Sunbeams | 
 | 6 | 15 | Hades Tigers | 9 - 0 | Hawaii Fridays | 
 | 8 | 45 | Hades Tigers | 9 - 0 | Mexico City Wild Wings | 
+| 10 | 38 | Hades Tigers | 9 - 0 | Hawai'i Fridays | 
+| 10 | 50 | Hades Tigers | 9 - 0 | Charleston Shoe Thieves | 
 | 1 | 5 | Hades Tigers | 8 - 0 | Baltimore Crabs | 
 | 2 | 39 | Hades Tigers | 8 - 0 | Yellowstone Magic | 
 | 2 | 56 | Hades Tigers | 8 - 0 | Baltimore Crabs | 
@@ -30,7 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Tigers
 | 4 | 97 | Hades Tigers | 7 - 0 | Houston Spies | 
 | 5 | 30 | Hades Tigers | 7 - 0 | Philly Pies | 
 | 5 | 88 | Hades Tigers | 7 - 0 | Baltimore Crabs | 
-| 7 | 79 | Seattle Garages | 7 - 0 | Hades Tigers | 
-| 8 | 54 | Hades Tigers | 7 - 0 | Seattle Garages | 
 
 

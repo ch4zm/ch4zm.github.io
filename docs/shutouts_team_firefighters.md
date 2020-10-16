@@ -24,6 +24,7 @@ Shutout games (games where the loser had zero runs) for all time for team Firefi
 | 9 | 1 | Houston Spies | 8 - 0 | Chicago Firefighters | 
 | 9 | 11 | Houston Spies | 8 - 0 | Chicago Firefighters | 
 | 9 | 46 | Baltimore Crabs | 8 - 0 | Chicago Firefighters | 
+| 10 | 17 | Unlimited Tacos | 8 - 0 | Chicago Firefighters | 
 | 2 | 62 | Chicago Firefighters | 7 - 0 | Dallas Steaks | 
 | 2 | 67 | Charleston Shoe Thieves | 7 - 0 | Chicago Firefighters | 
 | 2 | 94 | Chicago Firefighters | 7 - 0 | Kansas City Breath Mints | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Firefi
 | 4 | 4 | Chicago Firefighters | 7 - 0 | Dallas Steaks | 
 | 5 | 53 | Chicago Firefighters | 7 - 0 | Canada Moist Talkers | 
 | 8 | 79 | Chicago Firefighters | 7 - 0 | Unlimited Tacos | 
-| 8 | 99 | Breckenridge Jazz Hands | 7 - 0 | Chicago Firefighters | 
 
 

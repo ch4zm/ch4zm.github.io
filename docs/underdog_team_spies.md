@@ -22,6 +22,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 7 | Houston Spies (38%) | 9 - 2 | Mexico City Wild Wings (62%) | 
 | 1 | 11 | Houston Spies (43%) | 9 - 2 | Seattle Garages (57%) | 
 | 3 | 56 | Houston Spies (41%) | 8 - 1 | Mexico City Wild Wings (59%) | 
+| 10 | 17 | Breckenridge Jazz Hands (46%) | 8 - 1 | Houston Spies (54%) | 
 | 2 | 1 | Houston Spies (30%) | 15 - 9 | Chicago Firefighters (70%) | 
 | 6 | 59 | Hellmouth Sunbeams (37%) | 13 - 7 | Houston Spies (63%) | 
 | 3 | 21 | Houston Spies (42%) | 10 - 4 | Breckenridge Jazz Hands (58%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 79 | Hellmouth Sunbeams (44%) | 8 - 2 | Houston Spies (56%) | 
 | 3 | 27 | Houston Spies (39%) | 7 - 1 | Canada Moist Talkers (61%) | 
 | 7 | 8 | Houston Spies (45%) | 7 - 1 | Unlimited Tacos (55%) | 
-| 9 | 26 | Mexico City Wild Wings (36%) | 6 - 0 | Houston Spies (64%) | 
 
 

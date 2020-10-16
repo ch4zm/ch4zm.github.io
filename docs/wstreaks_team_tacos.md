@@ -1,5 +1,5 @@
 # Tacos Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -14,6 +14,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 5          | 2          | 32, 33, 34, 35, 36 |
 | Tacos                          | 5          | 4          | 53, 54, 55, 56, 57 |
 | Tacos                          | 5          | 8          | 10, 11, 12, 13, 14 |
+| Tacos                          | 5          | 10         | 69, 70, 71, 72, 73 |
 | Tacos                          | 4          | 1          | 49, 50, 51, 52 |
 | Tacos                          | 4          | 2          | 44, 45, 46, 47 |
 | Tacos                          | 4          | 6          | 53, 54, 55, 56 |
@@ -21,6 +22,7 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 7          | 86, 87, 88, 89 |
 | Tacos                          | 4          | 8          | 5, 6, 7, 8 |
 | Tacos                          | 4          | 9          | 79, 80, 81, 82 |
+| Tacos                          | 4          | 10         | 12, 13, 14, 15 |
 
 
 
@@ -74,6 +76,17 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G3: Season 8 Game 12: Tacos 8  @  2 Lovers |
 | G4: Season 8 Game 13: Sunbeams 3  @  9 Tacos |
 | G5: Season 8 Game 14: Sunbeams 2  @  3 Tacos |
+
+<br />
+
+| 5 Game Winning Streak by the Tacos |
+| ----- |
+| Season 10 Games 68, 69, 70, 71, 72 |
+| G1: Season 10 Game 69: Tacos 8  @  5 Jazz Hands |
+| G2: Season 10 Game 70: Tacos 5  @  0 Flowers |
+| G3: Season 10 Game 71: Tacos 7  @  6 Flowers |
+| G4: Season 10 Game 72: Tacos 5  @  3 Flowers |
+| G5: Season 10 Game 73: Lovers 1  @  7 Tacos |
 
 <br />
 
@@ -144,6 +157,16 @@ Winning streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 9 Game 80: Wild Wings 1  @  3 Tacos |
 | G3: Season 9 Game 81: Wild Wings 0  @  4 Tacos |
 | G4: Season 9 Game 82: Flowers 2  @  5 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Tacos |
+| ----- |
+| Season 10 Games 11, 12, 13, 14 |
+| G1: Season 10 Game 12: Tacos 3  @  1 Dale |
+| G2: Season 10 Game 13: Tacos 6  @  3 Sunbeams |
+| G3: Season 10 Game 14: Tacos 6  @  5 Sunbeams |
+| G4: Season 10 Game 15: Tacos 9  @  3 Sunbeams |
 
 
 

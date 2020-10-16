@@ -21,6 +21,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 49 | New York Millennials | 15 - 11 | Chicago Firefighters | 
 | 3 | 94 | Hawaii Fridays | 15 - 13 | New York Millennials | 
 | 8 | 34 | Breckenridge Jazz Hands | 14 - 0 | New York Millennials | 
+| 10 | 65 | New York Millennials | 14 - 2 | Yellowstone Magic | 
 | 9 | 54 | Philly Pies | 14 - 3 | New York Millennials | 
 | 4 | 67 | New York Millennials | 14 - 4 | San Francisco Lovers | 
 | 6 | 30 | New York Millennials | 14 - 4 | Miami Dalé | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 9 | 25 | New York Millennials | 14 - 6 | Miami Dale | 
 | 6 | 21 | New York Millennials | 14 - 8 | Boston Flowers | 
 | 7 | 48 | Hellmouth Sunbeams | 14 - 8 | New York Millennials | 
-| 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
 
 

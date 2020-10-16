@@ -8,6 +8,7 @@ Shutout games (games where the loser had zero runs) for all time for team Wild W
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 1 | 82 | Seattle Garages | 14 - 0 | Mexico City Wild Wings | 
+| 10 | 77 | Baltimore Crabs | 14 - 0 | Mexico City Wild Wings | 
 | 9 | 82 | Baltimore Crabs | 12 - 0 | Mexico City Wild Wings | 
 | 8 | 94 | Mexico City Wild Wings | 10 - 0 | Unlimited Tacos | 
 | 2 | 90 | Mexico City Wild Wings | 9 - 0 | Seattle Garages | 
@@ -30,7 +31,6 @@ Shutout games (games where the loser had zero runs) for all time for team Wild W
 | 8 | 67 | Mexico City Wild Wings | 7 - 0 | Yellowstone Magic | 
 | 9 | 61 | San Francisco Lovers | 7 - 0 | Mexico City Wild Wings | 
 | 9 | 67 | Baltimore Crabs | 7 - 0 | Mexico City Wild Wings | 
-| 3 | 43 | San Francisco Lovers | 6 - 0 | Mexico City Wild Wings | 
-| 4 | 75 | Mexico City Wild Wings | 6 - 0 | Houston Spies | 
+| 10 | 63 | Mexico City Wild Wings | 7 - 0 | Unlimited Tacos | 
 
 

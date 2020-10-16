@@ -1,5 +1,5 @@
 # Jazz Hands Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -18,6 +18,7 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 5          | 1          | 90, 91, 92, 93, 94 |
 | Jazz Hands                     | 5          | 4          | 13, 14, 15, 16, 17 |
 | Jazz Hands                     | 5          | 4          | 47, 48, 49, 50, 51 |
+| Jazz Hands                     | 5          | 10         | 26, 27, 28, 29, 30 |
 | Jazz Hands                     | 4          | 1          | 81, 82, 83, 84 |
 | Jazz Hands                     | 4          | 2          | 44, 45, 46, 47 |
 | Jazz Hands                     | 4          | 2          | 69, 73, 74, 75 |
@@ -36,6 +37,7 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 7          | 17, 18, 19, 20 |
 | Jazz Hands                     | 4          | 7          | 28, 29, 30, 31 |
 | Jazz Hands                     | 4          | 7          | 47, 48, 49, 50 |
+| Jazz Hands                     | 4          | 10         | 7, 8, 9, 10 |
 
 
 
@@ -151,6 +153,17 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G3: Season 4 Game 49: Garages 1  @  8 Jazz Hands |
 | G4: Season 4 Game 50: Garages 2  @  4 Jazz Hands |
 | G5: Season 4 Game 51: Garages 2  @  3 Jazz Hands |
+
+<br />
+
+| 5 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 25, 26, 27, 28, 29 |
+| G1: Season 10 Game 26: Jazz Hands 6  @  4 Tacos |
+| G2: Season 10 Game 27: Jazz Hands 9  @  3 Tacos |
+| G3: Season 10 Game 28: Flowers 1  @  3 Jazz Hands |
+| G4: Season 10 Game 29: Flowers 5  @  6 Jazz Hands |
+| G5: Season 10 Game 30: Flowers 2  @  7 Jazz Hands |
 
 <br />
 
@@ -331,6 +344,16 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 7 Game 48: Jazz Hands 6  @  5 Lovers |
 | G3: Season 7 Game 49: Jazz Hands 5  @  1 Firefighters |
 | G4: Season 7 Game 50: Jazz Hands 3  @  2 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 6, 7, 8, 9 |
+| G1: Season 10 Game 7: Jazz Hands 3  @  2 Fridays |
+| G2: Season 10 Game 8: Jazz Hands 5  @  0 Fridays |
+| G3: Season 10 Game 9: Jazz Hands 9  @  0 Fridays |
+| G4: Season 10 Game 10: Jazz Hands 11 @  3 Lovers |
 
 
 

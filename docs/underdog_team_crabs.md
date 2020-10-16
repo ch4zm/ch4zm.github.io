@@ -8,6 +8,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 1 | 57 | Baltimore Crabs (30%) | 13 - 0 | Hades Tigers (70%) | 
+| 10 | 2 | Breckenridge Jazz Hands (42%) | 10 - 0 | Baltimore Crabs (58%) | 
 | 4 | 18 | Philly Pies (45%) | 12 - 3 | Baltimore Crabs (55%) | 
 | 4 | 48 | Philly Pies (43%) | 12 - 3 | Baltimore Crabs (57%) | 
 | 1 | 98 | Philly Pies (45%) | 10 - 1 | Baltimore Crabs (55%) | 
@@ -30,7 +31,6 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 75 | Unlimited Tacos (34%) | 6 - 0 | Baltimore Crabs (66%) | 
 | 4 | 44 | Houston Spies (44%) | 10 - 5 | Baltimore Crabs (56%) | 
 | 8 | 83 | Chicago Firefighters (38%) | 9 - 4 | Baltimore Crabs (62%) | 
-| 9 | 49 | Boston Flowers (45%) | 8 - 3 | Baltimore Crabs (55%) | 
-| 3 | 16 | San Francisco Lovers (46%) | 7 - 2 | Baltimore Crabs (54%) | 
+| 10 | 42 | Houston Spies (42%) | 9 - 4 | Baltimore Crabs (58%) | 
 
 

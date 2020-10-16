@@ -16,6 +16,8 @@ Shutout games (games where the loser had zero runs) for all time for team Friday
 | 9 | 75 | Philly Pies | 10 - 0 | Hawaii Fridays | 
 | 6 | 15 | Hades Tigers | 9 - 0 | Hawaii Fridays | 
 | 7 | 94 | Mexico City Wild Wings | 9 - 0 | Hawaii Fridays | 
+| 10 | 9 | Breckenridge Jazz Hands | 9 - 0 | Hawai'i Fridays | 
+| 10 | 38 | Hades Tigers | 9 - 0 | Hawai'i Fridays | 
 | 1 | 6 | Chicago Firefighters | 8 - 0 | Hawaii Fridays | 
 | 2 | 79 | New York Millennials | 8 - 0 | Hawaii Fridays | 
 | 6 | 24 | Dallas Steaks | 8 - 0 | Hawaii Fridays | 
@@ -30,7 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Friday
 | 6 | 71 | Hawaii Fridays | 7 - 0 | Kansas City Breath Mints | 
 | 6 | 80 | Hawaii Fridays | 7 - 0 | Seattle Garages | 
 | 7 | 57 | Mexico City Wild Wings | 7 - 0 | Hawaii Fridays | 
-| 9 | 34 | Yellowstone Magic | 7 - 0 | Hawaii Fridays | 
-| 9 | 78 | New York Millennials | 7 - 0 | Hawaii Fridays | 
 
 

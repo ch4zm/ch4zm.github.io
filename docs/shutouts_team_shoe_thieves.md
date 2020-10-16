@@ -11,6 +11,7 @@ Shutout games (games where the loser had zero runs) for all time for team Shoe T
 | 2 | 1 | Boston Flowers | 13 - 0 | Charleston Shoe Thieves | 
 | 1 | 49 | Charleston Shoe Thieves | 12 - 0 | Kansas City Breath Mints | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
+| 10 | 45 | Charleston Shoe Thieves | 12 - 0 | Yellowstone Magic | 
 | 4 | 62 | Dallas Steaks | 11 - 0 | Charleston Shoe Thieves | 
 | 6 | 95 | Seattle Garages | 11 - 0 | Charleston Shoe Thieves | 
 | 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
@@ -21,6 +22,8 @@ Shutout games (games where the loser had zero runs) for all time for team Shoe T
 | 9 | 64 | Canada Moist Talkers | 10 - 0 | Charleston Shoe Thieves | 
 | 4 | 14 | Charleston Shoe Thieves | 9 - 0 | Dallas Steaks | 
 | 9 | 96 | Houston Spies | 9 - 0 | Charleston Shoe Thieves | 
+| 10 | 50 | Hades Tigers | 9 - 0 | Charleston Shoe Thieves | 
+| 10 | 67 | Philly Pies | 9 - 0 | Charleston Shoe Thieves | 
 | 6 | 56 | San Francisco Lovers | 8 - 0 | Charleston Shoe Thieves | 
 | 7 | 15 | Canada Moist Talkers | 8 - 0 | Charleston Shoe Thieves | 
 | 7 | 38 | Charleston Shoe Thieves | 8 - 0 | Yellowstone Magic | 
@@ -28,9 +31,6 @@ Shutout games (games where the loser had zero runs) for all time for team Shoe T
 | 8 | 3 | Charleston Shoe Thieves | 8 - 0 | Hawaii Fridays | 
 | 9 | 7 | Charleston Shoe Thieves | 8 - 0 | Hawaii Fridays | 
 | 9 | 97 | Charleston Shoe Thieves | 8 - 0 | Philly Pies | 
-| 2 | 67 | Charleston Shoe Thieves | 7 - 0 | Chicago Firefighters | 
-| 2 | 79 | Charleston Shoe Thieves | 7 - 0 | San Francisco Lovers | 
-| 2 | 102* | Charleston Shoe Thieves | 7 - 0 | Dallas Steaks | 
-| 4 | 31 | New York Millennials | 7 - 0 | Charleston Shoe Thieves | 
+| 10 | 7 | Charleston Shoe Thieves | 8 - 0 | Philly Pies | 
 
 

@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -10,6 +10,8 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Steaks                         | 11         | 10         | 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 |
+| Steaks                         | 9          | 10         | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Steaks                         | 6          | 5          | 61, 62, 63, 64, 65, 66 |
 | Steaks                         | 6          | 9          | 88, 89, 90, 91, 92, 93 |
@@ -25,6 +27,7 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 7          | 82, 83, 84, 85 |
 | Steaks                         | 4          | 8          | 62, 63, 64, 65 |
 | Steaks                         | 4          | 9          | 65, 66, 67, 68 |
+| Steaks                         | 4          | 10         | 58, 59, 60, 61 |
 
 
 
@@ -35,6 +38,38 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Steaks versus all teams for all time
+
+| 11 Game Losing Streak by the Steaks |
+| ----- |
+| Season 10 Games 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49 |
+| G1: Season 10 Game 40: Pies 3  @  2 Steaks |
+| G2: Season 10 Game 41: Pies 6  @  3 Steaks |
+| G3: Season 10 Game 42: Pies 5  @  2 Steaks |
+| G4: Season 10 Game 43: Tigers 4  @  3 Steaks |
+| G5: Season 10 Game 44: Tigers 7  @  5 Steaks |
+| G6: Season 10 Game 45: Tigers 3  @  1 Steaks |
+| G7: Season 10 Game 46: Wild Wings 4  @  1 Steaks |
+| G8: Season 10 Game 47: Wild Wings 5  @  3 Steaks |
+| G9: Season 10 Game 48: Wild Wings 12 @  3 Steaks |
+| G10: Season 10 Game 49: Steaks 2  @  3 Garages |
+| G11: Season 10 Game 50: Steaks 2  @  7 Garages |
+
+<br />
+
+| 9 Game Losing Streak by the Steaks |
+| ----- |
+| Season 10 Games 10, 11, 12, 13, 14, 15, 16, 17, 18 |
+| G1: Season 10 Game 11: Tigers 5  @  4 Steaks |
+| G2: Season 10 Game 12: Tigers 4  @  2 Steaks |
+| G3: Season 10 Game 13: Steaks 4  @  5 Breath Mints |
+| G4: Season 10 Game 14: Steaks 1  @  8 Breath Mints |
+| G5: Season 10 Game 15: Steaks 2  @  6 Breath Mints |
+| G6: Season 10 Game 16: Shoe Thieves 4  @  3 Steaks |
+| G7: Season 10 Game 17: Shoe Thieves 1  @  0 Steaks |
+| G8: Season 10 Game 18: Shoe Thieves 6  @  3 Steaks |
+| G9: Season 10 Game 19: Steaks 2  @  3 Magic |
+
+<br />
 
 | 8 Game Losing Streak by the Steaks |
 | ----- |
@@ -192,6 +227,16 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 9 Game 66: Breath Mints 3  @  1 Steaks |
 | G3: Season 9 Game 67: Steaks 3  @  4 Fridays |
 | G4: Season 9 Game 68: Steaks 3  @  6 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 10 Games 57, 58, 59, 60 |
+| G1: Season 10 Game 58: Shoe Thieves 13 @  1 Steaks |
+| G2: Season 10 Game 59: Shoe Thieves 3  @  2 Steaks |
+| G3: Season 10 Game 60: Shoe Thieves 5  @  4 Steaks |
+| G4: Season 10 Game 61: Magic 3  @  0 Steaks |
 
 
 

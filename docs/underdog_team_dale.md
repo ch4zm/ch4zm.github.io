@@ -11,6 +11,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 22 | Miami Dalé (43%) | 13 - 3 | Hades Tigers (57%) | 
 | 5 | 72 | Miami Dalé (42%) | 13 - 3 | Yellowstone Magic (58%) | 
 | 1 | 15 | Breckenridge Jazz Hands (44%) | 11 - 2 | Miami Dalé (56%) | 
+| 10 | 57 | Miami Dale (46%) | 9 - 1 | Unlimited Tacos (54%) | 
 | 2 | 14 | Seattle Garages (36%) | 8 - 0 | Miami Dalé (64%) | 
 | 9 | 84 | Hellmouth Sunbeams (45%) | 9 - 2 | Miami Dale (55%) | 
 | 1 | 78 | Miami Dalé (40%) | 8 - 1 | Mexico City Wild Wings (60%) | 
@@ -26,11 +27,10 @@ Underdog games (games where the underdog won with large run differential) for al
 | 8 | 87 | Miami Dale (44%) | 7 - 1 | Baltimore Crabs (56%) | 
 | 9 | 49 | Hellmouth Sunbeams (44%) | 7 - 1 | Miami Dale (56%) | 
 | 9 | 92 | Miami Dale (45%) | 7 - 1 | Chicago Firefighters (55%) | 
+| 10 | 28 | Miami Dale (45%) | 7 - 1 | Hellmouth Sunbeams (55%) | 
+| 10 | 15 | Boston Flowers (38%) | 6 - 0 | Miami Dale (62%) | 
 | 2 | 75 | Seattle Garages (42%) | 10 - 5 | Miami Dalé (58%) | 
 | 6 | 65 | Miami Dalé (34%) | 10 - 5 | Hellmouth Sunbeams (66%) | 
 | 6 | 84 | Hellmouth Sunbeams (40%) | 10 - 5 | Miami Dalé (60%) | 
-| 9 | 30 | Miami Dale (42%) | 10 - 5 | Houston Spies (58%) | 
-| 6 | 16 | Unlimited Tacos (45%) | 9 - 4 | Miami Dalé (55%) | 
-| 2 | 44 | Canada Moist Talkers (33%) | 8 - 3 | Miami Dalé (67%) | 
 
 

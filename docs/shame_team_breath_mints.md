@@ -29,8 +29,8 @@ Shame games (games where the loser was shamed) for all time for team Breath Mint
 | 3 | 93 | Kansas City Breath Mints | 6 - 4 | Chicago Firefighters | 
 | 8 | 25 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
 | 8 | 98 | Hades Tigers | 6 - 4 | Kansas City Breath Mints | 
+| 10 | 18 | Seattle Garages | 6 - 4 | Kansas City Breath Mints | 
 | 1 | 34 | San Francisco Lovers | 5 - 3 | Kansas City Breath Mints | 
 | 9 | 47 | Hades Tigers | 5 - 3 | Kansas City Breath Mints | 
-| 9 | 71 | Yellowstone Magic | 5 - 3 | Kansas City Breath Mints | 
 
 

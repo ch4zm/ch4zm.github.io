@@ -20,6 +20,7 @@ Shutout games (games where the loser had zero runs) for all time for team Moist 
 | 9 | 90 | Philly Pies | 9 - 0 | Canada Moist Talkers | 
 | 7 | 15 | Canada Moist Talkers | 8 - 0 | Charleston Shoe Thieves | 
 | 9 | 82 | Canada Moist Talkers | 8 - 0 | Hawaii Fridays | 
+| 10 | 27 | Canada Moist Talkers | 8 - 0 | Kansas City Breath Mints | 
 | 1 | 35 | Canada Moist Talkers | 7 - 0 | Baltimore Crabs | 
 | 1 | 63 | Canada Moist Talkers | 7 - 0 | Moab Sunbeams | 
 | 2 | 7 | Canada Moist Talkers | 7 - 0 | Hellmouth Sunbeams | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Moist 
 | 5 | 21 | Canada Moist Talkers | 6 - 0 | Breckenridge Jazz Hands | 
 | 5 | 45 | Canada Moist Talkers | 6 - 0 | Houston Spies | 
 | 6 | 8 | Canada Moist Talkers | 6 - 0 | Kansas City Breath Mints | 
-| 6 | 9 | Canada Moist Talkers | 6 - 0 | Kansas City Breath Mints | 
 
 

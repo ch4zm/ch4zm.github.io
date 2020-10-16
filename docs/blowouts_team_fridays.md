@@ -27,10 +27,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 13 | Hawaii Fridays | 14 - 5 | Boston Flowers | 
 | 4 | 72 | Yellowstone Magic | 14 - 8 | Hawaii Fridays | 
 | 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
+| 9 | 100* | Hades Tigers | 13 - 1 | Hawai'i Fridays | 
 | 5 | 50 | Charleston Shoe Thieves | 13 - 2 | Hawaii Fridays | 
 | 7 | 49 | Hawaii Fridays | 13 - 2 | Charleston Shoe Thieves | 
 | 5 | 62 | Boston Flowers | 13 - 3 | Hawaii Fridays | 
 | 4 | 44 | Hawaii Fridays | 13 - 5 | Kansas City Breath Mints | 
-| 8 | 67 | Charleston Shoe Thieves | 13 - 5 | Hawaii Fridays | 
 
 

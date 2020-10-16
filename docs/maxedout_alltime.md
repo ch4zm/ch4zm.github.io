@@ -1,5 +1,5 @@
 # All-Time Maxed Out
-(Through season 9)
+(Through season 10)
 
 ## Summary
 

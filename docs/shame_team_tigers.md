@@ -19,6 +19,7 @@ Shame games (games where the loser was shamed) for all time for team Tigers (not
 | 1 | 1 | Houston Spies | 7 - 3 | Hades Tigers | 
 | 7 | 17 | Hades Tigers | 6 - 2 | Seattle Garages | 
 | 9 | 99 | Hades Tigers | 13 - 10 | Yellowstone Magic | 
+| 10 | 32 | Hades Tigers | 10 - 7 | Charleston Shoe Thieves | 
 | 3 | 23 | Hades Tigers | 9 - 6 | Seattle Garages | 
 | 1 | 38 | Mexico City Wild Wings | 7 - 4 | Hades Tigers | 
 | 2 | 75 | Hades Tigers | 7 - 4 | Canada Moist Talkers | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Tigers (not
 | 1 | 32 | Hades Tigers | 9 - 7 | Baltimore Crabs | 
 | 1 | 2 | Houston Spies | 8 - 6 | Hades Tigers | 
 | 3 | 75 | Hades Tigers | 8 - 6 | Hellmouth Sunbeams | 
-| 5 | 12 | Houston Spies | 8 - 6 | Hades Tigers | 
 
 

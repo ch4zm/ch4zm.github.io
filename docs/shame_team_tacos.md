@@ -15,6 +15,7 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 1 | 49 | Los Angeles Tacos | 9 - 5 | Chicago Firefighters | 
 | 4 | 76 | Hawaii Fridays | 9 - 5 | Unlimited Tacos | 
 | 5 | 24 | San Francisco Lovers | 8 - 4 | Unlimited Tacos | 
+| 10 | 76 | Unlimited Tacos | 8 - 4 | Miami Dale | 
 | 9 | 30 | Mexico City Wild Wings | 7 - 3 | Unlimited Tacos | 
 | 6 | 32 | Miami Dalé | 6 - 2 | Unlimited Tacos | 
 | 7 | 92 | Boston Flowers | 11 - 8 | Unlimited Tacos | 
@@ -24,13 +25,12 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 2 | 5 | Los Angeles Tacos | 8 - 5 | San Francisco Lovers | 
 | 5 | 73 | Kansas City Breath Mints | 8 - 5 | Unlimited Tacos | 
 | 6 | 96 | Unlimited Tacos | 7 - 4 | Boston Flowers | 
+| 10 | 67 | Breckenridge Jazz Hands | 7 - 4 | Unlimited Tacos | 
+| 10 | 79 | Unlimited Tacos | 7 - 4 | Breckenridge Jazz Hands | 
 | 4 | 66 | Yellowstone Magic | 6 - 3 | Unlimited Tacos | 
 | 1 | 30 | Boston Flowers | 5 - 2 | Los Angeles Tacos | 
 | 2 | 69 | Los Angeles Tacos | 5 - 2 | Dallas Steaks | 
 | 5 | 98 | Yellowstone Magic | 4 - 1 | Unlimited Tacos | 
 | 5 | 15 | San Francisco Lovers | 9 - 7 | Unlimited Tacos | 
-| 8 | 89 | Unlimited Tacos | 9 - 7 | Hellmouth Sunbeams | 
-| 1 | 9 | Chicago Firefighters | 7 - 5 | Los Angeles Tacos | 
-| 2 | 94 | Dallas Steaks | 7 - 5 | Los Angeles Tacos | 
 
 

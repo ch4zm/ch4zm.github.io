@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -19,6 +19,8 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
 | Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
 | Spies                          | 5          | 9          | 21, 22, 23, 24, 25 |
+| Spies                          | 5          | 10         | 40, 41, 42, 43, 44 |
+| Spies                          | 5          | 10         | 68, 69, 70, 71, 72 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
@@ -32,6 +34,9 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 9          | 4, 5, 6, 7 |
 | Spies                          | 4          | 9          | 9, 10, 11, 12 |
 | Spies                          | 4          | 9          | 74, 75, 76, 77 |
+| Spies                          | 4          | 9          | 98, 99, 103, 104 |
+| Spies                          | 4          | 10         | 46, 47, 48, 49 |
+| Spies                          | 4          | 10         | 63, 64, 65, 66 |
 
 
 
@@ -151,6 +156,28 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 9 Game 23: Spies 6  @  0 Wild Wings |
 | G4: Season 9 Game 24: Spies 8  @  1 Wild Wings |
 | G5: Season 9 Game 25: Wild Wings 5  @  9 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 10 Games 39, 40, 41, 42, 43 |
+| G1: Season 10 Game 40: Crabs 3  @  6 Spies |
+| G2: Season 10 Game 41: Crabs 0  @  3 Spies |
+| G3: Season 10 Game 42: Crabs 4  @  9 Spies |
+| G4: Season 10 Game 43: Crabs 1  @  2 Spies |
+| G5: Season 10 Game 44: Crabs 4  @  6 Spies |
+
+<br />
+
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 10 Games 67, 68, 69, 70, 71 |
+| G1: Season 10 Game 68: Spies 5  @  4 Lovers |
+| G2: Season 10 Game 69: Spies 4  @  3 Lovers |
+| G3: Season 10 Game 70: Spies 3  @  2 Sunbeams |
+| G4: Season 10 Game 71: Spies 1  @  0 Sunbeams |
+| G5: Season 10 Game 72: Spies 7  @  5 Sunbeams |
 
 <br />
 
@@ -281,6 +308,36 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 9 Game 75: Dale 7  @ 10 Spies |
 | G3: Season 9 Game 76: Spies 7  @  6 Jazz Hands |
 | G4: Season 9 Game 77: Spies 6  @  3 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 9 Games 97, 98, 102, 103 |
+| G1: Season 9 Game 98: Tacos 0  @  2 Spies |
+| G2: Season 9 Game 99: Tacos 4  @  5 Spies |
+| G3: Season 9 Game 103: Flowers 2  @  3 Spies |
+| G4: Season 9 Game 104: Flowers 2  @  4 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 10 Games 45, 46, 47, 48 |
+| G1: Season 10 Game 46: Tigers 1  @  4 Spies |
+| G2: Season 10 Game 47: Tigers 1  @  4 Spies |
+| G3: Season 10 Game 48: Tigers 7  @  8 Spies |
+| G4: Season 10 Game 49: Wild Wings 4  @  5 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 10 Games 62, 63, 64, 65 |
+| G1: Season 10 Game 63: Spies 3  @  1 Dale |
+| G2: Season 10 Game 64: Tacos 4  @  6 Spies |
+| G3: Season 10 Game 65: Tacos 2  @  3 Spies |
+| G4: Season 10 Game 66: Tacos 1  @  4 Spies |
 
 
 

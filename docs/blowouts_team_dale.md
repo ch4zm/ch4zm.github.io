@@ -11,6 +11,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 59 | New York Millennials | 17 - 2 | Miami Dale | 
 | 4 | 44 | Miami Dalé | 17 - 3 | Canada Moist Talkers | 
 | 8 | 96 | Baltimore Crabs | 16 - 1 | Miami Dale | 
+| 10 | 30 | Hellmouth Sunbeams | 16 - 2 | Miami Dale | 
 | 8 | 39 | New York Millennials | 16 - 3 | Miami Dale | 
 | 8 | 66 | Hellmouth Sunbeams | 16 - 9 | Miami Dale | 
 | 5 | 28 | Seattle Garages | 15 - 9 | Miami Dalé | 
@@ -27,10 +28,9 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 89 | Miami Dalé | 13 - 1 | Canada Moist Talkers | 
 | 6 | 60 | Breckenridge Jazz Hands | 13 - 1 | Miami Dalé | 
 | 6 | 86 | Breckenridge Jazz Hands | 13 - 1 | Miami Dalé | 
+| 10 | 6 | Mexico City Wild Wings | 13 - 1 | Miami Dale | 
 | 1 | 52 | Houston Spies | 13 - 2 | Miami Dalé | 
 | 1 | 22 | Miami Dalé | 13 - 3 | Hades Tigers | 
 | 5 | 72 | Miami Dalé | 13 - 3 | Yellowstone Magic | 
-| 6 | 59 | Miami Dalé | 13 - 3 | Breckenridge Jazz Hands | 
-| 8 | 81 | Hellmouth Sunbeams | 13 - 3 | Miami Dale | 
 
 

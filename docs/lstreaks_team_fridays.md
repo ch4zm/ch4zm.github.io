@@ -1,5 +1,5 @@
 # Fridays Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Fridays                        | 17         | 9          | 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85 |
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
+| Fridays                        | 11         | 10         | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 |
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
 | Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
@@ -39,6 +40,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 5          | 7          | 44, 45, 46, 47, 48 |
 | Fridays                        | 5          | 7          | 63, 64, 65, 66, 67 |
 | Fridays                        | 5          | 8          | 82, 83, 84, 85, 86 |
+| Fridays                        | 5          | 10         | 60, 61, 62, 63, 64 |
 | Fridays                        | 4          | 1          | 87, 88, 89, 90 |
 | Fridays                        | 4          | 2          | 3, 4, 5, 6 |
 | Fridays                        | 4          | 2          | 14, 15, 16, 17 |
@@ -52,6 +54,9 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 4          | 9          | 24, 25, 26, 27 |
 | Fridays                        | 4          | 9          | 36, 37, 38, 39 |
 | Fridays                        | 4          | 9          | 60, 61, 62, 63 |
+| Fridays                        | 4          | 9          | 97, 98, 99, 100 |
+| Fridays                        | 4          | 10         | 41, 42, 43, 44 |
+| Fridays                        | 4          | 10         | 48, 49, 50, 51 |
 
 
 
@@ -103,6 +108,23 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G12: Season 6 Game 39: Fridays 3  @  4 Pies |
 | G13: Season 6 Game 40: Shoe Thieves 5  @  3 Fridays |
 | G14: Season 6 Game 41: Shoe Thieves 7  @  4 Fridays |
+
+<br />
+
+| 11 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
+| G1: Season 10 Game 1: Fridays 1  @  4 Shoe Thieves |
+| G2: Season 10 Game 2: Fridays 0  @  3 Shoe Thieves |
+| G3: Season 10 Game 3: Fridays 0  @  1 Shoe Thieves |
+| G4: Season 10 Game 4: Shoe Thieves 1  @  0 Fridays |
+| G5: Season 10 Game 5: Shoe Thieves 4  @  1 Fridays |
+| G6: Season 10 Game 6: Shoe Thieves 6  @  2 Fridays |
+| G7: Season 10 Game 7: Jazz Hands 3  @  2 Fridays |
+| G8: Season 10 Game 8: Jazz Hands 5  @  0 Fridays |
+| G9: Season 10 Game 9: Jazz Hands 9  @  0 Fridays |
+| G10: Season 10 Game 10: Fridays 3  @  9 Garages |
+| G11: Season 10 Game 11: Fridays 2  @  5 Garages |
 
 <br />
 
@@ -426,6 +448,17 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 59, 60, 61, 62, 63 |
+| G1: Season 10 Game 60: Fridays 2  @  5 Moist Talkers |
+| G2: Season 10 Game 61: Shoe Thieves 3  @  2 Fridays |
+| G3: Season 10 Game 62: Shoe Thieves 1  @  0 Fridays |
+| G4: Season 10 Game 63: Shoe Thieves 6  @  2 Fridays |
+| G5: Season 10 Game 64: Shoe Thieves 6  @  4 Fridays |
+
+<br />
+
 | 4 Game Losing Streak by the Fridays |
 | ----- |
 | Season 1 Games 86, 87, 88, 89 |
@@ -553,6 +586,36 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G2: Season 9 Game 61: Tacos 13 @  0 Fridays |
 | G3: Season 9 Game 62: Tacos 2  @  1 Fridays |
 | G4: Season 9 Game 63: Tacos 12 @  1 Fridays |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 9 Games 96, 97, 98, 99 |
+| G1: Season 9 Game 97: Fridays 0  @  2 Breath Mints |
+| G2: Season 9 Game 98: Fridays 1  @  3 Breath Mints |
+| G3: Season 9 Game 99: Fridays 2  @  5 Breath Mints |
+| G4: Season 9 Game 100: Fridays 1  @ 13 Tigers |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 40, 41, 42, 43 |
+| G1: Season 10 Game 41: Fridays 1  @  6 Shoe Thieves |
+| G2: Season 10 Game 42: Fridays 1  @  3 Shoe Thieves |
+| G3: Season 10 Game 43: Fridays 5  @  6 Millennials |
+| G4: Season 10 Game 44: Fridays 0  @  1 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 47, 48, 49, 50 |
+| G1: Season 10 Game 48: Fridays 4  @  5 Pies |
+| G2: Season 10 Game 49: Magic 5  @  2 Fridays |
+| G3: Season 10 Game 50: Magic 4  @  3 Fridays |
+| G4: Season 10 Game 51: Magic 4  @  0 Fridays |
 
 
 

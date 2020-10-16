@@ -1,5 +1,5 @@
 # Breath Mints Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -25,6 +25,8 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 5          | 6          | 74, 75, 76, 77, 78 |
 | Breath Mints                   | 5          | 7          | 47, 48, 49, 50, 51 |
 | Breath Mints                   | 5          | 9          | 20, 21, 22, 23, 24 |
+| Breath Mints                   | 5          | 10         | 3, 4, 5, 6, 7 |
+| Breath Mints                   | 5          | 10         | 62, 63, 64, 65, 66 |
 | Breath Mints                   | 4          | 1          | 19, 20, 21, 22 |
 | Breath Mints                   | 4          | 3          | 7, 8, 9, 10 |
 | Breath Mints                   | 4          | 4          | 35, 36, 37, 38 |
@@ -36,6 +38,9 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 4          | 7          | 93, 94, 95, 96 |
 | Breath Mints                   | 4          | 9          | 72, 73, 74, 75 |
 | Breath Mints                   | 4          | 9          | 77, 78, 79, 80 |
+| Breath Mints                   | 4          | 10         | 12, 13, 14, 15 |
+| Breath Mints                   | 4          | 10         | 55, 56, 57, 58 |
+| Breath Mints                   | 4          | 10         | 68, 69, 70, 71 |
 
 
 
@@ -224,6 +229,28 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 
 <br />
 
+| 5 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 2, 3, 4, 5, 6 |
+| G1: Season 10 Game 3: Pies 4  @  6 Breath Mints |
+| G2: Season 10 Game 4: Magic 3  @  4 Breath Mints |
+| G3: Season 10 Game 5: Magic 3  @  8 Breath Mints |
+| G4: Season 10 Game 6: Magic 2  @  4 Breath Mints |
+| G5: Season 10 Game 7: Magic 1  @  5 Breath Mints |
+
+<br />
+
+| 5 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 61, 62, 63, 64, 65 |
+| G1: Season 10 Game 62: Tigers 1  @  5 Breath Mints |
+| G2: Season 10 Game 63: Tigers 3  @  4 Breath Mints |
+| G3: Season 10 Game 64: Breath Mints 4  @  2 Pies |
+| G4: Season 10 Game 65: Breath Mints 8  @  2 Pies |
+| G5: Season 10 Game 66: Breath Mints 6  @  4 Pies |
+
+<br />
+
 | 4 Game Winning Streak by the Breath Mints |
 | ----- |
 | Season 1 Games 18, 19, 20, 21 |
@@ -331,6 +358,36 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G2: Season 9 Game 78: Breath Mints 5  @  3 Garages |
 | G3: Season 9 Game 79: Breath Mints 5  @  2 Garages |
 | G4: Season 9 Game 80: Breath Mints 4  @  3 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 11, 12, 13, 14 |
+| G1: Season 10 Game 12: Breath Mints 2  @  1 Magic |
+| G2: Season 10 Game 13: Steaks 4  @  5 Breath Mints |
+| G3: Season 10 Game 14: Steaks 1  @  8 Breath Mints |
+| G4: Season 10 Game 15: Steaks 2  @  6 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 54, 55, 56, 57 |
+| G1: Season 10 Game 55: Breath Mints 1  @  0 Magic |
+| G2: Season 10 Game 56: Breath Mints 9  @  0 Magic |
+| G3: Season 10 Game 57: Breath Mints 9  @  2 Magic |
+| G4: Season 10 Game 58: Magic 2  @  6 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 67, 68, 69, 70 |
+| G1: Season 10 Game 68: Steaks 0  @  2 Breath Mints |
+| G2: Season 10 Game 69: Steaks 2  @  4 Breath Mints |
+| G3: Season 10 Game 70: Breath Mints 5  @  1 Magic |
+| G4: Season 10 Game 71: Breath Mints 5  @  4 Magic |
 
 
 

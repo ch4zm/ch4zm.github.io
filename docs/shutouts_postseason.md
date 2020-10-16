@@ -1,5 +1,5 @@
 # Blaseball Postseason Shutouts
-(Through season 9)
+(Through season 10)
 
 
 
@@ -11,6 +11,7 @@ Shutout games (games where the loser had zero runs) for all time (postseason onl
 | 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
 | 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
 | 7 | 101* | Baltimore Crabs | 9 - 0 | New York Millennials | 
+| 9 | 103* | Baltimore Crabs | 8 - 0 | Hellmouth Sunbeams | 
 | 2 | 102* | Charleston Shoe Thieves | 7 - 0 | Dallas Steaks | 
 | 5 | 113* | Chicago Firefighters | 6 - 0 | Breckenridge Jazz Hands | 
 | 8 | 105* | Baltimore Crabs | 6 - 0 | Houston Spies | 

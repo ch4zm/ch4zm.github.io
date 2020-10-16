@@ -1,5 +1,5 @@
 # Blaseball Postseason Blowouts
-(Through season 9)
+(Through season 10)
 
 
 
@@ -13,10 +13,13 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 1 | 105* | Chicago Firefighters | 15 - 10 | Boston Flowers | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
 | 1 | 102* | Philly Pies | 14 - 4 | Breckenridge Jazz Hands | 
+| 9 | 109* | Charleston Shoe Thieves | 14 - 6 | Seattle Garages | 
 | 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
 | 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
+| 9 | 100* | Hades Tigers | 13 - 1 | Hawai'i Fridays | 
 | 2 | 107* | Philly Pies | 13 - 4 | Breckenridge Jazz Hands | 
 | 4 | 102* | Chicago Firefighters | 13 - 9 | Charleston Shoe Thieves | 
+| 9 | 104* | Baltimore Crabs | 13 - 11 | Hellmouth Sunbeams | 
 | 2 | 109* | Philly Pies | 12 - 2 | Charleston Shoe Thieves | 
 | 6 | 101* | Seattle Garages | 12 - 3 | Philly Pies | 
 | 5 | 106* | San Francisco Lovers | 12 - 4 | Chicago Firefighters | 
@@ -25,13 +28,10 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 7 | 102* | Seattle Garages | 12 - 6 | Charleston Shoe Thieves | 
 | 4 | 104* | Hades Tigers | 12 - 7 | Canada Moist Talkers | 
 | 3 | 107* | New York Millennials | 12 - 9 | San Francisco Lovers | 
+| 9 | 104* | Seattle Garages | 11 - 4 | Philly Pies | 
 | 2 | 103* | Charleston Shoe Thieves | 11 - 5 | Dallas Steaks | 
 | 3 | 102* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
 | 5 | 101* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
 | 8 | 104* | Hades Tigers | 11 - 8 | Philly Pies | 
-| 1 | 108* | Chicago Firefighters | 10 - 0 | Boston Flowers | 
-| 2 | 107* | Charleston Shoe Thieves | 10 - 0 | Boston Flowers | 
-| 5 | 108* | Chicago Firefighters | 10 - 1 | San Francisco Lovers | 
-| 6 | 102* | San Francisco Lovers | 10 - 1 | Breckenridge Jazz Hands | 
 
 

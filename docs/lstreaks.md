@@ -24,6 +24,8 @@
 
 * [Season 9 Losing Streaks](lstreaks_season9.md)
 
+* [Season 10 Losing Streaks](lstreaks_season10.md)
+
 ## By Team
 
 * [Breath Mints Losing Streaks](lstreaks_team_breath_mints.md)

@@ -1,5 +1,5 @@
 # Crabs Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -19,6 +19,7 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 5          | 2          | 75, 79, 80, 81, 85 |
 | Crabs                          | 5          | 2          | 94, 95, 96, 97, 98 |
 | Crabs                          | 5          | 4          | 77, 78, 79, 88, 89 |
+| Crabs                          | 5          | 10         | 40, 41, 42, 43, 44 |
 | Crabs                          | 4          | 1          | 2, 3, 4, 5 |
 | Crabs                          | 4          | 1          | 17, 18, 19, 20 |
 | Crabs                          | 4          | 1          | 24, 28, 29, 30 |
@@ -143,6 +144,17 @@ Losing streaks of 4 or more games for Crabs versus all teams for all time
 | G3: Season 4 Game 79: Crabs 4  @  5 Tigers |
 | G4: Season 4 Game 88: Pies 10 @  5 Crabs |
 | G5: Season 4 Game 89: Pies 4  @  1 Crabs |
+
+<br />
+
+| 5 Game Losing Streak by the Crabs |
+| ----- |
+| Season 10 Games 39, 40, 41, 42, 43 |
+| G1: Season 10 Game 40: Crabs 3  @  6 Spies |
+| G2: Season 10 Game 41: Crabs 0  @  3 Spies |
+| G3: Season 10 Game 42: Crabs 4  @  9 Spies |
+| G4: Season 10 Game 43: Crabs 1  @  2 Spies |
+| G5: Season 10 Game 44: Crabs 4  @  6 Spies |
 
 <br />
 

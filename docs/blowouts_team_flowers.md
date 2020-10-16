@@ -11,6 +11,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 59 | Unlimited Tacos | 19 - 5 | Boston Flowers | 
 | 7 | 38 | Boston Flowers | 19 - 8 | Chicago Firefighters | 
 | 1 | 16 | Boston Flowers | 18 - 0 | Charleston Shoe Thieves | 
+| 10 | 20 | San Francisco Lovers | 18 - 5 | Boston Flowers | 
 | 4 | 50 | Charleston Shoe Thieves | 18 - 8 | Boston Flowers | 
 | 1 | 96 | Boston Flowers | 16 - 2 | New York Millennials | 
 | 7 | 57 | Canada Moist Talkers | 16 - 2 | Boston Flowers | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 38 | Chicago Firefighters | 14 - 3 | Boston Flowers | 
 | 6 | 27 | Boston Flowers | 14 - 4 | Miami Dalé | 
 | 7 | 52 | Houston Spies | 14 - 4 | Boston Flowers | 
-| 3 | 13 | Hawaii Fridays | 14 - 5 | Boston Flowers | 
 
 

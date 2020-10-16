@@ -24,6 +24,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
 | 2 | 5 | Breckenridge Jazz Hands | 14 - 3 | Canada Moist Talkers | 
 | 2 | 89 | Houston Spies | 14 - 4 | Canada Moist Talkers | 
+| 10 | 34 | Canada Moist Talkers | 14 - 4 | Hellmouth Sunbeams | 
 | 7 | 98 | Philly Pies | 14 - 5 | Canada Moist Talkers | 
 | 8 | 59 | Canada Moist Talkers | 14 - 5 | Yellowstone Magic | 
 | 4 | 35 | Canada Moist Talkers | 14 - 6 | Houston Spies | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 35 | Canada Moist Talkers | 13 - 1 | Hades Tigers | 
 | 1 | 26 | Mexico City Wild Wings | 13 - 2 | Canada Moist Talkers | 
 | 8 | 99 | Seattle Garages | 13 - 2 | Canada Moist Talkers | 
-| 2 | 29 | Hellmouth Sunbeams | 13 - 3 | Canada Moist Talkers | 
 
 

@@ -1,5 +1,5 @@
 # Pies Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 8          | 5          | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Pies                           | 8          | 7          | 38, 39, 40, 41, 42, 43, 44, 45 |
 | Pies                           | 7          | 7          | 20, 21, 22, 23, 24, 25, 26 |
+| Pies                           | 7          | 10         | 68, 69, 70, 71, 72, 73, 74 |
 | Pies                           | 6          | 2          | 5, 6, 7, 8, 9, 10 |
 | Pies                           | 6          | 4          | 4, 5, 6, 7, 8, 9 |
 | Pies                           | 5          | 1          | 50, 51, 52, 53, 54 |
@@ -20,6 +21,7 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 5          | 4          | 71, 72, 73, 74, 75 |
 | Pies                           | 5          | 5          | 92, 93, 94, 95, 96 |
 | Pies                           | 5          | 7          | 65, 66, 67, 68, 69 |
+| Pies                           | 5          | 10         | 62, 63, 64, 65, 66 |
 | Pies                           | 4          | 1          | 70, 71, 72, 73 |
 | Pies                           | 4          | 2          | 47, 48, 49, 50 |
 | Pies                           | 4          | 3          | 49, 50, 51, 52 |
@@ -28,6 +30,8 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 4          | 7          | 88, 89, 90, 91 |
 | Pies                           | 4          | 8          | 35, 36, 37, 38 |
 | Pies                           | 4          | 8          | 45, 46, 47, 48 |
+| Pies                           | 4          | 9          | 96, 97, 98, 99 |
+| Pies                           | 4          | 10         | 51, 52, 53, 54 |
 
 
 
@@ -77,6 +81,19 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G5: Season 7 Game 24: Pies 2  @  3 Wild Wings |
 | G6: Season 7 Game 25: Pies 5  @  6 Garages |
 | G7: Season 7 Game 26: Pies 2  @  5 Garages |
+
+<br />
+
+| 7 Game Losing Streak by the Pies |
+| ----- |
+| Season 10 Games 67, 68, 69, 70, 71, 72, 73 |
+| G1: Season 10 Game 68: Shoe Thieves 3  @  2 Pies |
+| G2: Season 10 Game 69: Shoe Thieves 6  @  1 Pies |
+| G3: Season 10 Game 70: Shoe Thieves 4  @  3 Pies |
+| G4: Season 10 Game 71: Shoe Thieves 3  @  0 Pies |
+| G5: Season 10 Game 72: Shoe Thieves 9  @  8 Pies |
+| G6: Season 10 Game 73: Pies 4  @ 12 Garages |
+| G7: Season 10 Game 74: Pies 4  @ 10 Garages |
 
 <br />
 
@@ -159,6 +176,17 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Pies |
+| ----- |
+| Season 10 Games 61, 62, 63, 64, 65 |
+| G1: Season 10 Game 62: Pies 6  @ 10 Garages |
+| G2: Season 10 Game 63: Pies -1 @  5 Garages |
+| G3: Season 10 Game 64: Breath Mints 4  @  2 Pies |
+| G4: Season 10 Game 65: Breath Mints 8  @  2 Pies |
+| G5: Season 10 Game 66: Breath Mints 6  @  4 Pies |
+
+<br />
+
 | 4 Game Losing Streak by the Pies |
 | ----- |
 | Season 1 Games 69, 70, 71, 72 |
@@ -236,6 +264,26 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 8 Game 46: Magic 6  @  2 Pies |
 | G3: Season 8 Game 47: Magic 11 @  4 Pies |
 | G4: Season 8 Game 48: Magic 3  @  2 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 9 Games 95, 96, 97, 98 |
+| G1: Season 9 Game 96: Pies 2  @  5 Moist Talkers |
+| G2: Season 9 Game 97: Shoe Thieves 8  @  0 Pies |
+| G3: Season 9 Game 98: Shoe Thieves 12 @  5 Pies |
+| G4: Season 9 Game 99: Shoe Thieves 8  @  3 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 10 Games 50, 51, 52, 53 |
+| G1: Season 10 Game 51: Pies 1  @  2 Breath Mints |
+| G2: Season 10 Game 52: Pies -1 @  4 Steaks |
+| G3: Season 10 Game 53: Pies 5  @  6 Steaks |
+| G4: Season 10 Game 54: Pies 1  @  6 Steaks |
 
 
 

@@ -23,6 +23,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 6 | 29 | Yellowstone Magic | 14 - 6 | Dallas Steaks | 
 | 3 | 63 | New York Millennials | 14 - 12 | Dallas Steaks | 
 | 7 | 49 | Dallas Steaks | 13 - 0 | Hades Tigers | 
+| 10 | 58 | Charleston Shoe Thieves | 13 - 1 | Dallas Steaks | 
 | 7 | 88 | Hades Tigers | 13 - 2 | Dallas Steaks | 
 | 2 | 47 | Dallas Steaks | 13 - 3 | Boston Flowers | 
 | 4 | 41 | Dallas Steaks | 13 - 3 | San Francisco Lovers | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 3 | 99 | Los Angeles Tacos | 13 - 5 | Dallas Steaks | 
 | 8 | 99 | Dallas Steaks | 13 - 5 | Yellowstone Magic | 
 | 1 | 60 | Dallas Steaks | 13 - 7 | Boston Flowers | 
-| 3 | 36 | Dallas Steaks | 13 - 8 | Kansas City Breath Mints | 
 
 

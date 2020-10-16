@@ -1,5 +1,5 @@
 # Breath Mints Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -19,12 +19,14 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 6          | 5          | 34, 35, 36, 37, 38, 39 |
 | Breath Mints                   | 6          | 8          | 8, 9, 10, 11, 12, 13 |
 | Breath Mints                   | 6          | 8          | 76, 77, 78, 79, 80, 81 |
+| Breath Mints                   | 6          | 10         | 16, 17, 18, 19, 20, 21 |
 | Breath Mints                   | 5          | 2          | 22, 23, 24, 25, 26 |
 | Breath Mints                   | 5          | 3          | 27, 28, 29, 30, 31 |
 | Breath Mints                   | 5          | 4          | 27, 28, 29, 30, 31 |
 | Breath Mints                   | 5          | 7          | 33, 34, 35, 36, 37 |
 | Breath Mints                   | 5          | 8          | 31, 32, 33, 34, 35 |
 | Breath Mints                   | 5          | 8          | 70, 71, 72, 73, 74 |
+| Breath Mints                   | 5          | 10         | 23, 24, 25, 26, 27 |
 | Breath Mints                   | 4          | 1          | 15, 16, 17, 18 |
 | Breath Mints                   | 4          | 2          | 16, 17, 18, 19 |
 | Breath Mints                   | 4          | 2          | 79, 80, 81, 82 |
@@ -162,6 +164,18 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 15, 16, 17, 18, 19, 20 |
+| G1: Season 10 Game 16: Breath Mints 1  @  5 Garages |
+| G2: Season 10 Game 17: Breath Mints 2  @  7 Garages |
+| G3: Season 10 Game 18: Breath Mints 4  @  6 Garages |
+| G4: Season 10 Game 19: Garages 3  @ -1 Breath Mints |
+| G5: Season 10 Game 20: Garages 2  @  0 Breath Mints |
+| G6: Season 10 Game 21: Garages 7  @  3 Breath Mints |
+
+<br />
+
 | 5 Game Losing Streak by the Breath Mints |
 | ----- |
 | Season 2 Games 21, 22, 23, 24, 25 |
@@ -225,6 +239,17 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G3: Season 8 Game 72: Magic 6  @  4 Breath Mints |
 | G4: Season 8 Game 73: Garages 8  @  5 Breath Mints |
 | G5: Season 8 Game 74: Garages 6  @  3 Breath Mints |
+
+<br />
+
+| 5 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 10 Games 22, 23, 24, 25, 26 |
+| G1: Season 10 Game 23: Breath Mints 1  @  2 Steaks |
+| G2: Season 10 Game 24: Breath Mints 4  @  5 Steaks |
+| G3: Season 10 Game 25: Breath Mints 2  @  7 Moist Talkers |
+| G4: Season 10 Game 26: Breath Mints 4  @  5 Moist Talkers |
+| G5: Season 10 Game 27: Breath Mints 0  @  8 Moist Talkers |
 
 <br />
 

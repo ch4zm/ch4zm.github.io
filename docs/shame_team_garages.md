@@ -12,9 +12,11 @@ Shame games (games where the loser was shamed) for all time for team Garages (no
 | 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
 | 9 | 96 | Hades Tigers | 11 - 7 | Seattle Garages | 
 | 7 | 75 | Seattle Garages | 10 - 6 | Canada Moist Talkers | 
+| 10 | 62 | Seattle Garages | 10 - 6 | Philly Pies | 
 | 3 | 57 | Seattle Garages | 9 - 5 | Breckenridge Jazz Hands | 
 | 3 | 94 | Seattle Garages | 7 - 3 | Houston Spies | 
 | 7 | 17 | Hades Tigers | 6 - 2 | Seattle Garages | 
+| 10 | 48 | Charleston Shoe Thieves | 5 - 1 | Seattle Garages | 
 | 4 | 79 | Canada Moist Talkers | 11 - 8 | Seattle Garages | 
 | 3 | 23 | Hades Tigers | 9 - 6 | Seattle Garages | 
 | 9 | 66 | Philly Pies | 9 - 6 | Seattle Garages | 
@@ -29,8 +31,6 @@ Shame games (games where the loser was shamed) for all time for team Garages (no
 | 2 | 58 | Breckenridge Jazz Hands | 8 - 6 | Seattle Garages | 
 | 9 | 49 | Seattle Garages | 8 - 6 | Hades Tigers | 
 | 8 | 65 | Seattle Garages | 7 - 5 | Charleston Shoe Thieves | 
-| 4 | 10 | Hades Tigers | 6 - 4 | Seattle Garages | 
-| 4 | 42 | Canada Moist Talkers | 6 - 4 | Seattle Garages | 
-| 4 | 47 | Seattle Garages | 6 - 4 | Canada Moist Talkers | 
+| 10 | 44 | Canada Moist Talkers | 7 - 5 | Seattle Garages | 
 
 

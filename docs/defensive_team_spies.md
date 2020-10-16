@@ -25,12 +25,12 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 9 | 28 | Miami Dale | 1 - 0 | Houston Spies | 
 | 9 | 47 | Houston Spies | 1 - 0 | San Francisco Lovers | 
 | 9 | 58 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
-| 1 | 36 | Miami Dalé | 2 - 1 | Houston Spies | 
-| 1 | 47 | Houston Spies | 2 - 1 | Breckenridge Jazz Hands | 
-| 1 | 65 | Hades Tigers | 2 - 1 | Houston Spies | 
-| 2 | 8 | Houston Spies | 2 - 1 | Seattle Garages | 
-| 2 | 26 | Mexico City Wild Wings | 2 - 1 | Houston Spies | 
-| 2 | 43 | Houston Spies | 2 - 1 | Breckenridge Jazz Hands | 
-| 3 | 59 | Houston Spies | 2 - 1 | Canada Moist Talkers | 
+| 10 | 2 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 4 | Houston Spies | 1 - 0 | Boston Flowers | 
+| 10 | 33 | Breckenridge Jazz Hands | 1 - 0 | Houston Spies | 
+| 10 | 37 | Miami Dale | 1 - 0 | Houston Spies | 
+| 10 | 52 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
+| 10 | 71 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
+| 10 | 74 | Houston Spies | 1 - 0 | Boston Flowers | 
 
 

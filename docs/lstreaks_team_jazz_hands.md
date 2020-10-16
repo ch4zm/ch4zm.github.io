@@ -1,5 +1,5 @@
 # Jazz Hands Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -11,9 +11,11 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Jazz Hands                     | 12         | 8          | 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46 |
+| Jazz Hands                     | 8          | 10         | 58, 59, 60, 61, 62, 63, 64, 65 |
 | Jazz Hands                     | 7          | 3          | 56, 57, 58, 59, 60, 61, 62 |
 | Jazz Hands                     | 6          | 4          | 18, 19, 20, 21, 25, 26 |
 | Jazz Hands                     | 6          | 8          | 65, 66, 67, 68, 69, 70 |
+| Jazz Hands                     | 6          | 10         | 69, 70, 71, 72, 73, 74 |
 | Jazz Hands                     | 5          | 1          | 71, 72, 76, 77, 78 |
 | Jazz Hands                     | 5          | 2          | 64, 65, 66, 67, 68 |
 | Jazz Hands                     | 5          | 8          | 23, 24, 25, 26, 27 |
@@ -29,6 +31,9 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 8          | 10, 11, 12, 13 |
 | Jazz Hands                     | 4          | 9          | 61, 62, 63, 64 |
 | Jazz Hands                     | 4          | 9          | 89, 90, 91, 92 |
+| Jazz Hands                     | 4          | 10         | 3, 4, 5, 6 |
+| Jazz Hands                     | 4          | 10         | 11, 12, 13, 14 |
+| Jazz Hands                     | 4          | 10         | 18, 19, 20, 21 |
 
 
 
@@ -55,6 +60,20 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G10: Season 8 Game 44: Jazz Hands 1  @  3 Spies |
 | G11: Season 8 Game 45: Jazz Hands 1  @  7 Spies |
 | G12: Season 8 Game 46: Tacos 4  @  3 Jazz Hands |
+
+<br />
+
+| 8 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 57, 58, 59, 60, 61, 62, 63, 64 |
+| G1: Season 10 Game 58: Crabs 7  @  5 Jazz Hands |
+| G2: Season 10 Game 59: Crabs 7  @  5 Jazz Hands |
+| G3: Season 10 Game 60: Crabs 9  @  0 Jazz Hands |
+| G4: Season 10 Game 61: Lovers 13 @  4 Jazz Hands |
+| G5: Season 10 Game 62: Lovers 6  @  4 Jazz Hands |
+| G6: Season 10 Game 63: Lovers 5  @  2 Jazz Hands |
+| G7: Season 10 Game 64: Jazz Hands 5  @  7 Dale |
+| G8: Season 10 Game 65: Jazz Hands 1  @  3 Dale |
 
 <br />
 
@@ -92,6 +111,18 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G4: Season 8 Game 68: Jazz Hands 5  @ 10 Crabs |
 | G5: Season 8 Game 69: Jazz Hands 0  @  3 Crabs |
 | G6: Season 8 Game 70: Jazz Hands 1  @  2 Lovers |
+
+<br />
+
+| 6 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 68, 69, 70, 71, 72, 73 |
+| G1: Season 10 Game 69: Tacos 8  @  5 Jazz Hands |
+| G2: Season 10 Game 70: Jazz Hands 3  @  9 Crabs |
+| G3: Season 10 Game 71: Jazz Hands 2  @  4 Crabs |
+| G4: Season 10 Game 72: Jazz Hands 0  @ 10 Crabs |
+| G5: Season 10 Game 73: Dale 5  @  4 Jazz Hands |
+| G6: Season 10 Game 74: Dale 8  @  7 Jazz Hands |
 
 <br />
 
@@ -246,6 +277,36 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 9 Game 90: Jazz Hands 4  @  5 Spies |
 | G3: Season 9 Game 91: Jazz Hands 1  @  2 Sunbeams |
 | G4: Season 9 Game 92: Jazz Hands 7  @ 12 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 2, 3, 4, 5 |
+| G1: Season 10 Game 3: Jazz Hands 2  @  5 Crabs |
+| G2: Season 10 Game 4: Jazz Hands 7  @  8 Firefighters |
+| G3: Season 10 Game 5: Jazz Hands 5  @  6 Firefighters |
+| G4: Season 10 Game 6: Jazz Hands 4  @  9 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 10, 11, 12, 13 |
+| G1: Season 10 Game 11: Jazz Hands 3  @ 10 Lovers |
+| G2: Season 10 Game 12: Jazz Hands 0  @  3 Lovers |
+| G3: Season 10 Game 13: Jazz Hands 1  @  3 Lovers |
+| G4: Season 10 Game 14: Jazz Hands 3  @ 14 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 17, 18, 19, 20 |
+| G1: Season 10 Game 18: Jazz Hands 2  @  7 Spies |
+| G2: Season 10 Game 19: Sunbeams 12 @  1 Jazz Hands |
+| G3: Season 10 Game 20: Sunbeams 4  @  0 Jazz Hands |
+| G4: Season 10 Game 21: Sunbeams 2  @  0 Jazz Hands |
 
 
 

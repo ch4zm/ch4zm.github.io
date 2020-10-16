@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -17,12 +17,16 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 6          | 5          | 6, 7, 8, 9, 10, 11 |
 | Moist Talkers                  | 6          | 8          | 33, 34, 35, 36, 37, 38 |
 | Moist Talkers                  | 6          | 8          | 74, 75, 76, 77, 78, 79 |
+| Moist Talkers                  | 6          | 10         | 14, 15, 16, 17, 18, 19 |
+| Moist Talkers                  | 6          | 10         | 48, 49, 50, 51, 52, 53 |
 | Moist Talkers                  | 5          | 1          | 32, 33, 34, 35, 36 |
 | Moist Talkers                  | 5          | 1          | 43, 44, 45, 46, 47 |
 | Moist Talkers                  | 5          | 3          | 74, 75, 76, 77, 78 |
 | Moist Talkers                  | 5          | 5          | 45, 46, 47, 48, 49 |
 | Moist Talkers                  | 5          | 5          | 55, 56, 57, 58, 59 |
 | Moist Talkers                  | 5          | 6          | 58, 59, 60, 61, 62 |
+| Moist Talkers                  | 5          | 10         | 25, 26, 27, 28, 29 |
+| Moist Talkers                  | 5          | 10         | 33, 34, 35, 36, 37 |
 | Moist Talkers                  | 4          | 1          | 12, 13, 14, 15 |
 | Moist Talkers                  | 4          | 1          | 17, 18, 22, 23 |
 | Moist Talkers                  | 4          | 1          | 52, 53, 54, 55 |
@@ -37,6 +41,9 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 4          | 6          | 85, 86, 87, 88 |
 | Moist Talkers                  | 4          | 7          | 6, 7, 8, 9 |
 | Moist Talkers                  | 4          | 8          | 94, 95, 96, 97 |
+| Moist Talkers                  | 4          | 10         | 1, 2, 3, 4 |
+| Moist Talkers                  | 4          | 10         | 55, 56, 57, 58 |
+| Moist Talkers                  | 4          | 10         | 71, 72, 73, 74 |
 
 
 
@@ -135,6 +142,30 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 <br />
 
+| 6 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 13, 14, 15, 16, 17, 18 |
+| G1: Season 10 Game 14: Millennials 4  @  6 Moist Talkers |
+| G2: Season 10 Game 15: Millennials 3  @  4 Moist Talkers |
+| G3: Season 10 Game 16: Millennials 1  @  8 Moist Talkers |
+| G4: Season 10 Game 17: Millennials 2  @  6 Moist Talkers |
+| G5: Season 10 Game 18: Millennials 4  @  5 Moist Talkers |
+| G6: Season 10 Game 19: Pies 1  @  7 Moist Talkers |
+
+<br />
+
+| 6 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 47, 48, 49, 50, 51, 52 |
+| G1: Season 10 Game 48: Moist Talkers 13 @  4 Tacos |
+| G2: Season 10 Game 49: Moist Talkers 5  @  4 Millennials |
+| G3: Season 10 Game 50: Moist Talkers 5  @  1 Millennials |
+| G4: Season 10 Game 51: Moist Talkers 4  @  2 Millennials |
+| G5: Season 10 Game 52: Tigers 3  @  4 Moist Talkers |
+| G6: Season 10 Game 53: Tigers 1  @  8 Moist Talkers |
+
+<br />
+
 | 5 Game Winning Streak by the Moist Talkers |
 | ----- |
 | Season 1 Games 31, 32, 33, 34, 35 |
@@ -198,6 +229,28 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G3: Season 6 Game 60: Moist Talkers 4  @  2 Breath Mints |
 | G4: Season 6 Game 61: Tigers 0  @  3 Moist Talkers |
 | G5: Season 6 Game 62: Tigers 2  @  8 Moist Talkers |
+
+<br />
+
+| 5 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 24, 25, 26, 27, 28 |
+| G1: Season 10 Game 25: Breath Mints 2  @  7 Moist Talkers |
+| G2: Season 10 Game 26: Breath Mints 4  @  5 Moist Talkers |
+| G3: Season 10 Game 27: Breath Mints 0  @  8 Moist Talkers |
+| G4: Season 10 Game 28: Moist Talkers 7  @  4 Fridays |
+| G5: Season 10 Game 29: Moist Talkers 6  @  1 Fridays |
+
+<br />
+
+| 5 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 32, 33, 34, 35, 36 |
+| G1: Season 10 Game 33: Moist Talkers 2  @  1 Garages |
+| G2: Season 10 Game 34: Moist Talkers 14 @  4 Sunbeams |
+| G3: Season 10 Game 35: Moist Talkers 7  @  2 Sunbeams |
+| G4: Season 10 Game 36: Moist Talkers 11 @  3 Sunbeams |
+| G5: Season 10 Game 37: Moist Talkers 4  @  2 Shoe Thieves |
 
 <br />
 
@@ -338,6 +391,36 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 8 Game 95: Moist Talkers 11 @  1 Magic |
 | G3: Season 8 Game 96: Moist Talkers 6  @  3 Magic |
 | G4: Season 8 Game 97: Moist Talkers 4  @  1 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 0, 1, 2, 3 |
+| G1: Season 10 Game 1: Moist Talkers 5  @  2 Millennials |
+| G2: Season 10 Game 2: Moist Talkers 5  @  2 Millennials |
+| G3: Season 10 Game 3: Moist Talkers 2  @  1 Millennials |
+| G4: Season 10 Game 4: Moist Talkers 5  @  1 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 54, 55, 56, 57 |
+| G1: Season 10 Game 55: Millennials 4  @  5 Moist Talkers |
+| G2: Season 10 Game 56: Millennials 0  @  6 Moist Talkers |
+| G3: Season 10 Game 57: Millennials 3  @  4 Moist Talkers |
+| G4: Season 10 Game 58: Fridays 0  @  4 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 70, 71, 72, 73 |
+| G1: Season 10 Game 71: Moist Talkers 6  @  0 Tigers |
+| G2: Season 10 Game 72: Moist Talkers 3  @  1 Tigers |
+| G3: Season 10 Game 73: Moist Talkers 3  @  0 Magic |
+| G4: Season 10 Game 74: Moist Talkers 9  @  1 Magic |
 
 
 

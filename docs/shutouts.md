@@ -28,6 +28,8 @@
 
 * [Season 9 Shutouts](shutouts_season9.md)
 
+* [Season 10 Shutouts](shutouts_season10.md)
+
 ## By Team
 
 * [Breath Mints Shutouts Summary](shutouts_team_breath_mints.md)

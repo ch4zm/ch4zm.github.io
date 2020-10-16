@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -19,6 +19,8 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 6          | 9          | 37, 38, 39, 40, 41, 42 |
 | Flowers                        | 5          | 3          | 21, 22, 23, 24, 25 |
 | Flowers                        | 5          | 5          | 65, 66, 67, 68, 69 |
+| Flowers                        | 5          | 9          | 95, 96, 97, 98, 99 |
+| Flowers                        | 5          | 10         | 61, 62, 63, 64, 65 |
 | Flowers                        | 4          | 1          | 18, 19, 20, 21 |
 | Flowers                        | 4          | 2          | 6, 7, 8, 9 |
 | Flowers                        | 4          | 2          | 82, 83, 84, 85 |
@@ -30,6 +32,7 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 9          | 13, 14, 15, 16 |
 | Flowers                        | 4          | 9          | 32, 33, 34, 35 |
 | Flowers                        | 4          | 9          | 46, 47, 48, 49 |
+| Flowers                        | 4          | 10         | 34, 35, 36, 37 |
 
 
 
@@ -151,6 +154,28 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Flowers |
+| ----- |
+| Season 9 Games 94, 95, 96, 97, 98 |
+| G1: Season 9 Game 95: Magic 6  @  9 Flowers |
+| G2: Season 9 Game 96: Magic 3  @ 11 Flowers |
+| G3: Season 9 Game 97: Flowers 6  @  4 Dale |
+| G4: Season 9 Game 98: Flowers 3  @  2 Dale |
+| G5: Season 9 Game 99: Flowers 3  @  2 Dale |
+
+<br />
+
+| 5 Game Winning Streak by the Flowers |
+| ----- |
+| Season 10 Games 60, 61, 62, 63, 64 |
+| G1: Season 10 Game 61: Flowers 4  @  2 Sunbeams |
+| G2: Season 10 Game 62: Flowers 5  @  4 Sunbeams |
+| G3: Season 10 Game 63: Flowers 8  @  0 Sunbeams |
+| G4: Season 10 Game 64: Firefighters 2  @  4 Flowers |
+| G5: Season 10 Game 65: Firefighters 4  @  5 Flowers |
+
+<br />
+
 | 4 Game Winning Streak by the Flowers |
 | ----- |
 | Season 1 Games 17, 18, 19, 20 |
@@ -258,6 +283,16 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 9 Game 47: Tacos 2  @  5 Flowers |
 | G3: Season 9 Game 48: Tacos 3  @  5 Flowers |
 | G4: Season 9 Game 49: Crabs 3  @  8 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 10 Games 33, 34, 35, 36 |
+| G1: Season 10 Game 34: Breath Mints 0  @  1 Flowers |
+| G2: Season 10 Game 35: Breath Mints 2  @  3 Flowers |
+| G3: Season 10 Game 36: Breath Mints -1 @  5 Flowers |
+| G4: Season 10 Game 37: Sunbeams 6  @ 10 Flowers |
 
 
 

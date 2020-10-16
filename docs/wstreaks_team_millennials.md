@@ -1,5 +1,5 @@
 # Millennials Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Millennials                    | 13         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96 |
+| Millennials                    | 11         | 10         | 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74 |
 | Millennials                    | 8          | 8          | 38, 39, 40, 41, 42, 43, 44, 45 |
 | Millennials                    | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
 | Millennials                    | 7          | 8          | 78, 79, 80, 81, 82, 83, 84 |
@@ -28,6 +29,7 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 5          | 7          | 89, 90, 91, 92, 93 |
 | Millennials                    | 5          | 8          | 72, 73, 74, 75, 76 |
 | Millennials                    | 5          | 9          | 25, 26, 27, 28, 29 |
+| Millennials                    | 5          | 10         | 5, 6, 7, 8, 9 |
 | Millennials                    | 4          | 1          | 34, 35, 36, 37 |
 | Millennials                    | 4          | 1          | 92, 93, 94, 95 |
 | Millennials                    | 4          | 2          | 22, 23, 24, 25 |
@@ -78,6 +80,23 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G11: Season 5 Game 94: Millennials 3  @  2 Magic |
 | G12: Season 5 Game 95: Millennials 14 @  6 Magic |
 | G13: Season 5 Game 96: Millennials 5  @  1 Magic |
+
+<br />
+
+| 11 Game Winning Streak by the Millennials |
+| ----- |
+| Season 10 Games 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 |
+| G1: Season 10 Game 64: Magic 4  @  7 Millennials |
+| G2: Season 10 Game 65: Magic 2  @ 14 Millennials |
+| G3: Season 10 Game 66: Magic 2  @  5 Millennials |
+| G4: Season 10 Game 67: Tigers 2  @  4 Millennials |
+| G5: Season 10 Game 68: Tigers 1  @  2 Millennials |
+| G6: Season 10 Game 69: Tigers 1  @ 10 Millennials |
+| G7: Season 10 Game 70: Millennials 4  @  2 Garages |
+| G8: Season 10 Game 71: Millennials 8  @  2 Garages |
+| G9: Season 10 Game 72: Millennials 9  @  4 Garages |
+| G10: Season 10 Game 73: Millennials 7  @  5 Steaks |
+| G11: Season 10 Game 74: Millennials 6  @  5 Steaks |
 
 <br />
 
@@ -275,6 +294,17 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 9 Game 27: Dale 4  @  6 Millennials |
 | G4: Season 9 Game 28: Millennials 6  @  4 Tigers |
 | G5: Season 9 Game 29: Millennials 4  @  2 Tigers |
+
+<br />
+
+| 5 Game Winning Streak by the Millennials |
+| ----- |
+| Season 10 Games 4, 5, 6, 7, 8 |
+| G1: Season 10 Game 5: Garages 6  @  8 Millennials |
+| G2: Season 10 Game 6: Garages 5  @ 10 Millennials |
+| G3: Season 10 Game 7: Millennials 2  @  1 Garages |
+| G4: Season 10 Game 8: Millennials 5  @  1 Garages |
+| G5: Season 10 Game 9: Millennials 3  @  0 Garages |
 
 <br />
 

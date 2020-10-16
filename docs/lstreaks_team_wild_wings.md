@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -23,6 +23,8 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 5          | 6          | 54, 55, 56, 57, 58 |
 | Wild Wings                     | 5          | 7          | 45, 46, 47, 48, 49 |
 | Wild Wings                     | 5          | 9          | 90, 91, 92, 93, 94 |
+| Wild Wings                     | 5          | 10         | 28, 29, 30, 31, 32 |
+| Wild Wings                     | 5          | 10         | 64, 65, 66, 67, 68 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
 | Wild Wings                     | 4          | 1          | 93, 94, 95, 96 |
@@ -41,6 +43,7 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 9          | 31, 32, 33, 34 |
 | Wild Wings                     | 4          | 9          | 47, 48, 49, 50 |
 | Wild Wings                     | 4          | 9          | 67, 68, 69, 70 |
+| Wild Wings                     | 4          | 10         | 54, 55, 56, 57 |
 
 
 
@@ -208,6 +211,28 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 9 Game 92: Crabs 3  @  2 Wild Wings |
 | G4: Season 9 Game 93: Crabs 4  @  3 Wild Wings |
 | G5: Season 9 Game 94: Jazz Hands 10 @  2 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 27, 28, 29, 30, 31 |
+| G1: Season 10 Game 28: Wild Wings 2  @  5 Firefighters |
+| G2: Season 10 Game 29: Wild Wings 5  @  7 Firefighters |
+| G3: Season 10 Game 30: Wild Wings -2 @  3 Firefighters |
+| G4: Season 10 Game 31: Lovers 3  @  2 Wild Wings |
+| G5: Season 10 Game 32: Lovers 7  @  1 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 63, 64, 65, 66, 67 |
+| G1: Season 10 Game 64: Lovers 9  @  2 Wild Wings |
+| G2: Season 10 Game 65: Lovers 8  @  2 Wild Wings |
+| G3: Season 10 Game 66: Lovers 12 @  6 Wild Wings |
+| G4: Season 10 Game 67: Flowers 10 @  5 Wild Wings |
+| G5: Season 10 Game 68: Flowers 5  @  2 Wild Wings |
 
 <br />
 
@@ -388,6 +413,16 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 9 Game 68: Crabs 6  @  1 Wild Wings |
 | G3: Season 9 Game 69: Crabs 8  @  0 Wild Wings |
 | G4: Season 9 Game 70: Firefighters 8  @  4 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 53, 54, 55, 56 |
+| G1: Season 10 Game 54: Spies 5  @  4 Wild Wings |
+| G2: Season 10 Game 55: Flowers 9  @  4 Wild Wings |
+| G3: Season 10 Game 56: Flowers 2  @  1 Wild Wings |
+| G4: Season 10 Game 57: Flowers 6  @  4 Wild Wings |
 
 
 

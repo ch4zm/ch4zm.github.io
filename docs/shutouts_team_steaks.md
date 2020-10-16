@@ -29,8 +29,8 @@ Shutout games (games where the loser had zero runs) for all time for team Steaks
 | 3 | 71 | Dallas Steaks | 7 - 0 | Seattle Garages | 
 | 4 | 4 | Chicago Firefighters | 7 - 0 | Dallas Steaks | 
 | 4 | 17 | Kansas City Breath Mints | 7 - 0 | Dallas Steaks | 
+| 10 | 35 | Dallas Steaks | 7 - 0 | San Francisco Lovers | 
 | 2 | 32 | Dallas Steaks | 6 - 0 | Hawaii Fridays | 
 | 2 | 61 | Dallas Steaks | 6 - 0 | Chicago Firefighters | 
-| 2 | 84 | Hades Tigers | 6 - 0 | Dallas Steaks | 
 
 

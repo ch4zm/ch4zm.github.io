@@ -22,6 +22,7 @@ Maxed out games (high-scoring one-run games) for all time for team Dale (note: a
 | 8 | 57 | Charleston Shoe Thieves | 1 - 0 | Miami Dale | 
 | 9 | 28 | Miami Dale | 1 - 0 | Houston Spies | 
 | 9 | 46 | Yellowstone Magic | 1 - 0 | Miami Dale | 
+| 10 | 37 | Miami Dale | 1 - 0 | Houston Spies | 
 | 1 | 16 | Miami Dalé | 2 - 1 | Philly Pies | 
 | 1 | 32 | Miami Dalé | 2 - 1 | Breckenridge Jazz Hands | 
 | 1 | 36 | Miami Dalé | 2 - 1 | Houston Spies | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Dale (note: a
 | 2 | 96 | Hellmouth Sunbeams | 2 - 1 | Miami Dalé | 
 | 3 | 3 | Breckenridge Jazz Hands | 2 - 1 | Miami Dalé | 
 | 3 | 79 | Miami Dalé | 2 - 1 | Seattle Garages | 
-| 4 | 36 | Seattle Garages | 2 - 1 | Miami Dalé | 
 
 

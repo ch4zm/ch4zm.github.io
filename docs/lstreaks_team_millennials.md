@@ -1,5 +1,5 @@
 # Millennials Losing Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -13,9 +13,11 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 10         | 9          | 66, 67, 68, 69, 70, 71, 72, 73, 74, 75 |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
 | Millennials                    | 8          | 8          | 46, 47, 48, 49, 50, 51, 52, 53 |
+| Millennials                    | 8          | 10         | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Millennials                    | 7          | 1          | 15, 16, 17, 18, 19, 20, 21 |
 | Millennials                    | 7          | 2          | 37, 38, 39, 40, 41, 42, 43 |
 | Millennials                    | 7          | 8          | 6, 7, 8, 9, 10, 11, 12 |
+| Millennials                    | 7          | 10         | 47, 48, 49, 50, 51, 52, 53 |
 | Millennials                    | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Millennials                    | 6          | 2          | 90, 91, 92, 93, 94, 95 |
 | Millennials                    | 6          | 7          | 1, 2, 3, 4, 5, 6 |
@@ -25,6 +27,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 5          | 6          | 69, 70, 71, 72, 73 |
 | Millennials                    | 5          | 7          | 38, 39, 40, 41, 42 |
 | Millennials                    | 5          | 9          | 79, 80, 81, 82, 83 |
+| Millennials                    | 5          | 10         | 14, 15, 16, 17, 18 |
 | Millennials                    | 4          | 2          | 75, 76, 77, 78 |
 | Millennials                    | 4          | 3          | 21, 22, 23, 24 |
 | Millennials                    | 4          | 4          | 92, 93, 94, 95 |
@@ -37,6 +40,8 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 4          | 9          | 6, 7, 8, 9 |
 | Millennials                    | 4          | 9          | 13, 14, 15, 16 |
 | Millennials                    | 4          | 9          | 30, 31, 32, 33 |
+| Millennials                    | 4          | 10         | 1, 2, 3, 4 |
+| Millennials                    | 4          | 10         | 39, 40, 41, 42 |
 
 
 
@@ -93,6 +98,20 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 
 <br />
 
+| 8 Game Losing Streak by the Millennials |
+| ----- |
+| Season 10 Games 29, 30, 31, 32, 33, 34, 35, 36 |
+| G1: Season 10 Game 30: Shoe Thieves 5  @  1 Millennials |
+| G2: Season 10 Game 31: Millennials 3  @  5 Breath Mints |
+| G3: Season 10 Game 32: Millennials 4  @  5 Breath Mints |
+| G4: Season 10 Game 33: Millennials 2  @  3 Breath Mints |
+| G5: Season 10 Game 34: Millennials 0  @  2 Tigers |
+| G6: Season 10 Game 35: Millennials 2  @  8 Tigers |
+| G7: Season 10 Game 36: Millennials 2  @  4 Tigers |
+| G8: Season 10 Game 37: Steaks 3  @  0 Millennials |
+
+<br />
+
 | 7 Game Losing Streak by the Millennials |
 | ----- |
 | Season 1 Games 14, 15, 16, 17, 18, 19, 20 |
@@ -129,6 +148,19 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G5: Season 8 Game 10: Dale 3  @  1 Millennials |
 | G6: Season 8 Game 11: Dale 9  @  7 Millennials |
 | G7: Season 8 Game 12: Dale 5  @  2 Millennials |
+
+<br />
+
+| 7 Game Losing Streak by the Millennials |
+| ----- |
+| Season 10 Games 46, 47, 48, 49, 50, 51, 52 |
+| G1: Season 10 Game 47: Millennials 7  @  8 Magic |
+| G2: Season 10 Game 48: Millennials 2  @  3 Magic |
+| G3: Season 10 Game 49: Moist Talkers 5  @  4 Millennials |
+| G4: Season 10 Game 50: Moist Talkers 5  @  1 Millennials |
+| G5: Season 10 Game 51: Moist Talkers 4  @  2 Millennials |
+| G6: Season 10 Game 52: Breath Mints 4  @  3 Millennials |
+| G7: Season 10 Game 53: Breath Mints 4  @  0 Millennials |
 
 <br />
 
@@ -231,6 +263,17 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 9 Game 81: Millennials 1  @  5 Moist Talkers |
 | G4: Season 9 Game 82: Millennials 1  @  4 Pies |
 | G5: Season 9 Game 83: Millennials 8  @ 10 Pies |
+
+<br />
+
+| 5 Game Losing Streak by the Millennials |
+| ----- |
+| Season 10 Games 13, 14, 15, 16, 17 |
+| G1: Season 10 Game 14: Millennials 4  @  6 Moist Talkers |
+| G2: Season 10 Game 15: Millennials 3  @  4 Moist Talkers |
+| G3: Season 10 Game 16: Millennials 1  @  8 Moist Talkers |
+| G4: Season 10 Game 17: Millennials 2  @  6 Moist Talkers |
+| G5: Season 10 Game 18: Millennials 4  @  5 Moist Talkers |
 
 <br />
 
@@ -351,6 +394,26 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G2: Season 9 Game 31: Millennials 4  @  6 Moist Talkers |
 | G3: Season 9 Game 32: Millennials 2  @  4 Moist Talkers |
 | G4: Season 9 Game 33: Millennials 1  @  3 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 10 Games 0, 1, 2, 3 |
+| G1: Season 10 Game 1: Moist Talkers 5  @  2 Millennials |
+| G2: Season 10 Game 2: Moist Talkers 5  @  2 Millennials |
+| G3: Season 10 Game 3: Moist Talkers 2  @  1 Millennials |
+| G4: Season 10 Game 4: Garages 3  @  0 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 10 Games 38, 39, 40, 41 |
+| G1: Season 10 Game 39: Steaks 7  @  1 Millennials |
+| G2: Season 10 Game 40: Garages 12 @  4 Millennials |
+| G3: Season 10 Game 41: Garages 6  @  2 Millennials |
+| G4: Season 10 Game 42: Garages 6  @  1 Millennials |
 
 
 

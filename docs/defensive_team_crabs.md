@@ -22,6 +22,8 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | 7 | 86 | Baltimore Crabs | 1 - 0 | Chicago Firefighters | 
 | 7 | 96 | Breckenridge Jazz Hands | 1 - 0 | Baltimore Crabs | 
 | 8 | 25 | Baltimore Crabs | 1 - 0 | San Francisco Lovers | 
+| 10 | 18 | Baltimore Crabs | 1 - 0 | Boston Flowers | 
+| 10 | 47 | Breckenridge Jazz Hands | 1 - 0 | Baltimore Crabs | 
 | 1 | 10 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 1 | 17 | Canada Moist Talkers | 2 - 1 | Baltimore Crabs | 
 | 1 | 38 | Philly Pies | 2 - 1 | Baltimore Crabs | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | 2 | 47 | Baltimore Crabs | 2 - 1 | Philly Pies | 
 | 2 | 73 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 2 | 90 | Hellmouth Sunbeams | 2 - 1 | Baltimore Crabs | 
-| 2 | 92 | Baltimore Crabs | 2 - 1 | New York Millennials | 
-| 3 | 11 | Baltimore Crabs | 2 - 1 | Canada Moist Talkers | 
 
 

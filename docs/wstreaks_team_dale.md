@@ -1,5 +1,5 @@
 # Dale Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 

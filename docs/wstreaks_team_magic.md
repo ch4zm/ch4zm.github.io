@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 9)
+(Through season 10)
 ## Summary
 
 
@@ -21,6 +21,7 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 5          | 4          | 36, 37, 38, 39, 40 |
 | Magic                          | 5          | 5          | 5, 6, 7, 8, 9 |
 | Magic                          | 5          | 5          | 34, 35, 36, 37, 38 |
+| Magic                          | 5          | 10         | 47, 48, 49, 50, 51 |
 | Magic                          | 4          | 1          | 1, 2, 3, 4 |
 | Magic                          | 4          | 1          | 22, 23, 24, 25 |
 | Magic                          | 4          | 2          | 19, 20, 21, 22 |
@@ -176,6 +177,17 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G3: Season 5 Game 36: Magic 7  @  5 Tacos |
 | G4: Season 5 Game 37: Millennials 0  @  3 Magic |
 | G5: Season 5 Game 38: Millennials 7  @  8 Magic |
+
+<br />
+
+| 5 Game Winning Streak by the Magic |
+| ----- |
+| Season 10 Games 46, 47, 48, 49, 50 |
+| G1: Season 10 Game 47: Millennials 7  @  8 Magic |
+| G2: Season 10 Game 48: Millennials 2  @  3 Magic |
+| G3: Season 10 Game 49: Magic 5  @  2 Fridays |
+| G4: Season 10 Game 50: Magic 4  @  3 Fridays |
+| G5: Season 10 Game 51: Magic 4  @  0 Fridays |
 
 <br />
 

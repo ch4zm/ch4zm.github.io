@@ -17,10 +17,12 @@ Shutout games (games where the loser had zero runs) for all time for team Pies (
 | 3 | 16 | Philly Pies | 9 - 0 | Canada Moist Talkers | 
 | 8 | 7 | Dallas Steaks | 9 - 0 | Philly Pies | 
 | 9 | 90 | Philly Pies | 9 - 0 | Canada Moist Talkers | 
+| 10 | 67 | Philly Pies | 9 - 0 | Charleston Shoe Thieves | 
 | 7 | 55 | Charleston Shoe Thieves | 8 - 0 | Philly Pies | 
 | 8 | 37 | Seattle Garages | 8 - 0 | Philly Pies | 
 | 9 | 56 | Philly Pies | 8 - 0 | Hawaii Fridays | 
 | 9 | 97 | Charleston Shoe Thieves | 8 - 0 | Philly Pies | 
+| 10 | 7 | Charleston Shoe Thieves | 8 - 0 | Philly Pies | 
 | 1 | 32 | Moab Sunbeams | 7 - 0 | Philly Pies | 
 | 3 | 41 | Philly Pies | 7 - 0 | Hades Tigers | 
 | 5 | 26 | Philly Pies | 7 - 0 | Mexico City Wild Wings | 
@@ -30,7 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Pies (
 | 6 | 65 | Philly Pies | 7 - 0 | Canada Moist Talkers | 
 | 6 | 91 | Philly Pies | 7 - 0 | Yellowstone Magic | 
 | 8 | 39 | Philly Pies | 7 - 0 | Seattle Garages | 
-| 8 | 41 | Philly Pies | 7 - 0 | Charleston Shoe Thieves | 
-| 9 | 25 | Philly Pies | 7 - 0 | Charleston Shoe Thieves | 
 
 

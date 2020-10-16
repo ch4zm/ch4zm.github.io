@@ -10,6 +10,7 @@ Shame games (games where the loser was shamed) for all time for team Dale (note:
 | 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
 | 2 | 88 | Breckenridge Jazz Hands | 8 - 4 | Miami Dalé | 
 | 4 | 95 | Miami Dalé | 8 - 4 | Breckenridge Jazz Hands | 
+| 10 | 76 | Unlimited Tacos | 8 - 4 | Miami Dale | 
 | 7 | 83 | Boston Flowers | 7 - 3 | Miami Dale | 
 | 6 | 32 | Miami Dalé | 6 - 2 | Unlimited Tacos | 
 | 9 | 71 | Miami Dale | 5 - 1 | Baltimore Crabs | 
@@ -25,12 +26,11 @@ Shame games (games where the loser was shamed) for all time for team Dale (note:
 | 5 | 1 | Philly Pies | 6 - 3 | Miami Dalé | 
 | 6 | 8 | San Francisco Lovers | 6 - 3 | Miami Dalé | 
 | 7 | 79 | San Francisco Lovers | 5 - 2 | Miami Dale | 
+| 10 | 13 | Boston Flowers | 5 - 2 | Miami Dale | 
 | 7 | 94 | Miami Dale | 10 - 8 | Chicago Firefighters | 
 | 2 | 71 | Miami Dalé | 8 - 6 | Breckenridge Jazz Hands | 
 | 3 | 62 | Mexico City Wild Wings | 7 - 5 | Miami Dalé | 
 | 6 | 52 | Breckenridge Jazz Hands | 7 - 5 | Miami Dalé | 
 | 5 | 94 | Miami Dalé | 6 - 4 | Canada Moist Talkers | 
-| 8 | 72 | Miami Dale | 6 - 4 | Houston Spies | 
-| 9 | 27 | New York Millennials | 6 - 4 | Miami Dale | 
 
 
