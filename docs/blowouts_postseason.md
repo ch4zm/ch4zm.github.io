@@ -13,6 +13,7 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 1 | 105* | Chicago Firefighters | 15 - 10 | Boston Flowers | 
 | 3 | 102* | San Francisco Lovers | 14 - 1 | Charleston Shoe Thieves | 
 | 1 | 102* | Philly Pies | 14 - 4 | Breckenridge Jazz Hands | 
+| 10 | 110* | Baltimore Crabs | 14 - 5 | San Francisco Lovers | 
 | 9 | 109* | Charleston Shoe Thieves | 14 - 6 | Seattle Garages | 
 | 1 | 100* | Boston Flowers | 14 - 7 | Yellowstone Magic | 
 | 4 | 100* | Charleston Shoe Thieves | 14 - 13 | Chicago Firefighters | 
@@ -20,6 +21,7 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 2 | 107* | Philly Pies | 13 - 4 | Breckenridge Jazz Hands | 
 | 4 | 102* | Chicago Firefighters | 13 - 9 | Charleston Shoe Thieves | 
 | 9 | 104* | Baltimore Crabs | 13 - 11 | Hellmouth Sunbeams | 
+| 10 | 103* | Baltimore Crabs | 12 - 1 | Hellmouth Sunbeams | 
 | 2 | 109* | Philly Pies | 12 - 2 | Charleston Shoe Thieves | 
 | 6 | 101* | Seattle Garages | 12 - 3 | Philly Pies | 
 | 5 | 106* | San Francisco Lovers | 12 - 4 | Chicago Firefighters | 
@@ -31,7 +33,5 @@ Blowout games (games with high scores and high run differentials) for all time (
 | 9 | 104* | Seattle Garages | 11 - 4 | Philly Pies | 
 | 2 | 103* | Charleston Shoe Thieves | 11 - 5 | Dallas Steaks | 
 | 3 | 102* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
-| 5 | 101* | Breckenridge Jazz Hands | 11 - 5 | Hades Tigers | 
-| 8 | 104* | Hades Tigers | 11 - 8 | Philly Pies | 
 
 

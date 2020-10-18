@@ -68,6 +68,7 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Shoe Thieves                   | 8          | 9          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Spies                          | 8          | 9          | 41, 42, 43, 44, 45, 46, 47, 48 |
 | Sunbeams                       | 8          | 9          | 45, 46, 47, 48, 49, 50, 51, 52 |
+| Pies                           | 8          | 10         | 75, 76, 77, 78, 79, 80, 81, 82 |
 
 
 
@@ -978,6 +979,20 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G6: Season 9 Game 50: Sunbeams 4  @  2 Dale |
 | G7: Season 9 Game 51: Sunbeams 6  @  4 Dale |
 | G8: Season 9 Game 52: Flowers 2  @  6 Sunbeams |
+
+<br />
+
+| 8 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 75: Pies 4  @  2 Garages |
+| G2: Season 10 Game 76: Garages 5  @  6 Pies |
+| G3: Season 10 Game 77: Garages 6  @ 12 Pies |
+| G4: Season 10 Game 78: Garages 4  @  7 Pies |
+| G5: Season 10 Game 79: Pies 3  @  1 Magic |
+| G6: Season 10 Game 80: Pies 5  @  2 Magic |
+| G7: Season 10 Game 81: Pies 17 @  1 Magic |
+| G8: Season 10 Game 82: Pies 1  @  0 Fridays |
 
 
 

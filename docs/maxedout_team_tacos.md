@@ -22,6 +22,7 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 6 | 21 | Hawaii Fridays | 8 - 7 | Unlimited Tacos | 
 | 7 | 56 | Breckenridge Jazz Hands | 8 - 7 | Unlimited Tacos | 
 | 9 | 24 | Miami Dale | 8 - 7 | Unlimited Tacos | 
+| 10 | 91 | Unlimited Tacos | 8 - 7 | Baltimore Crabs | 
 | 1 | 20 | Breckenridge Jazz Hands | 7 - 6 | Los Angeles Tacos | 
 | 1 | 77 | Kansas City Breath Mints | 7 - 6 | Los Angeles Tacos | 
 | 1 | 97 | Hawaii Fridays | 7 - 6 | Los Angeles Tacos | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 3 | 82 | Charleston Shoe Thieves | 7 - 6 | Los Angeles Tacos | 
 | 5 | 82 | Houston Spies | 7 - 6 | Unlimited Tacos | 
 | 6 | 64 | Unlimited Tacos | 7 - 6 | Boston Flowers | 
-| 8 | 38 | Hellmouth Sunbeams | 7 - 6 | Unlimited Tacos | 
 
 

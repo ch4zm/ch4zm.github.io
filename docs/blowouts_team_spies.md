@@ -31,6 +31,6 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 7 | 83 | Houston Spies | 13 - 6 | Chicago Firefighters | 
 | 6 | 59 | Hellmouth Sunbeams | 13 - 7 | Houston Spies | 
 | 8 | 63 | Baltimore Crabs | 12 - -2 | Houston Spies | 
-| 5 | 62 | Breckenridge Jazz Hands | 12 - 1 | Houston Spies | 
+| 10 | 90 | Houston Spies | 12 - 0 | Mexico City Wild Wings | 
 
 

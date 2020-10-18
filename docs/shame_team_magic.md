@@ -30,7 +30,7 @@ Shame games (games where the loser was shamed) for all time for team Magic (note
 | 7 | 85 | Yellowstone Magic | 8 - 6 | Charleston Shoe Thieves | 
 | 2 | 46 | Chicago Firefighters | 7 - 5 | Yellowstone Magic | 
 | 8 | 39 | Hawaii Fridays | 7 - 5 | Yellowstone Magic | 
+| 10 | 89 | Charleston Shoe Thieves | 7 - 5 | Yellowstone Magic | 
 | 5 | 24 | Yellowstone Magic | 6 - 4 | Boston Flowers | 
-| 8 | 80 | Yellowstone Magic | 6 - 4 | Hawaii Fridays | 
 
 

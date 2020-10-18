@@ -14,6 +14,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 67 | Yellowstone Magic (42%) | 13 - 2 | Seattle Garages (58%) | 
 | 5 | 72 | Miami Dalé (42%) | 13 - 3 | Yellowstone Magic (58%) | 
 | 7 | 9 | Hawaii Fridays (38%) | 10 - 1 | Yellowstone Magic (62%) | 
+| 10 | 98 | Philly Pies (45%) | 9 - 1 | Yellowstone Magic (55%) | 
 | 1 | 100* | Boston Flowers (42%) | 14 - 7 | Yellowstone Magic (58%) | 
 | 4 | 51 | Hawaii Fridays (32%) | 11 - 4 | Yellowstone Magic (68%) | 
 | 1 | 26 | Charleston Shoe Thieves (28%) | 8 - 1 | Yellowstone Magic (72%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 52 | Yellowstone Magic (44%) | 7 - 1 | Hawaii Fridays (56%) | 
 | 5 | 89 | Kansas City Breath Mints (43%) | 7 - 1 | Yellowstone Magic (57%) | 
 | 1 | 49 | New York Millennials (41%) | 6 - 0 | Yellowstone Magic (59%) | 
-| 8 | 61 | Yellowstone Magic (42%) | 6 - 0 | Mexico City Wild Wings (58%) | 
 
 

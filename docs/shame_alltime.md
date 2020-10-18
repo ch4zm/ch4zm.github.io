@@ -16,6 +16,7 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 | 6 | 3 | Unlimited Tacos | 10 - 4 | Breckenridge Jazz Hands | 
 | 3 | 6 | Los Angeles Tacos | 9 - 3 | Chicago Firefighters | 
 | 7 | 48 | Yellowstone Magic | 9 - 3 | Mexico City Wild Wings | 
+| 10 | 82 | Baltimore Crabs | 9 - 3 | Miami Dale | 
 | 7 | 38 | San Francisco Lovers | 8 - 2 | New York Millennials | 
 | 3 | 57 | Kansas City Breath Mints | 21 - 16 | Charleston Shoe Thieves | 
 | 3 | 71 | New York Millennials | 14 - 9 | San Francisco Lovers | 
@@ -34,6 +35,5 @@ Shame games (games where the loser was shamed) for all time for all teams (note:
 | 1 | 84 | Los Angeles Tacos | 6 - 1 | New York Millennials | 
 | 3 | 51 | Canada Moist Talkers | 5 - 0 | Breckenridge Jazz Hands | 
 | 6 | 35 | Yellowstone Magic | 15 - 11 | Canada Moist Talkers | 
-| 2 | 58 | New York Millennials | 13 - 9 | Yellowstone Magic | 
 
 

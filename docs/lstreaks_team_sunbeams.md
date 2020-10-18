@@ -43,6 +43,7 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 10         | 6, 7, 8, 9 |
 | Sunbeams                       | 4          | 10         | 51, 52, 53, 54 |
 | Sunbeams                       | 4          | 10         | 70, 71, 72, 73 |
+| Sunbeams                       | 4          | 10         | 78, 79, 80, 81 |
 
 
 
@@ -430,6 +431,16 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 10 Game 71: Spies 1  @  0 Sunbeams |
 | G3: Season 10 Game 72: Spies 7  @  5 Sunbeams |
 | G4: Season 10 Game 73: Firefighters 9  @  1 Sunbeams |
+
+<br />
+
+| 4 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 10 Games 77, 78, 79, 80 |
+| G1: Season 10 Game 78: Jazz Hands 6  @  4 Sunbeams |
+| G2: Season 10 Game 79: Crabs 9  @  4 Sunbeams |
+| G3: Season 10 Game 80: Crabs 6  @  2 Sunbeams |
+| G4: Season 10 Game 81: Crabs 14 @  0 Sunbeams |
 
 
 

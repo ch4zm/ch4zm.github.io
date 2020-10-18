@@ -12,9 +12,11 @@ Losing streaks of 7 or more games for all teams versus all teams for season 10
 | Fridays                        | 11         | 10         | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 |
 | Steaks                         | 11         | 10         | 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 |
 | Steaks                         | 9          | 10         | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
+| Fridays                        | 9          | 10         | 86, 87, 88, 89, 90, 91, 92, 93, 94 |
 | Sunbeams                       | 8          | 10         | 11, 12, 13, 14, 15, 16, 17, 18 |
 | Millennials                    | 8          | 10         | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Jazz Hands                     | 8          | 10         | 58, 59, 60, 61, 62, 63, 64, 65 |
+| Jazz Hands                     | 8          | 10         | 83, 84, 85, 86, 87, 88, 89, 90 |
 | Flowers                        | 7          | 10         | 16, 17, 18, 19, 20, 21, 22 |
 | Firefighters                   | 7          | 10         | 31, 32, 33, 34, 35, 36, 37 |
 | Magic                          | 7          | 10         | 37, 38, 39, 40, 41, 42, 43 |
@@ -80,6 +82,21 @@ Losing streaks of 7 or more games for all teams versus all teams for season 10
 
 <br />
 
+| 9 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 85, 86, 87, 88, 89, 90, 91, 92, 93 |
+| G1: Season 10 Game 86: Crabs 6  @  2 Fridays |
+| G2: Season 10 Game 87: Crabs 6  @  4 Fridays |
+| G3: Season 10 Game 88: Breath Mints 6  @  0 Fridays |
+| G4: Season 10 Game 89: Breath Mints 1  @  0 Fridays |
+| G5: Season 10 Game 90: Breath Mints 6  @  1 Fridays |
+| G6: Season 10 Game 91: Fridays 4  @  6 Magic |
+| G7: Season 10 Game 92: Fridays 0  @  1 Magic |
+| G8: Season 10 Game 93: Fridays 5  @  6 Magic |
+| G9: Season 10 Game 94: Steaks 5  @  3 Fridays |
+
+<br />
+
 | 8 Game Losing Streak by the Sunbeams |
 | ----- |
 | Season 10 Games 10, 11, 12, 13, 14, 15, 16, 17 |
@@ -119,6 +136,20 @@ Losing streaks of 7 or more games for all teams versus all teams for season 10
 | G6: Season 10 Game 63: Lovers 5  @  2 Jazz Hands |
 | G7: Season 10 Game 64: Jazz Hands 5  @  7 Dale |
 | G8: Season 10 Game 65: Jazz Hands 1  @  3 Dale |
+
+<br />
+
+| 8 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 10 Games 82, 83, 84, 85, 86, 87, 88, 89 |
+| G1: Season 10 Game 83: Jazz Hands 3  @  8 Firefighters |
+| G2: Season 10 Game 84: Jazz Hands 7  @  8 Firefighters |
+| G3: Season 10 Game 85: Jazz Hands 2  @  3 Flowers |
+| G4: Season 10 Game 86: Jazz Hands 0  @  6 Flowers |
+| G5: Season 10 Game 87: Jazz Hands 1  @  3 Flowers |
+| G6: Season 10 Game 88: Crabs 11 @  1 Jazz Hands |
+| G7: Season 10 Game 89: Crabs 8  @  0 Jazz Hands |
+| G8: Season 10 Game 90: Crabs 2  @  1 Jazz Hands |
 
 <br />
 

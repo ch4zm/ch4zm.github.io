@@ -24,6 +24,7 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 10 | 9 | Breckenridge Jazz Hands | 9 - 0 | Hawai'i Fridays | 
 | 10 | 60 | Baltimore Crabs | 9 - 0 | Breckenridge Jazz Hands | 
 | 5 | 66 | Breckenridge Jazz Hands | 8 - 0 | Hellmouth Sunbeams | 
+| 10 | 89 | Baltimore Crabs | 8 - 0 | Breckenridge Jazz Hands | 
 | 5 | 12 | Breckenridge Jazz Hands | 7 - 0 | Canada Moist Talkers | 
 | 5 | 75 | Breckenridge Jazz Hands | 7 - 0 | Seattle Garages | 
 | 6 | 67 | Baltimore Crabs | 7 - 0 | Breckenridge Jazz Hands | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Jazz H
 | 8 | 99 | Breckenridge Jazz Hands | 7 - 0 | Chicago Firefighters | 
 | 2 | 25 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
 | 2 | 61 | Breckenridge Jazz Hands | 6 - 0 | Hellmouth Sunbeams | 
-| 2 | 86 | Miami Dalé | 6 - 0 | Breckenridge Jazz Hands | 
 
 

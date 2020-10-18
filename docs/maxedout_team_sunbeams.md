@@ -8,6 +8,7 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 8 | 22 | Hellmouth Sunbeams | 12 - 11 | Boston Flowers | 
+| 10 | 92 | Houston Spies | 11 - 10 | Hellmouth Sunbeams | 
 | 5 | 5 | Hellmouth Sunbeams | 10 - 9 | Seattle Garages | 
 | 5 | 97 | Chicago Firefighters | 10 - 9 | Hellmouth Sunbeams | 
 | 1 | 44 | Philly Pies | 9 - 8 | Moab Sunbeams | 
@@ -23,6 +24,7 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 7 | 34 | Hellmouth Sunbeams | 8 - 7 | Houston Spies | 
 | 8 | 82 | Hellmouth Sunbeams | 8 - 7 | Houston Spies | 
 | 9 | 94 | Miami Dale | 8 - 7 | Hellmouth Sunbeams | 
+| 10 | 94 | Hellmouth Sunbeams | 8 - 7 | Miami Dale | 
 | 1 | 5 | Mexico City Wild Wings | 7 - 6 | Moab Sunbeams | 
 | 2 | 2 | Hellmouth Sunbeams | 7 - 6 | Mexico City Wild Wings | 
 | 2 | 44 | Mexico City Wild Wings | 7 - 6 | Hellmouth Sunbeams | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 3 | 17 | Boston Flowers | 7 - 6 | Hellmouth Sunbeams | 
 | 3 | 26 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
 | 3 | 45 | Hellmouth Sunbeams | 7 - 6 | Charleston Shoe Thieves | 
-| 3 | 89 | Philly Pies | 7 - 6 | Hellmouth Sunbeams | 
-| 3 | 96 | Hellmouth Sunbeams | 7 - 6 | Philly Pies | 
 
 

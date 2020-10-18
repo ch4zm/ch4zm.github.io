@@ -28,9 +28,9 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 49 | Hellmouth Sunbeams (44%) | 7 - 1 | Miami Dale (56%) | 
 | 9 | 92 | Miami Dale (45%) | 7 - 1 | Chicago Firefighters (55%) | 
 | 10 | 28 | Miami Dale (45%) | 7 - 1 | Hellmouth Sunbeams (55%) | 
+| 10 | 97 | Boston Flowers (45%) | 7 - 1 | Miami Dale (55%) | 
 | 10 | 15 | Boston Flowers (38%) | 6 - 0 | Miami Dale (62%) | 
 | 2 | 75 | Seattle Garages (42%) | 10 - 5 | Miami Dalé (58%) | 
 | 6 | 65 | Miami Dalé (34%) | 10 - 5 | Hellmouth Sunbeams (66%) | 
-| 6 | 84 | Hellmouth Sunbeams (40%) | 10 - 5 | Miami Dalé (60%) | 
 
 

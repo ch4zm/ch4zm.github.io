@@ -31,6 +31,6 @@ Maxed out games (high-scoring one-run games) for all time for team Shoe Thieves 
 | 10 | 17 | Charleston Shoe Thieves | 1 - 0 | Dallas Steaks | 
 | 10 | 29 | New York Millennials | 1 - 0 | Charleston Shoe Thieves | 
 | 10 | 62 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
-| 1 | 31 | Dallas Steaks | 2 - 1 | Charleston Shoe Thieves | 
+| 10 | 87 | Hellmouth Sunbeams | 1 - 0 | Charleston Shoe Thieves | 
 
 

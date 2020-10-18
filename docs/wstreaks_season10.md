@@ -14,6 +14,7 @@ Winning streaks of 7 or more games for all teams versus all teams for season 10
 | Tigers                         | 10         | 10         | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38 |
 | Shoe Thieves                   | 9          | 10         | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
 | Lovers                         | 9          | 10         | 59, 60, 61, 62, 63, 64, 65, 66, 67 |
+| Pies                           | 8          | 10         | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Shoe Thieves                   | 7          | 10         | 1, 2, 3, 4, 5, 6, 7 |
 | Crabs                          | 7          | 10         | 14, 15, 16, 17, 18, 19, 20 |
 
@@ -109,6 +110,20 @@ Winning streaks of 7 or more games for all teams versus all teams for season 10
 | G7: Season 10 Game 65: Lovers 8  @  2 Wild Wings |
 | G8: Season 10 Game 66: Lovers 12 @  6 Wild Wings |
 | G9: Season 10 Game 67: Spies 2  @  3 Lovers |
+
+<br />
+
+| 8 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 75: Pies 4  @  2 Garages |
+| G2: Season 10 Game 76: Garages 5  @  6 Pies |
+| G3: Season 10 Game 77: Garages 6  @ 12 Pies |
+| G4: Season 10 Game 78: Garages 4  @  7 Pies |
+| G5: Season 10 Game 79: Pies 3  @  1 Magic |
+| G6: Season 10 Game 80: Pies 5  @  2 Magic |
+| G7: Season 10 Game 81: Pies 17 @  1 Magic |
+| G8: Season 10 Game 82: Pies 1  @  0 Fridays |
 
 <br />
 

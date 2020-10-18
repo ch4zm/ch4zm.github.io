@@ -7,6 +7,7 @@ Shame games (games where the loser was shamed) for all time for team Dale (note:
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 10 | 82 | Baltimore Crabs | 9 - 3 | Miami Dale | 
 | 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
 | 2 | 88 | Breckenridge Jazz Hands | 8 - 4 | Miami Dalé | 
 | 4 | 95 | Miami Dalé | 8 - 4 | Breckenridge Jazz Hands | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Dale (note:
 | 2 | 71 | Miami Dalé | 8 - 6 | Breckenridge Jazz Hands | 
 | 3 | 62 | Mexico City Wild Wings | 7 - 5 | Miami Dalé | 
 | 6 | 52 | Breckenridge Jazz Hands | 7 - 5 | Miami Dalé | 
-| 5 | 94 | Miami Dalé | 6 - 4 | Canada Moist Talkers | 
 
 

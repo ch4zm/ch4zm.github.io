@@ -11,6 +11,7 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 8 | 16 | San Francisco Lovers | 0 - -1 | Chicago Firefighters | 
+| 10 | 95 | Houston Spies | 0 - -1 | Breckenridge Jazz Hands | 
 | 1 | 4 | Hades Tigers | 1 - 0 | Baltimore Crabs | 
 | 1 | 4 | Houston Spies | 1 - 0 | Canada Moist Talkers | 
 | 1 | 14 | Philly Pies | 1 - 0 | Mexico City Wild Wings | 
@@ -34,6 +35,5 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 1 | 85 | Dallas Steaks | 1 - 0 | Charleston Shoe Thieves | 
 | 1 | 89 | Philly Pies | 1 - 0 | Breckenridge Jazz Hands | 
 | 1 | 90 | Dallas Steaks | 1 - 0 | Chicago Firefighters | 
-| 1 | 92 | Kansas City Breath Mints | 1 - 0 | Yellowstone Magic | 
 
 

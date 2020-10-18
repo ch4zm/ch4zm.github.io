@@ -20,6 +20,7 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
 | Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
 | Shoe Thieves                   | 6          | 8          | 42, 43, 44, 45, 46, 47 |
+| Shoe Thieves                   | 6          | 10         | 105, 106, 107, 108, 109, 110 |
 | Shoe Thieves                   | 5          | 2          | 77, 78, 79, 80, 81 |
 | Shoe Thieves                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
@@ -50,6 +51,7 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 4          | 9          | 76, 77, 78, 79 |
 | Shoe Thieves                   | 4          | 9          | 86, 87, 88, 89 |
 | Shoe Thieves                   | 4          | 9          | 92, 93, 94, 95 |
+| Shoe Thieves                   | 4          | 10         | 93, 94, 95, 96 |
 
 
 
@@ -191,6 +193,18 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G4: Season 8 Game 45: Shoe Thieves 10 @  3 Moist Talkers |
 | G5: Season 8 Game 46: Wild Wings 1  @  3 Shoe Thieves |
 | G6: Season 8 Game 47: Wild Wings 0  @  7 Shoe Thieves |
+
+<br />
+
+| 6 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 104, 105, 106, 107, 108, 109 |
+| G1: Season 10 Game 105: Breath Mints 1  @  2 Shoe Thieves |
+| G2: Season 10 Game 106: Shoe Thieves 3  @ -1 Breath Mints |
+| G3: Season 10 Game 107: Breath Mints 2  @  8 Shoe Thieves |
+| G4: Season 10 Game 108: Millennials 4  @  5 Shoe Thieves |
+| G5: Season 10 Game 109: Shoe Thieves 7  @  2 Millennials |
+| G6: Season 10 Game 110: Millennials 1  @  6 Shoe Thieves |
 
 <br />
 
@@ -500,6 +514,16 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G2: Season 9 Game 93: Shoe Thieves 9  @  8 Breath Mints |
 | G3: Season 9 Game 94: Shoe Thieves 7  @  4 Spies |
 | G4: Season 9 Game 95: Shoe Thieves 6  @  4 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 10 Games 92, 93, 94, 95 |
+| G1: Season 10 Game 93: Garages 0  @  2 Shoe Thieves |
+| G2: Season 10 Game 94: Pies 0  @  3 Shoe Thieves |
+| G3: Season 10 Game 95: Pies 1  @  2 Shoe Thieves |
+| G4: Season 10 Game 96: Pies 0  @  1 Shoe Thieves |
 
 
 

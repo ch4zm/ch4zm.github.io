@@ -8,6 +8,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 1 | 88 | Dallas Steaks (45%) | 15 - 2 | Chicago Firefighters (55%) | 
+| 10 | 99 | Dallas Steaks (44%) | 11 - 0 | Kansas City Breath Mints (56%) | 
 | 3 | 15 | Dallas Steaks (42%) | 11 - 1 | Chicago Firefighters (58%) | 
 | 9 | 18 | Hawaii Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
 | 8 | 83 | Dallas Steaks (40%) | 12 - 3 | Mexico City Wild Wings (60%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 78 | Dallas Steaks (43%) | 7 - 1 | Canada Moist Talkers (57%) | 
 | 10 | 39 | Dallas Steaks (39%) | 7 - 1 | New York Millennials (61%) | 
 | 10 | 79 | Dallas Steaks (40%) | 7 - 1 | Charleston Shoe Thieves (60%) | 
-| 8 | 42 | Kansas City Breath Mints (45%) | 11 - 6 | Dallas Steaks (55%) | 
 
 

@@ -17,6 +17,7 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 6          | 4          | 12, 13, 14, 15, 16, 17 |
 | Garages                        | 6          | 6          | 27, 28, 29, 30, 31, 32 |
 | Garages                        | 6          | 10         | 56, 57, 58, 59, 60, 61 |
+| Garages                        | 6          | 10         | 82, 83, 84, 85, 86, 87 |
 | Garages                        | 5          | 1          | 25, 26, 27, 28, 29 |
 | Garages                        | 5          | 1          | 34, 35, 36, 40, 41 |
 | Garages                        | 5          | 2          | 56, 57, 58, 59, 60 |
@@ -129,6 +130,18 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G4: Season 10 Game 59: Millennials 9  @  8 Garages |
 | G5: Season 10 Game 60: Millennials 2  @  1 Garages |
 | G6: Season 10 Game 61: Pies 4  @  1 Garages |
+
+<br />
+
+| 6 Game Losing Streak by the Garages |
+| ----- |
+| Season 10 Games 81, 82, 83, 84, 85, 86 |
+| G1: Season 10 Game 82: Tigers 2  @  0 Garages |
+| G2: Season 10 Game 83: Tigers 16 @  2 Garages |
+| G3: Season 10 Game 84: Tigers 5  @  3 Garages |
+| G4: Season 10 Game 85: Garages 1  @  3 Pies |
+| G5: Season 10 Game 86: Garages 4  @  5 Pies |
+| G6: Season 10 Game 87: Garages 0  @  3 Pies |
 
 <br />
 

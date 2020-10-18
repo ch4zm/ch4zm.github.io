@@ -10,6 +10,7 @@ Shutout games (games where the loser had zero runs) for all time for team Crabs 
 | 2 | 25 | Canada Moist Talkers | 15 - 0 | Baltimore Crabs | 
 | 9 | 40 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 10 | 77 | Baltimore Crabs | 14 - 0 | Mexico City Wild Wings | 
+| 10 | 81 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 1 | 57 | Baltimore Crabs | 13 - 0 | Hades Tigers | 
 | 9 | 82 | Baltimore Crabs | 12 - 0 | Mexico City Wild Wings | 
 | 5 | 99 | Baltimore Crabs | 11 - 0 | Canada Moist Talkers | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Crabs 
 | 4 | 39 | Baltimore Crabs | 8 - 0 | Hellmouth Sunbeams | 
 | 6 | 65 | Baltimore Crabs | 8 - 0 | New York Millennials | 
 | 6 | 90 | Baltimore Crabs | 8 - 0 | Miami Dalé | 
-| 7 | 14 | Baltimore Crabs | 8 - 0 | Boston Flowers | 
 
 

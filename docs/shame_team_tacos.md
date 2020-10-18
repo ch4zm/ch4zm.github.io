@@ -19,6 +19,7 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 9 | 30 | Mexico City Wild Wings | 7 - 3 | Unlimited Tacos | 
 | 6 | 32 | Miami Dalé | 6 - 2 | Unlimited Tacos | 
 | 7 | 92 | Boston Flowers | 11 - 8 | Unlimited Tacos | 
+| 10 | 95 | Unlimited Tacos | 11 - 8 | Baltimore Crabs | 
 | 2 | 81 | Los Angeles Tacos | 10 - 7 | Chicago Firefighters | 
 | 2 | 65 | Chicago Firefighters | 9 - 6 | Los Angeles Tacos | 
 | 3 | 37 | San Francisco Lovers | 9 - 6 | Los Angeles Tacos | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 1 | 30 | Boston Flowers | 5 - 2 | Los Angeles Tacos | 
 | 2 | 69 | Los Angeles Tacos | 5 - 2 | Dallas Steaks | 
 | 5 | 98 | Yellowstone Magic | 4 - 1 | Unlimited Tacos | 
-| 5 | 15 | San Francisco Lovers | 9 - 7 | Unlimited Tacos | 
 
 

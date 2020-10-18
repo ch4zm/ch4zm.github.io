@@ -16,6 +16,7 @@ Shame games (games where the loser was shamed) for all time for team Wild Wings 
 | 2 | 96 | Houston Spies | 6 - 2 | Mexico City Wild Wings | 
 | 9 | 15 | Mexico City Wild Wings | 11 - 8 | Miami Dale | 
 | 9 | 32 | Baltimore Crabs | 11 - 8 | Mexico City Wild Wings | 
+| 10 | 99 | Mexico City Wild Wings | 10 - 7 | Hellmouth Sunbeams | 
 | 1 | 38 | Mexico City Wild Wings | 7 - 4 | Hades Tigers | 
 | 2 | 79 | Mexico City Wild Wings | 7 - 4 | Hellmouth Sunbeams | 
 | 4 | 78 | Boston Flowers | 10 - 8 | Mexico City Wild Wings | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Wild Wings 
 | 10 | 36 | Mexico City Wild Wings | 5 - 3 | Philly Pies | 
 | 6 | 15 | Seattle Garages | 4 - 2 | Mexico City Wild Wings | 
 | 1 | 36 | Mexico City Wild Wings | 3 - 1 | Hades Tigers | 
-| 3 | 74 | Canada Moist Talkers | 3 - 1 | Mexico City Wild Wings | 
 
 

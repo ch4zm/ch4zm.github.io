@@ -32,8 +32,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 26 | Kansas City Breath Mints (44%) | 12 - 1 | San Francisco Lovers (56%) | 
 | 10 | 19 | Hellmouth Sunbeams (44%) | 12 - 1 | Breckenridge Jazz Hands (56%) | 
 | 10 | 51 | Boston Flowers (42%) | 11 - 0 | Breckenridge Jazz Hands (58%) | 
+| 10 | 99 | Dallas Steaks (44%) | 11 - 0 | Kansas City Breath Mints (56%) | 
 | 6 | 98 | Unlimited Tacos (44%) | 14 - 4 | Hellmouth Sunbeams (56%) | 
 | 1 | 22 | Miami Dalé (43%) | 13 - 3 | Hades Tigers (57%) | 
-| 1 | 89 | Los Angeles Tacos (44%) | 13 - 3 | Kansas City Breath Mints (56%) | 
 
 

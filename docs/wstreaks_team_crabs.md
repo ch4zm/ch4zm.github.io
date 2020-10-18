@@ -35,6 +35,7 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 6          | 8          | 21, 22, 23, 24, 25, 26 |
 | Crabs                          | 6          | 8          | 54, 55, 56, 57, 58, 59 |
 | Crabs                          | 6          | 9          | 90, 91, 92, 93, 94, 95 |
+| Crabs                          | 6          | 10         | 77, 78, 79, 80, 81, 82 |
 | Crabs                          | 5          | 5          | 78, 82, 83, 84, 85 |
 | Crabs                          | 5          | 6          | 44, 45, 46, 47, 48 |
 | Crabs                          | 5          | 7          | 10, 11, 12, 13, 14 |
@@ -43,6 +44,7 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | Crabs                          | 5          | 8          | 77, 78, 79, 80, 81 |
 | Crabs                          | 5          | 9          | 109, 110, 111, 112, 113 |
 | Crabs                          | 5          | 10         | 57, 58, 59, 60, 61 |
+| Crabs                          | 5          | 10         | 86, 87, 88, 89, 90 |
 | Crabs                          | 4          | 1          | 93, 94, 95, 96 |
 | Crabs                          | 4          | 2          | 7, 8, 9, 10 |
 | Crabs                          | 4          | 2          | 47, 48, 49, 50 |
@@ -444,6 +446,18 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Crabs |
+| ----- |
+| Season 10 Games 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 77: Crabs 14 @  0 Wild Wings |
+| G2: Season 10 Game 78: Crabs 3  @  2 Wild Wings |
+| G3: Season 10 Game 79: Crabs 9  @  4 Sunbeams |
+| G4: Season 10 Game 80: Crabs 6  @  2 Sunbeams |
+| G5: Season 10 Game 81: Crabs 14 @  0 Sunbeams |
+| G6: Season 10 Game 82: Dale 3  @  9 Crabs |
+
+<br />
+
 | 5 Game Winning Streak by the Crabs |
 | ----- |
 | Season 5 Games 77, 81, 82, 83, 84 |
@@ -529,6 +543,17 @@ Winning streaks of 4 or more games for Crabs versus all teams for all time
 | G3: Season 10 Game 59: Crabs 7  @  5 Jazz Hands |
 | G4: Season 10 Game 60: Crabs 9  @  0 Jazz Hands |
 | G5: Season 10 Game 61: Firefighters 1  @  2 Crabs |
+
+<br />
+
+| 5 Game Winning Streak by the Crabs |
+| ----- |
+| Season 10 Games 85, 86, 87, 88, 89 |
+| G1: Season 10 Game 86: Crabs 6  @  2 Fridays |
+| G2: Season 10 Game 87: Crabs 6  @  4 Fridays |
+| G3: Season 10 Game 88: Crabs 11 @  1 Jazz Hands |
+| G4: Season 10 Game 89: Crabs 8  @  0 Jazz Hands |
+| G5: Season 10 Game 90: Crabs 2  @  1 Jazz Hands |
 
 <br />
 

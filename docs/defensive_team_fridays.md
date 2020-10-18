@@ -22,15 +22,15 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 10 | 44 | New York Millennials | 1 - 0 | Hawai'i Fridays | 
 | 10 | 59 | Hawai'i Fridays | 1 - 0 | Canada Moist Talkers | 
 | 10 | 62 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
+| 10 | 80 | Canada Moist Talkers | 1 - 0 | Hawai'i Fridays | 
+| 10 | 82 | Philly Pies | 1 - 0 | Hawai'i Fridays | 
+| 10 | 89 | Kansas City Breath Mints | 1 - 0 | Hawai'i Fridays | 
+| 10 | 92 | Yellowstone Magic | 1 - 0 | Hawai'i Fridays | 
+| 10 | 95 | Hawai'i Fridays | 1 - 0 | Dallas Steaks | 
 | 1 | 13 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
 | 1 | 14 | San Francisco Lovers | 2 - 1 | Hawaii Fridays | 
 | 1 | 79 | Charleston Shoe Thieves | 2 - 1 | Hawaii Fridays | 
 | 1 | 87 | Yellowstone Magic | 2 - 1 | Hawaii Fridays | 
 | 2 | 5 | Chicago Firefighters | 2 - 1 | Hawaii Fridays | 
-| 2 | 10 | Hawaii Fridays | 2 - 1 | New York Millennials | 
-| 2 | 23 | Hawaii Fridays | 2 - 1 | Hellmouth Sunbeams | 
-| 2 | 38 | Hawaii Fridays | 2 - 1 | San Francisco Lovers | 
-| 2 | 69 | Hawaii Fridays | 2 - 1 | Boston Flowers | 
-| 3 | 22 | Dallas Steaks | 2 - 1 | Hawaii Fridays | 
 
 

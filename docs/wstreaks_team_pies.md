@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Pies                           | 9          | 2          | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
+| Pies                           | 8          | 10         | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Pies                           | 7          | 6          | 35, 36, 37, 38, 39, 40, 41 |
 | Pies                           | 6          | 1          | 33, 34, 35, 36, 37, 38 |
 | Pies                           | 6          | 2          | 100, 101, 102, 105, 106, 107 |
@@ -30,6 +31,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 5          | 9          | 79, 80, 81, 82, 83 |
 | Pies                           | 5          | 9          | 86, 87, 88, 89, 90 |
 | Pies                           | 5          | 10         | 38, 39, 40, 41, 42 |
+| Pies                           | 5          | 10         | 84, 85, 86, 87, 88 |
 | Pies                           | 4          | 1          | 66, 67, 68, 69 |
 | Pies                           | 4          | 2          | 51, 52, 53, 54 |
 | Pies                           | 4          | 2          | 66, 67, 68, 69 |
@@ -70,6 +72,20 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G7: Season 2 Game 62: Pies 8  @  7 Tigers |
 | G8: Season 2 Game 63: Pies 4  @  3 Tigers |
 | G9: Season 2 Game 64: Pies 4  @  1 Wild Wings |
+
+<br />
+
+| 8 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 75: Pies 4  @  2 Garages |
+| G2: Season 10 Game 76: Garages 5  @  6 Pies |
+| G3: Season 10 Game 77: Garages 6  @ 12 Pies |
+| G4: Season 10 Game 78: Garages 4  @  7 Pies |
+| G5: Season 10 Game 79: Pies 3  @  1 Magic |
+| G6: Season 10 Game 80: Pies 5  @  2 Magic |
+| G7: Season 10 Game 81: Pies 17 @  1 Magic |
+| G8: Season 10 Game 82: Pies 1  @  0 Fridays |
 
 <br />
 
@@ -289,6 +305,17 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G3: Season 10 Game 40: Pies 3  @  2 Steaks |
 | G4: Season 10 Game 41: Pies 6  @  3 Steaks |
 | G5: Season 10 Game 42: Pies 5  @  2 Steaks |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 10 Games 83, 84, 85, 86, 87 |
+| G1: Season 10 Game 84: Pies 6  @  5 Fridays |
+| G2: Season 10 Game 85: Garages 1  @  3 Pies |
+| G3: Season 10 Game 86: Garages 4  @  5 Pies |
+| G4: Season 10 Game 87: Garages 0  @  3 Pies |
+| G5: Season 10 Game 88: Millennials 2  @  4 Pies |
 
 <br />
 

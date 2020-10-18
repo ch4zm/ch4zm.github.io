@@ -42,6 +42,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 5          | 5          | 13, 14, 15, 16, 17 |
 | Tigers                         | 5          | 5          | 30, 31, 32, 33, 34 |
 | Tigers                         | 5          | 8          | 101, 102, 103, 104, 105 |
+| Tigers                         | 5          | 10         | 82, 83, 84, 85, 86 |
 | Tigers                         | 4          | 1          | 32, 33, 34, 35 |
 | Tigers                         | 4          | 2          | 36, 37, 38, 39 |
 | Tigers                         | 4          | 2          | 42, 43, 44, 45 |
@@ -473,6 +474,17 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G3: Season 8 Game 103: Tigers 7  @  2 Steaks |
 | G4: Season 8 Game 104: Pies 8  @ 11 Tigers |
 | G5: Season 8 Game 105: Tigers 1  @  0 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 10 Games 81, 82, 83, 84, 85 |
+| G1: Season 10 Game 82: Tigers 2  @  0 Garages |
+| G2: Season 10 Game 83: Tigers 16 @  2 Garages |
+| G3: Season 10 Game 84: Tigers 5  @  3 Garages |
+| G4: Season 10 Game 85: Tigers 5  @  3 Steaks |
+| G5: Season 10 Game 86: Tigers 4  @  3 Steaks |
 
 <br />
 

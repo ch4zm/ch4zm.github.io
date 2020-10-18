@@ -15,6 +15,7 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 8          | 9          | 41, 42, 43, 44, 45, 46, 47, 48 |
 | Spies                          | 6          | 1          | 66, 67, 68, 69, 73, 74 |
 | Spies                          | 6          | 8          | 48, 49, 50, 51, 52, 53 |
+| Spies                          | 6          | 10         | 94, 95, 96, 97, 98, 99 |
 | Spies                          | 5          | 1          | 37, 38, 39, 40, 41 |
 | Spies                          | 5          | 2          | 92, 93, 94, 95, 96 |
 | Spies                          | 5          | 6          | 12, 13, 14, 15, 16 |
@@ -112,6 +113,18 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G4: Season 8 Game 51: Tacos 1  @  6 Spies |
 | G5: Season 8 Game 52: Spies 10 @  4 Millennials |
 | G6: Season 8 Game 53: Spies 7  @  2 Millennials |
+
+<br />
+
+| 6 Game Winning Streak by the Spies |
+| ----- |
+| Season 10 Games 93, 94, 95, 96, 97, 98 |
+| G1: Season 10 Game 94: Jazz Hands 5  @  6 Spies |
+| G2: Season 10 Game 95: Jazz Hands -1 @  0 Spies |
+| G3: Season 10 Game 96: Jazz Hands 4  @  6 Spies |
+| G4: Season 10 Game 97: Spies 2  @  0 Tacos |
+| G5: Season 10 Game 98: Spies 5  @  2 Tacos |
+| G6: Season 10 Game 99: Spies 9  @  7 Tacos |
 
 <br />
 

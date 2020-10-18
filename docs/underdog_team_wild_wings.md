@@ -16,6 +16,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 10 | 25 | Chicago Firefighters (44%) | 11 - 3 | Mexico City Wild Wings (56%) | 
 | 3 | 42 | Mexico City Wild Wings (44%) | 10 - 2 | Breckenridge Jazz Hands (56%) | 
 | 10 | 26 | Chicago Firefighters (45%) | 9 - 1 | Mexico City Wild Wings (55%) | 
+| 10 | 80 | San Francisco Lovers (45%) | 9 - 1 | Mexico City Wild Wings (55%) | 
 | 2 | 67 | Hades Tigers (46%) | 8 - 0 | Mexico City Wild Wings (54%) | 
 | 1 | 59 | Moab Sunbeams (27%) | 13 - 6 | Mexico City Wild Wings (73%) | 
 | 9 | 52 | Mexico City Wild Wings (41%) | 12 - 5 | Breckenridge Jazz Hands (59%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 8 | 13 | Canada Moist Talkers (31%) | 9 - 3 | Mexico City Wild Wings (69%) | 
 | 6 | 37 | Mexico City Wild Wings (42%) | 8 - 2 | Yellowstone Magic (58%) | 
 | 7 | 77 | Dallas Steaks (39%) | 8 - 2 | Mexico City Wild Wings (61%) | 
-| 6 | 85 | Charleston Shoe Thieves (31%) | 7 - 1 | Mexico City Wild Wings (69%) | 
 
 

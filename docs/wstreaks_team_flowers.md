@@ -17,6 +17,7 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 6          | 3          | 93, 94, 95, 96, 97, 98 |
 | Flowers                        | 6          | 8          | 13, 14, 15, 16, 17, 18 |
 | Flowers                        | 6          | 9          | 37, 38, 39, 40, 41, 42 |
+| Flowers                        | 6          | 10         | 84, 85, 86, 87, 88, 89 |
 | Flowers                        | 5          | 3          | 21, 22, 23, 24, 25 |
 | Flowers                        | 5          | 5          | 65, 66, 67, 68, 69 |
 | Flowers                        | 5          | 9          | 95, 96, 97, 98, 99 |
@@ -129,6 +130,18 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G4: Season 9 Game 40: Dale 7  @  8 Flowers |
 | G5: Season 9 Game 41: Dale 1  @  2 Flowers |
 | G6: Season 9 Game 42: Dale 2  @  3 Flowers |
+
+<br />
+
+| 6 Game Winning Streak by the Flowers |
+| ----- |
+| Season 10 Games 83, 84, 85, 86, 87, 88 |
+| G1: Season 10 Game 84: Flowers 3  @  1 Tacos |
+| G2: Season 10 Game 85: Jazz Hands 2  @  3 Flowers |
+| G3: Season 10 Game 86: Jazz Hands 0  @  6 Flowers |
+| G4: Season 10 Game 87: Jazz Hands 1  @  3 Flowers |
+| G5: Season 10 Game 88: Tacos 2  @  4 Flowers |
+| G6: Season 10 Game 89: Tacos 2  @  4 Flowers |
 
 <br />
 

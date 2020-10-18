@@ -13,6 +13,7 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | 3 | 62 | Baltimore Crabs | 8 - 7 | Hellmouth Sunbeams | 
 | 3 | 92 | Seattle Garages | 8 - 7 | Baltimore Crabs | 
 | 6 | 87 | Baltimore Crabs | 8 - 7 | San Francisco Lovers | 
+| 10 | 91 | Unlimited Tacos | 8 - 7 | Baltimore Crabs | 
 | 1 | 6 | Baltimore Crabs | 7 - 6 | Hades Tigers | 
 | 2 | 1 | Canada Moist Talkers | 7 - 6 | Baltimore Crabs | 
 | 2 | 67 | Baltimore Crabs | 7 - 6 | Houston Spies | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Crabs (note: 
 | 9 | 20 | Boston Flowers | 7 - 6 | Baltimore Crabs | 
 | 9 | 56 | Hellmouth Sunbeams | 7 - 6 | Baltimore Crabs | 
 | 9 | 58 | Baltimore Crabs | 7 - 6 | Boston Flowers | 
-| 2 | 18 | Hawaii Fridays | 6 - 5 | Baltimore Crabs | 
 
 

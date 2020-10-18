@@ -17,9 +17,12 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 4 | 101* | Breckenridge Jazz Hands | 7 - 6 | Philly Pies | 
 | 7 | 105* | San Francisco Lovers | 7 - 6 | Baltimore Crabs | 
 | 9 | 107* | Seattle Garages | 7 - 6 | Philly Pies | 
+| 10 | 109* | Baltimore Crabs | 7 - 6 | San Francisco Lovers | 
 | 3 | 101* | San Francisco Lovers | 6 - 5 | Charleston Shoe Thieves | 
 | 3 | 105* | Philly Pies | 6 - 5 | Hades Tigers | 
 | 3 | 107* | Hades Tigers | 6 - 5 | Philly Pies | 
+| 10 | 104* | Baltimore Crabs | 6 - 5 | Hellmouth Sunbeams | 
+| 10 | 106* | Houston Spies | 6 - 5 | San Francisco Lovers | 
 | 1 | 106* | Boston Flowers | 5 - 4 | Chicago Firefighters | 
 | 2 | 102* | Boston Flowers | 5 - 4 | Chicago Firefighters | 
 | 2 | 106* | Charleston Shoe Thieves | 5 - 4 | Boston Flowers | 
@@ -30,8 +33,5 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 6 | 101* | Baltimore Crabs | 5 - 4 | Boston Flowers | 
 | 7 | 100* | Mexico City Wild Wings | 5 - 4 | Kansas City Breath Mints | 
 | 7 | 101* | Charleston Shoe Thieves | 5 - 4 | Seattle Garages | 
-| 8 | 102* | Philly Pies | 5 - 4 | Seattle Garages | 
-| 9 | 105* | Boston Flowers | 5 - 4 | Houston Spies | 
-| 9 | 110* | Seattle Garages | 5 - 4 | Charleston Shoe Thieves | 
 
 

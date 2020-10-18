@@ -7,6 +7,7 @@ Maxed out games (high-scoring one-run games) for season 10 for all teams (note: 
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 10 | 95 | Houston Spies | 0 - -1 | Breckenridge Jazz Hands | 
 | 10 | 2 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
 | 10 | 3 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
 | 10 | 4 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for season 10 for all teams (note: 
 | 10 | 62 | Charleston Shoe Thieves | 1 - 0 | Hawai'i Fridays | 
 | 10 | 69 | Yellowstone Magic | 1 - 0 | Canada Moist Talkers | 
 | 10 | 71 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
-| 10 | 74 | Houston Spies | 1 - 0 | Boston Flowers | 
 
 

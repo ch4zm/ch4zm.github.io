@@ -23,6 +23,7 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | Dale                           | 4          | 8          | 38, 39, 40, 41 |
 | Dale                           | 4          | 9          | 39, 40, 41, 42 |
 | Dale                           | 4          | 9          | 62, 63, 64, 65 |
+| Dale                           | 4          | 10         | 84, 85, 86, 87 |
 
 
 
@@ -166,6 +167,16 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | G2: Season 9 Game 63: Garages 7  @  2 Dale |
 | G3: Season 9 Game 64: Dale 6  @  7 Firefighters |
 | G4: Season 9 Game 65: Dale 1  @  3 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Dale |
+| ----- |
+| Season 10 Games 83, 84, 85, 86 |
+| G1: Season 10 Game 84: Dale 0  @  6 Crabs |
+| G2: Season 10 Game 85: Dale 1  @  4 Wild Wings |
+| G3: Season 10 Game 86: Dale 3  @ 12 Wild Wings |
+| G4: Season 10 Game 87: Dale 5  @  7 Wild Wings |
 
 
 

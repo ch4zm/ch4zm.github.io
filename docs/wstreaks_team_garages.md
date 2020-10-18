@@ -44,6 +44,7 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 9          | 46, 47, 48, 49 |
 | Garages                        | 4          | 9          | 84, 85, 86, 87 |
 | Garages                        | 4          | 10         | 1, 2, 3, 4 |
+| Garages                        | 4          | 10         | 94, 95, 96, 97 |
 
 
 
@@ -432,6 +433,16 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 10 Game 2: Steaks 1  @  9 Garages |
 | G3: Season 10 Game 3: Steaks 3  @  9 Garages |
 | G4: Season 10 Game 4: Garages 3  @  0 Millennials |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 10 Games 93, 94, 95, 96 |
+| G1: Season 10 Game 94: Garages 6  @  1 Magic |
+| G2: Season 10 Game 95: Garages 9  @  5 Magic |
+| G3: Season 10 Game 96: Garages 2  @  1 Magic |
+| G4: Season 10 Game 97: Moist Talkers 0  @  1 Garages |
 
 
 

@@ -8,6 +8,7 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
 | 9 | 83 | San Francisco Lovers | 11 - 10 | Houston Spies | 
+| 10 | 92 | Houston Spies | 11 - 10 | Hellmouth Sunbeams | 
 | 2 | 65 | Miami Dalé | 10 - 9 | Houston Spies | 
 | 3 | 95 | Houston Spies | 10 - 9 | Seattle Garages | 
 | 9 | 93 | Houston Spies | 9 - 8 | San Francisco Lovers | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 3 | 40 | Baltimore Crabs | 7 - 6 | Houston Spies | 
 | 4 | 42 | Philly Pies | 7 - 6 | Houston Spies | 
 | 5 | 66 | Houston Spies | 7 - 6 | Seattle Garages | 
-| 5 | 82 | Houston Spies | 7 - 6 | Unlimited Tacos | 
 
 

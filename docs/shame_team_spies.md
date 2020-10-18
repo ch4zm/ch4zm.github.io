@@ -30,7 +30,7 @@ Shame games (games where the loser was shamed) for all time for team Spies (note
 | 6 | 74 | Houston Spies | 8 - 6 | Breckenridge Jazz Hands | 
 | 2 | 27 | Mexico City Wild Wings | 7 - 5 | Houston Spies | 
 | 5 | 7 | Philly Pies | 7 - 5 | Houston Spies | 
+| 10 | 84 | Houston Spies | 7 - 5 | Hellmouth Sunbeams | 
 | 7 | 27 | Hellmouth Sunbeams | 6 - 4 | Houston Spies | 
-| 7 | 60 | Houston Spies | 6 - 4 | Hellmouth Sunbeams | 
 
 

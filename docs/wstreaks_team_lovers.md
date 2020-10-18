@@ -21,6 +21,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 6          | 6          | 54, 55, 56, 57, 58, 59 |
 | Lovers                         | 6          | 6          | 70, 71, 72, 73, 74, 75 |
 | Lovers                         | 6          | 10         | 39, 40, 41, 42, 43, 44 |
+| Lovers                         | 6          | 10         | 89, 90, 91, 92, 93, 94 |
 | Lovers                         | 5          | 1          | 14, 15, 16, 17, 18 |
 | Lovers                         | 5          | 3          | 64, 65, 66, 67, 68 |
 | Lovers                         | 5          | 3          | 95, 96, 97, 98, 99 |
@@ -30,6 +31,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 5          | 5, 6, 7, 8, 9 |
 | Lovers                         | 5          | 6          | 63, 64, 65, 66, 67 |
 | Lovers                         | 5          | 10         | 18, 19, 20, 21, 22 |
+| Lovers                         | 5          | 10         | 78, 79, 80, 81, 82 |
 | Lovers                         | 4          | 1          | 47, 48, 49, 50 |
 | Lovers                         | 4          | 2          | 75, 76, 77, 78 |
 | Lovers                         | 4          | 3          | 27, 28, 29, 30 |
@@ -202,6 +204,18 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 88, 89, 90, 91, 92, 93 |
+| G1: Season 10 Game 89: Dale 0  @  5 Lovers |
+| G2: Season 10 Game 90: Dale 8  @ 12 Lovers |
+| G3: Season 10 Game 91: Wild Wings 0  @  1 Lovers |
+| G4: Season 10 Game 92: Wild Wings 8  @ 10 Lovers |
+| G5: Season 10 Game 93: Wild Wings 2  @  5 Lovers |
+| G6: Season 10 Game 94: Lovers 4  @  2 Firefighters |
+
+<br />
+
 | 5 Game Winning Streak by the Lovers |
 | ----- |
 | Season 1 Games 13, 14, 15, 16, 17 |
@@ -298,6 +312,17 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 10 Game 20: Flowers 5  @ 18 Lovers |
 | G4: Season 10 Game 21: Flowers 2  @  6 Lovers |
 | G5: Season 10 Game 22: Sunbeams 0  @  4 Lovers |
+
+<br />
+
+| 5 Game Winning Streak by the Lovers |
+| ----- |
+| Season 10 Games 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 78: Lovers 6  @  5 Flowers |
+| G2: Season 10 Game 79: Wild Wings 2  @  3 Lovers |
+| G3: Season 10 Game 80: Wild Wings 1  @  9 Lovers |
+| G4: Season 10 Game 81: Wild Wings 1  @  2 Lovers |
+| G5: Season 10 Game 82: Wild Wings 3  @  8 Lovers |
 
 <br />
 

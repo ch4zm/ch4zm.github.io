@@ -44,6 +44,7 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 4          | 10         | 1, 2, 3, 4 |
 | Moist Talkers                  | 4          | 10         | 55, 56, 57, 58 |
 | Moist Talkers                  | 4          | 10         | 71, 72, 73, 74 |
+| Moist Talkers                  | 4          | 10         | 78, 79, 80, 81 |
 
 
 
@@ -421,6 +422,16 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 10 Game 72: Moist Talkers 3  @  1 Tigers |
 | G3: Season 10 Game 73: Moist Talkers 3  @  0 Magic |
 | G4: Season 10 Game 74: Moist Talkers 9  @  1 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 10 Games 77, 78, 79, 80 |
+| G1: Season 10 Game 78: Fridays 2  @  3 Moist Talkers |
+| G2: Season 10 Game 79: Fridays 3  @  6 Moist Talkers |
+| G3: Season 10 Game 80: Fridays 0  @  1 Moist Talkers |
+| G4: Season 10 Game 81: Fridays -1 @  6 Moist Talkers |
 
 
 

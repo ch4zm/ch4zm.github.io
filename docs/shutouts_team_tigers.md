@@ -10,6 +10,7 @@ Shutout games (games where the loser had zero runs) for all time for team Tigers
 | 1 | 57 | Baltimore Crabs | 13 - 0 | Hades Tigers | 
 | 3 | 92 | Hades Tigers | 13 - 0 | Breckenridge Jazz Hands | 
 | 7 | 49 | Dallas Steaks | 13 - 0 | Hades Tigers | 
+| 10 | 90 | Hades Tigers | 12 - 0 | Seattle Garages | 
 | 2 | 52 | Canada Moist Talkers | 10 - 0 | Hades Tigers | 
 | 5 | 86 | Houston Spies | 10 - 0 | Hades Tigers | 
 | 8 | 79 | Hades Tigers | 10 - 0 | Seattle Garages | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Tigers
 | 3 | 41 | Philly Pies | 7 - 0 | Hades Tigers | 
 | 4 | 97 | Hades Tigers | 7 - 0 | Houston Spies | 
 | 5 | 30 | Hades Tigers | 7 - 0 | Philly Pies | 
-| 5 | 88 | Hades Tigers | 7 - 0 | Baltimore Crabs | 
 
 

@@ -19,8 +19,10 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 90 | Baltimore Crabs | 15 - 8 | Philly Pies | 
 | 9 | 40 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 10 | 77 | Baltimore Crabs | 14 - 0 | Mexico City Wild Wings | 
+| 10 | 81 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 1 | 2 | Philly Pies | 14 - 1 | Baltimore Crabs | 
 | 10 | 12 | Baltimore Crabs | 14 - 1 | Mexico City Wild Wings | 
+| 10 | 110* | Baltimore Crabs | 14 - 5 | San Francisco Lovers | 
 | 1 | 57 | Baltimore Crabs | 13 - 0 | Hades Tigers | 
 | 7 | 11 | Baltimore Crabs | 13 - 1 | Mexico City Wild Wings | 
 | 9 | 99 | Baltimore Crabs | 13 - 1 | Breckenridge Jazz Hands | 
@@ -30,7 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 9 | 104* | Baltimore Crabs | 13 - 11 | Hellmouth Sunbeams | 
 | 8 | 63 | Baltimore Crabs | 12 - -2 | Houston Spies | 
 | 9 | 82 | Baltimore Crabs | 12 - 0 | Mexico City Wild Wings | 
-| 7 | 60 | Baltimore Crabs | 12 - 2 | San Francisco Lovers | 
-| 8 | 40 | Baltimore Crabs | 12 - 2 | Chicago Firefighters | 
 
 

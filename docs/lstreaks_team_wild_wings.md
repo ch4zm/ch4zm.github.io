@@ -17,6 +17,7 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 6          | 3          | 9, 10, 11, 12, 13, 14 |
 | Wild Wings                     | 6          | 3          | 43, 44, 45, 46, 47, 48 |
 | Wild Wings                     | 6          | 8          | 83, 84, 85, 86, 87, 88 |
+| Wild Wings                     | 6          | 10         | 77, 78, 79, 80, 81, 82 |
 | Wild Wings                     | 5          | 1          | 55, 56, 57, 58, 59 |
 | Wild Wings                     | 5          | 4          | 76, 77, 78, 79, 88 |
 | Wild Wings                     | 5          | 6          | 28, 29, 30, 31, 32 |
@@ -25,6 +26,7 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 5          | 9          | 90, 91, 92, 93, 94 |
 | Wild Wings                     | 5          | 10         | 28, 29, 30, 31, 32 |
 | Wild Wings                     | 5          | 10         | 64, 65, 66, 67, 68 |
+| Wild Wings                     | 5          | 10         | 90, 91, 92, 93, 94 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
 | Wild Wings                     | 4          | 1          | 93, 94, 95, 96 |
@@ -148,6 +150,18 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 77: Crabs 14 @  0 Wild Wings |
+| G2: Season 10 Game 78: Crabs 3  @  2 Wild Wings |
+| G3: Season 10 Game 79: Wild Wings 2  @  3 Lovers |
+| G4: Season 10 Game 80: Wild Wings 1  @  9 Lovers |
+| G5: Season 10 Game 81: Wild Wings 1  @  2 Lovers |
+| G6: Season 10 Game 82: Wild Wings 3  @  8 Lovers |
+
+<br />
+
 | 5 Game Losing Streak by the Wild Wings |
 | ----- |
 | Season 1 Games 54, 55, 56, 57, 58 |
@@ -233,6 +247,17 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 10 Game 66: Lovers 12 @  6 Wild Wings |
 | G4: Season 10 Game 67: Flowers 10 @  5 Wild Wings |
 | G5: Season 10 Game 68: Flowers 5  @  2 Wild Wings |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 10 Games 89, 90, 91, 92, 93 |
+| G1: Season 10 Game 90: Wild Wings 0  @ 12 Spies |
+| G2: Season 10 Game 91: Wild Wings 0  @  1 Lovers |
+| G3: Season 10 Game 92: Wild Wings 8  @ 10 Lovers |
+| G4: Season 10 Game 93: Wild Wings 2  @  5 Lovers |
+| G5: Season 10 Game 94: Wild Wings 3  @  9 Flowers |
 
 <br />
 

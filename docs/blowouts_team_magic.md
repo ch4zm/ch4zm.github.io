@@ -12,6 +12,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 9 | 27 | Hellmouth Sunbeams | 21 - 2 | Yellowstone Magic | 
 | 2 | 76 | Yellowstone Magic | 19 - 3 | Kansas City Breath Mints | 
 | 4 | 69 | Yellowstone Magic | 18 - 1 | Hawaii Fridays | 
+| 10 | 81 | Philly Pies | 17 - 1 | Yellowstone Magic | 
 | 5 | 62 | New York Millennials | 17 - 2 | Yellowstone Magic | 
 | 4 | 16 | Yellowstone Magic | 17 - 5 | Charleston Shoe Thieves | 
 | 9 | 55 | New York Millennials | 17 - 6 | Yellowstone Magic | 
@@ -31,6 +32,5 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 2 | 40 | Yellowstone Magic | 14 - 3 | Chicago Firefighters | 
 | 6 | 47 | Seattle Garages | 14 - 5 | Yellowstone Magic | 
 | 8 | 59 | Canada Moist Talkers | 14 - 5 | Yellowstone Magic | 
-| 5 | 95 | New York Millennials | 14 - 6 | Yellowstone Magic | 
 
 

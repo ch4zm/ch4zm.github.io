@@ -28,9 +28,9 @@ Maxed out games (high-scoring one-run games) for all time for team Magic (note: 
 | 9 | 65 | Yellowstone Magic | 1 - 0 | Hawaii Fridays | 
 | 10 | 55 | Kansas City Breath Mints | 1 - 0 | Yellowstone Magic | 
 | 10 | 69 | Yellowstone Magic | 1 - 0 | Canada Moist Talkers | 
+| 10 | 92 | Yellowstone Magic | 1 - 0 | Hawai'i Fridays | 
 | 1 | 39 | Yellowstone Magic | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 59 | Chicago Firefighters | 2 - 1 | Yellowstone Magic | 
 | 1 | 87 | Yellowstone Magic | 2 - 1 | Hawaii Fridays | 
-| 2 | 9 | Chicago Firefighters | 2 - 1 | Yellowstone Magic | 
 
 

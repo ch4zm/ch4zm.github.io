@@ -12,6 +12,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 3 | 103* | New York Millennials | 1 - 0 | Dallas Steaks | 
 | 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
 | 8 | 105* | Hades Tigers | 1 - 0 | Philly Pies | 
+| 10 | 103* | New York Millennials | 1 - 0 | Canada Moist Talkers | 
 | 1 | 101* | Philly Pies | 2 - 1 | Breckenridge Jazz Hands | 
 | 2 | 103* | Chicago Firefighters | 2 - 1 | Boston Flowers | 
 | 3 | 105* | San Francisco Lovers | 2 - 1 | New York Millennials | 
@@ -24,6 +25,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 8 | 106* | Baltimore Crabs | 2 - 1 | Houston Spies | 
 | 8 | 106* | Philly Pies | 2 - 1 | Hades Tigers | 
 | 9 | 104* | Charleston Shoe Thieves | 2 - 1 | Hades Tigers | 
+| 10 | 105* | Charleston Shoe Thieves | 2 - 1 | Kansas City Breath Mints | 
 | 1 | 101* | Boston Flowers | 3 - 2 | Yellowstone Magic | 
 | 1 | 103* | Hades Tigers | 3 - 2 | Houston Spies | 
 | 1 | 104* | Houston Spies | 3 - 2 | Hades Tigers | 
@@ -31,7 +33,5 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 4 | 103* | Breckenridge Jazz Hands | 3 - 2 | Philly Pies | 
 | 5 | 104* | San Francisco Lovers | 3 - 2 | Chicago Firefighters | 
 | 5 | 106* | Canada Moist Talkers | 3 - 2 | Breckenridge Jazz Hands | 
-| 5 | 112* | Chicago Firefighters | 3 - 2 | Breckenridge Jazz Hands | 
-| 6 | 104* | Hades Tigers | 3 - 2 | Kansas City Breath Mints | 
 
 

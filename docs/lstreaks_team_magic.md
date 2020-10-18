@@ -23,6 +23,7 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 6          | 8          | 12, 13, 14, 15, 16, 17 |
 | Magic                          | 6          | 8          | 64, 65, 66, 67, 68, 69 |
 | Magic                          | 6          | 9          | 25, 26, 27, 28, 29, 30 |
+| Magic                          | 6          | 10         | 77, 78, 79, 80, 81, 82 |
 | Magic                          | 5          | 2          | 28, 29, 30, 31, 32 |
 | Magic                          | 5          | 4          | 50, 51, 52, 53, 54 |
 | Magic                          | 5          | 6          | 37, 38, 39, 40, 41 |
@@ -32,6 +33,7 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 5          | 9          | 52, 53, 54, 55, 56 |
 | Magic                          | 5          | 10         | 3, 4, 5, 6, 7 |
 | Magic                          | 5          | 10         | 64, 65, 66, 67, 68 |
+| Magic                          | 5          | 10         | 94, 95, 96, 97, 98 |
 | Magic                          | 4          | 1          | 57, 58, 59, 60 |
 | Magic                          | 4          | 2          | 44, 45, 46, 47 |
 | Magic                          | 4          | 2          | 62, 63, 64, 65 |
@@ -228,6 +230,18 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Magic |
+| ----- |
+| Season 10 Games 76, 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 77: Breath Mints 5  @  3 Magic |
+| G2: Season 10 Game 78: Breath Mints 3  @  2 Magic |
+| G3: Season 10 Game 79: Pies 3  @  1 Magic |
+| G4: Season 10 Game 80: Pies 5  @  2 Magic |
+| G5: Season 10 Game 81: Pies 17 @  1 Magic |
+| G6: Season 10 Game 82: Steaks 8  @  2 Magic |
+
+<br />
+
 | 5 Game Losing Streak by the Magic |
 | ----- |
 | Season 2 Games 27, 28, 29, 30, 31 |
@@ -324,6 +338,17 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G3: Season 10 Game 66: Magic 2  @  5 Millennials |
 | G4: Season 10 Game 67: Moist Talkers 3  @  2 Magic |
 | G5: Season 10 Game 68: Moist Talkers 5  @  2 Magic |
+
+<br />
+
+| 5 Game Losing Streak by the Magic |
+| ----- |
+| Season 10 Games 93, 94, 95, 96, 97 |
+| G1: Season 10 Game 94: Garages 6  @  1 Magic |
+| G2: Season 10 Game 95: Garages 9  @  5 Magic |
+| G3: Season 10 Game 96: Garages 2  @  1 Magic |
+| G4: Season 10 Game 97: Magic 5  @  6 Pies |
+| G5: Season 10 Game 98: Magic 1  @  9 Pies |
 
 <br />
 

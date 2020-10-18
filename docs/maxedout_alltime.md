@@ -27,6 +27,7 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 9 | 31 | Chicago Firefighters | 11 - 10 | Boston Flowers | 
 | 9 | 52 | New York Millennials | 11 - 10 | Philly Pies | 
 | 9 | 83 | San Francisco Lovers | 11 - 10 | Houston Spies | 
+| 10 | 92 | Houston Spies | 11 - 10 | Hellmouth Sunbeams | 
 | 1 | 37 | Seattle Garages | 10 - 9 | Miami Dalé | 
 | 1 | 78 | Kansas City Breath Mints | 10 - 9 | Los Angeles Tacos | 
 | 1 | 99 | Kansas City Breath Mints | 10 - 9 | Boston Flowers | 
@@ -34,6 +35,5 @@ Maxed out games (high-scoring one-run games) for all time for all teams (note: a
 | 2 | 65 | Miami Dalé | 10 - 9 | Houston Spies | 
 | 3 | 41 | Breckenridge Jazz Hands | 10 - 9 | Mexico City Wild Wings | 
 | 3 | 69 | Yellowstone Magic | 10 - 9 | New York Millennials | 
-| 3 | 95 | Houston Spies | 10 - 9 | Seattle Garages | 
 
 

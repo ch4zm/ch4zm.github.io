@@ -30,6 +30,7 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 5          | 8          | 72, 73, 74, 75, 76 |
 | Millennials                    | 5          | 9          | 25, 26, 27, 28, 29 |
 | Millennials                    | 5          | 10         | 5, 6, 7, 8, 9 |
+| Millennials                    | 5          | 10         | 98, 99, 100, 101, 103 |
 | Millennials                    | 4          | 1          | 34, 35, 36, 37 |
 | Millennials                    | 4          | 1          | 92, 93, 94, 95 |
 | Millennials                    | 4          | 2          | 22, 23, 24, 25 |
@@ -305,6 +306,17 @@ Winning streaks of 4 or more games for Millennials versus all teams for all time
 | G3: Season 10 Game 7: Millennials 2  @  1 Garages |
 | G4: Season 10 Game 8: Millennials 5  @  1 Garages |
 | G5: Season 10 Game 9: Millennials 3  @  0 Garages |
+
+<br />
+
+| 5 Game Winning Streak by the Millennials |
+| ----- |
+| Season 10 Games 97, 98, 99, 100, 102 |
+| G1: Season 10 Game 98: Millennials 7  @  4 Tigers |
+| G2: Season 10 Game 99: Millennials 6  @  4 Tigers |
+| G3: Season 10 Game 100: Millennials 3  @  1 Pies |
+| G4: Season 10 Game 101: Pies 0  @  4 Millennials |
+| G5: Season 10 Game 103: Millennials 1  @  0 Moist Talkers |
 
 <br />
 

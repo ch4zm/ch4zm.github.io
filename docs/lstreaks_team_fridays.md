@@ -14,6 +14,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 14         | 6          | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Fridays                        | 11         | 10         | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 |
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
+| Fridays                        | 9          | 10         | 86, 87, 88, 89, 90, 91, 92, 93, 94 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
 | Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
 | Fridays                        | 7          | 8          | 14, 15, 16, 17, 18, 19, 20 |
@@ -41,6 +42,7 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 5          | 7          | 63, 64, 65, 66, 67 |
 | Fridays                        | 5          | 8          | 82, 83, 84, 85, 86 |
 | Fridays                        | 5          | 10         | 60, 61, 62, 63, 64 |
+| Fridays                        | 5          | 10         | 78, 79, 80, 81, 82 |
 | Fridays                        | 4          | 1          | 87, 88, 89, 90 |
 | Fridays                        | 4          | 2          | 3, 4, 5, 6 |
 | Fridays                        | 4          | 2          | 14, 15, 16, 17 |
@@ -140,6 +142,21 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G7: Season 1 Game 70: Steaks 3  @  2 Fridays |
 | G8: Season 1 Game 71: Steaks 9  @  1 Fridays |
 | G9: Season 1 Game 72: Steaks 7  @  3 Fridays |
+
+<br />
+
+| 9 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 85, 86, 87, 88, 89, 90, 91, 92, 93 |
+| G1: Season 10 Game 86: Crabs 6  @  2 Fridays |
+| G2: Season 10 Game 87: Crabs 6  @  4 Fridays |
+| G3: Season 10 Game 88: Breath Mints 6  @  0 Fridays |
+| G4: Season 10 Game 89: Breath Mints 1  @  0 Fridays |
+| G5: Season 10 Game 90: Breath Mints 6  @  1 Fridays |
+| G6: Season 10 Game 91: Fridays 4  @  6 Magic |
+| G7: Season 10 Game 92: Fridays 0  @  1 Magic |
+| G8: Season 10 Game 93: Fridays 5  @  6 Magic |
+| G9: Season 10 Game 94: Steaks 5  @  3 Fridays |
 
 <br />
 
@@ -456,6 +473,17 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G3: Season 10 Game 62: Shoe Thieves 1  @  0 Fridays |
 | G4: Season 10 Game 63: Shoe Thieves 6  @  2 Fridays |
 | G5: Season 10 Game 64: Shoe Thieves 6  @  4 Fridays |
+
+<br />
+
+| 5 Game Losing Streak by the Fridays |
+| ----- |
+| Season 10 Games 77, 78, 79, 80, 81 |
+| G1: Season 10 Game 78: Fridays 2  @  3 Moist Talkers |
+| G2: Season 10 Game 79: Fridays 3  @  6 Moist Talkers |
+| G3: Season 10 Game 80: Fridays 0  @  1 Moist Talkers |
+| G4: Season 10 Game 81: Fridays -1 @  6 Moist Talkers |
+| G5: Season 10 Game 82: Pies 1  @  0 Fridays |
 
 <br />
 
