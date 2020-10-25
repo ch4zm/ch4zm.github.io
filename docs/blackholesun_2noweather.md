@@ -136,8 +136,8 @@ From the above win-loss charts, we can obtain the following charts
 of the difference between the real and fair (and apparent and fair)
 games above 500:
 
-<a href="../img/ga500_01b_aga_rga_fga_sbl_teams.jpg">
-<img src="../img/ga500_01b_aga_rga_fga_sbl_teams.jpg" width="500px" />
+<a href="../img/ga500_01a_aga_rga_fga_teams.jpg">
+<img src="../img/ga500_01a_aga_rga_fga_teams.jpg" width="500px" />
 </a>
 
 ## Analysis of GA500 Differentials
@@ -197,7 +197,7 @@ and independent of the weather.
 <img src="../img/ga500_01b_aga_rga_fga_sbl_teams.jpg" width="500px" />
 </a>
 
-### GA500 Differentials
+### GA500 Differentials with Common Baseline
 
 Here are the same games above .500 differential charts as shown above, but this time
 adjusted for common baseline losses. Note that some of the trends are more exaggerated
