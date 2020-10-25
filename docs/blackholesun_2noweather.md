@@ -9,6 +9,9 @@ or Black Hole?" (No, not many people like the new weather.)
 We decided to investigate how the weather would have changed the
 outcome of different games.
 
+[Link to Jupyter notebook used to generate these figures](https://github.com/ch4zm/black-hole-sun-notebook)
+
+
 ## Method
 
 To understand how the weather affected each team and its performance

@@ -7,6 +7,8 @@ through the smouldering pile of rubble that the weather made of math
 (which was, by the way, officially canceled on the first day of the season)
 and try and figure out what happened.
 
+[Link to Jupyter notebook used to generate these figures](https://github.com/ch4zm/black-hole-sun-notebook)
+
 
 # Weather
 
