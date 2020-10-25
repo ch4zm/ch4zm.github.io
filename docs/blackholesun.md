@@ -8,6 +8,8 @@ There are 8 Black Hole Sun awards, each listed
 below. We also have two blog posts to explain
 the rationale behind each award.
 
+[Twitter moment with all Black Hole Sun Awards](https://twitter.com/ch4zm_of_hell/status/1320198911252836353)
+
 
 # The Analysis
 
