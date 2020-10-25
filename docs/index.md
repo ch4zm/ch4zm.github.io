@@ -6,11 +6,19 @@
 * Founding member, **Fellowship of the Mysteries of Light (FML)**
 * **Blaseball Physics** instructor at the **Hellmouth Community College**
 
-Reach Ch4zm by channelling Emmett Internet (R.I.V.) or via any other method listed here:
+Reach Ch4zm by channeling Emmett Internet (R.I.V.) or via any other method listed here:
 
 * [Github: @ch4zm](https://github.com/ch4zm)
 * [Twitter: @ch4zm_of_hell](https://twitter.com/ch4zm_of_hell)
 * [Blaseball Wiki: @Ch4zmOfHellmouth](https://blaseball.fandom.com/wiki/User:Ch4zmOfHellmouth)
+
+## Season 11 Black Hole Sun Awards
+
+The Hellmouth Community College Sabermetrics Department has crunched the numbers, and we are
+here with an analysis of (a) what the heck happened in Season 11, and (b) 9 awards for different
+teams throughout the Internet Blaseball League.
+
+[Black Hole Sun Awards](blackholesun.md)
 
 ## Teaching at the Hellmouth Community College
 
