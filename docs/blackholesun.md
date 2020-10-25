@@ -10,6 +10,8 @@ the rationale behind each award.
 
 [Twitter moment with all Black Hole Sun Awards](https://twitter.com/ch4zm_of_hell/status/1320198911252836353)
 
+<br />
+<br />
 
 # The Analysis
 
@@ -17,6 +19,8 @@ the rationale behind each award.
 
 [No Weather Thought Experiment](blackholesun_2noweather.md)
 
+<br />
+<br />
 
 # The Awards
 
