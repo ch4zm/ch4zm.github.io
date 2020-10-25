@@ -59,8 +59,8 @@ And a few definitions for games above .500:
 
 * **Real Games Above .500 (RGA500)** - number of real wins minus number of losses
 
-Note that we do not calculate Games Above .500 using the win-loss record from the
-season, as losses are meaningless and are not used in determining final standings.
+Note that for the **common baseline losses** we do not calculate Games Above .500 using the
+actual losses from the season, we use the baseline loss rate of 1 loss per 2 games.
 
 ## Example Team: Sunbeams
 
