@@ -80,7 +80,7 @@ would have won many more games (which is saying something, since the Sunbeams al
 crushed the entire league with the limitation of the weather).
 
 In that sense, the weather can be thought of as having an equalizing effect for
-teams playing against the Sunbeams. They very rarely benefitted from the weather
+teams playing against the Sunbeams. The Beams very rarely benefitted from the weather
 by winning games they should not have.
 
 Interestingly, the Sunbeams went through a period (Day 60 thru 75) where they
@@ -89,21 +89,21 @@ streak.
 
 The AGA and RGA lines track together closely, which indicates that when
 the Sunbeams racked up the runs via weather (real wins), they usually also
-won the game by having the highest score on the board (apparent wins).
+won the game by having the highest score on the board at the end (apparent wins).
 
 ### GA500 Differentials
 
 We took one additional step, which was to compute the difference between the
-games above .500 if we counted the apparent or real wins, compared to the games
+games above .500 if we counted the apparent or real wins, and the games
 above .500 if we counted the fair wins (ignoring wins from the weather
 and not having any runs disappear).
 
 If the difference between the AGA500 (or RGA500) and the FGA500 is **negative**, it
-indicates that the team would have been doing better with fair rules and without
-runs disappearing.
+indicates that the team would have been doing better with fair rules, no weather,
+and no runs disappearing.
 
 If the difference between the AGA500 (or RGA500) and the FGA500 is **positive**,
-it means the team is being helped by the weather and by their opponents losing
+it means the team is being helped by the weather and by their opponents looping
 every 10th run, and that their record is better than it would be with normal\*
 blaseball rules from Season 1 - Season 10.
 
