@@ -108,6 +108,7 @@ nav:
       - Season 8 Winning Streaks: wstreaks_season8.md
       - Season 9 Winning Streaks: wstreaks_season9.md
       - Season 10 Winning Streaks: wstreaks_season10.md
+      - Season 11 Winning Streaks: wstreaks_season11.md
     - Winning Streaks by Team:
       - Breath Mints Winning Streaks: wstreaks_team_breath_mints.md
       - Crabs Winning Streaks: wstreaks_team_crabs.md
@@ -141,6 +142,7 @@ nav:
       - Season 8 Losing Streaks: lstreaks_season8.md
       - Season 9 Losing Streaks: lstreaks_season9.md
       - Season 10 Losing Streaks: lstreaks_season10.md
+      - Season 11 Losing Streaks: lstreaks_season11.md
     - Losing Streaks by Team:
       - Breath Mints Losing Streaks: lstreaks_team_breath_mints.md
       - Crabs Losing Streaks: lstreaks_team_crabs.md
@@ -177,6 +179,7 @@ nav:
         - Season 8 Shutouts: shutouts_season8.md
         - Season 9 Shutouts: shutouts_season9.md
         - Season 10 Shutouts: shutouts_season10.md
+        - Season 11 Shutouts: shutouts_season11.md
       - Shutouts by Team:
         - Breath Mints Shutouts: shutouts_team_breath_mints.md
         - Crabs Shutouts: shutouts_team_crabs.md
@@ -212,6 +215,7 @@ nav:
         - Season 8 Blowouts: blowouts_season8.md
         - Season 9 Blowouts: blowouts_season9.md
         - Season 10 Blowouts: blowouts_season10.md
+        - Season 11 Blowouts: blowouts_season11.md
       - Blowouts by Team:
         - Breath Mints Blowouts: blowouts_team_breath_mints.md
         - Crabs Blowouts: blowouts_team_crabs.md
@@ -247,6 +251,7 @@ nav:
         - Season 8 Underdog Wins: underdog_season8.md
         - Season 9 Underdog Wins: underdog_season9.md
         - Season 10 Underdog Wins: underdog_season10.md
+        - Season 11 Underdog Wins: underdog_season11.md
       - Underdog Wins by Team:
         - Breath Mints Underdog Wins: underdog_team_breath_mints.md
         - Crabs Underdog Wins: underdog_team_crabs.md
@@ -282,6 +287,7 @@ nav:
         - Season 8 Shame Games: shame_season8.md
         - Season 9 Shame Games: shame_season9.md
         - Season 10 Shame Games: shame_season10.md
+        - Season 11 Shame Games: shame_season11.md
       - Shame Games by Team:
         - Breath Mints Shame Games: shame_team_breath_mints.md
         - Crabs Shame Games: shame_team_crabs.md
@@ -317,6 +323,7 @@ nav:
         - Season 8 Maxed Out Games: maxedout_season8.md
         - Season 9 Maxed Out Games: maxedout_season9.md
         - Season 10 Maxed Out Games: maxedout_season10.md
+        - Season 11 Maxed Out Games: maxedout_season11.md
       - Maxed Out Games by Team:
         - Breath Mints Maxed Out Games: maxedout_team_breath_mints.md
         - Crabs Maxed Out Games: maxedout_team_crabs.md
@@ -352,6 +359,7 @@ nav:
         - Season 8 Defensive Games: defensive_season8.md
         - Season 9 Defensive Games: defensive_season9.md
         - Season 10 Defensive Games: defensive_season10.md
+        - Season 11 Defensive Games: defensive_season11.md
       - Defensive Games by Team:
         - Breath Mints Defensive Games: defensive_team_breath_mints.md
         - Crabs Defensive Games: defensive_team_crabs.md
