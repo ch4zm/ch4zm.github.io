@@ -136,8 +136,14 @@ From the above win-loss charts, we can obtain the following charts
 of the difference between the real and fair (and apparent and fair)
 games above 500:
 
-<a href="../img/ga500_01a_aga_rga_fga_teams.jpg">
-<img src="../img/ga500_01a_aga_rga_fga_teams.jpg" width="500px" />
+<a href="../img/ga500_02a_diff_teams.jpg">
+<img src="../img/ga500_02a_diff_teams.jpg" width="500px" />
+</a>
+
+and without the actual games above .500 stat (so the scales are more reasonable):
+
+<a href="../img/ga500_03a_diff_teams.jpg">
+<img src="../img/ga500_03a_diff_teams.jpg" width="500px" />
 </a>
 
 ## Analysis of GA500 Differentials
@@ -205,6 +211,12 @@ while others are less pronounced, but the general trends still hold.
 
 <a href="../img/ga500_02b_diff_teams_sbl.jpg">
 <img src="../img/ga500_02b_diff_teams_sbl.jpg" width="500px" />
+</a>
+
+and without the actual games above .500 stat (so the scales are more reasonable):
+
+<a href="../img/ga500_03b_diff_teams_sbl.jpg">
+<img src="../img/ga500_03b_diff_teams_sbl.jpg" width="500px" />
 </a>
 
 ## Conclusion
