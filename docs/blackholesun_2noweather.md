@@ -2,6 +2,11 @@
 
 **By [Ch4zm of Hellmouth](https://twitter.com/ch4zm_of_hell), Sabermetrics Department, Hellmouth Community College**
 
+**NOTE: In a previous version of this document, we erroneously identified the Pies
+as benefitting from the weather. On further investigation we identified a regular expression
+error which resulted in our conclusion about the Pies being proved wrong. Those responsible
+for the error have been sacked. Thank you.**
+
 One of the first questions that arises once people learn about
 the Sun 2/Black Hole mechanisms is, "What if there was no Sun 2
 or Black Hole?" (No, not many people like the new weather.)
@@ -161,8 +166,8 @@ We can spot a couple of significant trends from these win-loss charts:
   the Wild Wings were losing badly despite putting runs on the board and
   keeping their real wins up with Sun 2.
 
-* The **Pies** also have a similar story to the Lift and Wild Wings, just a little
-  less dramatic.
+* <s>The **Pies** also have a similar story to the Lift and Wild Wings, just a little
+  less dramatic.</s> EDITOR'S NOTE: This statement is in error. Those responsible have been sacked.
 
 * The weather again emerges as having an equalizing effect - making better
   teams like the Sunbeams worse and making worse teams the Lift and Wild Wings
