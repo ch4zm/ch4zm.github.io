@@ -10,7 +10,7 @@ Shutout games (games where the loser had zero runs) for all time for team Tacos 
 | 2 | 54 | Chicago Firefighters | 15 - 0 | Los Angeles Tacos | 
 | 6 | 92 | Chicago Firefighters | 14 - 0 | Unlimited Tacos | 
 | 8 | 66 | Houston Spies | 14 - 0 | Unlimited Tacos | 
-| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
+| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawai'i Fridays | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
 | 7 | 61 | Breckenridge Jazz Hands | 12 - 0 | Unlimited Tacos | 
 | 5 | 10 | Dallas Steaks | 11 - 0 | Unlimited Tacos | 
@@ -30,7 +30,7 @@ Shutout games (games where the loser had zero runs) for all time for team Tacos 
 | 9 | 70 | Hellmouth Sunbeams | 8 - 0 | Unlimited Tacos | 
 | 9 | 89 | Unlimited Tacos | 8 - 0 | Miami Dale | 
 | 10 | 17 | Unlimited Tacos | 8 - 0 | Chicago Firefighters | 
+| 11 | 53 | Hades Tigers | 8 - 0 | Unlimited Tacos | 
 | 1 | 99 | Hawaii Fridays | 7 - 0 | Los Angeles Tacos | 
-| 3 | 59 | Los Angeles Tacos | 7 - 0 | Chicago Firefighters | 
 
 

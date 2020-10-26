@@ -23,6 +23,7 @@ Shutout games (games where the loser had zero runs) for all time for team Garage
 | 3 | 80 | Miami Dalé | 9 - 0 | Seattle Garages | 
 | 4 | 28 | Breckenridge Jazz Hands | 9 - 0 | Seattle Garages | 
 | 7 | 4 | Seattle Garages | 9 - 0 | Kansas City Breath Mints | 
+| 11 | 13 | Charleston Shoe Thieves | 9 - 0 | Seattle Garages | 
 | 2 | 14 | Seattle Garages | 8 - 0 | Miami Dalé | 
 | 2 | 39 | Seattle Garages | 8 - 0 | Los Angeles Tacos | 
 | 6 | 44 | Seattle Garages | 8 - 0 | Yellowstone Magic | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Garage
 | 3 | 71 | Dallas Steaks | 7 - 0 | Seattle Garages | 
 | 5 | 75 | Breckenridge Jazz Hands | 7 - 0 | Seattle Garages | 
 | 6 | 80 | Hawaii Fridays | 7 - 0 | Seattle Garages | 
-| 7 | 79 | Seattle Garages | 7 - 0 | Hades Tigers | 
 
 

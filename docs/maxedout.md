@@ -30,6 +30,8 @@
 
 * [Season 10 Maxed Out](maxedout_season10.md)
 
+* [Season 11 Maxed Out](maxedout_season11.md)
+
 ## By Team
 
 * [Breath Mints Maxed Out Summary](maxedout_team_breath_mints.md)

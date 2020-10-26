@@ -19,6 +19,8 @@ Shutout games (games where the loser had zero runs) for all time for team Sunbea
 | 2 | 28 | Canada Moist Talkers | 9 - 0 | Hellmouth Sunbeams | 
 | 3 | 9 | Hades Tigers | 9 - 0 | Hellmouth Sunbeams | 
 | 9 | 36 | Baltimore Crabs | 9 - 0 | Hellmouth Sunbeams | 
+| 11 | 110* | Hellmouth Sunbeams | 9 - 0 | Hades Tigers | 
+| 11 | 111* | Hades Tigers | 9 - 0 | Hellmouth Sunbeams | 
 | 1 | 48 | Mexico City Wild Wings | 8 - 0 | Moab Sunbeams | 
 | 4 | 39 | Baltimore Crabs | 8 - 0 | Hellmouth Sunbeams | 
 | 5 | 66 | Breckenridge Jazz Hands | 8 - 0 | Hellmouth Sunbeams | 
@@ -29,8 +31,6 @@ Shutout games (games where the loser had zero runs) for all time for team Sunbea
 | 9 | 70 | Hellmouth Sunbeams | 8 - 0 | Unlimited Tacos | 
 | 9 | 103* | Baltimore Crabs | 8 - 0 | Hellmouth Sunbeams | 
 | 10 | 63 | Boston Flowers | 8 - 0 | Hellmouth Sunbeams | 
-| 1 | 32 | Moab Sunbeams | 7 - 0 | Philly Pies | 
-| 1 | 63 | Canada Moist Talkers | 7 - 0 | Moab Sunbeams | 
-| 2 | 7 | Canada Moist Talkers | 7 - 0 | Hellmouth Sunbeams | 
+| 11 | 18 | Hellmouth Sunbeams | 8 - 0 | Houston Spies | 
 
 

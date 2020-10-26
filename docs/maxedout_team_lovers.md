@@ -31,6 +31,6 @@ Maxed out games (high-scoring one-run games) for all time for team Lovers (note:
 | 8 | 48 | San Francisco Lovers | 8 - 7 | New York Millennials | 
 | 8 | 76 | Miami Dale | 8 - 7 | San Francisco Lovers | 
 | 8 | 88 | Houston Spies | 8 - 7 | San Francisco Lovers | 
-| 1 | 24 | Kansas City Breath Mints | 7 - 6 | San Francisco Lovers | 
+| 11 | 27 | San Francisco Lovers | 8 - 7 | New York Millennials | 
 
 

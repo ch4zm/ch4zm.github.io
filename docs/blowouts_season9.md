@@ -15,20 +15,20 @@ Blowout games (games with high scores and high run differentials) for season 9 f
 | 9 | 1 | Charleston Shoe Thieves | 16 - 1 | Yellowstone Magic | 
 | 9 | 36 | Houston Spies | 16 - 1 | Breckenridge Jazz Hands | 
 | 9 | 4 | Houston Spies | 15 - 2 | Unlimited Tacos | 
-| 9 | 72 | Hades Tigers | 15 - 2 | Hawaii Fridays | 
+| 9 | 72 | Hades Tigers | 15 - 2 | Hawai'i Fridays | 
 | 9 | 15 | Hades Tigers | 15 - 3 | New York Millennials | 
 | 9 | 6 | Hades Tigers | 15 - 4 | Seattle Garages | 
 | 9 | 10 | Baltimore Crabs | 15 - 5 | Unlimited Tacos | 
 | 9 | 40 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 9 | 25 | Hellmouth Sunbeams | 14 - 2 | Yellowstone Magic | 
-| 9 | 33 | Philly Pies | 14 - 2 | Hawaii Fridays | 
+| 9 | 33 | Philly Pies | 14 - 2 | Hawai'i Fridays | 
 | 9 | 7 | Unlimited Tacos | 14 - 3 | Miami Dale | 
 | 9 | 54 | Philly Pies | 14 - 3 | New York Millennials | 
 | 9 | 25 | New York Millennials | 14 - 6 | Miami Dale | 
 | 9 | 109* | Charleston Shoe Thieves | 14 - 6 | Seattle Garages | 
 | 9 | 1 | Hellmouth Sunbeams | 14 - 8 | Boston Flowers | 
 | 9 | 83 | Boston Flowers | 14 - 10 | Unlimited Tacos | 
-| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
+| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawai'i Fridays | 
 | 9 | 8 | Hellmouth Sunbeams | 13 - 1 | San Francisco Lovers | 
 | 9 | 99 | Baltimore Crabs | 13 - 1 | Breckenridge Jazz Hands | 
 | 9 | 100* | Hades Tigers | 13 - 1 | Hawai'i Fridays | 

@@ -1,5 +1,5 @@
 # Moist Talkers Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -10,6 +10,8 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Moist Talkers                  | 10         | 11         | 73, 74, 75, 76, 77, 78, 79, 80, 81, 82 |
+| Moist Talkers                  | 9          | 11         | 23, 24, 25, 26, 27, 28, 29, 30, 31 |
 | Moist Talkers                  | 7          | 3          | 60, 61, 62, 63, 64, 65, 66 |
 | Moist Talkers                  | 7          | 9          | 69, 70, 71, 72, 73, 74, 75 |
 | Moist Talkers                  | 7          | 9          | 79, 80, 81, 82, 83, 84, 85 |
@@ -27,6 +29,7 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 5          | 6          | 58, 59, 60, 61, 62 |
 | Moist Talkers                  | 5          | 10         | 25, 26, 27, 28, 29 |
 | Moist Talkers                  | 5          | 10         | 33, 34, 35, 36, 37 |
+| Moist Talkers                  | 5          | 11         | 86, 87, 88, 89, 90 |
 | Moist Talkers                  | 4          | 1          | 12, 13, 14, 15 |
 | Moist Talkers                  | 4          | 1          | 17, 18, 22, 23 |
 | Moist Talkers                  | 4          | 1          | 52, 53, 54, 55 |
@@ -45,6 +48,9 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | Moist Talkers                  | 4          | 10         | 55, 56, 57, 58 |
 | Moist Talkers                  | 4          | 10         | 71, 72, 73, 74 |
 | Moist Talkers                  | 4          | 10         | 78, 79, 80, 81 |
+| Moist Talkers                  | 4          | 11         | 11, 12, 13, 14 |
+| Moist Talkers                  | 4          | 11         | 35, 36, 37, 38 |
+| Moist Talkers                  | 4          | 11         | 96, 97, 98, 99 |
 
 
 
@@ -55,6 +61,37 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Moist Talkers versus all teams for all time
+
+| 10 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 72, 73, 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 11 Game 73: Moist Talkers 3  @  1 Steaks |
+| G2: Season 11 Game 74: Moist Talkers 7  @  3 Steaks |
+| G3: Season 11 Game 75: Moist Talkers 3  @  1 Steaks |
+| G4: Season 11 Game 76: Shoe Thieves 2  @  6 Moist Talkers |
+| G5: Season 11 Game 77: Shoe Thieves 1  @  3 Moist Talkers |
+| G6: Season 11 Game 78: Shoe Thieves 5  @  6 Moist Talkers |
+| G7: Season 11 Game 79: Steaks 1  @  4 Moist Talkers |
+| G8: Season 11 Game 80: Steaks 1  @  5 Moist Talkers |
+| G9: Season 11 Game 81: Steaks 2  @  3 Moist Talkers |
+| G10: Season 11 Game 82: Moist Talkers 3  @  2 Garages |
+
+<br />
+
+| 9 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 22, 23, 24, 25, 26, 27, 28, 29, 30 |
+| G1: Season 11 Game 23: Moist Talkers 6  @  2 Breath Mints |
+| G2: Season 11 Game 24: Moist Talkers 4  @  1 Breath Mints |
+| G3: Season 11 Game 25: Shoe Thieves 0  @  5 Moist Talkers |
+| G4: Season 11 Game 26: Shoe Thieves 6  @  8 Moist Talkers |
+| G5: Season 11 Game 27: Shoe Thieves 1  @  3 Moist Talkers |
+| G6: Season 11 Game 28: Moist Talkers 7  @  3 Steaks |
+| G7: Season 11 Game 29: Moist Talkers 8  @  3 Steaks |
+| G8: Season 11 Game 30: Moist Talkers 6  @  3 Steaks |
+| G9: Season 11 Game 31: Moist Talkers 3  @  0 Steaks |
+
+<br />
 
 | 7 Game Winning Streak by the Moist Talkers |
 | ----- |
@@ -255,6 +292,17 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 
 <br />
 
+| 5 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 85, 86, 87, 88, 89 |
+| G1: Season 11 Game 86: Flowers 2  @  5 Moist Talkers |
+| G2: Season 11 Game 87: Flowers 0  @  2 Moist Talkers |
+| G3: Season 11 Game 88: Moist Talkers 3  @  2 Fridays |
+| G4: Season 11 Game 89: Moist Talkers 4  @  3 Fridays |
+| G5: Season 11 Game 90: Moist Talkers 6  @  4 Fridays |
+
+<br />
+
 | 4 Game Winning Streak by the Moist Talkers |
 | ----- |
 | Season 1 Games 11, 12, 13, 14 |
@@ -432,6 +480,36 @@ Winning streaks of 4 or more games for Moist Talkers versus all teams for all ti
 | G2: Season 10 Game 79: Fridays 3  @  6 Moist Talkers |
 | G3: Season 10 Game 80: Fridays 0  @  1 Moist Talkers |
 | G4: Season 10 Game 81: Fridays -1 @  6 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 10, 11, 12, 13 |
+| G1: Season 11 Game 11: Pies 2  @  3 Moist Talkers |
+| G2: Season 11 Game 12: Pies 4  @  5 Moist Talkers |
+| G3: Season 11 Game 13: Moist Talkers 5  @  1 Lovers |
+| G4: Season 11 Game 14: Moist Talkers 6  @  3 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 34, 35, 36, 37 |
+| G1: Season 11 Game 35: Magic 7  @  9 Moist Talkers |
+| G2: Season 11 Game 36: Magic 1  @  6 Moist Talkers |
+| G3: Season 11 Game 37: Breath Mints 4  @  6 Moist Talkers |
+| G4: Season 11 Game 38: Breath Mints 3  @  4 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 95, 96, 97, 98 |
+| G1: Season 11 Game 96: Moist Talkers 6  @  4 Tacos |
+| G2: Season 11 Game 97: Magic 3  @  5 Moist Talkers |
+| G3: Season 11 Game 98: Magic 5  @  6 Moist Talkers |
+| G4: Season 11 Game 99: Magic 3  @  8 Moist Talkers |
 
 
 

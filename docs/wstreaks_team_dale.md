@@ -1,5 +1,5 @@
 # Dale Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -16,6 +16,9 @@ Winning streaks of 4 or more games for Dale versus all teams for all time
 | Dale                           | 5          | 8          | 52, 53, 54, 55, 56 |
 | Dale                           | 5          | 9          | 20, 21, 22, 23, 24 |
 | Dale                           | 4          | 8          | 90, 91, 92, 93 |
+| Dale                           | 4          | 11         | 14, 15, 16, 17 |
+| Dale                           | 4          | 11         | 30, 31, 32, 33 |
+| Dale                           | 4          | 11         | 72, 73, 74, 75 |
 
 
 
@@ -89,6 +92,36 @@ Winning streaks of 4 or more games for Dale versus all teams for all time
 | G2: Season 8 Game 91: Dale 7  @  5 Sunbeams |
 | G3: Season 8 Game 92: Dale 9  @  4 Sunbeams |
 | G4: Season 8 Game 93: Dale 14 @  6 Sunbeams |
+
+<br />
+
+| 4 Game Winning Streak by the Dale |
+| ----- |
+| Season 11 Games 13, 14, 15, 16 |
+| G1: Season 11 Game 14: Dale 3  @  1 Spies |
+| G2: Season 11 Game 15: Dale 7  @  5 Spies |
+| G3: Season 11 Game 16: Dale 5  @  4 Tigers |
+| G4: Season 11 Game 17: Dale 9  @  2 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Dale |
+| ----- |
+| Season 11 Games 29, 30, 31, 32 |
+| G1: Season 11 Game 30: Dale 8  @  5 Sunbeams |
+| G2: Season 11 Game 31: Dale 4  @  0 Tacos |
+| G3: Season 11 Game 32: Dale 4  @  0 Tacos |
+| G4: Season 11 Game 33: Dale 4  @  0 Tacos |
+
+<br />
+
+| 4 Game Winning Streak by the Dale |
+| ----- |
+| Season 11 Games 71, 72, 73, 74 |
+| G1: Season 11 Game 72: Flowers 3  @  9 Dale |
+| G2: Season 11 Game 73: Dale 8  @  3 Sunbeams |
+| G3: Season 11 Game 74: Dale 8  @  5 Sunbeams |
+| G4: Season 11 Game 75: Dale 7  @  4 Sunbeams |
 
 
 

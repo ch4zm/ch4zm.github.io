@@ -27,10 +27,10 @@ Underdog games (games where the underdog won with large run differential) for al
 | 6 | 59 | Hellmouth Sunbeams (37%) | 13 - 7 | Houston Spies (63%) | 
 | 3 | 21 | Houston Spies (42%) | 10 - 4 | Breckenridge Jazz Hands (58%) | 
 | 3 | 17 | Houston Spies (41%) | 9 - 3 | Hawaii Fridays (59%) | 
+| 11 | 34 | Tokyo Lift (41%) | 9 - 3 | Houston Spies (59%) | 
 | 1 | 96 | Houston Spies (44%) | 8 - 2 | Seattle Garages (56%) | 
 | 4 | 4 | Hellmouth Sunbeams (30%) | 8 - 2 | Houston Spies (70%) | 
 | 6 | 79 | Hellmouth Sunbeams (44%) | 8 - 2 | Houston Spies (56%) | 
 | 3 | 27 | Houston Spies (39%) | 7 - 1 | Canada Moist Talkers (61%) | 
-| 7 | 8 | Houston Spies (45%) | 7 - 1 | Unlimited Tacos (55%) | 
 
 

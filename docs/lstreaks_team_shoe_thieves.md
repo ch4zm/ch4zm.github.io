@@ -1,5 +1,5 @@
 # Shoe Thieves Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -14,17 +14,20 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | Shoe Thieves                   | 6          | 2          | 40, 41, 42, 43, 44, 45 |
 | Shoe Thieves                   | 6          | 2          | 86, 87, 88, 89, 90, 91 |
 | Shoe Thieves                   | 6          | 8          | 74, 75, 76, 77, 78, 79 |
+| Shoe Thieves                   | 6          | 11         | 73, 74, 75, 76, 77, 78 |
+| Shoe Thieves                   | 6          | 11         | 92, 93, 94, 95, 96, 97 |
 | Shoe Thieves                   | 5          | 5          | 1, 2, 3, 4, 5 |
 | Shoe Thieves                   | 5          | 5          | 87, 88, 89, 90, 91 |
-| Shoe Thieves                   | 5          | 6          | 42, 43, 44, 45, 46 |
 | Shoe Thieves                   | 5          | 6          | 63, 64, 65, 66, 67 |
 | Shoe Thieves                   | 5          | 7          | 48, 49, 50, 51, 52 |
+| Shoe Thieves                   | 5          | 11         | 25, 26, 27, 28, 29 |
 | Shoe Thieves                   | 4          | 2          | 57, 58, 59, 60 |
 | Shoe Thieves                   | 4          | 4          | 2, 3, 4, 5 |
 | Shoe Thieves                   | 4          | 4          | 16, 17, 18, 19 |
 | Shoe Thieves                   | 4          | 4          | 30, 31, 32, 33 |
 | Shoe Thieves                   | 4          | 4          | 40, 41, 42, 43 |
 | Shoe Thieves                   | 4          | 5          | 51, 52, 53, 54 |
+| Shoe Thieves                   | 4          | 6          | 15, 19, 20, 21 |
 | Shoe Thieves                   | 4          | 6          | 49, 50, 51, 52 |
 | Shoe Thieves                   | 4          | 6          | 54, 55, 56, 57 |
 | Shoe Thieves                   | 4          | 8          | 31, 32, 33, 34 |
@@ -92,6 +95,30 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 72, 73, 74, 75, 76, 77 |
+| G1: Season 11 Game 73: Shoe Thieves 3  @  7 Fridays |
+| G2: Season 11 Game 74: Shoe Thieves 1  @  6 Fridays |
+| G3: Season 11 Game 75: Shoe Thieves 3  @  9 Fridays |
+| G4: Season 11 Game 76: Shoe Thieves 2  @  6 Moist Talkers |
+| G5: Season 11 Game 77: Shoe Thieves 1  @  3 Moist Talkers |
+| G6: Season 11 Game 78: Shoe Thieves 5  @  6 Moist Talkers |
+
+<br />
+
+| 6 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 91, 92, 93, 94, 95, 96 |
+| G1: Season 11 Game 92: Pies 5  @  4 Shoe Thieves |
+| G2: Season 11 Game 93: Pies 3  @  2 Shoe Thieves |
+| G3: Season 11 Game 94: Shoe Thieves 2  @  7 Wild Wings |
+| G4: Season 11 Game 95: Shoe Thieves 2  @  5 Wild Wings |
+| G5: Season 11 Game 96: Shoe Thieves 0  @  3 Wild Wings |
+| G6: Season 11 Game 97: Shoe Thieves 1  @  6 Millennials |
+
+<br />
+
 | 5 Game Losing Streak by the Shoe Thieves |
 | ----- |
 | Season 5 Games 0, 1, 2, 3, 4 |
@@ -116,17 +143,6 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 
 | 5 Game Losing Streak by the Shoe Thieves |
 | ----- |
-| Season 6 Games 41, 42, 43, 44, 45 |
-| G1: Season 6 Game 42: Shoe Thieves 3  @  6 Fridays |
-| G2: Season 6 Game 43: Shoe Thieves 4  @  5 Wild Wings |
-| G3: Season 6 Game 44: Shoe Thieves 1  @  2 Wild Wings |
-| G4: Season 6 Game 45: Shoe Thieves 3  @  4 Wild Wings |
-| G5: Season 6 Game 46: Shoe Thieves 2  @  4 Breath Mints |
-
-<br />
-
-| 5 Game Losing Streak by the Shoe Thieves |
-| ----- |
 | Season 6 Games 62, 63, 64, 65, 66 |
 | G1: Season 6 Game 63: Pies 7  @  4 Shoe Thieves |
 | G2: Season 6 Game 64: Shoe Thieves 2  @  3 Tigers |
@@ -144,6 +160,17 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | G3: Season 7 Game 50: Shoe Thieves 4  @  5 Fridays |
 | G4: Season 7 Game 51: Shoe Thieves 2  @  3 Fridays |
 | G5: Season 7 Game 52: Fridays 3  @  2 Shoe Thieves |
+
+<br />
+
+| 5 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 24, 25, 26, 27, 28 |
+| G1: Season 11 Game 25: Shoe Thieves 0  @  5 Moist Talkers |
+| G2: Season 11 Game 26: Shoe Thieves 6  @  8 Moist Talkers |
+| G3: Season 11 Game 27: Shoe Thieves 1  @  3 Moist Talkers |
+| G4: Season 11 Game 28: Shoe Thieves 0  @  1 Fridays |
+| G5: Season 11 Game 29: Shoe Thieves 1  @  3 Fridays |
 
 <br />
 
@@ -204,6 +231,16 @@ Losing streaks of 4 or more games for Shoe Thieves versus all teams for all time
 | G2: Season 5 Game 52: Shoe Thieves 5  @  6 Millennials |
 | G3: Season 5 Game 53: Shoe Thieves 3  @  9 Millennials |
 | G4: Season 5 Game 54: Shoe Thieves 1  @  6 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Shoe Thieves |
+| ----- |
+| Season 6 Games 14, 18, 19, 20 |
+| G1: Season 6 Game 15: Magic 13 @  7 Shoe Thieves |
+| G2: Season 6 Game 19: Shoe Thieves 1  @  4 Lovers |
+| G3: Season 6 Game 20: Shoe Thieves 9  @ 12 Lovers |
+| G4: Season 6 Game 21: Shoe Thieves 1  @  2 Lovers |
 
 <br />
 

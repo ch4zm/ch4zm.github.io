@@ -1,5 +1,5 @@
 # Sunbeams Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -13,6 +13,7 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 10         | 5          | 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 |
 | Sunbeams                       | 9          | 1          | 2, 3, 4, 5, 6, 7, 8, 9, 10 |
 | Sunbeams                       | 9          | 5          | 71, 72, 73, 74, 75, 76, 77, 78, 79 |
+| Sunbeams                       | 9          | 11         | 68, 69, 70, 71, 72, 73, 74, 75, 76 |
 | Sunbeams                       | 8          | 2          | 7, 8, 9, 10, 11, 12, 13, 14 |
 | Sunbeams                       | 8          | 10         | 11, 12, 13, 14, 15, 16, 17, 18 |
 | Sunbeams                       | 7          | 1          | 33, 34, 35, 36, 37, 38, 39 |
@@ -98,6 +99,21 @@ Losing streaks of 4 or more games for Sunbeams versus all teams for all time
 | G7: Season 5 Game 77: Garages 5  @  4 Sunbeams |
 | G8: Season 5 Game 78: Garages 6  @  2 Sunbeams |
 | G9: Season 5 Game 79: Sunbeams 4  @  5 Wild Wings |
+
+<br />
+
+| 9 Game Losing Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 67, 68, 69, 70, 71, 72, 73, 74, 75 |
+| G1: Season 11 Game 68: Sunbeams 1  @  4 Jazz Hands |
+| G2: Season 11 Game 69: Sunbeams 5  @  6 Jazz Hands |
+| G3: Season 11 Game 70: Sunbeams 0  @  3 Spies |
+| G4: Season 11 Game 71: Sunbeams 1  @  2 Spies |
+| G5: Season 11 Game 72: Sunbeams 2  @  4 Spies |
+| G6: Season 11 Game 73: Dale 8  @  3 Sunbeams |
+| G7: Season 11 Game 74: Dale 8  @  5 Sunbeams |
+| G8: Season 11 Game 75: Dale 7  @  4 Sunbeams |
+| G9: Season 11 Game 76: Tacos 6  @  4 Sunbeams |
 
 <br />
 

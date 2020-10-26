@@ -28,7 +28,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 2 | Philly Pies | 14 - 1 | Baltimore Crabs | 
 | 2 | 69 | Philly Pies | 14 - 1 | Hellmouth Sunbeams | 
 | 3 | 49 | Hades Tigers | 14 - 2 | Philly Pies | 
-| 9 | 33 | Philly Pies | 14 - 2 | Hawaii Fridays | 
+| 9 | 33 | Philly Pies | 14 - 2 | Hawai'i Fridays | 
 | 9 | 54 | Philly Pies | 14 - 3 | New York Millennials | 
 | 1 | 102* | Philly Pies | 14 - 4 | Breckenridge Jazz Hands | 
 | 7 | 64 | Philly Pies | 14 - 4 | Charleston Shoe Thieves | 

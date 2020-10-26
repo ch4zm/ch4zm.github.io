@@ -17,6 +17,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 52 | Kansas City Breath Mints (44%) | 12 - 4 | Charleston Shoe Thieves (56%) | 
 | 2 | 12 | Kansas City Breath Mints (42%) | 9 - 1 | Los Angeles Tacos (58%) | 
 | 10 | 79 | Seattle Garages (41%) | 9 - 1 | Kansas City Breath Mints (59%) | 
+| 11 | 41 | Kansas City Breath Mints (45%) | 9 - 1 | Charleston Shoe Thieves (55%) | 
+| 11 | 47 | Kansas City Breath Mints (42%) | 9 - 1 | Seattle Garages (58%) | 
 | 5 | 93 | Kansas City Breath Mints (42%) | 8 - 0 | Chicago Firefighters (58%) | 
 | 6 | 30 | Kansas City Breath Mints (45%) | 15 - 8 | Canada Moist Talkers (55%) | 
 | 6 | 6 | Kansas City Breath Mints (45%) | 10 - 3 | Dallas Steaks (55%) | 
@@ -30,7 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 3 | 23 | Kansas City Breath Mints (40%) | 12 - 6 | New York Millennials (60%) | 
 | 8 | 75 | Kansas City Breath Mints (36%) | 11 - 5 | Seattle Garages (64%) | 
 | 9 | 11 | Boston Flowers (46%) | 10 - 4 | Kansas City Breath Mints (54%) | 
-| 5 | 47 | Kansas City Breath Mints (43%) | 9 - 3 | New York Millennials (57%) | 
-| 6 | 34 | Dallas Steaks (45%) | 9 - 3 | Kansas City Breath Mints (55%) | 
 
 

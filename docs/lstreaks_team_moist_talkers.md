@@ -1,5 +1,5 @@
 # Moist Talkers Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Moist Talkers                  | 7          | 6          | 1, 2, 3, 4, 5, 6, 7 |
+| Moist Talkers                  | 7          | 6          | 27, 28, 29, 30, 34, 35, 36 |
 | Moist Talkers                  | 6          | 4          | 2, 3, 4, 5, 6, 7 |
 | Moist Talkers                  | 6          | 5          | 27, 28, 29, 30, 40, 41 |
 | Moist Talkers                  | 6          | 6          | 20, 21, 22, 23, 24, 25 |
@@ -25,9 +26,6 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | Moist Talkers                  | 4          | 3          | 29, 30, 34, 35 |
 | Moist Talkers                  | 4          | 4          | 21, 22, 23, 24 |
 | Moist Talkers                  | 4          | 5          | 87, 88, 89, 90 |
-| Moist Talkers                  | 4          | 6          | 27, 28, 29, 30 |
-| Moist Talkers                  | 4          | 6          | 33, 34, 35, 36 |
-| Moist Talkers                  | 4          | 6          | 93, 94, 95, 96 |
 | Moist Talkers                  | 4          | 7          | 16, 17, 18, 19 |
 | Moist Talkers                  | 4          | 7          | 41, 42, 43, 44 |
 | Moist Talkers                  | 4          | 7          | 75, 76, 77, 78 |
@@ -35,6 +33,7 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | Moist Talkers                  | 4          | 8          | 22, 23, 24, 25 |
 | Moist Talkers                  | 4          | 8          | 27, 28, 29, 30 |
 | Moist Talkers                  | 4          | 8          | 55, 56, 57, 58 |
+| Moist Talkers                  | 4          | 11         | 42, 43, 44, 45 |
 
 
 
@@ -56,6 +55,19 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G5: Season 6 Game 5: Shoe Thieves 10 @  6 Moist Talkers |
 | G6: Season 6 Game 6: Shoe Thieves 3  @  2 Moist Talkers |
 | G7: Season 6 Game 7: Moist Talkers 5  @  7 Breath Mints |
+
+<br />
+
+| 7 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 6 Games 26, 27, 28, 29, 33, 34, 35 |
+| G1: Season 6 Game 27: Moist Talkers 3  @  8 Breath Mints |
+| G2: Season 6 Game 28: Moist Talkers 5  @  7 Breath Mints |
+| G3: Season 6 Game 29: Moist Talkers 2  @  4 Breath Mints |
+| G4: Season 6 Game 30: Moist Talkers 8  @ 15 Breath Mints |
+| G5: Season 6 Game 34: Moist Talkers 4  @  5 Magic |
+| G6: Season 6 Game 35: Moist Talkers 11 @ 15 Magic |
+| G7: Season 6 Game 36: Moist Talkers 4  @  5 Magic |
 
 <br />
 
@@ -216,36 +228,6 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 
 | 4 Game Losing Streak by the Moist Talkers |
 | ----- |
-| Season 6 Games 26, 27, 28, 29 |
-| G1: Season 6 Game 27: Moist Talkers 3  @  8 Breath Mints |
-| G2: Season 6 Game 28: Moist Talkers 5  @  7 Breath Mints |
-| G3: Season 6 Game 29: Moist Talkers 2  @  4 Breath Mints |
-| G4: Season 6 Game 30: Moist Talkers 8  @ 15 Breath Mints |
-
-<br />
-
-| 4 Game Losing Streak by the Moist Talkers |
-| ----- |
-| Season 6 Games 32, 33, 34, 35 |
-| G1: Season 6 Game 33: Moist Talkers 2  @  4 Wild Wings |
-| G2: Season 6 Game 34: Moist Talkers 4  @  5 Magic |
-| G3: Season 6 Game 35: Moist Talkers 11 @ 15 Magic |
-| G4: Season 6 Game 36: Moist Talkers 4  @  5 Magic |
-
-<br />
-
-| 4 Game Losing Streak by the Moist Talkers |
-| ----- |
-| Season 6 Games 92, 93, 94, 95 |
-| G1: Season 6 Game 93: Tigers 4  @  3 Moist Talkers |
-| G2: Season 6 Game 94: Steaks 16 @  3 Moist Talkers |
-| G3: Season 6 Game 95: Steaks 8  @  1 Moist Talkers |
-| G4: Season 6 Game 96: Steaks 2  @  0 Moist Talkers |
-
-<br />
-
-| 4 Game Losing Streak by the Moist Talkers |
-| ----- |
 | Season 7 Games 15, 16, 17, 18 |
 | G1: Season 7 Game 16: Wild Wings 11 @ 10 Moist Talkers |
 | G2: Season 7 Game 17: Wild Wings 7  @  0 Moist Talkers |
@@ -311,6 +293,16 @@ Losing streaks of 4 or more games for Moist Talkers versus all teams for all tim
 | G2: Season 8 Game 56: Moist Talkers 1  @  2 Tigers |
 | G3: Season 8 Game 57: Moist Talkers 2  @  5 Tigers |
 | G4: Season 8 Game 58: Moist Talkers 4  @  7 Magic |
+
+<br />
+
+| 4 Game Losing Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 41, 42, 43, 44 |
+| G1: Season 11 Game 42: Moist Talkers 4  @  6 Lovers |
+| G2: Season 11 Game 43: Magic 9  @  5 Moist Talkers |
+| G3: Season 11 Game 44: Magic 5  @  2 Moist Talkers |
+| G4: Season 11 Game 45: Magic 7  @  2 Moist Talkers |
 
 
 

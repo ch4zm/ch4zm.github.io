@@ -18,7 +18,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 32 | Hades Tigers | 16 - 4 | Philly Pies | 
 | 6 | 103* | Hades Tigers | 16 - 6 | Kansas City Breath Mints | 
 | 8 | 73 | Hades Tigers | 16 - 8 | Dallas Steaks | 
-| 9 | 72 | Hades Tigers | 15 - 2 | Hawaii Fridays | 
+| 9 | 72 | Hades Tigers | 15 - 2 | Hawai'i Fridays | 
 | 9 | 15 | Hades Tigers | 15 - 3 | New York Millennials | 
 | 9 | 6 | Hades Tigers | 15 - 4 | Seattle Garages | 
 | 5 | 50 | Hades Tigers | 15 - 8 | Seattle Garages | 

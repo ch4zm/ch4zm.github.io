@@ -1,5 +1,5 @@
 # All-Time Shutouts
-(Through season 10)
+(Through season 11)
 
 ## Summary
 
@@ -32,7 +32,7 @@ Shutout games (games where the loser had zero runs) for all time for all teams (
 | 3 | 92 | Hades Tigers | 13 - 0 | Breckenridge Jazz Hands | 
 | 5 | 45 | Breckenridge Jazz Hands | 13 - 0 | Hellmouth Sunbeams | 
 | 7 | 49 | Dallas Steaks | 13 - 0 | Hades Tigers | 
-| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
+| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawai'i Fridays | 
 | 1 | 49 | Charleston Shoe Thieves | 12 - 0 | Kansas City Breath Mints | 
 | 4 | 20 | Charleston Shoe Thieves | 12 - 0 | Unlimited Tacos | 
 

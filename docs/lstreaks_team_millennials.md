@@ -1,5 +1,5 @@
 # Millennials Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -12,6 +12,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Millennials                    | 10         | 9          | 66, 67, 68, 69, 70, 71, 72, 73, 74, 75 |
 | Millennials                    | 9          | 6          | 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Millennials                    | 9          | 11         | 67, 68, 69, 70, 71, 72, 73, 74, 75 |
 | Millennials                    | 8          | 8          | 46, 47, 48, 49, 50, 51, 52, 53 |
 | Millennials                    | 8          | 10         | 30, 31, 32, 33, 34, 35, 36, 37 |
 | Millennials                    | 7          | 1          | 15, 16, 17, 18, 19, 20, 21 |
@@ -21,6 +22,7 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Millennials                    | 6          | 2          | 90, 91, 92, 93, 94, 95 |
 | Millennials                    | 6          | 7          | 1, 2, 3, 4, 5, 6 |
+| Millennials                    | 6          | 11         | 49, 50, 51, 52, 53, 54 |
 | Millennials                    | 5          | 1          | 57, 58, 59, 60, 61 |
 | Millennials                    | 5          | 2          | 67, 68, 69, 70, 71 |
 | Millennials                    | 5          | 4          | 55, 56, 57, 58, 59 |
@@ -42,6 +44,10 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | Millennials                    | 4          | 9          | 30, 31, 32, 33 |
 | Millennials                    | 4          | 10         | 1, 2, 3, 4 |
 | Millennials                    | 4          | 10         | 39, 40, 41, 42 |
+| Millennials                    | 4          | 11         | 2, 3, 4, 5 |
+| Millennials                    | 4          | 11         | 7, 8, 9, 10 |
+| Millennials                    | 4          | 11         | 24, 25, 26, 27 |
+| Millennials                    | 4          | 11         | 90, 91, 92, 93 |
 
 
 
@@ -81,6 +87,21 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G7: Season 6 Game 13: Millennials 3  @  5 Firefighters |
 | G8: Season 6 Game 14: Millennials 2  @  6 Firefighters |
 | G9: Season 6 Game 15: Millennials 2  @  5 Firefighters |
+
+<br />
+
+| 9 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 66, 67, 68, 69, 70, 71, 72, 73, 74 |
+| G1: Season 11 Game 67: Millennials 5  @  6 Steaks |
+| G2: Season 11 Game 68: Millennials 2  @  8 Steaks |
+| G3: Season 11 Game 69: Millennials 6  @  7 Steaks |
+| G4: Season 11 Game 70: Fridays 3  @  1 Millennials |
+| G5: Season 11 Game 71: Fridays 5  @  4 Millennials |
+| G6: Season 11 Game 72: Fridays 3  @  1 Millennials |
+| G7: Season 11 Game 73: Lovers 8  @  3 Millennials |
+| G8: Season 11 Game 74: Lovers 5  @  3 Millennials |
+| G9: Season 11 Game 75: Lovers 9  @  6 Millennials |
 
 <br />
 
@@ -197,6 +218,18 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G4: Season 7 Game 4: Lovers 6  @  3 Millennials |
 | G5: Season 7 Game 5: Lovers 3  @  1 Millennials |
 | G6: Season 7 Game 6: Lovers 12 @  4 Millennials |
+
+<br />
+
+| 6 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 48, 49, 50, 51, 52, 53 |
+| G1: Season 11 Game 49: Shoe Thieves 7  @  2 Millennials |
+| G2: Season 11 Game 50: Shoe Thieves 4  @  3 Millennials |
+| G3: Season 11 Game 51: Shoe Thieves 8  @  4 Millennials |
+| G4: Season 11 Game 52: Magic 6  @  4 Millennials |
+| G5: Season 11 Game 53: Magic 3  @  1 Millennials |
+| G6: Season 11 Game 54: Magic 5  @  1 Millennials |
 
 <br />
 
@@ -414,6 +447,46 @@ Losing streaks of 4 or more games for Millennials versus all teams for all time
 | G2: Season 10 Game 40: Garages 12 @  4 Millennials |
 | G3: Season 10 Game 41: Garages 6  @  2 Millennials |
 | G4: Season 10 Game 42: Garages 6  @  1 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 1, 2, 3, 4 |
+| G1: Season 11 Game 2: Breath Mints 8  @  7 Millennials |
+| G2: Season 11 Game 3: Breath Mints 2  @  1 Millennials |
+| G3: Season 11 Game 4: Breath Mints 2  @  1 Millennials |
+| G4: Season 11 Game 5: Breath Mints 8  @  2 Millennials |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 6, 7, 8, 9 |
+| G1: Season 11 Game 7: Millennials 1  @  3 Garages |
+| G2: Season 11 Game 8: Millennials 2  @  4 Garages |
+| G3: Season 11 Game 9: Millennials 5  @  6 Garages |
+| G4: Season 11 Game 10: Millennials 0  @  6 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 23, 24, 25, 26 |
+| G1: Season 11 Game 24: Fridays 9  @  2 Millennials |
+| G2: Season 11 Game 25: Millennials 5  @  6 Lovers |
+| G3: Season 11 Game 26: Millennials 4  @  5 Lovers |
+| G4: Season 11 Game 27: Millennials 7  @  8 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Millennials |
+| ----- |
+| Season 11 Games 89, 90, 91, 92 |
+| G1: Season 11 Game 90: Millennials 1  @  7 Steaks |
+| G2: Season 11 Game 91: Garages 8  @  3 Millennials |
+| G3: Season 11 Game 92: Garages 4  @  3 Millennials |
+| G4: Season 11 Game 93: Garages 8  @  2 Millennials |
 
 
 

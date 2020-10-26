@@ -1,5 +1,5 @@
 # Tacos Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -45,6 +45,7 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 5          | 8          | 21, 22, 23, 24, 25 |
 | Tacos                          | 5          | 9          | 70, 71, 72, 73, 74 |
 | Tacos                          | 5          | 10         | 34, 35, 36, 37, 38 |
+| Tacos                          | 5          | 11         | 52, 53, 54, 55, 56 |
 | Tacos                          | 4          | 1          | 85, 86, 87, 88 |
 | Tacos                          | 4          | 2          | 6, 7, 8, 9 |
 | Tacos                          | 4          | 5          | 1, 2, 3, 4 |
@@ -62,6 +63,8 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | Tacos                          | 4          | 9          | 65, 66, 67, 68 |
 | Tacos                          | 4          | 9          | 93, 94, 95, 96 |
 | Tacos                          | 4          | 10         | 40, 41, 42, 43 |
+| Tacos                          | 4          | 11         | 26, 27, 28, 29 |
+| Tacos                          | 4          | 11         | 90, 91, 92, 93 |
 
 
 
@@ -527,6 +530,17 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Tacos |
+| ----- |
+| Season 11 Games 51, 52, 53, 54, 55 |
+| G1: Season 11 Game 52: Tigers 3  @  1 Tacos |
+| G2: Season 11 Game 53: Tigers 8  @  0 Tacos |
+| G3: Season 11 Game 54: Tigers 6  @  2 Tacos |
+| G4: Season 11 Game 55: Tigers 8  @  2 Tacos |
+| G5: Season 11 Game 56: Tigers 7  @  3 Tacos |
+
+<br />
+
 | 4 Game Losing Streak by the Tacos |
 | ----- |
 | Season 1 Games 84, 85, 86, 87 |
@@ -694,6 +708,26 @@ Losing streaks of 4 or more games for Tacos versus all teams for all time
 | G2: Season 10 Game 41: Tacos 0  @  1 Lovers |
 | G3: Season 10 Game 42: Tacos 1  @  6 Lovers |
 | G4: Season 10 Game 43: Tacos 2  @  3 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 11 Games 25, 26, 27, 28 |
+| G1: Season 11 Game 26: Tacos 3  @  6 Wild Wings |
+| G2: Season 11 Game 27: Tacos 0  @  2 Wild Wings |
+| G3: Season 11 Game 28: Tacos 7  @  8 Tigers |
+| G4: Season 11 Game 29: Tacos 8  @  9 Tigers |
+
+<br />
+
+| 4 Game Losing Streak by the Tacos |
+| ----- |
+| Season 11 Games 89, 90, 91, 92 |
+| G1: Season 11 Game 90: Tacos 0  @  3 Firefighters |
+| G2: Season 11 Game 91: Tacos 5  @  6 Tigers |
+| G3: Season 11 Game 92: Tacos 3  @  9 Tigers |
+| G4: Season 11 Game 93: Tacos 3  @  5 Tigers |
 
 
 

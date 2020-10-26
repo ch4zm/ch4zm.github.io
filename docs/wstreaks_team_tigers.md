@@ -1,5 +1,5 @@
 # Tigers Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -43,6 +43,10 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 5          | 5          | 30, 31, 32, 33, 34 |
 | Tigers                         | 5          | 8          | 101, 102, 103, 104, 105 |
 | Tigers                         | 5          | 10         | 82, 83, 84, 85, 86 |
+| Tigers                         | 5          | 11         | 1, 2, 3, 4, 5 |
+| Tigers                         | 5          | 11         | 25, 26, 27, 28, 29 |
+| Tigers                         | 5          | 11         | 32, 33, 34, 35, 36 |
+| Tigers                         | 5          | 11         | 52, 53, 54, 55, 56 |
 | Tigers                         | 4          | 1          | 32, 33, 34, 35 |
 | Tigers                         | 4          | 2          | 36, 37, 38, 39 |
 | Tigers                         | 4          | 2          | 42, 43, 44, 45 |
@@ -62,6 +66,7 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | Tigers                         | 4          | 7          | 20, 21, 22, 23 |
 | Tigers                         | 4          | 8          | 65, 66, 67, 68 |
 | Tigers                         | 4          | 8          | 96, 97, 98, 99 |
+| Tigers                         | 4          | 11         | 76, 77, 78, 79 |
 
 
 
@@ -488,6 +493,50 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 
 <br />
 
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 11 Games 0, 1, 2, 3, 4 |
+| G1: Season 11 Game 1: Wild Wings 2  @  3 Tigers |
+| G2: Season 11 Game 2: Wild Wings 1  @  5 Tigers |
+| G3: Season 11 Game 3: Wild Wings 1  @  3 Tigers |
+| G4: Season 11 Game 4: Sunbeams 2  @  6 Tigers |
+| G5: Season 11 Game 5: Sunbeams 6  @  8 Tigers |
+
+<br />
+
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 11 Games 24, 25, 26, 27, 28 |
+| G1: Season 11 Game 25: Jazz Hands 4  @  5 Tigers |
+| G2: Season 11 Game 26: Jazz Hands 3  @  4 Tigers |
+| G3: Season 11 Game 27: Jazz Hands 3  @  6 Tigers |
+| G4: Season 11 Game 28: Tacos 7  @  8 Tigers |
+| G5: Season 11 Game 29: Tacos 8  @  9 Tigers |
+
+<br />
+
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 11 Games 31, 32, 33, 34, 35 |
+| G1: Season 11 Game 32: Tigers 5  @  2 Spies |
+| G2: Season 11 Game 33: Tigers 4  @  2 Spies |
+| G3: Season 11 Game 34: Tigers 2  @  1 Wild Wings |
+| G4: Season 11 Game 35: Tigers 9  @  8 Wild Wings |
+| G5: Season 11 Game 36: Tigers 4  @  2 Wild Wings |
+
+<br />
+
+| 5 Game Winning Streak by the Tigers |
+| ----- |
+| Season 11 Games 51, 52, 53, 54, 55 |
+| G1: Season 11 Game 52: Tigers 3  @  1 Tacos |
+| G2: Season 11 Game 53: Tigers 8  @  0 Tacos |
+| G3: Season 11 Game 54: Tigers 6  @  2 Tacos |
+| G4: Season 11 Game 55: Tigers 8  @  2 Tacos |
+| G5: Season 11 Game 56: Tigers 7  @  3 Tacos |
+
+<br />
+
 | 4 Game Winning Streak by the Tigers |
 | ----- |
 | Season 1 Games 31, 32, 33, 34 |
@@ -675,6 +724,16 @@ Winning streaks of 4 or more games for Tigers versus all teams for all time
 | G2: Season 8 Game 97: Breath Mints 0  @  8 Tigers |
 | G3: Season 8 Game 98: Breath Mints 4  @  6 Tigers |
 | G4: Season 8 Game 99: Breath Mints -1 @  1 Tigers |
+
+<br />
+
+| 4 Game Winning Streak by the Tigers |
+| ----- |
+| Season 11 Games 75, 76, 77, 78 |
+| G1: Season 11 Game 76: Spies 2  @  5 Tigers |
+| G2: Season 11 Game 77: Spies 3  @  7 Tigers |
+| G3: Season 11 Game 78: Spies 3  @  9 Tigers |
+| G4: Season 11 Game 79: Tigers 9  @  1 Firefighters |
 
 
 

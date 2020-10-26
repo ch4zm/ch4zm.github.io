@@ -30,7 +30,7 @@ Shame games (games where the loser was shamed) for season 9 for all teams (note:
 | 9 | 86 | Baltimore Crabs | 7 - 5 | Boston Flowers | 
 | 9 | 16 | San Francisco Lovers | 6 - 4 | Unlimited Tacos | 
 | 9 | 16 | Canada Moist Talkers | 6 - 4 | Philly Pies | 
-| 9 | 24 | Philly Pies | 6 - 4 | Hawaii Fridays | 
+| 9 | 24 | Philly Pies | 6 - 4 | Hawai'i Fridays | 
 | 9 | 27 | New York Millennials | 6 - 4 | Miami Dale | 
 
 

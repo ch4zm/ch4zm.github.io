@@ -1,5 +1,5 @@
 # Dale Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -24,6 +24,8 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | Dale                           | 4          | 9          | 39, 40, 41, 42 |
 | Dale                           | 4          | 9          | 62, 63, 64, 65 |
 | Dale                           | 4          | 10         | 84, 85, 86, 87 |
+| Dale                           | 4          | 11         | 2, 3, 4, 5 |
+| Dale                           | 4          | 11         | 92, 93, 94, 95 |
 
 
 
@@ -177,6 +179,26 @@ Losing streaks of 4 or more games for Dale versus all teams for all time
 | G2: Season 10 Game 85: Dale 1  @  4 Wild Wings |
 | G3: Season 10 Game 86: Dale 3  @ 12 Wild Wings |
 | G4: Season 10 Game 87: Dale 5  @  7 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Dale |
+| ----- |
+| Season 11 Games 1, 2, 3, 4 |
+| G1: Season 11 Game 2: Sunbeams 6  @  3 Dale |
+| G2: Season 11 Game 3: Sunbeams 3  @  1 Dale |
+| G3: Season 11 Game 4: Dale 3  @  9 Firefighters |
+| G4: Season 11 Game 5: Dale 3  @  7 Firefighters |
+
+<br />
+
+| 4 Game Losing Streak by the Dale |
+| ----- |
+| Season 11 Games 91, 92, 93, 94 |
+| G1: Season 11 Game 92: Jazz Hands 6  @  4 Dale |
+| G2: Season 11 Game 93: Jazz Hands 6  @  5 Dale |
+| G3: Season 11 Game 94: Breath Mints 7  @  5 Dale |
+| G4: Season 11 Game 95: Breath Mints 3  @  0 Dale |
 
 
 

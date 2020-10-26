@@ -1,5 +1,5 @@
 # Magic Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -26,8 +26,6 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 6          | 10         | 77, 78, 79, 80, 81, 82 |
 | Magic                          | 5          | 2          | 28, 29, 30, 31, 32 |
 | Magic                          | 5          | 4          | 50, 51, 52, 53, 54 |
-| Magic                          | 5          | 6          | 37, 38, 39, 40, 41 |
-| Magic                          | 5          | 6          | 61, 62, 63, 64, 65 |
 | Magic                          | 5          | 7          | 24, 25, 26, 27, 28 |
 | Magic                          | 5          | 7          | 53, 54, 55, 56, 57 |
 | Magic                          | 5          | 9          | 52, 53, 54, 55, 56 |
@@ -42,8 +40,8 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 5          | 10, 11, 12, 13 |
 | Magic                          | 4          | 5          | 30, 31, 32, 33 |
 | Magic                          | 4          | 5          | 93, 94, 95, 96 |
-| Magic                          | 4          | 6          | 70, 71, 72, 73 |
-| Magic                          | 4          | 6          | 80, 81, 82, 83 |
+| Magic                          | 4          | 6          | 61, 62, 63, 67 |
+| Magic                          | 4          | 6          | 77, 78, 82, 83 |
 | Magic                          | 4          | 7          | 76, 77, 78, 79 |
 | Magic                          | 4          | 8          | 19, 20, 21, 22 |
 | Magic                          | 4          | 8          | 49, 50, 51, 52 |
@@ -52,6 +50,8 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 9          | 47, 48, 49, 50 |
 | Magic                          | 4          | 10         | 30, 31, 32, 33 |
 | Magic                          | 4          | 10         | 55, 56, 57, 58 |
+| Magic                          | 4          | 11         | 15, 16, 17, 18 |
+| Magic                          | 4          | 11         | 96, 97, 98, 99 |
 
 
 
@@ -266,28 +266,6 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 
 | 5 Game Losing Streak by the Magic |
 | ----- |
-| Season 6 Games 36, 37, 38, 39, 40 |
-| G1: Season 6 Game 37: Wild Wings 8  @  2 Magic |
-| G2: Season 6 Game 38: Wild Wings 4  @  2 Magic |
-| G3: Season 6 Game 39: Wild Wings 9  @  4 Magic |
-| G4: Season 6 Game 40: Pies 13 @  3 Magic |
-| G5: Season 6 Game 41: Pies 7  @  0 Magic |
-
-<br />
-
-| 5 Game Losing Streak by the Magic |
-| ----- |
-| Season 6 Games 60, 61, 62, 63, 64 |
-| G1: Season 6 Game 61: Garages 5  @  3 Magic |
-| G2: Season 6 Game 62: Garages 5  @  1 Magic |
-| G3: Season 6 Game 63: Garages 9  @  3 Magic |
-| G4: Season 6 Game 64: Wild Wings 6  @  5 Magic |
-| G5: Season 6 Game 65: Wild Wings 8  @  1 Magic |
-
-<br />
-
-| 5 Game Losing Streak by the Magic |
-| ----- |
 | Season 7 Games 23, 24, 25, 26, 27 |
 | G1: Season 7 Game 24: Magic 5  @  7 Garages |
 | G2: Season 7 Game 25: Magic 4  @  6 Shoe Thieves |
@@ -434,19 +412,19 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 
 | 4 Game Losing Streak by the Magic |
 | ----- |
-| Season 6 Games 69, 70, 71, 72 |
-| G1: Season 6 Game 70: Wild Wings 3  @  2 Magic |
-| G2: Season 6 Game 71: Wild Wings 10 @  2 Magic |
-| G3: Season 6 Game 72: Wild Wings 10 @  4 Magic |
-| G4: Season 6 Game 73: Wild Wings 7  @  0 Magic |
+| Season 6 Games 60, 61, 62, 66 |
+| G1: Season 6 Game 61: Garages 5  @  3 Magic |
+| G2: Season 6 Game 62: Garages 5  @  1 Magic |
+| G3: Season 6 Game 63: Garages 9  @  3 Magic |
+| G4: Season 6 Game 67: Magic 6  @  8 Steaks |
 
 <br />
 
 | 4 Game Losing Streak by the Magic |
 | ----- |
-| Season 6 Games 79, 80, 81, 82 |
-| G1: Season 6 Game 80: Magic 2  @  9 Wild Wings |
-| G2: Season 6 Game 81: Magic 3  @  4 Wild Wings |
+| Season 6 Games 76, 77, 81, 82 |
+| G1: Season 6 Game 77: Tigers 6  @  0 Magic |
+| G2: Season 6 Game 78: Tigers 6  @  1 Magic |
 | G3: Season 6 Game 82: Tigers 6  @  0 Magic |
 | G4: Season 6 Game 83: Tigers 3  @  1 Magic |
 
@@ -529,6 +507,26 @@ Losing streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 10 Game 56: Breath Mints 9  @  0 Magic |
 | G3: Season 10 Game 57: Breath Mints 9  @  2 Magic |
 | G4: Season 10 Game 58: Magic 2  @  6 Breath Mints |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 11 Games 14, 15, 16, 17 |
+| G1: Season 11 Game 15: Steaks 7  @  5 Magic |
+| G2: Season 11 Game 16: Magic 1  @  7 Garages |
+| G3: Season 11 Game 17: Magic 1  @  2 Garages |
+| G4: Season 11 Game 18: Magic 2  @  5 Garages |
+
+<br />
+
+| 4 Game Losing Streak by the Magic |
+| ----- |
+| Season 11 Games 95, 96, 97, 98 |
+| G1: Season 11 Game 96: Magic 4  @  6 Fridays |
+| G2: Season 11 Game 97: Magic 3  @  5 Moist Talkers |
+| G3: Season 11 Game 98: Magic 5  @  6 Moist Talkers |
+| G4: Season 11 Game 99: Magic 3  @  8 Moist Talkers |
 
 
 

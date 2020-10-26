@@ -7,30 +7,30 @@ Shame games (games where the loser was shamed) for all time for team Dale (note:
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 11 | 90 | Mexico City Wild Wings | 8 - 0 | Miami Dale | 
 | 10 | 82 | Baltimore Crabs | 9 - 3 | Miami Dale | 
-| 1 | 98 | Miami Dalé | 11 - 7 | Seattle Garages | 
-| 2 | 88 | Breckenridge Jazz Hands | 8 - 4 | Miami Dalé | 
-| 4 | 95 | Miami Dalé | 8 - 4 | Breckenridge Jazz Hands | 
+| 11 | 73 | Miami Dale | 8 - 3 | Hellmouth Sunbeams | 
 | 10 | 76 | Unlimited Tacos | 8 - 4 | Miami Dale | 
+| 11 | 98 | Mexico City Wild Wings | 8 - 4 | Miami Dale | 
 | 7 | 83 | Boston Flowers | 7 - 3 | Miami Dale | 
-| 6 | 32 | Miami Dalé | 6 - 2 | Unlimited Tacos | 
 | 9 | 71 | Miami Dale | 5 - 1 | Baltimore Crabs | 
 | 8 | 64 | Hellmouth Sunbeams | 11 - 8 | Miami Dale | 
 | 9 | 15 | Mexico City Wild Wings | 11 - 8 | Miami Dale | 
-| 5 | 93 | Canada Moist Talkers | 10 - 7 | Miami Dalé | 
 | 7 | 88 | Hellmouth Sunbeams | 8 - 5 | Miami Dale | 
 | 8 | 38 | New York Millennials | 8 - 5 | Miami Dale | 
-| 4 | 18 | Houston Spies | 7 - 4 | Miami Dalé | 
-| 5 | 71 | Yellowstone Magic | 7 - 4 | Miami Dalé | 
-| 6 | 61 | Breckenridge Jazz Hands | 7 - 4 | Miami Dalé | 
-| 2 | 1 | Miami Dalé | 6 - 3 | Philly Pies | 
-| 5 | 1 | Philly Pies | 6 - 3 | Miami Dalé | 
-| 6 | 8 | San Francisco Lovers | 6 - 3 | Miami Dalé | 
+| 11 | 96 | Miami Dale | 7 - 4 | Kansas City Breath Mints | 
 | 7 | 79 | San Francisco Lovers | 5 - 2 | Miami Dale | 
 | 10 | 13 | Boston Flowers | 5 - 2 | Miami Dale | 
 | 7 | 94 | Miami Dale | 10 - 8 | Chicago Firefighters | 
-| 2 | 71 | Miami Dalé | 8 - 6 | Breckenridge Jazz Hands | 
-| 3 | 62 | Mexico City Wild Wings | 7 - 5 | Miami Dalé | 
-| 6 | 52 | Breckenridge Jazz Hands | 7 - 5 | Miami Dalé | 
+| 11 | 54 | Hellmouth Sunbeams | 8 - 6 | Miami Dale | 
+| 8 | 72 | Miami Dale | 6 - 4 | Houston Spies | 
+| 9 | 27 | New York Millennials | 6 - 4 | Miami Dale | 
+| 9 | 91 | Chicago Firefighters | 5 - 3 | Miami Dale | 
+| 7 | 68 | Houston Spies | 4 - 2 | Miami Dale | 
+| 9 | 20 | Miami Dale | 4 - 2 | Breckenridge Jazz Hands | 
+| 9 | 65 | Chicago Firefighters | 3 - 1 | Miami Dale | 
+| 10 | 11 | Miami Dale | 3 - 1 | Unlimited Tacos | 
+| 11 | 29 | Hellmouth Sunbeams | 3 - 1 | Miami Dale | 
+| 9 | 40 | Boston Flowers | 8 - 7 | Miami Dale | 
 
 

@@ -1,5 +1,5 @@
 # Firefighters Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -16,6 +16,7 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 7          | 2          | 25, 26, 27, 28, 29, 30, 31 |
 | Firefighters                   | 7          | 5          | 94, 95, 96, 97, 98, 99, 100 |
 | Firefighters                   | 7          | 6          | 11, 12, 13, 14, 15, 16, 17 |
+| Firefighters                   | 7          | 11         | 69, 73, 74, 75, 76, 77, 78 |
 | Firefighters                   | 6          | 1          | 41, 42, 43, 44, 45, 46 |
 | Firefighters                   | 6          | 2          | 2, 3, 4, 5, 6, 7 |
 | Firefighters                   | 6          | 2          | 12, 13, 14, 15, 16, 17 |
@@ -27,6 +28,8 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 5          | 3          | 82, 83, 84, 85, 86 |
 | Firefighters                   | 5          | 8          | 17, 18, 19, 20, 21 |
 | Firefighters                   | 5          | 8          | 26, 27, 28, 29, 30 |
+| Firefighters                   | 5          | 11         | 26, 27, 28, 29, 30 |
+| Firefighters                   | 5          | 11         | 51, 55, 56, 57, 58 |
 | Firefighters                   | 4          | 1          | 12, 13, 14, 15 |
 | Firefighters                   | 4          | 1          | 30, 31, 32, 33 |
 | Firefighters                   | 4          | 2          | 51, 52, 53, 54 |
@@ -48,6 +51,8 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | Firefighters                   | 4          | 9          | 40, 41, 42, 43 |
 | Firefighters                   | 4          | 9          | 62, 63, 64, 65 |
 | Firefighters                   | 4          | 10         | 3, 4, 5, 6 |
+| Firefighters                   | 4          | 11         | 2, 3, 4, 5 |
+| Firefighters                   | 4          | 11         | 63, 64, 65, 66 |
 
 
 
@@ -140,6 +145,19 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G5: Season 6 Game 15: Millennials 2  @  5 Firefighters |
 | G6: Season 6 Game 16: Pies 0  @  1 Firefighters |
 | G7: Season 6 Game 17: Pies 3  @  4 Firefighters |
+
+<br />
+
+| 7 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 11 Games 68, 72, 73, 74, 75, 76, 77 |
+| G1: Season 11 Game 69: Firefighters 6  @  5 Tigers |
+| G2: Season 11 Game 73: Firefighters 6  @  4 Flowers |
+| G3: Season 11 Game 74: Firefighters 4  @  1 Flowers |
+| G4: Season 11 Game 75: Firefighters 7  @  5 Flowers |
+| G5: Season 11 Game 76: Firefighters 7  @  4 Flowers |
+| G6: Season 11 Game 77: Firefighters 9  @  3 Flowers |
+| G7: Season 11 Game 78: Firefighters 7  @  3 Flowers |
 
 <br />
 
@@ -267,6 +285,28 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G3: Season 8 Game 28: Lovers 2  @  7 Firefighters |
 | G4: Season 8 Game 29: Lovers 1  @  9 Firefighters |
 | G5: Season 8 Game 30: Lovers 1  @  3 Firefighters |
+
+<br />
+
+| 5 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 11 Games 25, 26, 27, 28, 29 |
+| G1: Season 11 Game 26: Firefighters 8  @  2 Flowers |
+| G2: Season 11 Game 27: Firefighters 9  @  0 Flowers |
+| G3: Season 11 Game 28: Firefighters 3  @  2 Wild Wings |
+| G4: Season 11 Game 29: Firefighters 5  @  3 Wild Wings |
+| G5: Season 11 Game 30: Firefighters 7  @  6 Wild Wings |
+
+<br />
+
+| 5 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 11 Games 50, 54, 55, 56, 57 |
+| G1: Season 11 Game 51: Firefighters 9  @  8 Spies |
+| G2: Season 11 Game 55: Firefighters 4  @  3 Wild Wings |
+| G3: Season 11 Game 56: Firefighters 8  @  6 Wild Wings |
+| G4: Season 11 Game 57: Firefighters 2  @  1 Wild Wings |
+| G5: Season 11 Game 58: Firefighters 2  @  0 Flowers |
 
 <br />
 
@@ -477,6 +517,26 @@ Winning streaks of 4 or more games for Firefighters versus all teams for all tim
 | G2: Season 10 Game 4: Jazz Hands 7  @  8 Firefighters |
 | G3: Season 10 Game 5: Jazz Hands 5  @  6 Firefighters |
 | G4: Season 10 Game 6: Jazz Hands 4  @  9 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 11 Games 1, 2, 3, 4 |
+| G1: Season 11 Game 2: Firefighters 7  @  2 Jazz Hands |
+| G2: Season 11 Game 3: Firefighters 5  @  2 Jazz Hands |
+| G3: Season 11 Game 4: Dale 3  @  9 Firefighters |
+| G4: Season 11 Game 5: Dale 3  @  7 Firefighters |
+
+<br />
+
+| 4 Game Winning Streak by the Firefighters |
+| ----- |
+| Season 11 Games 62, 63, 64, 65 |
+| G1: Season 11 Game 63: Firefighters 6  @  3 Flowers |
+| G2: Season 11 Game 64: Firefighters 4  @  3 Spies |
+| G3: Season 11 Game 65: Firefighters 7  @  4 Spies |
+| G4: Season 11 Game 66: Firefighters 5  @  2 Spies |
 
 
 

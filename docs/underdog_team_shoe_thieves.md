@@ -11,10 +11,12 @@ Underdog games (games where the underdog won with large run differential) for al
 | 10 | 40 | Hawai'i Fridays (45%) | 10 - 1 | Charleston Shoe Thieves (55%) | 
 | 10 | 67 | Philly Pies (43%) | 9 - 0 | Charleston Shoe Thieves (57%) | 
 | 2 | 52 | Kansas City Breath Mints (44%) | 12 - 4 | Charleston Shoe Thieves (56%) | 
+| 11 | 41 | Kansas City Breath Mints (45%) | 9 - 1 | Charleston Shoe Thieves (55%) | 
 | 2 | 25 | Hawaii Fridays (44%) | 9 - 2 | Charleston Shoe Thieves (56%) | 
 | 4 | 45 | Charleston Shoe Thieves (41%) | 9 - 2 | New York Millennials (59%) | 
 | 5 | 91 | Unlimited Tacos (42%) | 9 - 2 | Charleston Shoe Thieves (58%) | 
 | 8 | 25 | Hawaii Fridays (38%) | 9 - 2 | Charleston Shoe Thieves (62%) | 
+| 11 | 82 | Yellowstone Magic (40%) | 9 - 2 | Charleston Shoe Thieves (60%) | 
 | 1 | 26 | Charleston Shoe Thieves (28%) | 8 - 1 | Yellowstone Magic (72%) | 
 | 1 | 33 | Dallas Steaks (43%) | 8 - 1 | Charleston Shoe Thieves (57%) | 
 | 1 | 88 | Charleston Shoe Thieves (44%) | 8 - 1 | Boston Flowers (56%) | 
@@ -27,10 +29,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 29 | Canada Moist Talkers (38%) | 12 - 6 | Charleston Shoe Thieves (62%) | 
 | 2 | 84 | Yellowstone Magic (45%) | 11 - 5 | Charleston Shoe Thieves (55%) | 
 | 1 | 65 | New York Millennials (45%) | 9 - 3 | Charleston Shoe Thieves (55%) | 
-| 6 | 85 | Charleston Shoe Thieves (31%) | 7 - 1 | Mexico City Wild Wings (69%) | 
+| 6 | 85 | Charleston Shoe Thieves (31%) | 7 - 1 | Mexico City Mild Wings (69%) | 
 | 10 | 79 | Dallas Steaks (40%) | 7 - 1 | Charleston Shoe Thieves (60%) | 
 | 3 | 57 | Kansas City Breath Mints (41%) | 21 - 16 | Charleston Shoe Thieves (59%) | 
-| 2 | 108* | Charleston Shoe Thieves (40%) | 9 - 4 | Philly Pies (60%) | 
-| 3 | 81 | Charleston Shoe Thieves (36%) | 8 - 3 | New York Millennials (64%) | 
 
 

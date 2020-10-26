@@ -22,6 +22,7 @@ Maxed out games (high-scoring one-run games) for all time for team Breath Mints 
 | 10 | 42 | Kansas City Breath Mints | 1 - 0 | Canada Moist Talkers | 
 | 10 | 55 | Kansas City Breath Mints | 1 - 0 | Yellowstone Magic | 
 | 10 | 89 | Kansas City Breath Mints | 1 - 0 | Hawai'i Fridays | 
+| 11 | 60 | Kansas City Breath Mints | 1 - 0 | Philly Pies | 
 | 1 | 16 | San Francisco Lovers | 2 - 1 | Kansas City Breath Mints | 
 | 2 | 35 | Kansas City Breath Mints | 2 - 1 | New York Millennials | 
 | 2 | 44 | Kansas City Breath Mints | 2 - 1 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Breath Mints 
 | 3 | 58 | Charleston Shoe Thieves | 2 - 1 | Kansas City Breath Mints | 
 | 3 | 66 | Kansas City Breath Mints | 2 - 1 | Yellowstone Magic | 
 | 4 | 27 | Boston Flowers | 2 - 1 | Kansas City Breath Mints | 
-| 4 | 41 | Kansas City Breath Mints | 2 - 1 | Charleston Shoe Thieves | 
 
 

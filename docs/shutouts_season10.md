@@ -10,8 +10,8 @@ Shutout games (games where the loser had zero runs) for season 10 for all teams 
 | 10 | 77 | Baltimore Crabs | 14 - 0 | Mexico City Wild Wings | 
 | 10 | 81 | Baltimore Crabs | 14 - 0 | Hellmouth Sunbeams | 
 | 10 | 45 | Charleston Shoe Thieves | 12 - 0 | Yellowstone Magic | 
-| 10 | 90 | Houston Spies | 12 - 0 | Mexico City Wild Wings | 
 | 10 | 90 | Hades Tigers | 12 - 0 | Seattle Garages | 
+| 10 | 90 | Houston Spies | 12 - 0 | Mexico City Wild Wings | 
 | 10 | 51 | Boston Flowers | 11 - 0 | Breckenridge Jazz Hands | 
 | 10 | 99 | Dallas Steaks | 11 - 0 | Kansas City Breath Mints | 
 | 10 | 2 | Breckenridge Jazz Hands | 10 - 0 | Baltimore Crabs | 

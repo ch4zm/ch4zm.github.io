@@ -21,6 +21,8 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 8 | 18 | Philly Pies | 1 - 0 | Seattle Garages | 
 | 8 | 43 | Seattle Garages | 1 - 0 | Hawaii Fridays | 
 | 10 | 97 | Seattle Garages | 1 - 0 | Canada Moist Talkers | 
+| 11 | 34 | New York Millennials | 1 - 0 | Seattle Garages | 
+| 11 | 51 | Seattle Garages | 1 - 0 | Hawai'i Fridays | 
 | 1 | 33 | Seattle Garages | 2 - 1 | Mexico City Wild Wings | 
 | 1 | 46 | Miami Dalé | 2 - 1 | Seattle Garages | 
 | 2 | 8 | Houston Spies | 2 - 1 | Seattle Garages | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 3 | 68 | Seattle Garages | 2 - 1 | Philly Pies | 
 | 3 | 79 | Miami Dalé | 2 - 1 | Seattle Garages | 
 | 4 | 36 | Seattle Garages | 2 - 1 | Miami Dalé | 
-| 4 | 78 | Houston Spies | 2 - 1 | Seattle Garages | 
-| 4 | 90 | Canada Moist Talkers | 2 - 1 | Seattle Garages | 
 
 

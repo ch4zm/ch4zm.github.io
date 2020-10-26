@@ -11,6 +11,7 @@ Shame games (games where the loser was shamed) for all time for team Steaks (not
 | 9 | 93 | New York Millennials | 8 - 3 | Dallas Steaks | 
 | 5 | 102* | San Francisco Lovers | 7 - 2 | Dallas Steaks | 
 | 6 | 2 | Dallas Steaks | 8 - 4 | Canada Moist Talkers | 
+| 11 | 44 | New York Millennials | 8 - 4 | Dallas Steaks | 
 | 5 | 98 | Dallas Steaks | 9 - 6 | Breckenridge Jazz Hands | 
 | 5 | 2 | Chicago Firefighters | 7 - 4 | Dallas Steaks | 
 | 5 | 34 | Dallas Steaks | 6 - 3 | Boston Flowers | 
@@ -19,6 +20,7 @@ Shame games (games where the loser was shamed) for all time for team Steaks (not
 | 3 | 5 | Dallas Steaks | 5 - 2 | San Francisco Lovers | 
 | 3 | 16 | Dallas Steaks | 5 - 2 | Hades Tigers | 
 | 3 | 34 | Kansas City Breath Mints | 5 - 2 | Dallas Steaks | 
+| 11 | 9 | Kansas City Breath Mints | 4 - 1 | Dallas Steaks | 
 | 3 | 78 | Chicago Firefighters | 10 - 8 | Dallas Steaks | 
 | 7 | 92 | Hades Tigers | 10 - 8 | Dallas Steaks | 
 | 5 | 85 | Dallas Steaks | 9 - 7 | Charleston Shoe Thieves | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Steaks (not
 | 2 | 11 | Dallas Steaks | 6 - 4 | Charleston Shoe Thieves | 
 | 2 | 43 | Dallas Steaks | 6 - 4 | Hawaii Fridays | 
 | 5 | 22 | Dallas Steaks | 6 - 4 | Chicago Firefighters | 
-| 7 | 1 | Philly Pies | 6 - 4 | Dallas Steaks | 
-| 9 | 88 | Yellowstone Magic | 6 - 4 | Dallas Steaks | 
 
 

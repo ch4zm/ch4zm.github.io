@@ -1,5 +1,5 @@
 # Shoe Thieves Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -17,10 +17,12 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 8          | 9          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Shoe Thieves                   | 7          | 2          | 102, 103, 104, 105, 106, 107, 108 |
 | Shoe Thieves                   | 7          | 10         | 1, 2, 3, 4, 5, 6, 7 |
+| Shoe Thieves                   | 7          | 11         | 1, 2, 3, 4, 5, 6, 7 |
 | Shoe Thieves                   | 6          | 2          | 4, 5, 6, 7, 8, 9 |
 | Shoe Thieves                   | 6          | 7          | 65, 66, 67, 68, 69, 70 |
 | Shoe Thieves                   | 6          | 8          | 42, 43, 44, 45, 46, 47 |
 | Shoe Thieves                   | 6          | 10         | 105, 106, 107, 108, 109, 110 |
+| Shoe Thieves                   | 6          | 11         | 46, 47, 48, 49, 50, 51 |
 | Shoe Thieves                   | 5          | 2          | 77, 78, 79, 80, 81 |
 | Shoe Thieves                   | 5          | 3          | 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 5          | 5          | 62, 63, 64, 65, 66 |
@@ -30,6 +32,8 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 5          | 10         | 16, 17, 18, 19, 20 |
 | Shoe Thieves                   | 5          | 10         | 45, 46, 47, 48, 49 |
 | Shoe Thieves                   | 5          | 10         | 68, 69, 70, 71, 72 |
+| Shoe Thieves                   | 5          | 11         | 13, 14, 15, 16, 17 |
+| Shoe Thieves                   | 5          | 11         | 20, 21, 22, 23, 24 |
 | Shoe Thieves                   | 4          | 1          | 7, 8, 9, 10 |
 | Shoe Thieves                   | 4          | 1          | 26, 27, 28, 29 |
 | Shoe Thieves                   | 4          | 1          | 57, 58, 59, 60 |
@@ -52,6 +56,7 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | Shoe Thieves                   | 4          | 9          | 86, 87, 88, 89 |
 | Shoe Thieves                   | 4          | 9          | 92, 93, 94, 95 |
 | Shoe Thieves                   | 4          | 10         | 93, 94, 95, 96 |
+| Shoe Thieves                   | 4          | 11         | 69, 70, 71, 72 |
 
 
 
@@ -160,6 +165,19 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 
 <br />
 
+| 7 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 0, 1, 2, 3, 4, 5, 6 |
+| G1: Season 11 Game 1: Magic 3  @  5 Shoe Thieves |
+| G2: Season 11 Game 2: Magic 4  @  6 Shoe Thieves |
+| G3: Season 11 Game 3: Magic 1  @  2 Shoe Thieves |
+| G4: Season 11 Game 4: Shoe Thieves 4  @  3 Fridays |
+| G5: Season 11 Game 5: Shoe Thieves 7  @  4 Fridays |
+| G6: Season 11 Game 6: Shoe Thieves 8  @  2 Fridays |
+| G7: Season 11 Game 7: Lovers 2  @  4 Shoe Thieves |
+
+<br />
+
 | 6 Game Winning Streak by the Shoe Thieves |
 | ----- |
 | Season 2 Games 3, 4, 5, 6, 7, 8 |
@@ -205,6 +223,18 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G4: Season 10 Game 108: Millennials 4  @  5 Shoe Thieves |
 | G5: Season 10 Game 109: Shoe Thieves 7  @  2 Millennials |
 | G6: Season 10 Game 110: Millennials 1  @  6 Shoe Thieves |
+
+<br />
+
+| 6 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 45, 46, 47, 48, 49, 50 |
+| G1: Season 11 Game 46: Shoe Thieves 5  @  3 Steaks |
+| G2: Season 11 Game 47: Shoe Thieves 6  @  2 Steaks |
+| G3: Season 11 Game 48: Shoe Thieves 3  @  1 Steaks |
+| G4: Season 11 Game 49: Shoe Thieves 7  @  2 Millennials |
+| G5: Season 11 Game 50: Shoe Thieves 4  @  3 Millennials |
+| G6: Season 11 Game 51: Shoe Thieves 8  @  4 Millennials |
 
 <br />
 
@@ -304,6 +334,28 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G3: Season 10 Game 70: Shoe Thieves 4  @  3 Pies |
 | G4: Season 10 Game 71: Shoe Thieves 3  @  0 Pies |
 | G5: Season 10 Game 72: Shoe Thieves 9  @  8 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 12, 13, 14, 15, 16 |
+| G1: Season 11 Game 13: Garages 0  @  9 Shoe Thieves |
+| G2: Season 11 Game 14: Garages 4  @  8 Shoe Thieves |
+| G3: Season 11 Game 15: Garages 3  @  4 Shoe Thieves |
+| G4: Season 11 Game 16: Shoe Thieves 5  @  1 Fridays |
+| G5: Season 11 Game 17: Shoe Thieves 5  @  4 Fridays |
+
+<br />
+
+| 5 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 19, 20, 21, 22, 23 |
+| G1: Season 11 Game 20: Shoe Thieves 6  @  2 Fridays |
+| G2: Season 11 Game 21: Shoe Thieves 3  @  0 Fridays |
+| G3: Season 11 Game 22: Garages 2  @  3 Shoe Thieves |
+| G4: Season 11 Game 23: Garages 7  @  9 Shoe Thieves |
+| G5: Season 11 Game 24: Garages 5  @  6 Shoe Thieves |
 
 <br />
 
@@ -524,6 +576,16 @@ Winning streaks of 4 or more games for Shoe Thieves versus all teams for all tim
 | G2: Season 10 Game 94: Pies 0  @  3 Shoe Thieves |
 | G3: Season 10 Game 95: Pies 1  @  2 Shoe Thieves |
 | G4: Season 10 Game 96: Pies 0  @  1 Shoe Thieves |
+
+<br />
+
+| 4 Game Winning Streak by the Shoe Thieves |
+| ----- |
+| Season 11 Games 68, 69, 70, 71 |
+| G1: Season 11 Game 69: Shoe Thieves 2  @  1 Fridays |
+| G2: Season 11 Game 70: Shoe Thieves 1  @  0 Moist Talkers |
+| G3: Season 11 Game 71: Shoe Thieves 6  @  4 Moist Talkers |
+| G4: Season 11 Game 72: Shoe Thieves 8  @  3 Moist Talkers |
 
 
 

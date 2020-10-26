@@ -1,5 +1,5 @@
 # Garages Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -10,6 +10,7 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Garages                        | 9          | 11         | 19, 20, 21, 22, 23, 24, 25, 26, 27 |
 | Garages                        | 7          | 1          | 13, 14, 15, 16, 17, 18, 19 |
 | Garages                        | 7          | 4          | 40, 41, 42, 43, 44, 45, 46 |
 | Garages                        | 6          | 1          | 43, 44, 45, 52, 53, 54 |
@@ -36,6 +37,8 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 9          | 95, 96, 97, 98 |
 | Garages                        | 4          | 10         | 69, 70, 71, 72 |
 | Garages                        | 4          | 10         | 75, 76, 77, 78 |
+| Garages                        | 4          | 11         | 12, 13, 14, 15 |
+| Garages                        | 4          | 11         | 57, 58, 59, 60 |
 
 
 
@@ -46,6 +49,21 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Losing streaks of 4 or more games for Garages versus all teams for all time
+
+| 9 Game Losing Streak by the Garages |
+| ----- |
+| Season 11 Games 18, 19, 20, 21, 22, 23, 24, 25, 26 |
+| G1: Season 11 Game 19: Garages 0  @  4 Millennials |
+| G2: Season 11 Game 20: Garages 5  @  7 Millennials |
+| G3: Season 11 Game 21: Garages 5  @  6 Millennials |
+| G4: Season 11 Game 22: Garages 2  @  3 Shoe Thieves |
+| G5: Season 11 Game 23: Garages 7  @  9 Shoe Thieves |
+| G6: Season 11 Game 24: Garages 5  @  6 Shoe Thieves |
+| G7: Season 11 Game 25: Steaks 4  @  2 Garages |
+| G8: Season 11 Game 26: Steaks 8  @  5 Garages |
+| G9: Season 11 Game 27: Steaks 6  @  2 Garages |
+
+<br />
 
 | 7 Game Losing Streak by the Garages |
 | ----- |
@@ -329,6 +347,26 @@ Losing streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 10 Game 76: Garages 5  @  6 Pies |
 | G3: Season 10 Game 77: Garages 6  @ 12 Pies |
 | G4: Season 10 Game 78: Garages 4  @  7 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 11 Games 11, 12, 13, 14 |
+| G1: Season 11 Game 12: Lovers 8  @  3 Garages |
+| G2: Season 11 Game 13: Garages 0  @  9 Shoe Thieves |
+| G3: Season 11 Game 14: Garages 4  @  8 Shoe Thieves |
+| G4: Season 11 Game 15: Garages 3  @  4 Shoe Thieves |
+
+<br />
+
+| 4 Game Losing Streak by the Garages |
+| ----- |
+| Season 11 Games 56, 57, 58, 59 |
+| G1: Season 11 Game 57: Shoe Thieves 8  @  7 Garages |
+| G2: Season 11 Game 58: Spies 6  @  5 Garages |
+| G3: Season 11 Game 59: Spies 9  @  7 Garages |
+| G4: Season 11 Game 60: Spies 7  @  4 Garages |
 
 
 

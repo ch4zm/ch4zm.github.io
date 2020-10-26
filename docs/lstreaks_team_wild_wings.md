@@ -1,5 +1,5 @@
 # Wild Wings Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -20,13 +20,13 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 6          | 10         | 77, 78, 79, 80, 81, 82 |
 | Wild Wings                     | 5          | 1          | 55, 56, 57, 58, 59 |
 | Wild Wings                     | 5          | 4          | 76, 77, 78, 79, 88 |
-| Wild Wings                     | 5          | 6          | 28, 29, 30, 31, 32 |
-| Wild Wings                     | 5          | 6          | 54, 55, 56, 57, 58 |
 | Wild Wings                     | 5          | 7          | 45, 46, 47, 48, 49 |
 | Wild Wings                     | 5          | 9          | 90, 91, 92, 93, 94 |
 | Wild Wings                     | 5          | 10         | 28, 29, 30, 31, 32 |
 | Wild Wings                     | 5          | 10         | 64, 65, 66, 67, 68 |
 | Wild Wings                     | 5          | 10         | 90, 91, 92, 93, 94 |
+| Wild Wings                     | 5          | 11         | 1, 2, 3, 7, 8 |
+| Wild Wings                     | 5          | 11         | 54, 55, 56, 57, 58 |
 | Wild Wings                     | 4          | 1          | 71, 72, 73, 74 |
 | Wild Wings                     | 4          | 1          | 86, 87, 88, 89 |
 | Wild Wings                     | 4          | 1          | 93, 94, 95, 96 |
@@ -38,7 +38,6 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 3          | 56, 57, 58, 59 |
 | Wild Wings                     | 4          | 5          | 25, 26, 27, 28 |
 | Wild Wings                     | 4          | 5          | 32, 33, 34, 35 |
-| Wild Wings                     | 4          | 6          | 66, 67, 68, 69 |
 | Wild Wings                     | 4          | 7          | 9, 10, 11, 12 |
 | Wild Wings                     | 4          | 7          | 70, 71, 72, 73 |
 | Wild Wings                     | 4          | 9          | 22, 23, 24, 25 |
@@ -46,6 +45,10 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | Wild Wings                     | 4          | 9          | 47, 48, 49, 50 |
 | Wild Wings                     | 4          | 9          | 67, 68, 69, 70 |
 | Wild Wings                     | 4          | 10         | 54, 55, 56, 57 |
+| Wild Wings                     | 4          | 11         | 28, 29, 30, 31 |
+| Wild Wings                     | 4          | 11         | 33, 34, 35, 36 |
+| Wild Wings                     | 4          | 11         | 49, 50, 51, 52 |
+| Wild Wings                     | 4          | 11         | 78, 79, 80, 81 |
 
 
 
@@ -186,28 +189,6 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 5 Game Losing Streak by the Wild Wings |
 | ----- |
-| Season 6 Games 27, 28, 29, 30, 31 |
-| G1: Season 6 Game 28: Shoe Thieves 5  @  3 Wild Wings |
-| G2: Season 6 Game 29: Shoe Thieves 4  @  2 Wild Wings |
-| G3: Season 6 Game 30: Shoe Thieves 8  @  6 Wild Wings |
-| G4: Season 6 Game 31: Moist Talkers 4  @  2 Wild Wings |
-| G5: Season 6 Game 32: Moist Talkers 4  @  2 Wild Wings |
-
-<br />
-
-| 5 Game Losing Streak by the Wild Wings |
-| ----- |
-| Season 6 Games 53, 54, 55, 56, 57 |
-| G1: Season 6 Game 54: Wild Wings 4  @  6 Pies |
-| G2: Season 6 Game 55: Flowers 3  @  1 Wild Wings |
-| G3: Season 6 Game 56: Flowers 4  @  3 Wild Wings |
-| G4: Season 6 Game 57: Flowers 8  @  3 Wild Wings |
-| G5: Season 6 Game 58: Garages 3  @  2 Wild Wings |
-
-<br />
-
-| 5 Game Losing Streak by the Wild Wings |
-| ----- |
 | Season 7 Games 44, 45, 46, 47, 48 |
 | G1: Season 7 Game 45: Tigers 8  @  4 Wild Wings |
 | G2: Season 7 Game 46: Wild Wings 6  @  7 Magic |
@@ -258,6 +239,28 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G3: Season 10 Game 92: Wild Wings 8  @ 10 Lovers |
 | G4: Season 10 Game 93: Wild Wings 2  @  5 Lovers |
 | G5: Season 10 Game 94: Wild Wings 3  @  9 Flowers |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 0, 1, 2, 6, 7 |
+| G1: Season 11 Game 1: Wild Wings 2  @  3 Tigers |
+| G2: Season 11 Game 2: Wild Wings 1  @  5 Tigers |
+| G3: Season 11 Game 3: Wild Wings 1  @  3 Tigers |
+| G4: Season 11 Game 7: Wild Wings 3  @  4 Tigers |
+| G5: Season 11 Game 8: Wild Wings 3  @  6 Tigers |
+
+<br />
+
+| 5 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 53, 54, 55, 56, 57 |
+| G1: Season 11 Game 54: Wild Wings 0  @  1 Jazz Hands |
+| G2: Season 11 Game 55: Firefighters 4  @  3 Wild Wings |
+| G3: Season 11 Game 56: Firefighters 8  @  6 Wild Wings |
+| G4: Season 11 Game 57: Firefighters 2  @  1 Wild Wings |
+| G5: Season 11 Game 58: Wild Wings 2  @  7 Sunbeams |
 
 <br />
 
@@ -373,16 +376,6 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 
 | 4 Game Losing Streak by the Wild Wings |
 | ----- |
-| Season 6 Games 65, 66, 67, 68 |
-| G1: Season 6 Game 66: Wild Wings 1  @  8 Magic |
-| G2: Season 6 Game 67: Breath Mints 7  @  0 Wild Wings |
-| G3: Season 6 Game 68: Breath Mints 7  @  3 Wild Wings |
-| G4: Season 6 Game 69: Breath Mints 3  @  0 Wild Wings |
-
-<br />
-
-| 4 Game Losing Streak by the Wild Wings |
-| ----- |
 | Season 7 Games 8, 9, 10, 11 |
 | G1: Season 7 Game 9: Steaks 6  @  0 Wild Wings |
 | G2: Season 7 Game 10: Wild Wings 1  @  2 Crabs |
@@ -448,6 +441,46 @@ Losing streaks of 4 or more games for Wild Wings versus all teams for all time
 | G2: Season 10 Game 55: Flowers 9  @  4 Wild Wings |
 | G3: Season 10 Game 56: Flowers 2  @  1 Wild Wings |
 | G4: Season 10 Game 57: Flowers 6  @  4 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 27, 28, 29, 30 |
+| G1: Season 11 Game 28: Firefighters 3  @  2 Wild Wings |
+| G2: Season 11 Game 29: Firefighters 5  @  3 Wild Wings |
+| G3: Season 11 Game 30: Firefighters 7  @  6 Wild Wings |
+| G4: Season 11 Game 31: Jazz Hands 4  @  3 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 32, 33, 34, 35 |
+| G1: Season 11 Game 33: Jazz Hands 7  @  3 Wild Wings |
+| G2: Season 11 Game 34: Tigers 2  @  1 Wild Wings |
+| G3: Season 11 Game 35: Tigers 9  @  8 Wild Wings |
+| G4: Season 11 Game 36: Tigers 4  @  2 Wild Wings |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 48, 49, 50, 51 |
+| G1: Season 11 Game 49: Dale 8  @  6 Wild Wings |
+| G2: Season 11 Game 50: Dale 9  @  5 Wild Wings |
+| G3: Season 11 Game 51: Dale 4  @  1 Wild Wings |
+| G4: Season 11 Game 52: Wild Wings 0  @  9 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Wild Wings |
+| ----- |
+| Season 11 Games 77, 78, 79, 80 |
+| G1: Season 11 Game 78: Dale 9  @  6 Wild Wings |
+| G2: Season 11 Game 79: Wild Wings 3  @  9 Sunbeams |
+| G3: Season 11 Game 80: Wild Wings 2  @  3 Sunbeams |
+| G4: Season 11 Game 81: Wild Wings 1  @  2 Sunbeams |
 
 
 

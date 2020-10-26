@@ -30,6 +30,8 @@
 
 * [Season 10 Defensive Games](defensive_season10.md)
 
+* [Season 11 Defensive Games](defensive_season11.md)
+
 ## By Team
 
 * [Breath Mints Defensive Games Summary](defensive_team_breath_mints.md)

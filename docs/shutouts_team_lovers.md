@@ -13,6 +13,7 @@ Shutout games (games where the loser had zero runs) for all time for team Lovers
 | 9 | 20 | San Francisco Lovers | 10 - 0 | Chicago Firefighters | 
 | 1 | 61 | Dallas Steaks | 9 - 0 | San Francisco Lovers | 
 | 6 | 81 | San Francisco Lovers | 9 - 0 | Breckenridge Jazz Hands | 
+| 11 | 87 | Dallas Steaks | 9 - 0 | San Francisco Lovers | 
 | 3 | 90 | San Francisco Lovers | 8 - 0 | Chicago Firefighters | 
 | 3 | 98 | San Francisco Lovers | 8 - 0 | Chicago Firefighters | 
 | 6 | 56 | San Francisco Lovers | 8 - 0 | Charleston Shoe Thieves | 
@@ -31,6 +32,5 @@ Shutout games (games where the loser had zero runs) for all time for team Lovers
 | 6 | 48 | Breckenridge Jazz Hands | 6 - 0 | San Francisco Lovers | 
 | 6 | 71 | San Francisco Lovers | 6 - 0 | New York Millennials | 
 | 6 | 88 | Chicago Firefighters | 6 - 0 | San Francisco Lovers | 
-| 7 | 22 | Unlimited Tacos | 6 - 0 | San Francisco Lovers | 
 
 

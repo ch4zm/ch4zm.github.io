@@ -1,5 +1,5 @@
 # Breath Mints Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -15,6 +15,7 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 7          | 1          | 67, 68, 69, 70, 71, 72, 73 |
 | Breath Mints                   | 7          | 2          | 4, 5, 6, 7, 8, 9, 10 |
 | Breath Mints                   | 7          | 4          | 72, 73, 74, 75, 76, 77, 78 |
+| Breath Mints                   | 7          | 11         | 68, 69, 70, 71, 72, 73, 74 |
 | Breath Mints                   | 6          | 4          | 52, 53, 54, 55, 56, 57 |
 | Breath Mints                   | 6          | 5          | 34, 35, 36, 37, 38, 39 |
 | Breath Mints                   | 6          | 8          | 8, 9, 10, 11, 12, 13 |
@@ -34,10 +35,12 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | Breath Mints                   | 4          | 3          | 49, 50, 51, 52 |
 | Breath Mints                   | 4          | 4          | 93, 94, 95, 96 |
 | Breath Mints                   | 4          | 5          | 80, 81, 82, 83 |
-| Breath Mints                   | 4          | 6          | 58, 59, 60, 61 |
 | Breath Mints                   | 4          | 7          | 4, 5, 6, 7 |
 | Breath Mints                   | 4          | 8          | 24, 25, 26, 27 |
 | Breath Mints                   | 4          | 9          | 30, 31, 32, 33 |
+| Breath Mints                   | 4          | 11         | 11, 12, 13, 14 |
+| Breath Mints                   | 4          | 11         | 35, 36, 37, 38 |
+| Breath Mints                   | 4          | 11         | 79, 80, 81, 82 |
 
 
 
@@ -113,6 +116,19 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G5: Season 4 Game 76: Breath Mints 6  @  8 Lovers |
 | G6: Season 4 Game 77: Breath Mints 4  @  5 Lovers |
 | G7: Season 4 Game 78: Breath Mints 2  @  8 Lovers |
+
+<br />
+
+| 7 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 67, 68, 69, 70, 71, 72, 73 |
+| G1: Season 11 Game 68: Lovers 6  @  2 Breath Mints |
+| G2: Season 11 Game 69: Lovers 5  @  2 Breath Mints |
+| G3: Season 11 Game 70: Steaks 7  @  6 Breath Mints |
+| G4: Season 11 Game 71: Steaks 7  @  4 Breath Mints |
+| G5: Season 11 Game 72: Steaks 5  @  3 Breath Mints |
+| G6: Season 11 Game 73: Breath Mints 1  @  5 Magic |
+| G7: Season 11 Game 74: Breath Mints 3  @  4 Magic |
 
 <br />
 
@@ -325,16 +341,6 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 
 | 4 Game Losing Streak by the Breath Mints |
 | ----- |
-| Season 6 Games 57, 58, 59, 60 |
-| G1: Season 6 Game 58: Moist Talkers 2  @  1 Breath Mints |
-| G2: Season 6 Game 59: Moist Talkers 11 @  2 Breath Mints |
-| G3: Season 6 Game 60: Moist Talkers 4  @  2 Breath Mints |
-| G4: Season 6 Game 61: Wild Wings 5  @  3 Breath Mints |
-
-<br />
-
-| 4 Game Losing Streak by the Breath Mints |
-| ----- |
 | Season 7 Games 3, 4, 5, 6 |
 | G1: Season 7 Game 4: Breath Mints 0  @  9 Garages |
 | G2: Season 7 Game 5: Breath Mints 1  @ 20 Garages |
@@ -360,6 +366,36 @@ Losing streaks of 4 or more games for Breath Mints versus all teams for all time
 | G2: Season 9 Game 31: Garages 3  @  1 Breath Mints |
 | G3: Season 9 Game 32: Garages 4  @  1 Breath Mints |
 | G4: Season 9 Game 33: Garages 13 @  6 Breath Mints |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 10, 11, 12, 13 |
+| G1: Season 11 Game 11: Fridays 4  @  1 Breath Mints |
+| G2: Season 11 Game 12: Fridays 5  @  1 Breath Mints |
+| G3: Season 11 Game 13: Breath Mints 3  @  7 Jazz Hands |
+| G4: Season 11 Game 14: Breath Mints 1  @  2 Jazz Hands |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 34, 35, 36, 37 |
+| G1: Season 11 Game 35: Breath Mints 2  @  3 Shoe Thieves |
+| G2: Season 11 Game 36: Breath Mints 0  @  4 Shoe Thieves |
+| G3: Season 11 Game 37: Breath Mints 4  @  6 Moist Talkers |
+| G4: Season 11 Game 38: Breath Mints 3  @  4 Moist Talkers |
+
+<br />
+
+| 4 Game Losing Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 78, 79, 80, 81 |
+| G1: Season 11 Game 79: Garages 4  @  2 Breath Mints |
+| G2: Season 11 Game 80: Garages 2  @  1 Breath Mints |
+| G3: Season 11 Game 81: Garages 2  @  0 Breath Mints |
+| G4: Season 11 Game 82: Breath Mints 3  @  4 Pies |
 
 
 

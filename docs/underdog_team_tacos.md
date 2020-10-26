@@ -18,6 +18,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 27 | Los Angeles Tacos (39%) | 9 - 1 | Hawaii Fridays (61%) | 
 | 2 | 12 | Kansas City Breath Mints (42%) | 9 - 1 | Los Angeles Tacos (58%) | 
 | 10 | 57 | Miami Dale (46%) | 9 - 1 | Unlimited Tacos (54%) | 
+| 11 | 6 | Boston Flowers (41%) | 9 - 1 | Unlimited Tacos (59%) | 
 | 5 | 91 | Unlimited Tacos (42%) | 9 - 2 | Charleston Shoe Thieves (58%) | 
 | 6 | 34 | Unlimited Tacos (36%) | 8 - 1 | Miami Dalé (64%) | 
 | 7 | 34 | Unlimited Tacos (41%) | 8 - 1 | New York Millennials (59%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 17 | Unlimited Tacos (34%) | 7 - 1 | Chicago Firefighters (66%) | 
 | 4 | 48 | Unlimited Tacos (41%) | 7 - 1 | Dallas Steaks (59%) | 
 | 6 | 56 | Unlimited Tacos (39%) | 7 - 1 | Chicago Firefighters (61%) | 
-| 7 | 8 | Houston Spies (45%) | 7 - 1 | Unlimited Tacos (55%) | 
 
 

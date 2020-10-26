@@ -1,5 +1,5 @@
 # Firefighters Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -24,6 +24,7 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | Firefighters                   | 5          | 6          | 74, 75, 76, 77, 78 |
 | Firefighters                   | 5          | 7          | 94, 95, 96, 97, 98 |
 | Firefighters                   | 5          | 8          | 48, 49, 50, 51, 52 |
+| Firefighters                   | 5          | 11         | 19, 20, 21, 22, 23 |
 | Firefighters                   | 4          | 1          | 34, 35, 36, 37 |
 | Firefighters                   | 4          | 3          | 33, 34, 35, 36 |
 | Firefighters                   | 4          | 3          | 46, 47, 48, 49 |
@@ -218,6 +219,17 @@ Losing streaks of 4 or more games for Firefighters versus all teams for all time
 | G3: Season 8 Game 50: Firefighters 2  @ 11 Crabs |
 | G4: Season 8 Game 51: Firefighters 4  @  5 Crabs |
 | G5: Season 8 Game 52: Firefighters 2  @  6 Crabs |
+
+<br />
+
+| 5 Game Losing Streak by the Firefighters |
+| ----- |
+| Season 11 Games 18, 19, 20, 21, 22 |
+| G1: Season 11 Game 19: Firefighters 0  @  4 Flowers |
+| G2: Season 11 Game 20: Firefighters 0  @  7 Flowers |
+| G3: Season 11 Game 21: Firefighters 1  @  7 Flowers |
+| G4: Season 11 Game 22: Firefighters 2  @  6 Tacos |
+| G5: Season 11 Game 23: Firefighters 3  @  4 Tacos |
 
 <br />
 

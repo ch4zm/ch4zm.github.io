@@ -12,6 +12,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 98 | Philly Pies (45%) | 10 - 1 | Baltimore Crabs (55%) | 
 | 3 | 16 | Philly Pies (41%) | 9 - 0 | Canada Moist Talkers (59%) | 
 | 10 | 67 | Philly Pies (43%) | 9 - 0 | Charleston Shoe Thieves (57%) | 
+| 11 | 14 | Philly Pies (36%) | 9 - 0 | New York Millennials (64%) | 
 | 6 | 85 | Seattle Garages (38%) | 10 - 2 | Philly Pies (62%) | 
 | 5 | 61 | Philly Pies (42%) | 9 - 1 | Baltimore Crabs (58%) | 
 | 10 | 17 | Philly Pies (44%) | 9 - 1 | Hades Tigers (56%) | 
@@ -27,10 +28,9 @@ Underdog games (games where the underdog won with large run differential) for al
 | 4 | 20 | Philly Pies (40%) | 10 - 4 | Breckenridge Jazz Hands (60%) | 
 | 5 | 91 | Philly Pies (36%) | 9 - 3 | Breckenridge Jazz Hands (64%) | 
 | 6 | 3 | Philly Pies (42%) | 9 - 3 | Seattle Garages (58%) | 
-| 6 | 19 | Philly Pies (38%) | 9 - 3 | Mexico City Wild Wings (62%) | 
+| 6 | 19 | Philly Pies (38%) | 9 - 3 | Mexico City Mild Wings (62%) | 
 | 8 | 75 | Hawaii Fridays (41%) | 9 - 3 | Philly Pies (59%) | 
 | 3 | 95 | Philly Pies (45%) | 8 - 2 | Hellmouth Sunbeams (55%) | 
 | 10 | 24 | Philly Pies (45%) | 8 - 2 | Yellowstone Magic (55%) | 
-| 10 | 65 | Kansas City Breath Mints (46%) | 8 - 2 | Philly Pies (54%) | 
 
 

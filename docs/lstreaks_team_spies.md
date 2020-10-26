@@ -1,5 +1,5 @@
 # Spies Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -34,6 +34,7 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 5          | 23, 24, 25, 26 |
 | Spies                          | 4          | 5          | 47, 48, 52, 53 |
 | Spies                          | 4          | 6          | 64, 65, 66, 67 |
+| Spies                          | 4          | 11         | 6, 7, 8, 9 |
 
 
 
@@ -312,6 +313,16 @@ Losing streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 6 Game 65: Lovers 5  @  4 Spies |
 | G3: Season 6 Game 66: Lovers 8  @  1 Spies |
 | G4: Season 6 Game 67: Lovers 3  @  1 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Spies |
+| ----- |
+| Season 11 Games 5, 6, 7, 8 |
+| G1: Season 11 Game 6: Spies 7  @  9 Jazz Hands |
+| G2: Season 11 Game 7: Spies 3  @  5 Sunbeams |
+| G3: Season 11 Game 8: Spies 1  @  6 Sunbeams |
+| G4: Season 11 Game 9: Spies 2  @  9 Sunbeams |
 
 
 

@@ -14,23 +14,23 @@ Underdog games (games where the underdog won with large run differential) for al
 | 10 | 47 | Chicago Firefighters (45%) | 9 - 1 | San Francisco Lovers (55%) | 
 | 10 | 80 | San Francisco Lovers (45%) | 9 - 1 | Mexico City Wild Wings (55%) | 
 | 3 | 32 | Dallas Steaks (45%) | 11 - 4 | San Francisco Lovers (55%) | 
+| 11 | 5 | San Francisco Lovers (45%) | 9 - 2 | Dallas Steaks (55%) | 
 | 2 | 37 | San Francisco Lovers (39%) | 8 - 1 | Hawaii Fridays (61%) | 
 | 2 | 84 | San Francisco Lovers (33%) | 8 - 1 | Breckenridge Jazz Hands (67%) | 
 | 4 | 56 | San Francisco Lovers (34%) | 8 - 1 | Chicago Firefighters (66%) | 
 | 5 | 10 | Kansas City Breath Mints (39%) | 8 - 1 | San Francisco Lovers (61%) | 
+| 11 | 72 | San Francisco Lovers (44%) | 8 - 1 | Seattle Garages (56%) | 
 | 3 | 63 | Hawaii Fridays (44%) | 8 - 2 | San Francisco Lovers (56%) | 
 | 4 | 70 | Boston Flowers (36%) | 8 - 2 | San Francisco Lovers (64%) | 
 | 5 | 88 | Unlimited Tacos (37%) | 8 - 2 | San Francisco Lovers (63%) | 
 | 1 | 31 | San Francisco Lovers (44%) | 7 - 1 | Kansas City Breath Mints (56%) | 
 | 2 | 10 | Yellowstone Magic (43%) | 7 - 1 | San Francisco Lovers (57%) | 
 | 7 | 109* | San Francisco Lovers (43%) | 7 - 1 | Baltimore Crabs (57%) | 
+| 11 | 48 | New York Millennials (41%) | 5 - 0 | San Francisco Lovers (59%) | 
 | 2 | 45 | San Francisco Lovers (46%) | 12 - 7 | Boston Flowers (54%) | 
 | 4 | 61 | Kansas City Breath Mints (43%) | 11 - 6 | San Francisco Lovers (57%) | 
 | 9 | 68 | San Francisco Lovers (40%) | 11 - 6 | Hellmouth Sunbeams (60%) | 
 | 8 | 47 | San Francisco Lovers (39%) | 10 - 5 | New York Millennials (61%) | 
 | 3 | 85 | Chicago Firefighters (40%) | 9 - 4 | San Francisco Lovers (60%) | 
-| 3 | 82 | Kansas City Breath Mints (40%) | 8 - 3 | San Francisco Lovers (60%) | 
-| 5 | 28 | Charleston Shoe Thieves (35%) | 8 - 3 | San Francisco Lovers (65%) | 
-| 8 | 35 | San Francisco Lovers (45%) | 8 - 3 | Chicago Firefighters (55%) | 
 
 

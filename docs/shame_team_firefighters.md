@@ -22,6 +22,7 @@ Shame games (games where the loser was shamed) for all time for team Firefighter
 | 7 | 58 | Breckenridge Jazz Hands | 8 - 5 | Chicago Firefighters | 
 | 9 | 14 | Baltimore Crabs | 8 - 5 | Chicago Firefighters | 
 | 5 | 2 | Chicago Firefighters | 7 - 4 | Dallas Steaks | 
+| 11 | 85 | Breckenridge Jazz Hands | 6 - 3 | Chicago Firefighters | 
 | 2 | 49 | San Francisco Lovers | 5 - 2 | Chicago Firefighters | 
 | 9 | 80 | Houston Spies | 12 - 10 | Chicago Firefighters | 
 | 3 | 78 | Chicago Firefighters | 10 - 8 | Dallas Steaks | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Firefighter
 | 1 | 46 | Chicago Firefighters | 7 - 5 | Kansas City Breath Mints | 
 | 2 | 46 | Chicago Firefighters | 7 - 5 | Yellowstone Magic | 
 | 5 | 65 | Chicago Firefighters | 7 - 5 | San Francisco Lovers | 
-| 6 | 66 | Breckenridge Jazz Hands | 7 - 5 | Chicago Firefighters | 
 
 

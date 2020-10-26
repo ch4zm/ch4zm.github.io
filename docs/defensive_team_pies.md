@@ -25,12 +25,12 @@ Maxed out games (high-scoring one-run games) for all time for team Pies (note: a
 | 9 | 71 | Charleston Shoe Thieves | 1 - 0 | Philly Pies | 
 | 10 | 82 | Philly Pies | 1 - 0 | Hawai'i Fridays | 
 | 10 | 96 | Charleston Shoe Thieves | 1 - 0 | Philly Pies | 
+| 11 | 60 | Kansas City Breath Mints | 1 - 0 | Philly Pies | 
 | 1 | 16 | Miami Dalé | 2 - 1 | Philly Pies | 
 | 1 | 38 | Philly Pies | 2 - 1 | Baltimore Crabs | 
 | 1 | 73 | Moab Sunbeams | 2 - 1 | Philly Pies | 
 | 1 | 101* | Philly Pies | 2 - 1 | Breckenridge Jazz Hands | 
 | 2 | 17 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
 | 2 | 47 | Baltimore Crabs | 2 - 1 | Philly Pies | 
-| 3 | 20 | Canada Moist Talkers | 2 - 1 | Philly Pies | 
 
 

@@ -18,7 +18,7 @@ Maxed out games (high-scoring one-run games) for season 9 for all teams (note: a
 | 9 | 65 | New York Millennials | 10 - 9 | Hades Tigers | 
 | 9 | 68 | Charleston Shoe Thieves | 10 - 9 | Philly Pies | 
 | 9 | 6 | Canada Moist Talkers | 9 - 8 | Yellowstone Magic | 
-| 9 | 10 | New York Millennials | 9 - 8 | Hawaii Fridays | 
+| 9 | 10 | New York Millennials | 9 - 8 | Hawai'i Fridays | 
 | 9 | 17 | Miami Dale | 9 - 8 | Boston Flowers | 
 | 9 | 20 | Mexico City Wild Wings | 9 - 8 | Unlimited Tacos | 
 | 9 | 28 | Unlimited Tacos | 9 - 8 | Mexico City Wild Wings | 

@@ -19,6 +19,8 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 10 | 44 | New York Millennials | 1 - 0 | Hawai'i Fridays | 
 | 10 | 83 | New York Millennials | 1 - 0 | Canada Moist Talkers | 
 | 10 | 103* | New York Millennials | 1 - 0 | Canada Moist Talkers | 
+| 11 | 34 | New York Millennials | 1 - 0 | Seattle Garages | 
+| 11 | 59 | New York Millennials | 1 - 0 | San Francisco Lovers | 
 | 1 | 39 | New York Millennials | 2 - 1 | Los Angeles Tacos | 
 | 1 | 82 | Los Angeles Tacos | 2 - 1 | New York Millennials | 
 | 1 | 85 | Boston Flowers | 2 - 1 | New York Millennials | 
@@ -30,7 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 3 | 49 | Hawaii Fridays | 2 - 1 | New York Millennials | 
 | 3 | 105* | San Francisco Lovers | 2 - 1 | New York Millennials | 
 | 5 | 49 | New York Millennials | 2 - 1 | Boston Flowers | 
-| 6 | 1 | New York Millennials | 2 - 1 | San Francisco Lovers | 
-| 6 | 82 | New York Millennials | 2 - 1 | Charleston Shoe Thieves | 
 
 

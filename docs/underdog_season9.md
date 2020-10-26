@@ -9,7 +9,7 @@ Underdog games (games where the underdog won with large run differential) for se
 | ------ |------ |------ |------ |------ |
 | 9 | 7 | Unlimited Tacos (38%) | 14 - 3 | Miami Dale (62%) | 
 | 9 | 67 | Yellowstone Magic (42%) | 13 - 2 | Seattle Garages (58%) | 
-| 9 | 18 | Hawaii Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
+| 9 | 18 | Hawai'i Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
 | 9 | 49 | Unlimited Tacos (36%) | 11 - 1 | Houston Spies (64%) | 
 | 9 | 7 | Breckenridge Jazz Hands (38%) | 12 - 3 | Chicago Firefighters (62%) | 
 | 9 | 54 | Unlimited Tacos (41%) | 11 - 3 | Houston Spies (59%) | 
@@ -30,7 +30,7 @@ Underdog games (games where the underdog won with large run differential) for se
 | 9 | 78 | Dallas Steaks (43%) | 7 - 1 | Canada Moist Talkers (57%) | 
 | 9 | 92 | Miami Dale (45%) | 7 - 1 | Chicago Firefighters (55%) | 
 | 9 | 26 | Mexico City Wild Wings (36%) | 6 - 0 | Houston Spies (64%) | 
-| 9 | 57 | Hawaii Fridays (35%) | 6 - 0 | Philly Pies (65%) | 
+| 9 | 57 | Hawai'i Fridays (35%) | 6 - 0 | Philly Pies (65%) | 
 | 9 | 75 | Unlimited Tacos (34%) | 6 - 0 | Baltimore Crabs (66%) | 
 
 

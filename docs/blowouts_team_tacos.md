@@ -25,7 +25,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 4 | 10 | Kansas City Breath Mints | 14 - 6 | Unlimited Tacos | 
 | 9 | 83 | Boston Flowers | 14 - 10 | Unlimited Tacos | 
 | 5 | 60 | Boston Flowers | 14 - 12 | Unlimited Tacos | 
-| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawaii Fridays | 
+| 9 | 61 | Unlimited Tacos | 13 - 0 | Hawai'i Fridays | 
 | 4 | 90 | Chicago Firefighters | 13 - 1 | Unlimited Tacos | 
 | 8 | 60 | Houston Spies | 13 - 1 | Unlimited Tacos | 
 | 5 | 65 | New York Millennials | 13 - 2 | Unlimited Tacos | 

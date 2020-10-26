@@ -1,5 +1,5 @@
 # Sunbeams Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -10,9 +10,12 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
+| Sunbeams                       | 10         | 11         | 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Sunbeams                       | 9          | 11         | 91, 92, 93, 97, 98, 99, 103, 104, 110 |
 | Sunbeams                       | 8          | 8          | 15, 16, 17, 18, 19, 20, 21, 22 |
 | Sunbeams                       | 8          | 8          | 75, 76, 77, 78, 79, 80, 81, 82 |
 | Sunbeams                       | 8          | 9          | 45, 46, 47, 48, 49, 50, 51, 52 |
+| Sunbeams                       | 7          | 11         | 77, 78, 79, 80, 81, 82, 83 |
 | Sunbeams                       | 6          | 8          | 38, 39, 40, 41, 42, 43 |
 | Sunbeams                       | 5          | 1          | 14, 15, 16, 17, 18 |
 | Sunbeams                       | 5          | 1          | 80, 81, 85, 86, 87 |
@@ -28,6 +31,8 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | Sunbeams                       | 4          | 7          | 88, 89, 90, 91 |
 | Sunbeams                       | 4          | 8          | 94, 95, 96, 97 |
 | Sunbeams                       | 4          | 9          | 69, 70, 71, 72 |
+| Sunbeams                       | 4          | 11         | 41, 42, 43, 44 |
+| Sunbeams                       | 4          | 11         | 52, 53, 54, 58 |
 
 
 
@@ -38,6 +43,37 @@ Note: all days and seasons displayed are 1-indexed.
 
 
 Winning streaks of 4 or more games for Sunbeams versus all teams for all time
+
+| 10 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| G1: Season 11 Game 6: Sunbeams 7  @  1 Tigers |
+| G2: Season 11 Game 7: Spies 3  @  5 Sunbeams |
+| G3: Season 11 Game 8: Spies 1  @  6 Sunbeams |
+| G4: Season 11 Game 9: Spies 2  @  9 Sunbeams |
+| G5: Season 11 Game 10: Flowers 4  @  8 Sunbeams |
+| G6: Season 11 Game 11: Flowers 0  @  7 Sunbeams |
+| G7: Season 11 Game 12: Flowers 1  @  6 Sunbeams |
+| G8: Season 11 Game 13: Wild Wings 6  @  8 Sunbeams |
+| G9: Season 11 Game 14: Wild Wings 3  @  7 Sunbeams |
+| G10: Season 11 Game 15: Wild Wings 5  @  7 Sunbeams |
+
+<br />
+
+| 9 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 90, 91, 92, 96, 97, 98, 102, 103, 109 |
+| G1: Season 11 Game 91: Wild Wings 2  @  4 Sunbeams |
+| G2: Season 11 Game 92: Wild Wings 4  @  7 Sunbeams |
+| G3: Season 11 Game 93: Wild Wings 1  @  4 Sunbeams |
+| G4: Season 11 Game 97: Flowers 3  @  5 Sunbeams |
+| G5: Season 11 Game 98: Flowers 3  @  9 Sunbeams |
+| G6: Season 11 Game 99: Flowers 1  @  3 Sunbeams |
+| G7: Season 11 Game 103: Spies 0  @  2 Sunbeams |
+| G8: Season 11 Game 104: Spies 6  @  7 Sunbeams |
+| G9: Season 11 Game 110: Tigers 0  @  9 Sunbeams |
+
+<br />
 
 | 8 Game Winning Streak by the Sunbeams |
 | ----- |
@@ -78,6 +114,19 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G6: Season 9 Game 50: Sunbeams 4  @  2 Dale |
 | G7: Season 9 Game 51: Sunbeams 6  @  4 Dale |
 | G8: Season 9 Game 52: Flowers 2  @  6 Sunbeams |
+
+<br />
+
+| 7 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 76, 77, 78, 79, 80, 81, 82 |
+| G1: Season 11 Game 77: Tacos 8  @  9 Sunbeams |
+| G2: Season 11 Game 78: Tacos 4  @  6 Sunbeams |
+| G3: Season 11 Game 79: Wild Wings 3  @  9 Sunbeams |
+| G4: Season 11 Game 80: Wild Wings 2  @  3 Sunbeams |
+| G5: Season 11 Game 81: Wild Wings 1  @  2 Sunbeams |
+| G6: Season 11 Game 82: Tacos 4  @  7 Sunbeams |
+| G7: Season 11 Game 83: Tacos 2  @  9 Sunbeams |
 
 <br />
 
@@ -233,6 +282,26 @@ Winning streaks of 4 or more games for Sunbeams versus all teams for all time
 | G2: Season 9 Game 70: Tacos 0  @  8 Sunbeams |
 | G3: Season 9 Game 71: Tacos 4  @  8 Sunbeams |
 | G4: Season 9 Game 72: Tacos 3  @  9 Sunbeams |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 40, 41, 42, 43 |
+| G1: Season 11 Game 41: Jazz Hands 2  @  4 Sunbeams |
+| G2: Season 11 Game 42: Jazz Hands 3  @  4 Sunbeams |
+| G3: Season 11 Game 43: Dale 6  @  7 Sunbeams |
+| G4: Season 11 Game 44: Dale 0  @  7 Sunbeams |
+
+<br />
+
+| 4 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 51, 52, 53, 57 |
+| G1: Season 11 Game 52: Dale 1  @  9 Sunbeams |
+| G2: Season 11 Game 53: Dale 2  @  8 Sunbeams |
+| G3: Season 11 Game 54: Dale 6  @  8 Sunbeams |
+| G4: Season 11 Game 58: Wild Wings 2  @  7 Sunbeams |
 
 
 

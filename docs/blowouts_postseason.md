@@ -1,5 +1,5 @@
 # Blaseball Postseason Blowouts
-(Through season 10)
+(Through season 11)
 
 
 

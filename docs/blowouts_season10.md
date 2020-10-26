@@ -30,7 +30,7 @@ Blowout games (games with high scores and high run differentials) for season 10 
 | 10 | 61 | San Francisco Lovers | 13 - 4 | Breckenridge Jazz Hands | 
 | 10 | 92 | Miami Dale | 13 - 4 | Boston Flowers | 
 | 10 | 45 | Charleston Shoe Thieves | 12 - 0 | Yellowstone Magic | 
-| 10 | 90 | Houston Spies | 12 - 0 | Mexico City Wild Wings | 
 | 10 | 90 | Hades Tigers | 12 - 0 | Seattle Garages | 
+| 10 | 90 | Houston Spies | 12 - 0 | Mexico City Wild Wings | 
 
 

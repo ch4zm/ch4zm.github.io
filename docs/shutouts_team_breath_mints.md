@@ -26,11 +26,11 @@ Shutout games (games where the loser had zero runs) for all time for team Breath
 | 5 | 3 | Kansas City Breath Mints | 7 - 0 | Yellowstone Magic | 
 | 5 | 8 | Kansas City Breath Mints | 7 - 0 | Charleston Shoe Thieves | 
 | 5 | 57 | San Francisco Lovers | 7 - 0 | Kansas City Breath Mints | 
-| 6 | 67 | Kansas City Breath Mints | 7 - 0 | Mexico City Wild Wings | 
+| 6 | 67 | Kansas City Breath Mints | 7 - 0 | Mexico City Mild Wings | 
 | 6 | 71 | Hawaii Fridays | 7 - 0 | Kansas City Breath Mints | 
 | 9 | 54 | Kansas City Breath Mints | 7 - 0 | Yellowstone Magic | 
 | 9 | 85 | Kansas City Breath Mints | 7 - 0 | San Francisco Lovers | 
 | 10 | 93 | Philly Pies | 7 - 0 | Kansas City Breath Mints | 
-| 1 | 19 | Kansas City Breath Mints | 6 - 0 | San Francisco Lovers | 
+| 11 | 76 | Hawai'i Fridays | 7 - 0 | Kansas City Breath Mints | 
 
 

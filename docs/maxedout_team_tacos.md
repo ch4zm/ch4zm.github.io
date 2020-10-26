@@ -15,6 +15,8 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 8 | 6 | Unlimited Tacos | 9 - 8 | Chicago Firefighters | 
 | 9 | 20 | Mexico City Wild Wings | 9 - 8 | Unlimited Tacos | 
 | 9 | 28 | Unlimited Tacos | 9 - 8 | Mexico City Wild Wings | 
+| 11 | 29 | Hades Tigers | 9 - 8 | Unlimited Tacos | 
+| 11 | 77 | Hellmouth Sunbeams | 9 - 8 | Unlimited Tacos | 
 | 1 | 14 | Los Angeles Tacos | 8 - 7 | Yellowstone Magic | 
 | 2 | 20 | Los Angeles Tacos | 8 - 7 | Charleston Shoe Thieves | 
 | 3 | 40 | Los Angeles Tacos | 8 - 7 | San Francisco Lovers | 
@@ -23,14 +25,12 @@ Maxed out games (high-scoring one-run games) for all time for team Tacos (note: 
 | 7 | 56 | Breckenridge Jazz Hands | 8 - 7 | Unlimited Tacos | 
 | 9 | 24 | Miami Dale | 8 - 7 | Unlimited Tacos | 
 | 10 | 91 | Unlimited Tacos | 8 - 7 | Baltimore Crabs | 
+| 11 | 28 | Hades Tigers | 8 - 7 | Unlimited Tacos | 
+| 11 | 47 | Boston Flowers | 8 - 7 | Unlimited Tacos | 
 | 1 | 20 | Breckenridge Jazz Hands | 7 - 6 | Los Angeles Tacos | 
 | 1 | 77 | Kansas City Breath Mints | 7 - 6 | Los Angeles Tacos | 
 | 1 | 97 | Hawaii Fridays | 7 - 6 | Los Angeles Tacos | 
 | 2 | 8 | Boston Flowers | 7 - 6 | Los Angeles Tacos | 
 | 2 | 53 | Chicago Firefighters | 7 - 6 | Los Angeles Tacos | 
-| 2 | 89 | Boston Flowers | 7 - 6 | Los Angeles Tacos | 
-| 3 | 82 | Charleston Shoe Thieves | 7 - 6 | Los Angeles Tacos | 
-| 5 | 82 | Houston Spies | 7 - 6 | Unlimited Tacos | 
-| 6 | 64 | Unlimited Tacos | 7 - 6 | Boston Flowers | 
 
 

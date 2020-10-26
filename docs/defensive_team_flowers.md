@@ -16,6 +16,7 @@ Maxed out games (high-scoring one-run games) for all time for team Flowers (note
 | 10 | 46 | Hellmouth Sunbeams | 1 - 0 | Boston Flowers | 
 | 10 | 48 | Boston Flowers | 1 - 0 | Hellmouth Sunbeams | 
 | 10 | 74 | Houston Spies | 1 - 0 | Boston Flowers | 
+| 11 | 67 | Mexico City Wild Wings | 1 - 0 | Boston Flowers | 
 | 1 | 47 | Boston Flowers | 2 - 1 | Charleston Shoe Thieves | 
 | 1 | 59 | Boston Flowers | 2 - 1 | Dallas Steaks | 
 | 1 | 66 | Chicago Firefighters | 2 - 1 | Boston Flowers | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Flowers (note
 | 3 | 49 | Los Angeles Tacos | 2 - 1 | Boston Flowers | 
 | 3 | 71 | Los Angeles Tacos | 2 - 1 | Boston Flowers | 
 | 4 | 27 | Boston Flowers | 2 - 1 | Kansas City Breath Mints | 
-| 4 | 77 | Boston Flowers | 2 - 1 | Mexico City Wild Wings | 
 
 

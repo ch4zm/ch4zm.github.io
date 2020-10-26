@@ -1,5 +1,5 @@
 # Spies Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -22,6 +22,7 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 5          | 9          | 21, 22, 23, 24, 25 |
 | Spies                          | 5          | 10         | 40, 41, 42, 43, 44 |
 | Spies                          | 5          | 10         | 68, 69, 70, 71, 72 |
+| Spies                          | 5          | 11         | 84, 85, 86, 87, 88 |
 | Spies                          | 4          | 3          | 41, 42, 43, 44 |
 | Spies                          | 4          | 3          | 95, 96, 97, 98 |
 | Spies                          | 4          | 5          | 2, 3, 4, 5 |
@@ -38,6 +39,7 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | Spies                          | 4          | 9          | 98, 99, 103, 104 |
 | Spies                          | 4          | 10         | 46, 47, 48, 49 |
 | Spies                          | 4          | 10         | 63, 64, 65, 66 |
+| Spies                          | 4          | 11         | 10, 11, 12, 13 |
 
 
 
@@ -191,6 +193,17 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G3: Season 10 Game 70: Spies 3  @  2 Sunbeams |
 | G4: Season 10 Game 71: Spies 1  @  0 Sunbeams |
 | G5: Season 10 Game 72: Spies 7  @  5 Sunbeams |
+
+<br />
+
+| 5 Game Winning Streak by the Spies |
+| ----- |
+| Season 11 Games 83, 84, 85, 86, 87 |
+| G1: Season 11 Game 84: Spies 8  @  3 Dale |
+| G2: Season 11 Game 85: Fridays 1  @  2 Spies |
+| G3: Season 11 Game 86: Fridays 3  @  7 Spies |
+| G4: Season 11 Game 87: Fridays 2  @  4 Spies |
+| G5: Season 11 Game 88: Sunbeams 6  @  7 Spies |
 
 <br />
 
@@ -351,6 +364,16 @@ Winning streaks of 4 or more games for Spies versus all teams for all time
 | G2: Season 10 Game 64: Tacos 4  @  6 Spies |
 | G3: Season 10 Game 65: Tacos 2  @  3 Spies |
 | G4: Season 10 Game 66: Tacos 1  @  4 Spies |
+
+<br />
+
+| 4 Game Winning Streak by the Spies |
+| ----- |
+| Season 11 Games 9, 10, 11, 12 |
+| G1: Season 11 Game 10: Spies 7  @  4 Tacos |
+| G2: Season 11 Game 11: Spies 2  @  0 Tacos |
+| G3: Season 11 Game 12: Spies 2  @  1 Tacos |
+| G4: Season 11 Game 13: Dale 5  @  6 Spies |
 
 
 

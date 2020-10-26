@@ -1,5 +1,5 @@
 # Jazz Hands Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -38,6 +38,7 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 7          | 28, 29, 30, 31 |
 | Jazz Hands                     | 4          | 7          | 47, 48, 49, 50 |
 | Jazz Hands                     | 4          | 10         | 7, 8, 9, 10 |
+| Jazz Hands                     | 4          | 11         | 11, 12, 13, 14 |
 
 
 
@@ -354,6 +355,16 @@ Winning streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 10 Game 8: Jazz Hands 5  @  0 Fridays |
 | G3: Season 10 Game 9: Jazz Hands 9  @  0 Fridays |
 | G4: Season 10 Game 10: Jazz Hands 11 @  3 Lovers |
+
+<br />
+
+| 4 Game Winning Streak by the Jazz Hands |
+| ----- |
+| Season 11 Games 10, 11, 12, 13 |
+| G1: Season 11 Game 11: Firefighters 2  @  6 Jazz Hands |
+| G2: Season 11 Game 12: Firefighters 2  @  3 Jazz Hands |
+| G3: Season 11 Game 13: Breath Mints 3  @  7 Jazz Hands |
+| G4: Season 11 Game 14: Breath Mints 1  @  2 Jazz Hands |
 
 
 

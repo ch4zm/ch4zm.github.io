@@ -16,6 +16,7 @@ Shutout games (games where the loser had zero runs) for all time for team Firefi
 | 9 | 20 | San Francisco Lovers | 10 - 0 | Chicago Firefighters | 
 | 3 | 57 | Dallas Steaks | 9 - 0 | Chicago Firefighters | 
 | 7 | 26 | Chicago Firefighters | 9 - 0 | Boston Flowers | 
+| 11 | 27 | Chicago Firefighters | 9 - 0 | Boston Flowers | 
 | 1 | 6 | Chicago Firefighters | 8 - 0 | Hawaii Fridays | 
 | 3 | 90 | San Francisco Lovers | 8 - 0 | Chicago Firefighters | 
 | 3 | 98 | San Francisco Lovers | 8 - 0 | Chicago Firefighters | 
@@ -25,12 +26,11 @@ Shutout games (games where the loser had zero runs) for all time for team Firefi
 | 9 | 11 | Houston Spies | 8 - 0 | Chicago Firefighters | 
 | 9 | 46 | Baltimore Crabs | 8 - 0 | Chicago Firefighters | 
 | 10 | 17 | Unlimited Tacos | 8 - 0 | Chicago Firefighters | 
+| 11 | 42 | Mexico City Wild Wings | 8 - 0 | Chicago Firefighters | 
+| 11 | 91 | Tokyo Lift | 8 - 0 | Chicago Firefighters | 
 | 2 | 62 | Chicago Firefighters | 7 - 0 | Dallas Steaks | 
 | 2 | 67 | Charleston Shoe Thieves | 7 - 0 | Chicago Firefighters | 
 | 2 | 94 | Chicago Firefighters | 7 - 0 | Kansas City Breath Mints | 
 | 3 | 59 | Los Angeles Tacos | 7 - 0 | Chicago Firefighters | 
-| 4 | 4 | Chicago Firefighters | 7 - 0 | Dallas Steaks | 
-| 5 | 53 | Chicago Firefighters | 7 - 0 | Canada Moist Talkers | 
-| 8 | 79 | Chicago Firefighters | 7 - 0 | Unlimited Tacos | 
 
 

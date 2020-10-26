@@ -1,5 +1,5 @@
 # Jazz Hands Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -17,6 +17,7 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 6          | 4          | 18, 19, 20, 21, 25, 26 |
 | Jazz Hands                     | 6          | 8          | 65, 66, 67, 68, 69, 70 |
 | Jazz Hands                     | 6          | 10         | 69, 70, 71, 72, 73, 74 |
+| Jazz Hands                     | 6          | 11         | 24, 25, 26, 27, 28, 29 |
 | Jazz Hands                     | 5          | 1          | 71, 72, 76, 77, 78 |
 | Jazz Hands                     | 5          | 2          | 64, 65, 66, 67, 68 |
 | Jazz Hands                     | 5          | 8          | 23, 24, 25, 26, 27 |
@@ -36,6 +37,7 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | Jazz Hands                     | 4          | 10         | 11, 12, 13, 14 |
 | Jazz Hands                     | 4          | 10         | 18, 19, 20, 21 |
 | Jazz Hands                     | 4          | 10         | 93, 94, 95, 96 |
+| Jazz Hands                     | 4          | 11         | 19, 20, 21, 22 |
 
 
 
@@ -139,6 +141,18 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G4: Season 10 Game 72: Jazz Hands 0  @ 10 Crabs |
 | G5: Season 10 Game 73: Dale 5  @  4 Jazz Hands |
 | G6: Season 10 Game 74: Dale 8  @  7 Jazz Hands |
+
+<br />
+
+| 6 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 11 Games 23, 24, 25, 26, 27, 28 |
+| G1: Season 11 Game 24: Jazz Hands 1  @  2 Flowers |
+| G2: Season 11 Game 25: Jazz Hands 4  @  5 Tigers |
+| G3: Season 11 Game 26: Jazz Hands 3  @  4 Tigers |
+| G4: Season 11 Game 27: Jazz Hands 3  @  6 Tigers |
+| G5: Season 11 Game 28: Jazz Hands 4  @  6 Spies |
+| G6: Season 11 Game 29: Jazz Hands 5  @  6 Spies |
 
 <br />
 
@@ -333,6 +347,16 @@ Losing streaks of 4 or more games for Jazz Hands versus all teams for all time
 | G2: Season 10 Game 94: Jazz Hands 5  @  6 Spies |
 | G3: Season 10 Game 95: Jazz Hands -1 @  0 Spies |
 | G4: Season 10 Game 96: Jazz Hands 4  @  6 Spies |
+
+<br />
+
+| 4 Game Losing Streak by the Jazz Hands |
+| ----- |
+| Season 11 Games 18, 19, 20, 21 |
+| G1: Season 11 Game 19: Dale 6  @  1 Jazz Hands |
+| G2: Season 11 Game 20: Dale 6  @  0 Jazz Hands |
+| G3: Season 11 Game 21: Dale 3  @  0 Jazz Hands |
+| G4: Season 11 Game 22: Jazz Hands 4  @  9 Flowers |
 
 
 

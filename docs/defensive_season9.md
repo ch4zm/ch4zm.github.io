@@ -16,10 +16,10 @@ Maxed out games (high-scoring one-run games) for season 9 for all teams (note: a
 | 9 | 46 | Yellowstone Magic | 1 - 0 | Miami Dale | 
 | 9 | 47 | Houston Spies | 1 - 0 | San Francisco Lovers | 
 | 9 | 58 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
-| 9 | 65 | Yellowstone Magic | 1 - 0 | Hawaii Fridays | 
+| 9 | 65 | Yellowstone Magic | 1 - 0 | Hawai'i Fridays | 
 | 9 | 71 | Charleston Shoe Thieves | 1 - 0 | Philly Pies | 
 | 9 | 3 | Miami Dale | 2 - 1 | Unlimited Tacos | 
-| 9 | 3 | Seattle Garages | 2 - 1 | Hawaii Fridays | 
+| 9 | 3 | Seattle Garages | 2 - 1 | Hawai'i Fridays | 
 | 9 | 3 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 9 | 6 | Kansas City Breath Mints | 2 - 1 | Charleston Shoe Thieves | 
 | 9 | 13 | Miami Dale | 2 - 1 | Mexico City Wild Wings | 

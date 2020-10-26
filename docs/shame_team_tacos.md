@@ -7,6 +7,8 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
+| 11 | 84 | Unlimited Tacos | 9 - 1 | Hellmouth Sunbeams | 
+| 11 | 53 | Hades Tigers | 8 - 0 | Unlimited Tacos | 
 | 6 | 3 | Unlimited Tacos | 10 - 4 | Breckenridge Jazz Hands | 
 | 3 | 6 | Los Angeles Tacos | 9 - 3 | Chicago Firefighters | 
 | 9 | 46 | Boston Flowers | 10 - 5 | Unlimited Tacos | 
@@ -29,8 +31,6 @@ Shame games (games where the loser was shamed) for all time for team Tacos (note
 | 10 | 67 | Breckenridge Jazz Hands | 7 - 4 | Unlimited Tacos | 
 | 10 | 79 | Unlimited Tacos | 7 - 4 | Breckenridge Jazz Hands | 
 | 4 | 66 | Yellowstone Magic | 6 - 3 | Unlimited Tacos | 
-| 1 | 30 | Boston Flowers | 5 - 2 | Los Angeles Tacos | 
-| 2 | 69 | Los Angeles Tacos | 5 - 2 | Dallas Steaks | 
-| 5 | 98 | Yellowstone Magic | 4 - 1 | Unlimited Tacos | 
+| 11 | 80 | Unlimited Tacos | 6 - 3 | Boston Flowers | 
 
 

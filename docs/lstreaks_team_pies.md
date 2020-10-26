@@ -1,5 +1,5 @@
 # Pies Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -16,22 +16,26 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 7          | 10         | 68, 69, 70, 71, 72, 73, 74 |
 | Pies                           | 6          | 2          | 5, 6, 7, 8, 9, 10 |
 | Pies                           | 6          | 4          | 4, 5, 6, 7, 8, 9 |
+| Pies                           | 6          | 11         | 69, 70, 71, 72, 73, 74 |
 | Pies                           | 5          | 1          | 50, 51, 52, 53, 54 |
 | Pies                           | 5          | 4          | 31, 32, 33, 34, 35 |
 | Pies                           | 5          | 4          | 71, 72, 73, 74, 75 |
 | Pies                           | 5          | 5          | 92, 93, 94, 95, 96 |
 | Pies                           | 5          | 7          | 65, 66, 67, 68, 69 |
 | Pies                           | 5          | 10         | 62, 63, 64, 65, 66 |
+| Pies                           | 5          | 11         | 1, 2, 3, 4, 5 |
 | Pies                           | 4          | 1          | 70, 71, 72, 73 |
 | Pies                           | 4          | 2          | 47, 48, 49, 50 |
 | Pies                           | 4          | 3          | 49, 50, 51, 52 |
 | Pies                           | 4          | 5          | 41, 42, 46, 47 |
+| Pies                           | 4          | 6          | 47, 48, 55, 56 |
 | Pies                           | 4          | 7          | 33, 34, 35, 36 |
 | Pies                           | 4          | 7          | 88, 89, 90, 91 |
 | Pies                           | 4          | 8          | 35, 36, 37, 38 |
 | Pies                           | 4          | 8          | 45, 46, 47, 48 |
 | Pies                           | 4          | 9          | 96, 97, 98, 99 |
 | Pies                           | 4          | 10         | 51, 52, 53, 54 |
+| Pies                           | 4          | 11         | 50, 51, 52, 53 |
 
 
 
@@ -121,6 +125,18 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 6 Game Losing Streak by the Pies |
+| ----- |
+| Season 11 Games 68, 69, 70, 71, 72, 73 |
+| G1: Season 11 Game 69: Pies 3  @  4 Magic |
+| G2: Season 11 Game 70: Pies 5  @  7 Magic |
+| G3: Season 11 Game 71: Pies 6  @  8 Magic |
+| G4: Season 11 Game 72: Pies 1  @  5 Magic |
+| G5: Season 11 Game 73: Pies 3  @  4 Garages |
+| G6: Season 11 Game 74: Pies 0  @  4 Garages |
+
+<br />
+
 | 5 Game Losing Streak by the Pies |
 | ----- |
 | Season 1 Games 49, 50, 51, 52, 53 |
@@ -187,6 +203,17 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 
 <br />
 
+| 5 Game Losing Streak by the Pies |
+| ----- |
+| Season 11 Games 0, 1, 2, 3, 4 |
+| G1: Season 11 Game 1: Garages 7  @  0 Pies |
+| G2: Season 11 Game 2: Garages 9  @  3 Pies |
+| G3: Season 11 Game 3: Garages 9  @  6 Pies |
+| G4: Season 11 Game 4: Pies 1  @  4 Magic |
+| G5: Season 11 Game 5: Pies 5  @  9 Magic |
+
+<br />
+
 | 4 Game Losing Streak by the Pies |
 | ----- |
 | Season 1 Games 69, 70, 71, 72 |
@@ -224,6 +251,16 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 5 Game 42: Pies 1  @  3 Spies |
 | G3: Season 5 Game 46: Tigers 3  @  2 Pies |
 | G4: Season 5 Game 47: Tigers 3  @  2 Pies |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 6 Games 46, 47, 54, 55 |
+| G1: Season 6 Game 47: Pies 1  @  5 Steaks |
+| G2: Season 6 Game 48: Pies 4  @  7 Steaks |
+| G3: Season 6 Game 55: Moist Talkers 3  @  1 Pies |
+| G4: Season 6 Game 56: Moist Talkers 8  @  5 Pies |
 
 <br />
 
@@ -284,6 +321,16 @@ Losing streaks of 4 or more games for Pies versus all teams for all time
 | G2: Season 10 Game 52: Pies -1 @  4 Steaks |
 | G3: Season 10 Game 53: Pies 5  @  6 Steaks |
 | G4: Season 10 Game 54: Pies 1  @  6 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Pies |
+| ----- |
+| Season 11 Games 49, 50, 51, 52 |
+| G1: Season 11 Game 50: Steaks 2  @  0 Pies |
+| G2: Season 11 Game 51: Steaks 5  @  3 Pies |
+| G3: Season 11 Game 52: Fridays 6  @  5 Pies |
+| G4: Season 11 Game 53: Fridays 5  @  0 Pies |
 
 
 

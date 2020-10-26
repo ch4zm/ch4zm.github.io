@@ -12,6 +12,7 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 2 | 65 | Miami Dalé | 10 - 9 | Houston Spies | 
 | 3 | 95 | Houston Spies | 10 - 9 | Seattle Garages | 
 | 9 | 93 | Houston Spies | 9 - 8 | San Francisco Lovers | 
+| 11 | 51 | Chicago Firefighters | 9 - 8 | Houston Spies | 
 | 1 | 106* | Philly Pies | 8 - 7 | Houston Spies | 
 | 2 | 62 | Miami Dalé | 8 - 7 | Houston Spies | 
 | 2 | 91 | Hades Tigers | 8 - 7 | Houston Spies | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Spies (note: 
 | 3 | 5 | Canada Moist Talkers | 7 - 6 | Houston Spies | 
 | 3 | 40 | Baltimore Crabs | 7 - 6 | Houston Spies | 
 | 4 | 42 | Philly Pies | 7 - 6 | Houston Spies | 
-| 5 | 66 | Houston Spies | 7 - 6 | Seattle Garages | 
 
 

@@ -27,7 +27,7 @@ Blowout games (games with high scores and high run differentials) for all time f
 | 1 | 26 | Mexico City Wild Wings | 13 - 2 | Canada Moist Talkers | 
 | 9 | 44 | Boston Flowers | 13 - 2 | Mexico City Wild Wings | 
 | 1 | 59 | Moab Sunbeams | 13 - 6 | Mexico City Wild Wings | 
-| 6 | 51 | Philly Pies | 13 - 6 | Mexico City Wild Wings | 
+| 6 | 51 | Philly Pies | 13 - 6 | Mexico City Mild Wings | 
 | 2 | 16 | Breckenridge Jazz Hands | 13 - 11 | Mexico City Wild Wings | 
 | 8 | 51 | Mexico City Wild Wings | 13 - 11 | Yellowstone Magic | 
 | 9 | 82 | Baltimore Crabs | 12 - 0 | Mexico City Wild Wings | 

@@ -1,5 +1,5 @@
 # Flowers Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -34,6 +34,8 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 9          | 32, 33, 34, 35 |
 | Flowers                        | 4          | 9          | 46, 47, 48, 49 |
 | Flowers                        | 4          | 10         | 34, 35, 36, 37 |
+| Flowers                        | 4          | 11         | 19, 20, 21, 22 |
+| Flowers                        | 4          | 11         | 38, 39, 40, 41 |
 
 
 
@@ -306,6 +308,26 @@ Winning streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 10 Game 35: Breath Mints 2  @  3 Flowers |
 | G3: Season 10 Game 36: Breath Mints -1 @  5 Flowers |
 | G4: Season 10 Game 37: Sunbeams 6  @ 10 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 11 Games 18, 19, 20, 21 |
+| G1: Season 11 Game 19: Firefighters 0  @  4 Flowers |
+| G2: Season 11 Game 20: Firefighters 0  @  7 Flowers |
+| G3: Season 11 Game 21: Firefighters 1  @  7 Flowers |
+| G4: Season 11 Game 22: Jazz Hands 4  @  9 Flowers |
+
+<br />
+
+| 4 Game Winning Streak by the Flowers |
+| ----- |
+| Season 11 Games 37, 38, 39, 40 |
+| G1: Season 11 Game 38: Wild Wings 8  @  9 Flowers |
+| G2: Season 11 Game 39: Wild Wings 3  @  5 Flowers |
+| G3: Season 11 Game 40: Tigers 0  @  2 Flowers |
+| G4: Season 11 Game 41: Tigers 0  @  2 Flowers |
 
 
 

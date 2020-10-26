@@ -26,11 +26,11 @@ Maxed out games (high-scoring one-run games) for all time for team Wild Wings (n
 | 9 | 58 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
 | 10 | 52 | Mexico City Wild Wings | 1 - 0 | Houston Spies | 
 | 10 | 91 | San Francisco Lovers | 1 - 0 | Mexico City Wild Wings | 
+| 11 | 24 | Mexico City Wild Wings | 1 - 0 | Hades Tigers | 
+| 11 | 54 | Breckenridge Jazz Hands | 1 - 0 | Mexico City Wild Wings | 
+| 11 | 67 | Mexico City Wild Wings | 1 - 0 | Boston Flowers | 
+| 11 | 72 | Breckenridge Jazz Hands | 1 - 0 | Mexico City Wild Wings | 
 | 1 | 10 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
 | 1 | 18 | Mexico City Wild Wings | 2 - 1 | Hades Tigers | 
-| 1 | 33 | Seattle Garages | 2 - 1 | Mexico City Wild Wings | 
-| 2 | 26 | Mexico City Wild Wings | 2 - 1 | Houston Spies | 
-| 2 | 73 | Baltimore Crabs | 2 - 1 | Mexico City Wild Wings | 
-| 2 | 84 | Mexico City Wild Wings | 2 - 1 | Canada Moist Talkers | 
 
 

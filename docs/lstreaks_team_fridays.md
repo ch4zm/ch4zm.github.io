@@ -1,5 +1,5 @@
 # Fridays Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -15,8 +15,8 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 11         | 10         | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 |
 | Fridays                        | 9          | 1          | 64, 65, 66, 67, 68, 69, 70, 71, 72 |
 | Fridays                        | 9          | 10         | 86, 87, 88, 89, 90, 91, 92, 93, 94 |
+| Fridays                        | 9          | 11         | 83, 84, 85, 86, 87, 88, 89, 90, 91 |
 | Fridays                        | 7          | 5          | 65, 66, 67, 68, 69, 70, 71 |
-| Fridays                        | 7          | 6          | 89, 90, 91, 92, 93, 94, 95 |
 | Fridays                        | 7          | 8          | 14, 15, 16, 17, 18, 19, 20 |
 | Fridays                        | 7          | 9          | 7, 8, 9, 10, 11, 12, 13 |
 | Fridays                        | 7          | 9          | 46, 47, 48, 49, 50, 51, 52 |
@@ -24,8 +24,8 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | Fridays                        | 6          | 4          | 7, 8, 9, 10, 11, 12 |
 | Fridays                        | 6          | 4          | 52, 53, 54, 55, 56, 57 |
 | Fridays                        | 6          | 5          | 84, 85, 86, 87, 88, 89 |
-| Fridays                        | 6          | 6          | 4, 5, 6, 7, 8, 9 |
 | Fridays                        | 6          | 6          | 15, 16, 17, 18, 19, 20 |
+| Fridays                        | 6          | 6          | 89, 90, 91, 92, 93, 97 |
 | Fridays                        | 6          | 7          | 70, 71, 72, 73, 74, 75 |
 | Fridays                        | 6          | 8          | 69, 70, 71, 72, 73, 74 |
 | Fridays                        | 6          | 9          | 29, 30, 31, 32, 33, 34 |
@@ -160,6 +160,21 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 
 <br />
 
+| 9 Game Losing Streak by the Fridays |
+| ----- |
+| Season 11 Games 82, 83, 84, 85, 86, 87, 88, 89, 90 |
+| G1: Season 11 Game 83: Fridays 1  @  2 Millennials |
+| G2: Season 11 Game 84: Fridays 0  @  7 Millennials |
+| G3: Season 11 Game 85: Fridays 1  @  2 Spies |
+| G4: Season 11 Game 86: Fridays 3  @  7 Spies |
+| G5: Season 11 Game 87: Fridays 2  @  4 Spies |
+| G6: Season 11 Game 88: Moist Talkers 3  @  2 Fridays |
+| G7: Season 11 Game 89: Moist Talkers 4  @  3 Fridays |
+| G8: Season 11 Game 90: Moist Talkers 6  @  4 Fridays |
+| G9: Season 11 Game 91: Lovers 3  @  1 Fridays |
+
+<br />
+
 | 7 Game Losing Streak by the Fridays |
 | ----- |
 | Season 5 Games 64, 65, 66, 67, 68, 69, 70 |
@@ -170,19 +185,6 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G5: Season 5 Game 69: Millennials 4  @  1 Fridays |
 | G6: Season 5 Game 70: Spies 10 @  7 Fridays |
 | G7: Season 5 Game 71: Spies 6  @  3 Fridays |
-
-<br />
-
-| 7 Game Losing Streak by the Fridays |
-| ----- |
-| Season 6 Games 88, 89, 90, 91, 92, 93, 94 |
-| G1: Season 6 Game 89: Magic 3  @  1 Fridays |
-| G2: Season 6 Game 90: Magic 4  @  2 Fridays |
-| G3: Season 6 Game 91: Fridays 7  @ 11 Garages |
-| G4: Season 6 Game 92: Fridays 0  @ 12 Garages |
-| G5: Season 6 Game 93: Fridays 1  @  4 Garages |
-| G6: Season 6 Game 94: Fridays 2  @  6 Wild Wings |
-| G7: Season 6 Game 95: Fridays 3  @  4 Wild Wings |
 
 <br />
 
@@ -275,18 +277,6 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 
 | 6 Game Losing Streak by the Fridays |
 | ----- |
-| Season 6 Games 3, 4, 5, 6, 7, 8 |
-| G1: Season 6 Game 4: Fridays 4  @  5 Pies |
-| G2: Season 6 Game 5: Fridays 6  @ 10 Pies |
-| G3: Season 6 Game 6: Fridays 3  @  7 Pies |
-| G4: Season 6 Game 7: Fridays 2  @  6 Wild Wings |
-| G5: Season 6 Game 8: Fridays 0  @  2 Wild Wings |
-| G6: Season 6 Game 9: Fridays 5  @  8 Wild Wings |
-
-<br />
-
-| 6 Game Losing Streak by the Fridays |
-| ----- |
 | Season 6 Games 14, 15, 16, 17, 18, 19 |
 | G1: Season 6 Game 15: Fridays 0  @  9 Tigers |
 | G2: Season 6 Game 16: Breath Mints 2  @  0 Fridays |
@@ -294,6 +284,18 @@ Losing streaks of 4 or more games for Fridays versus all teams for all time
 | G4: Season 6 Game 18: Breath Mints 12 @  5 Fridays |
 | G5: Season 6 Game 19: Tacos 2  @  1 Fridays |
 | G6: Season 6 Game 20: Tacos 6  @  2 Fridays |
+
+<br />
+
+| 6 Game Losing Streak by the Fridays |
+| ----- |
+| Season 6 Games 88, 89, 90, 91, 92, 96 |
+| G1: Season 6 Game 89: Magic 3  @  1 Fridays |
+| G2: Season 6 Game 90: Magic 4  @  2 Fridays |
+| G3: Season 6 Game 91: Fridays 7  @ 11 Garages |
+| G4: Season 6 Game 92: Fridays 0  @ 12 Garages |
+| G5: Season 6 Game 93: Fridays 1  @  4 Garages |
+| G6: Season 6 Game 97: Steaks 4  @  2 Fridays |
 
 <br />
 

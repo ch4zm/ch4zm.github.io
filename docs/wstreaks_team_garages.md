@@ -1,5 +1,5 @@
 # Garages Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -18,21 +18,24 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 6          | 5          | 89, 90, 91, 92, 93, 94 |
 | Garages                        | 6          | 9          | 89, 90, 91, 92, 93, 94 |
 | Garages                        | 6          | 10         | 16, 17, 18, 19, 20, 21 |
+| Garages                        | 6          | 11         | 107, 110, 111, 112, 113, 116 |
 | Garages                        | 5          | 2          | 78, 79, 80, 81, 82 |
 | Garages                        | 5          | 3          | 56, 57, 58, 59, 60 |
 | Garages                        | 5          | 4          | 63, 64, 65, 66, 67 |
 | Garages                        | 5          | 5          | 76, 77, 78, 79, 80 |
-| Garages                        | 5          | 6          | 14, 15, 16, 17, 18 |
 | Garages                        | 5          | 6          | 41, 42, 43, 44, 45 |
-| Garages                        | 5          | 6          | 60, 61, 62, 63, 64 |
 | Garages                        | 5          | 6          | 81, 82, 83, 84, 85 |
-| Garages                        | 5          | 6          | 89, 90, 91, 92, 93 |
 | Garages                        | 5          | 7          | 33, 34, 35, 36, 37 |
+| Garages                        | 5          | 11         | 1, 2, 3, 4, 5 |
+| Garages                        | 5          | 11         | 7, 8, 9, 10, 11 |
 | Garages                        | 4          | 2          | 36, 37, 38, 39 |
 | Garages                        | 4          | 3          | 49, 50, 51, 52 |
 | Garages                        | 4          | 4          | 72, 73, 74, 75 |
 | Garages                        | 4          | 4          | 94, 95, 96, 97 |
 | Garages                        | 4          | 5          | 71, 72, 73, 74 |
+| Garages                        | 4          | 6          | 12, 16, 17, 18 |
+| Garages                        | 4          | 6          | 61, 62, 63, 64 |
+| Garages                        | 4          | 6          | 87, 91, 92, 93 |
 | Garages                        | 4          | 7          | 4, 5, 6, 7 |
 | Garages                        | 4          | 7          | 28, 29, 30, 31 |
 | Garages                        | 4          | 7          | 70, 71, 72, 73 |
@@ -45,6 +48,8 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | Garages                        | 4          | 9          | 84, 85, 86, 87 |
 | Garages                        | 4          | 10         | 1, 2, 3, 4 |
 | Garages                        | 4          | 10         | 94, 95, 96, 97 |
+| Garages                        | 4          | 11         | 41, 42, 43, 44 |
+| Garages                        | 4          | 11         | 98, 99, 103, 104 |
 
 
 
@@ -166,6 +171,18 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Garages |
+| ----- |
+| Season 11 Games 106, 109, 110, 111, 112, 115 |
+| G1: Season 11 Game 107: Garages 3  @  1 Shoe Thieves |
+| G2: Season 11 Game 110: Magic 3  @  4 Garages |
+| G3: Season 11 Game 111: Garages 2  @  0 Magic |
+| G4: Season 11 Game 112: Garages 6  @  1 Magic |
+| G5: Season 11 Game 113: Garages 2  @  1 Magic |
+| G6: Season 11 Game 116: Garages 6  @  0 Sunbeams |
+
+<br />
+
 | 5 Game Winning Streak by the Garages |
 | ----- |
 | Season 2 Games 77, 78, 79, 80, 81 |
@@ -212,34 +229,12 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 | 5 Game Winning Streak by the Garages |
 | ----- |
-| Season 6 Games 13, 14, 15, 16, 17 |
-| G1: Season 6 Game 14: Wild Wings 2  @  5 Garages |
-| G2: Season 6 Game 15: Wild Wings 2  @  4 Garages |
-| G3: Season 6 Game 16: Garages 10 @  6 Magic |
-| G4: Season 6 Game 17: Garages 14 @ 11 Magic |
-| G5: Season 6 Game 18: Garages 8  @  4 Magic |
-
-<br />
-
-| 5 Game Winning Streak by the Garages |
-| ----- |
 | Season 6 Games 40, 41, 42, 43, 44 |
 | G1: Season 6 Game 41: Garages 8  @  6 Tigers |
 | G2: Season 6 Game 42: Garages 2  @  1 Tigers |
 | G3: Season 6 Game 43: Garages 12 @  0 Magic |
 | G4: Season 6 Game 44: Garages 8  @  0 Magic |
 | G5: Season 6 Game 45: Garages 10 @  0 Magic |
-
-<br />
-
-| 5 Game Winning Streak by the Garages |
-| ----- |
-| Season 6 Games 59, 60, 61, 62, 63 |
-| G1: Season 6 Game 60: Garages 2  @  0 Wild Wings |
-| G2: Season 6 Game 61: Garages 5  @  3 Magic |
-| G3: Season 6 Game 62: Garages 5  @  1 Magic |
-| G4: Season 6 Game 63: Garages 9  @  3 Magic |
-| G5: Season 6 Game 64: Garages 12 @  5 Steaks |
 
 <br />
 
@@ -256,23 +251,34 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 
 | 5 Game Winning Streak by the Garages |
 | ----- |
-| Season 6 Games 88, 89, 90, 91, 92 |
-| G1: Season 6 Game 89: Garages 7  @  6 Wild Wings |
-| G2: Season 6 Game 90: Garages 8  @  4 Wild Wings |
-| G3: Season 6 Game 91: Fridays 7  @ 11 Garages |
-| G4: Season 6 Game 92: Fridays 0  @ 12 Garages |
-| G5: Season 6 Game 93: Fridays 1  @  4 Garages |
-
-<br />
-
-| 5 Game Winning Streak by the Garages |
-| ----- |
 | Season 7 Games 32, 33, 34, 35, 36 |
 | G1: Season 7 Game 33: Garages 13 @  1 Pies |
 | G2: Season 7 Game 34: Garages 12 @  2 Breath Mints |
 | G3: Season 7 Game 35: Garages 10 @  4 Breath Mints |
 | G4: Season 7 Game 36: Garages 6  @  5 Breath Mints |
 | G5: Season 7 Game 37: Garages 6  @  5 Steaks |
+
+<br />
+
+| 5 Game Winning Streak by the Garages |
+| ----- |
+| Season 11 Games 0, 1, 2, 3, 4 |
+| G1: Season 11 Game 1: Garages 7  @  0 Pies |
+| G2: Season 11 Game 2: Garages 9  @  3 Pies |
+| G3: Season 11 Game 3: Garages 9  @  6 Pies |
+| G4: Season 11 Game 4: Garages 8  @  4 Moist Talkers |
+| G5: Season 11 Game 5: Garages 3  @  2 Moist Talkers |
+
+<br />
+
+| 5 Game Winning Streak by the Garages |
+| ----- |
+| Season 11 Games 6, 7, 8, 9, 10 |
+| G1: Season 11 Game 7: Millennials 1  @  3 Garages |
+| G2: Season 11 Game 8: Millennials 2  @  4 Garages |
+| G3: Season 11 Game 9: Millennials 5  @  6 Garages |
+| G4: Season 11 Game 10: Lovers 0  @  6 Garages |
+| G5: Season 11 Game 11: Lovers 2  @  3 Garages |
 
 <br />
 
@@ -323,6 +329,36 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 5 Game 72: Pies 5  @  7 Garages |
 | G3: Season 5 Game 73: Garages 9  @  7 Jazz Hands |
 | G4: Season 5 Game 74: Garages 2  @  1 Jazz Hands |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 11, 15, 16, 17 |
+| G1: Season 6 Game 12: Moist Talkers 4  @  6 Garages |
+| G2: Season 6 Game 16: Garages 10 @  6 Magic |
+| G3: Season 6 Game 17: Garages 14 @ 11 Magic |
+| G4: Season 6 Game 18: Garages 8  @  4 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 60, 61, 62, 63 |
+| G1: Season 6 Game 61: Garages 5  @  3 Magic |
+| G2: Season 6 Game 62: Garages 5  @  1 Magic |
+| G3: Season 6 Game 63: Garages 9  @  3 Magic |
+| G4: Season 6 Game 64: Garages 12 @  5 Steaks |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 6 Games 86, 90, 91, 92 |
+| G1: Season 6 Game 87: Garages 15 @  3 Pies |
+| G2: Season 6 Game 91: Fridays 7  @ 11 Garages |
+| G3: Season 6 Game 92: Fridays 0  @ 12 Garages |
+| G4: Season 6 Game 93: Fridays 1  @  4 Garages |
 
 <br />
 
@@ -443,6 +479,26 @@ Winning streaks of 4 or more games for Garages versus all teams for all time
 | G2: Season 10 Game 95: Garages 9  @  5 Magic |
 | G3: Season 10 Game 96: Garages 2  @  1 Magic |
 | G4: Season 10 Game 97: Moist Talkers 0  @  1 Garages |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 11 Games 40, 41, 42, 43 |
+| G1: Season 11 Game 41: Garages 3  @  2 Magic |
+| G2: Season 11 Game 42: Garages 4  @  3 Magic |
+| G3: Season 11 Game 43: Garages 6  @  1 Fridays |
+| G4: Season 11 Game 44: Garages 6  @  1 Fridays |
+
+<br />
+
+| 4 Game Winning Streak by the Garages |
+| ----- |
+| Season 11 Games 97, 98, 102, 103 |
+| G1: Season 11 Game 98: Breath Mints 1  @  3 Garages |
+| G2: Season 11 Game 99: Breath Mints 4  @  6 Garages |
+| G3: Season 11 Game 103: Garages 5  @  2 Shoe Thieves |
+| G4: Season 11 Game 104: Shoe Thieves 3  @  5 Garages |
 
 
 

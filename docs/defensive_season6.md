@@ -30,7 +30,7 @@ Maxed out games (high-scoring one-run games) for season 6 for all teams (note: a
 | 6 | 37 | Charleston Shoe Thieves | 2 - 1 | Seattle Garages | 
 | 6 | 41 | Houston Spies | 2 - 1 | Breckenridge Jazz Hands | 
 | 6 | 42 | Seattle Garages | 2 - 1 | Hades Tigers | 
-| 6 | 44 | Mexico City Wild Wings | 2 - 1 | Charleston Shoe Thieves | 
+| 6 | 44 | Mexico City Mild Wings | 2 - 1 | Charleston Shoe Thieves | 
 | 6 | 50 | Dallas Steaks | 2 - 1 | Hawaii Fridays | 
 
 

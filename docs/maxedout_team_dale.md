@@ -7,30 +7,30 @@ Maxed out games (high-scoring one-run games) for all time for team Dale (note: a
 
 | Sea | Day | Winner | Score | Loser | 
 | ------ |------ |------ |------ |------ |
-| 4 | 97 | Miami Dalé | 11 - 10 | Breckenridge Jazz Hands | 
-| 1 | 37 | Seattle Garages | 10 - 9 | Miami Dalé | 
-| 2 | 65 | Miami Dalé | 10 - 9 | Houston Spies | 
 | 9 | 14 | Miami Dale | 10 - 9 | Mexico City Wild Wings | 
-| 1 | 84 | Miami Dalé | 9 - 8 | Moab Sunbeams | 
-| 3 | 24 | Miami Dalé | 9 - 8 | Canada Moist Talkers | 
-| 3 | 70 | Miami Dalé | 9 - 8 | Kansas City Breath Mints | 
-| 4 | 22 | Breckenridge Jazz Hands | 9 - 8 | Miami Dalé | 
-| 5 | 24 | Baltimore Crabs | 9 - 8 | Miami Dalé | 
-| 5 | 73 | Miami Dalé | 9 - 8 | Canada Moist Talkers | 
 | 8 | 9 | Chicago Firefighters | 9 - 8 | Miami Dale | 
 | 9 | 17 | Miami Dale | 9 - 8 | Boston Flowers | 
-| 1 | 2 | Seattle Garages | 8 - 7 | Miami Dalé | 
-| 2 | 5 | Seattle Garages | 8 - 7 | Miami Dalé | 
-| 2 | 6 | Miami Dalé | 8 - 7 | Seattle Garages | 
-| 2 | 18 | Canada Moist Talkers | 8 - 7 | Miami Dalé | 
-| 2 | 62 | Miami Dalé | 8 - 7 | Houston Spies | 
-| 3 | 36 | Houston Spies | 8 - 7 | Miami Dalé | 
-| 3 | 97 | Miami Dalé | 8 - 7 | Hades Tigers | 
-| 4 | 9 | Hades Tigers | 8 - 7 | Miami Dalé | 
-| 4 | 14 | Miami Dalé | 8 - 7 | Mexico City Wild Wings | 
-| 4 | 42 | Miami Dalé | 8 - 7 | Breckenridge Jazz Hands | 
+| 11 | 22 | Tokyo Lift | 9 - 8 | Miami Dale | 
 | 7 | 36 | Miami Dale | 8 - 7 | Boston Flowers | 
 | 8 | 76 | Miami Dale | 8 - 7 | San Francisco Lovers | 
 | 9 | 24 | Miami Dale | 8 - 7 | Unlimited Tacos | 
+| 9 | 40 | Boston Flowers | 8 - 7 | Miami Dale | 
+| 9 | 94 | Miami Dale | 8 - 7 | Hellmouth Sunbeams | 
+| 10 | 74 | Miami Dale | 8 - 7 | Breckenridge Jazz Hands | 
+| 10 | 94 | Hellmouth Sunbeams | 8 - 7 | Miami Dale | 
+| 7 | 9 | Boston Flowers | 7 - 6 | Miami Dale | 
+| 9 | 64 | Chicago Firefighters | 7 - 6 | Miami Dale | 
+| 9 | 67 | Miami Dale | 7 - 6 | Houston Spies | 
+| 9 | 80 | Boston Flowers | 7 - 6 | Miami Dale | 
+| 9 | 87 | Houston Spies | 7 - 6 | Miami Dale | 
+| 9 | 88 | Miami Dale | 7 - 6 | Unlimited Tacos | 
+| 10 | 14 | Miami Dale | 7 - 6 | Boston Flowers | 
+| 10 | 49 | Hellmouth Sunbeams | 7 - 6 | Miami Dale | 
+| 10 | 66 | Breckenridge Jazz Hands | 7 - 6 | Miami Dale | 
+| 10 | 69 | Hellmouth Sunbeams | 7 - 6 | Miami Dale | 
+| 11 | 24 | Tokyo Lift | 7 - 6 | Miami Dale | 
+| 11 | 43 | Hellmouth Sunbeams | 7 - 6 | Miami Dale | 
+| 7 | 8 | Boston Flowers | 6 - 5 | Miami Dale | 
+| 7 | 24 | Hellmouth Sunbeams | 6 - 5 | Miami Dale | 
 
 

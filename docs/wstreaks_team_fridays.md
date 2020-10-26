@@ -1,5 +1,5 @@
 # Fridays Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -11,6 +11,7 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Fridays                        | 7          | 3          | 45, 46, 47, 48, 49, 50, 51 |
+| Fridays                        | 7          | 11         | 70, 71, 72, 73, 74, 75, 76 |
 | Fridays                        | 6          | 1          | 53, 54, 55, 56, 57, 58 |
 | Fridays                        | 5          | 4          | 2, 3, 4, 5, 6 |
 | Fridays                        | 5          | 5          | 26, 27, 28, 29, 30 |
@@ -45,6 +46,19 @@ Winning streaks of 4 or more games for Fridays versus all teams for all time
 | G5: Season 3 Game 49: Millennials 1  @  2 Fridays |
 | G6: Season 3 Game 50: Millennials 4  @  5 Fridays |
 | G7: Season 3 Game 51: Millennials 1  @  5 Fridays |
+
+<br />
+
+| 7 Game Winning Streak by the Fridays |
+| ----- |
+| Season 11 Games 69, 70, 71, 72, 73, 74, 75 |
+| G1: Season 11 Game 70: Fridays 3  @  1 Millennials |
+| G2: Season 11 Game 71: Fridays 5  @  4 Millennials |
+| G3: Season 11 Game 72: Fridays 3  @  1 Millennials |
+| G4: Season 11 Game 73: Shoe Thieves 3  @  7 Fridays |
+| G5: Season 11 Game 74: Shoe Thieves 1  @  6 Fridays |
+| G6: Season 11 Game 75: Shoe Thieves 3  @  9 Fridays |
+| G7: Season 11 Game 76: Fridays 7  @  0 Breath Mints |
 
 <br />
 

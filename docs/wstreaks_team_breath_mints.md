@@ -1,5 +1,5 @@
 # Breath Mints Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -11,7 +11,6 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Breath Mints                   | 8          | 5          | 46, 47, 48, 49, 50, 51, 52, 53 |
-| Breath Mints                   | 7          | 6          | 64, 65, 66, 67, 68, 69, 70 |
 | Breath Mints                   | 6          | 1          | 74, 75, 76, 77, 78, 79 |
 | Breath Mints                   | 6          | 2          | 40, 41, 42, 43, 44, 45 |
 | Breath Mints                   | 6          | 5          | 13, 14, 15, 16, 17, 18 |
@@ -32,6 +31,7 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 4          | 4          | 35, 36, 37, 38 |
 | Breath Mints                   | 4          | 4          | 40, 41, 42, 43 |
 | Breath Mints                   | 4          | 5          | 27, 28, 29, 30 |
+| Breath Mints                   | 4          | 6          | 64, 65, 66, 70 |
 | Breath Mints                   | 4          | 7          | 27, 28, 29, 30 |
 | Breath Mints                   | 4          | 7          | 75, 76, 77, 78 |
 | Breath Mints                   | 4          | 7          | 88, 89, 90, 91 |
@@ -41,6 +41,8 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | Breath Mints                   | 4          | 10         | 12, 13, 14, 15 |
 | Breath Mints                   | 4          | 10         | 55, 56, 57, 58 |
 | Breath Mints                   | 4          | 10         | 68, 69, 70, 71 |
+| Breath Mints                   | 4          | 11         | 2, 3, 4, 5 |
+| Breath Mints                   | 4          | 11         | 15, 16, 17, 18 |
 
 
 
@@ -63,19 +65,6 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G6: Season 5 Game 51: Tacos 1  @ 16 Breath Mints |
 | G7: Season 5 Game 52: Tacos 3  @ 10 Breath Mints |
 | G8: Season 5 Game 53: Tacos 0  @  4 Breath Mints |
-
-<br />
-
-| 7 Game Winning Streak by the Breath Mints |
-| ----- |
-| Season 6 Games 63, 64, 65, 66, 67, 68, 69 |
-| G1: Season 6 Game 64: Fridays 6  @  7 Breath Mints |
-| G2: Season 6 Game 65: Fridays 2  @  6 Breath Mints |
-| G3: Season 6 Game 66: Fridays 7  @  8 Breath Mints |
-| G4: Season 6 Game 67: Breath Mints 7  @  0 Wild Wings |
-| G5: Season 6 Game 68: Breath Mints 7  @  3 Wild Wings |
-| G6: Season 6 Game 69: Breath Mints 3  @  0 Wild Wings |
-| G7: Season 6 Game 70: Fridays 4  @  6 Breath Mints |
 
 <br />
 
@@ -303,6 +292,16 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 
 | 4 Game Winning Streak by the Breath Mints |
 | ----- |
+| Season 6 Games 63, 64, 65, 69 |
+| G1: Season 6 Game 64: Fridays 6  @  7 Breath Mints |
+| G2: Season 6 Game 65: Fridays 2  @  6 Breath Mints |
+| G3: Season 6 Game 66: Fridays 7  @  8 Breath Mints |
+| G4: Season 6 Game 70: Fridays 4  @  6 Breath Mints |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
 | Season 7 Games 26, 27, 28, 29 |
 | G1: Season 7 Game 27: Breath Mints 7  @  5 Steaks |
 | G2: Season 7 Game 28: Firefighters 6  @  7 Breath Mints |
@@ -388,6 +387,26 @@ Winning streaks of 4 or more games for Breath Mints versus all teams for all tim
 | G2: Season 10 Game 69: Steaks 2  @  4 Breath Mints |
 | G3: Season 10 Game 70: Breath Mints 5  @  1 Magic |
 | G4: Season 10 Game 71: Breath Mints 5  @  4 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 1, 2, 3, 4 |
+| G1: Season 11 Game 2: Breath Mints 8  @  7 Millennials |
+| G2: Season 11 Game 3: Breath Mints 2  @  1 Millennials |
+| G3: Season 11 Game 4: Breath Mints 2  @  1 Millennials |
+| G4: Season 11 Game 5: Breath Mints 8  @  2 Millennials |
+
+<br />
+
+| 4 Game Winning Streak by the Breath Mints |
+| ----- |
+| Season 11 Games 14, 15, 16, 17 |
+| G1: Season 11 Game 15: Breath Mints 7  @  1 Jazz Hands |
+| G2: Season 11 Game 16: Pies 4  @  6 Breath Mints |
+| G3: Season 11 Game 17: Pies 8  @  9 Breath Mints |
+| G4: Season 11 Game 18: Pies 2  @  4 Breath Mints |
 
 
 

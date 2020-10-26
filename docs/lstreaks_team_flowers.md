@@ -1,5 +1,5 @@
 # Flowers Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -17,6 +17,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 7          | 7          | 66, 67, 68, 69, 70, 71, 72 |
 | Flowers                        | 7          | 7          | 76, 77, 78, 79, 80, 81, 82 |
 | Flowers                        | 7          | 10         | 16, 17, 18, 19, 20, 21, 22 |
+| Flowers                        | 7          | 11         | 72, 73, 74, 75, 76, 77, 78 |
 | Flowers                        | 6          | 3          | 45, 46, 47, 48, 49, 50 |
 | Flowers                        | 6          | 4          | 33, 34, 35, 36, 37, 38 |
 | Flowers                        | 6          | 4          | 58, 59, 60, 61, 62, 63 |
@@ -47,6 +48,7 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | Flowers                        | 4          | 8          | 19, 20, 21, 22 |
 | Flowers                        | 4          | 10         | 8, 9, 10, 11 |
 | Flowers                        | 4          | 10         | 69, 70, 71, 72 |
+| Flowers                        | 4          | 11         | 10, 11, 12, 13 |
 
 
 
@@ -155,6 +157,19 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G5: Season 10 Game 20: Flowers 5  @ 18 Lovers |
 | G6: Season 10 Game 21: Flowers 2  @  6 Lovers |
 | G7: Season 10 Game 22: Flowers 5  @  9 Spies |
+
+<br />
+
+| 7 Game Losing Streak by the Flowers |
+| ----- |
+| Season 11 Games 71, 72, 73, 74, 75, 76, 77 |
+| G1: Season 11 Game 72: Flowers 3  @  9 Dale |
+| G2: Season 11 Game 73: Firefighters 6  @  4 Flowers |
+| G3: Season 11 Game 74: Firefighters 4  @  1 Flowers |
+| G4: Season 11 Game 75: Firefighters 7  @  5 Flowers |
+| G5: Season 11 Game 76: Firefighters 7  @  4 Flowers |
+| G6: Season 11 Game 77: Firefighters 9  @  3 Flowers |
+| G7: Season 11 Game 78: Firefighters 7  @  3 Flowers |
 
 <br />
 
@@ -473,6 +488,16 @@ Losing streaks of 4 or more games for Flowers versus all teams for all time
 | G2: Season 10 Game 70: Tacos 5  @  0 Flowers |
 | G3: Season 10 Game 71: Tacos 7  @  6 Flowers |
 | G4: Season 10 Game 72: Tacos 5  @  3 Flowers |
+
+<br />
+
+| 4 Game Losing Streak by the Flowers |
+| ----- |
+| Season 11 Games 9, 10, 11, 12 |
+| G1: Season 11 Game 10: Flowers 4  @  8 Sunbeams |
+| G2: Season 11 Game 11: Flowers 0  @  7 Sunbeams |
+| G3: Season 11 Game 12: Flowers 1  @  6 Sunbeams |
+| G4: Season 11 Game 13: Firefighters 6  @  3 Flowers |
 
 
 

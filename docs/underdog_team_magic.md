@@ -17,6 +17,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 10 | 98 | Philly Pies (45%) | 9 - 1 | Yellowstone Magic (55%) | 
 | 1 | 100* | Boston Flowers (42%) | 14 - 7 | Yellowstone Magic (58%) | 
 | 4 | 51 | Hawaii Fridays (32%) | 11 - 4 | Yellowstone Magic (68%) | 
+| 11 | 82 | Yellowstone Magic (40%) | 9 - 2 | Charleston Shoe Thieves (60%) | 
 | 1 | 26 | Charleston Shoe Thieves (28%) | 8 - 1 | Yellowstone Magic (72%) | 
 | 3 | 82 | Chicago Firefighters (41%) | 8 - 1 | Yellowstone Magic (59%) | 
 | 9 | 54 | Kansas City Breath Mints (45%) | 7 - 0 | Yellowstone Magic (55%) | 
@@ -26,11 +27,10 @@ Underdog games (games where the underdog won with large run differential) for al
 | 2 | 84 | Yellowstone Magic (45%) | 11 - 5 | Charleston Shoe Thieves (55%) | 
 | 9 | 12 | Yellowstone Magic (37%) | 11 - 5 | Hellmouth Sunbeams (63%) | 
 | 9 | 22 | Yellowstone Magic (35%) | 10 - 4 | Dallas Steaks (65%) | 
-| 6 | 37 | Mexico City Wild Wings (42%) | 8 - 2 | Yellowstone Magic (58%) | 
+| 6 | 37 | Mexico City Mild Wings (42%) | 8 - 2 | Yellowstone Magic (58%) | 
 | 10 | 24 | Philly Pies (45%) | 8 - 2 | Yellowstone Magic (55%) | 
 | 2 | 10 | Yellowstone Magic (43%) | 7 - 1 | San Francisco Lovers (57%) | 
 | 2 | 52 | Yellowstone Magic (44%) | 7 - 1 | Hawaii Fridays (56%) | 
 | 5 | 89 | Kansas City Breath Mints (43%) | 7 - 1 | Yellowstone Magic (57%) | 
-| 1 | 49 | New York Millennials (41%) | 6 - 0 | Yellowstone Magic (59%) | 
 
 

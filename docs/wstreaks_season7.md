@@ -10,11 +10,11 @@ Winning streaks of 7 or more games for all teams versus all teams for season 7
 | Team Name | Length | Season | Days |
 | ----- | ----- | ----- | ----- |
 | Crabs                          | 13         | 7          | 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
+| Wild Wings                     | 12         | 7          | 93, 94, 95, 96, 97, 98, 99, 106, 107, 108, 110, 111 |
 | Crabs                          | 9          | 7          | 34, 35, 36, 37, 38, 39, 40, 41, 42 |
 | Spies                          | 9          | 7          | 66, 67, 68, 69, 70, 71, 72, 73, 74 |
 | Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
-| Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
 | Lovers                         | 7          | 7          | 1, 2, 3, 4, 5, 6, 7 |
 | Magic                          | 7          | 7          | 42, 43, 44, 45, 46, 47, 48 |
 | Crabs                          | 7          | 7          | 65, 66, 67, 68, 69, 70, 71 |
@@ -46,6 +46,24 @@ Winning streaks of 7 or more games for all teams versus all teams for season 7
 | G11: Season 7 Game 87: Firefighters 3  @  7 Crabs |
 | G12: Season 7 Game 88: Crabs 15 @  4 Jazz Hands |
 | G13: Season 7 Game 89: Crabs 9  @  6 Jazz Hands |
+
+<br />
+
+| 12 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 105, 106, 107, 109, 110 |
+| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
+| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
+| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
+| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
+| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
+| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
+| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
+| G8: Season 7 Game 106: Garages 3  @  4 Wild Wings |
+| G9: Season 7 Game 107: Wild Wings 4  @  2 Garages |
+| G10: Season 7 Game 108: Garages 1  @  2 Wild Wings |
+| G11: Season 7 Game 110: Wild Wings 2  @  1 Lovers |
+| G12: Season 7 Game 111: Lovers 2  @  5 Wild Wings |
 
 <br />
 
@@ -104,20 +122,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 7
 | G6: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
 | G7: Season 7 Game 31: Wild Wings 3  @  4 Shoe Thieves |
 | G8: Season 7 Game 32: Wild Wings 3  @  5 Shoe Thieves |
-
-<br />
-
-| 8 Game Winning Streak by the Wild Wings |
-| ----- |
-| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 99 |
-| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
-| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
-| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
-| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
-| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
-| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
-| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
-| G8: Season 7 Game 100: Wild Wings 5  @  4 Breath Mints |
 
 <br />
 

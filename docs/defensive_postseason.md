@@ -1,5 +1,5 @@
 # Blaseball Postseason Defensive Games
-(Through season 10)
+(Through season 11)
 
 
 
@@ -13,6 +13,7 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 5 | 105* | Breckenridge Jazz Hands | 1 - 0 | Canada Moist Talkers | 
 | 8 | 105* | Hades Tigers | 1 - 0 | Philly Pies | 
 | 10 | 103* | New York Millennials | 1 - 0 | Canada Moist Talkers | 
+| 10 | 113* | Baltimore Crabs | 1 - 0 | Charleston Shoe Thieves | 
 | 1 | 101* | Philly Pies | 2 - 1 | Breckenridge Jazz Hands | 
 | 2 | 103* | Chicago Firefighters | 2 - 1 | Boston Flowers | 
 | 3 | 105* | San Francisco Lovers | 2 - 1 | New York Millennials | 
@@ -26,12 +27,11 @@ Maxed out games (high-scoring one-run games) for all time (postseason only) for 
 | 8 | 106* | Philly Pies | 2 - 1 | Hades Tigers | 
 | 9 | 104* | Charleston Shoe Thieves | 2 - 1 | Hades Tigers | 
 | 10 | 105* | Charleston Shoe Thieves | 2 - 1 | Kansas City Breath Mints | 
+| 11 | 113* | Seattle Garages | 2 - 1 | Yellowstone Magic | 
+| 11 | 119* | Seattle Garages | 2 - 1 | Hellmouth Sunbeams | 
 | 1 | 101* | Boston Flowers | 3 - 2 | Yellowstone Magic | 
 | 1 | 103* | Hades Tigers | 3 - 2 | Houston Spies | 
 | 1 | 104* | Houston Spies | 3 - 2 | Hades Tigers | 
 | 1 | 111* | Philly Pies | 3 - 2 | Chicago Firefighters | 
-| 4 | 103* | Breckenridge Jazz Hands | 3 - 2 | Philly Pies | 
-| 5 | 104* | San Francisco Lovers | 3 - 2 | Chicago Firefighters | 
-| 5 | 106* | Canada Moist Talkers | 3 - 2 | Breckenridge Jazz Hands | 
 
 

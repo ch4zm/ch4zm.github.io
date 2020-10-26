@@ -24,7 +24,7 @@ Maxed out games (high-scoring one-run games) for all time for team Millennials (
 | 5 | 9 | New York Millennials | 9 - 8 | Chicago Firefighters | 
 | 8 | 46 | San Francisco Lovers | 9 - 8 | New York Millennials | 
 | 8 | 96 | New York Millennials | 9 - 8 | Hawaii Fridays | 
-| 9 | 10 | New York Millennials | 9 - 8 | Hawaii Fridays | 
+| 9 | 10 | New York Millennials | 9 - 8 | Hawai'i Fridays | 
 | 9 | 85 | Yellowstone Magic | 9 - 8 | New York Millennials | 
 | 10 | 59 | New York Millennials | 9 - 8 | Seattle Garages | 
 | 2 | 43 | Chicago Firefighters | 8 - 7 | New York Millennials | 

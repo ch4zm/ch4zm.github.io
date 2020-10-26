@@ -30,6 +30,8 @@
 
 * [Season 10 Underdog Wins](underdog_season10.md)
 
+* [Season 11 Underdog Wins](underdog_season11.md)
+
 ## By Team
 
 * [Breath Mints Underdog Wins Summary](underdog_team_breath_mints.md)

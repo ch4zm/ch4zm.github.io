@@ -31,6 +31,6 @@ Underdog games (games where the underdog won with large run differential) for se
 | 6 | 1 | Boston Flowers (42%) | 9 - 3 | Miami Dalé (58%) | 
 | 6 | 2 | Hellmouth Sunbeams (39%) | 9 - 3 | Hades Tigers (61%) | 
 | 6 | 3 | Philly Pies (42%) | 9 - 3 | Seattle Garages (58%) | 
-| 6 | 19 | Philly Pies (38%) | 9 - 3 | Mexico City Wild Wings (62%) | 
+| 6 | 19 | Philly Pies (38%) | 9 - 3 | Mexico City Mild Wings (62%) | 
 
 

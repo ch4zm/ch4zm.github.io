@@ -14,8 +14,8 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 | Crabs                          | 11         | 6          | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
 | Firefighters                   | 8          | 6          | 87, 88, 89, 90, 91, 92, 93, 94 |
 | Firefighters                   | 7          | 6          | 11, 12, 13, 14, 15, 16, 17 |
+| Pies                           | 7          | 6          | 18, 28, 29, 30, 31, 32, 33 |
 | Pies                           | 7          | 6          | 35, 36, 37, 38, 39, 40, 41 |
-| Breath Mints                   | 7          | 6          | 64, 65, 66, 67, 68, 69, 70 |
 | Garages                        | 7          | 6          | 99, 100, 101, 102, 105, 106, 107 |
 
 
@@ -118,6 +118,19 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 
 | 7 Game Winning Streak by the Pies |
 | ----- |
+| Season 6 Games 17, 27, 28, 29, 30, 31, 32 |
+| G1: Season 6 Game 18: Pies 3  @  2 Firefighters |
+| G2: Season 6 Game 28: Pies 5  @  1 Fridays |
+| G3: Season 6 Game 29: Pies 8  @  1 Fridays |
+| G4: Season 6 Game 30: Pies 6  @  0 Fridays |
+| G5: Season 6 Game 31: Pies 7  @  3 Fridays |
+| G6: Season 6 Game 32: Pies 10 @  6 Fridays |
+| G7: Season 6 Game 33: Pies 7  @  2 Fridays |
+
+<br />
+
+| 7 Game Winning Streak by the Pies |
+| ----- |
 | Season 6 Games 34, 35, 36, 37, 38, 39, 40 |
 | G1: Season 6 Game 35: Garages 2  @  3 Pies |
 | G2: Season 6 Game 36: Garages 4  @  6 Pies |
@@ -126,19 +139,6 @@ Winning streaks of 7 or more games for all teams versus all teams for season 6
 | G5: Season 6 Game 39: Fridays 3  @  4 Pies |
 | G6: Season 6 Game 40: Pies 13 @  3 Magic |
 | G7: Season 6 Game 41: Pies 7  @  0 Magic |
-
-<br />
-
-| 7 Game Winning Streak by the Breath Mints |
-| ----- |
-| Season 6 Games 63, 64, 65, 66, 67, 68, 69 |
-| G1: Season 6 Game 64: Fridays 6  @  7 Breath Mints |
-| G2: Season 6 Game 65: Fridays 2  @  6 Breath Mints |
-| G3: Season 6 Game 66: Fridays 7  @  8 Breath Mints |
-| G4: Season 6 Game 67: Breath Mints 7  @  0 Wild Wings |
-| G5: Season 6 Game 68: Breath Mints 7  @  3 Wild Wings |
-| G6: Season 6 Game 69: Breath Mints 3  @  0 Wild Wings |
-| G7: Season 6 Game 70: Fridays 4  @  6 Breath Mints |
 
 <br />
 

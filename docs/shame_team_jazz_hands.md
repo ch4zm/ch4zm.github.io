@@ -26,11 +26,11 @@ Shame games (games where the loser was shamed) for all time for team Jazz Hands 
 | 10 | 67 | Breckenridge Jazz Hands | 7 - 4 | Unlimited Tacos | 
 | 10 | 79 | Unlimited Tacos | 7 - 4 | Breckenridge Jazz Hands | 
 | 3 | 18 | Seattle Garages | 6 - 3 | Breckenridge Jazz Hands | 
+| 11 | 85 | Breckenridge Jazz Hands | 6 - 3 | Chicago Firefighters | 
 | 1 | 51 | Houston Spies | 8 - 6 | Breckenridge Jazz Hands | 
 | 1 | 54 | Baltimore Crabs | 8 - 6 | Breckenridge Jazz Hands | 
 | 2 | 4 | Breckenridge Jazz Hands | 8 - 6 | Canada Moist Talkers | 
 | 2 | 58 | Breckenridge Jazz Hands | 8 - 6 | Seattle Garages | 
 | 2 | 71 | Miami Dalé | 8 - 6 | Breckenridge Jazz Hands | 
-| 6 | 74 | Houston Spies | 8 - 6 | Breckenridge Jazz Hands | 
 
 

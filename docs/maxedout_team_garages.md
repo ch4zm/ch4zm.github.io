@@ -28,9 +28,9 @@ Maxed out games (high-scoring one-run games) for all time for team Garages (note
 | 8 | 14 | Seattle Garages | 8 - 7 | Yellowstone Magic | 
 | 9 | 26 | Seattle Garages | 8 - 7 | Kansas City Breath Mints | 
 | 9 | 37 | Seattle Garages | 8 - 7 | Hades Tigers | 
+| 11 | 57 | Charleston Shoe Thieves | 8 - 7 | Seattle Garages | 
 | 1 | 7 | Philly Pies | 7 - 6 | Seattle Garages | 
 | 1 | 61 | Seattle Garages | 7 - 6 | Philly Pies | 
 | 1 | 97 | Seattle Garages | 7 - 6 | Miami Dalé | 
-| 2 | 15 | Miami Dalé | 7 - 6 | Seattle Garages | 
 
 

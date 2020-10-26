@@ -1,5 +1,5 @@
 # Pies Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -12,12 +12,12 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Pies                           | 9          | 2          | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
 | Pies                           | 8          | 10         | 75, 76, 77, 78, 79, 80, 81, 82 |
+| Pies                           | 7          | 6          | 18, 28, 29, 30, 31, 32, 33 |
 | Pies                           | 7          | 6          | 35, 36, 37, 38, 39, 40, 41 |
 | Pies                           | 6          | 1          | 33, 34, 35, 36, 37, 38 |
 | Pies                           | 6          | 2          | 100, 101, 102, 105, 106, 107 |
 | Pies                           | 6          | 3          | 30, 31, 32, 33, 34, 35 |
 | Pies                           | 6          | 5          | 48, 49, 50, 51, 52, 53 |
-| Pies                           | 6          | 6          | 28, 29, 30, 31, 32, 33 |
 | Pies                           | 6          | 6          | 90, 91, 92, 93, 94, 95 |
 | Pies                           | 6          | 8          | 79, 80, 81, 82, 83, 84 |
 | Pies                           | 6          | 10         | 30, 31, 32, 33, 34, 35 |
@@ -32,6 +32,7 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | Pies                           | 5          | 9          | 86, 87, 88, 89, 90 |
 | Pies                           | 5          | 10         | 38, 39, 40, 41, 42 |
 | Pies                           | 5          | 10         | 84, 85, 86, 87, 88 |
+| Pies                           | 5          | 11         | 61, 62, 63, 64, 65 |
 | Pies                           | 4          | 1          | 66, 67, 68, 69 |
 | Pies                           | 4          | 2          | 51, 52, 53, 54 |
 | Pies                           | 4          | 2          | 66, 67, 68, 69 |
@@ -86,6 +87,19 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G6: Season 10 Game 80: Pies 5  @  2 Magic |
 | G7: Season 10 Game 81: Pies 17 @  1 Magic |
 | G8: Season 10 Game 82: Pies 1  @  0 Fridays |
+
+<br />
+
+| 7 Game Winning Streak by the Pies |
+| ----- |
+| Season 6 Games 17, 27, 28, 29, 30, 31, 32 |
+| G1: Season 6 Game 18: Pies 3  @  2 Firefighters |
+| G2: Season 6 Game 28: Pies 5  @  1 Fridays |
+| G3: Season 6 Game 29: Pies 8  @  1 Fridays |
+| G4: Season 6 Game 30: Pies 6  @  0 Fridays |
+| G5: Season 6 Game 31: Pies 7  @  3 Fridays |
+| G6: Season 6 Game 32: Pies 10 @  6 Fridays |
+| G7: Season 6 Game 33: Pies 7  @  2 Fridays |
 
 <br />
 
@@ -147,18 +161,6 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G4: Season 5 Game 51: Pies 8  @  4 Sunbeams |
 | G5: Season 5 Game 52: Pies 8  @  6 Spies |
 | G6: Season 5 Game 53: Pies 5  @  2 Spies |
-
-<br />
-
-| 6 Game Winning Streak by the Pies |
-| ----- |
-| Season 6 Games 27, 28, 29, 30, 31, 32 |
-| G1: Season 6 Game 28: Pies 5  @  1 Fridays |
-| G2: Season 6 Game 29: Pies 8  @  1 Fridays |
-| G3: Season 6 Game 30: Pies 6  @  0 Fridays |
-| G4: Season 6 Game 31: Pies 7  @  3 Fridays |
-| G5: Season 6 Game 32: Pies 10 @  6 Fridays |
-| G6: Season 6 Game 33: Pies 7  @  2 Fridays |
 
 <br />
 
@@ -316,6 +318,17 @@ Winning streaks of 4 or more games for Pies versus all teams for all time
 | G3: Season 10 Game 86: Garages 4  @  5 Pies |
 | G4: Season 10 Game 87: Garages 0  @  3 Pies |
 | G5: Season 10 Game 88: Millennials 2  @  4 Pies |
+
+<br />
+
+| 5 Game Winning Streak by the Pies |
+| ----- |
+| Season 11 Games 60, 61, 62, 63, 64 |
+| G1: Season 11 Game 61: Pies 2  @  1 Lovers |
+| G2: Season 11 Game 62: Pies 6  @  5 Lovers |
+| G3: Season 11 Game 63: Pies 9  @  4 Lovers |
+| G4: Season 11 Game 64: Pies 3  @  0 Millennials |
+| G5: Season 11 Game 65: Pies 8  @  3 Millennials |
 
 <br />
 

@@ -16,6 +16,7 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 48 | Hades Tigers (46%) | 10 - 1 | Canada Moist Talkers (54%) | 
 | 3 | 16 | Philly Pies (41%) | 9 - 0 | Canada Moist Talkers (59%) | 
 | 8 | 32 | Hawaii Fridays (42%) | 9 - 1 | Canada Moist Talkers (58%) | 
+| 11 | 33 | Dallas Steaks (40%) | 9 - 1 | Canada Moist Talkers (60%) | 
 | 6 | 30 | Kansas City Breath Mints (45%) | 15 - 8 | Canada Moist Talkers (55%) | 
 | 3 | 7 | Houston Spies (31%) | 10 - 3 | Canada Moist Talkers (69%) | 
 | 7 | 19 | Mexico City Wild Wings (45%) | 9 - 2 | Canada Moist Talkers (55%) | 
@@ -31,6 +32,5 @@ Underdog games (games where the underdog won with large run differential) for al
 | 8 | 13 | Canada Moist Talkers (31%) | 9 - 3 | Mexico City Wild Wings (69%) | 
 | 5 | 65 | Miami Dalé (43%) | 8 - 2 | Canada Moist Talkers (57%) | 
 | 6 | 62 | Canada Moist Talkers (40%) | 8 - 2 | Hades Tigers (60%) | 
-| 9 | 71 | Canada Moist Talkers (43%) | 8 - 2 | New York Millennials (57%) | 
 
 

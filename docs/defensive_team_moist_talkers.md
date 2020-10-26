@@ -28,9 +28,9 @@ Maxed out games (high-scoring one-run games) for all time for team Moist Talkers
 | 10 | 83 | New York Millennials | 1 - 0 | Canada Moist Talkers | 
 | 10 | 97 | Seattle Garages | 1 - 0 | Canada Moist Talkers | 
 | 10 | 103* | New York Millennials | 1 - 0 | Canada Moist Talkers | 
+| 11 | 70 | Charleston Shoe Thieves | 1 - 0 | Canada Moist Talkers | 
 | 1 | 17 | Canada Moist Talkers | 2 - 1 | Baltimore Crabs | 
 | 2 | 51 | Canada Moist Talkers | 2 - 1 | Hades Tigers | 
 | 2 | 56 | Canada Moist Talkers | 2 - 1 | Hellmouth Sunbeams | 
-| 2 | 84 | Mexico City Wild Wings | 2 - 1 | Canada Moist Talkers | 
 
 

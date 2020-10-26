@@ -1,5 +1,5 @@
 # Lovers Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -22,6 +22,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 6          | 6          | 70, 71, 72, 73, 74, 75 |
 | Lovers                         | 6          | 10         | 39, 40, 41, 42, 43, 44 |
 | Lovers                         | 6          | 10         | 89, 90, 91, 92, 93, 94 |
+| Lovers                         | 6          | 11         | 22, 23, 24, 25, 26, 27 |
 | Lovers                         | 5          | 1          | 14, 15, 16, 17, 18 |
 | Lovers                         | 5          | 3          | 64, 65, 66, 67, 68 |
 | Lovers                         | 5          | 3          | 95, 96, 97, 98, 99 |
@@ -32,6 +33,7 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 5          | 6          | 63, 64, 65, 66, 67 |
 | Lovers                         | 5          | 10         | 18, 19, 20, 21, 22 |
 | Lovers                         | 5          | 10         | 78, 79, 80, 81, 82 |
+| Lovers                         | 5          | 11         | 72, 73, 74, 75, 76 |
 | Lovers                         | 4          | 1          | 47, 48, 49, 50 |
 | Lovers                         | 4          | 2          | 75, 76, 77, 78 |
 | Lovers                         | 4          | 3          | 27, 28, 29, 30 |
@@ -216,6 +218,18 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 
 <br />
 
+| 6 Game Winning Streak by the Lovers |
+| ----- |
+| Season 11 Games 21, 22, 23, 24, 25, 26 |
+| G1: Season 11 Game 22: Lovers 4  @  3 Pies |
+| G2: Season 11 Game 23: Lovers 8  @  3 Pies |
+| G3: Season 11 Game 24: Lovers 6  @  2 Pies |
+| G4: Season 11 Game 25: Millennials 5  @  6 Lovers |
+| G5: Season 11 Game 26: Millennials 4  @  5 Lovers |
+| G6: Season 11 Game 27: Millennials 7  @  8 Lovers |
+
+<br />
+
 | 5 Game Winning Streak by the Lovers |
 | ----- |
 | Season 1 Games 13, 14, 15, 16, 17 |
@@ -323,6 +337,17 @@ Winning streaks of 4 or more games for Lovers versus all teams for all time
 | G3: Season 10 Game 80: Wild Wings 1  @  9 Lovers |
 | G4: Season 10 Game 81: Wild Wings 1  @  2 Lovers |
 | G5: Season 10 Game 82: Wild Wings 3  @  8 Lovers |
+
+<br />
+
+| 5 Game Winning Streak by the Lovers |
+| ----- |
+| Season 11 Games 71, 72, 73, 74, 75 |
+| G1: Season 11 Game 72: Garages 1  @  8 Lovers |
+| G2: Season 11 Game 73: Lovers 8  @  3 Millennials |
+| G3: Season 11 Game 74: Lovers 5  @  3 Millennials |
+| G4: Season 11 Game 75: Lovers 9  @  6 Millennials |
+| G5: Season 11 Game 76: Steaks 3  @  6 Lovers |
 
 <br />
 

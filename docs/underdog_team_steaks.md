@@ -10,11 +10,13 @@ Underdog games (games where the underdog won with large run differential) for al
 | 1 | 88 | Dallas Steaks (45%) | 15 - 2 | Chicago Firefighters (55%) | 
 | 10 | 99 | Dallas Steaks (44%) | 11 - 0 | Kansas City Breath Mints (56%) | 
 | 3 | 15 | Dallas Steaks (42%) | 11 - 1 | Chicago Firefighters (58%) | 
-| 9 | 18 | Hawaii Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
+| 9 | 18 | Hawai'i Fridays (39%) | 11 - 1 | Dallas Steaks (61%) | 
 | 8 | 83 | Dallas Steaks (40%) | 12 - 3 | Mexico City Wild Wings (60%) | 
 | 8 | 1 | Seattle Garages (42%) | 10 - 1 | Dallas Steaks (58%) | 
+| 11 | 33 | Dallas Steaks (40%) | 9 - 1 | Canada Moist Talkers (60%) | 
 | 3 | 32 | Dallas Steaks (45%) | 11 - 4 | San Francisco Lovers (55%) | 
 | 6 | 6 | Kansas City Breath Mints (45%) | 10 - 3 | Dallas Steaks (55%) | 
+| 11 | 5 | San Francisco Lovers (45%) | 9 - 2 | Dallas Steaks (55%) | 
 | 1 | 33 | Dallas Steaks (43%) | 8 - 1 | Charleston Shoe Thieves (57%) | 
 | 10 | 51 | Dallas Steaks (42%) | 8 - 1 | Seattle Garages (58%) | 
 | 2 | 62 | Chicago Firefighters (38%) | 7 - 0 | Dallas Steaks (62%) | 
@@ -27,10 +29,8 @@ Underdog games (games where the underdog won with large run differential) for al
 | 9 | 14 | Dallas Steaks (43%) | 9 - 3 | Seattle Garages (57%) | 
 | 7 | 77 | Dallas Steaks (39%) | 8 - 2 | Mexico City Wild Wings (61%) | 
 | 9 | 49 | Dallas Steaks (41%) | 8 - 2 | New York Millennials (59%) | 
+| 11 | 68 | Dallas Steaks (39%) | 8 - 2 | New York Millennials (61%) | 
 | 4 | 48 | Unlimited Tacos (41%) | 7 - 1 | Dallas Steaks (59%) | 
 | 8 | 64 | Canada Moist Talkers (45%) | 7 - 1 | Dallas Steaks (55%) | 
-| 9 | 78 | Dallas Steaks (43%) | 7 - 1 | Canada Moist Talkers (57%) | 
-| 10 | 39 | Dallas Steaks (39%) | 7 - 1 | New York Millennials (61%) | 
-| 10 | 79 | Dallas Steaks (40%) | 7 - 1 | Charleston Shoe Thieves (60%) | 
 
 

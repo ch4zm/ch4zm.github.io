@@ -1,5 +1,5 @@
 # All-Time Blaseball Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -17,6 +17,7 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Millennials                    | 13         | 5          | 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96 |
 | Crabs                          | 13         | 7          | 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
 | Tigers                         | 12         | 3          | 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89 |
+| Wild Wings                     | 12         | 7          | 93, 94, 95, 96, 97, 98, 99, 106, 107, 108, 110, 111 |
 | Jazz Hands                     | 11         | 1          | 28, 29, 30, 34, 35, 36, 37, 38, 39, 40, 41 |
 | Firefighters                   | 11         | 1          | 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 |
 | Crabs                          | 11         | 6          | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
@@ -29,6 +30,8 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Steaks                         | 10         | 8          | 91, 92, 93, 94, 95, 96, 97, 98, 99, 100 |
 | Crabs                          | 10         | 8          | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 |
 | Tigers                         | 10         | 10         | 29, 30, 31, 32, 33, 34, 35, 36, 37, 38 |
+| Sunbeams                       | 10         | 11         | 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 |
+| Moist Talkers                  | 10         | 11         | 73, 74, 75, 76, 77, 78, 79, 80, 81, 82 |
 | Steaks                         | 9          | 2          | 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | Steaks                         | 9          | 2          | 30, 31, 32, 33, 34, 35, 36, 37, 38 |
 | Pies                           | 9          | 2          | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
@@ -45,6 +48,8 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Crabs                          | 9          | 9          | 76, 77, 78, 79, 80, 81, 82, 83, 84 |
 | Shoe Thieves                   | 9          | 10         | 56, 57, 58, 59, 60, 61, 62, 63, 64 |
 | Lovers                         | 9          | 10         | 59, 60, 61, 62, 63, 64, 65, 66, 67 |
+| Moist Talkers                  | 9          | 11         | 23, 24, 25, 26, 27, 28, 29, 30, 31 |
+| Sunbeams                       | 9          | 11         | 91, 92, 93, 97, 98, 99, 103, 104, 110 |
 | Steaks                         | 8          | 1          | 36, 37, 38, 39, 40, 41, 42, 43 |
 | Steaks                         | 8          | 1          | 90, 91, 92, 93, 94, 95, 96, 97 |
 | Tigers                         | 8          | 2          | 5, 6, 7, 8, 9, 10, 11, 12 |
@@ -57,7 +62,6 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | Firefighters                   | 8          | 6          | 87, 88, 89, 90, 91, 92, 93, 94 |
 | Crabs                          | 8          | 7          | 18, 19, 20, 21, 22, 23, 24, 25 |
 | Shoe Thieves                   | 8          | 7          | 25, 26, 27, 28, 29, 30, 31, 32 |
-| Wild Wings                     | 8          | 7          | 93, 94, 95, 96, 97, 98, 99, 100 |
 | Sunbeams                       | 8          | 8          | 15, 16, 17, 18, 19, 20, 21, 22 |
 | Millennials                    | 8          | 8          | 38, 39, 40, 41, 42, 43, 44, 45 |
 | Flowers                        | 8          | 8          | 47, 48, 49, 50, 51, 52, 53, 54 |
@@ -219,6 +223,24 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G10: Season 3 Game 87: Tigers 8  @  6 Garages |
 | G11: Season 3 Game 88: Tigers 2  @  0 Wild Wings |
 | G12: Season 3 Game 89: Tigers 3  @  1 Wild Wings |
+
+<br />
+
+| 12 Game Winning Streak by the Wild Wings |
+| ----- |
+| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 105, 106, 107, 109, 110 |
+| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
+| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
+| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
+| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
+| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
+| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
+| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
+| G8: Season 7 Game 106: Garages 3  @  4 Wild Wings |
+| G9: Season 7 Game 107: Wild Wings 4  @  2 Garages |
+| G10: Season 7 Game 108: Garages 1  @  2 Wild Wings |
+| G11: Season 7 Game 110: Wild Wings 2  @  1 Lovers |
+| G12: Season 7 Game 111: Lovers 2  @  5 Wild Wings |
 
 <br />
 
@@ -417,6 +439,38 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G8: Season 10 Game 36: Millennials 2  @  4 Tigers |
 | G9: Season 10 Game 37: Tigers 5  @  3 Fridays |
 | G10: Season 10 Game 38: Tigers 9  @  0 Fridays |
+
+<br />
+
+| 10 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| G1: Season 11 Game 6: Sunbeams 7  @  1 Tigers |
+| G2: Season 11 Game 7: Spies 3  @  5 Sunbeams |
+| G3: Season 11 Game 8: Spies 1  @  6 Sunbeams |
+| G4: Season 11 Game 9: Spies 2  @  9 Sunbeams |
+| G5: Season 11 Game 10: Flowers 4  @  8 Sunbeams |
+| G6: Season 11 Game 11: Flowers 0  @  7 Sunbeams |
+| G7: Season 11 Game 12: Flowers 1  @  6 Sunbeams |
+| G8: Season 11 Game 13: Wild Wings 6  @  8 Sunbeams |
+| G9: Season 11 Game 14: Wild Wings 3  @  7 Sunbeams |
+| G10: Season 11 Game 15: Wild Wings 5  @  7 Sunbeams |
+
+<br />
+
+| 10 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 72, 73, 74, 75, 76, 77, 78, 79, 80, 81 |
+| G1: Season 11 Game 73: Moist Talkers 3  @  1 Steaks |
+| G2: Season 11 Game 74: Moist Talkers 7  @  3 Steaks |
+| G3: Season 11 Game 75: Moist Talkers 3  @  1 Steaks |
+| G4: Season 11 Game 76: Shoe Thieves 2  @  6 Moist Talkers |
+| G5: Season 11 Game 77: Shoe Thieves 1  @  3 Moist Talkers |
+| G6: Season 11 Game 78: Shoe Thieves 5  @  6 Moist Talkers |
+| G7: Season 11 Game 79: Steaks 1  @  4 Moist Talkers |
+| G8: Season 11 Game 80: Steaks 1  @  5 Moist Talkers |
+| G9: Season 11 Game 81: Steaks 2  @  3 Moist Talkers |
+| G10: Season 11 Game 82: Moist Talkers 3  @  2 Garages |
 
 <br />
 
@@ -660,6 +714,36 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 
 <br />
 
+| 9 Game Winning Streak by the Moist Talkers |
+| ----- |
+| Season 11 Games 22, 23, 24, 25, 26, 27, 28, 29, 30 |
+| G1: Season 11 Game 23: Moist Talkers 6  @  2 Breath Mints |
+| G2: Season 11 Game 24: Moist Talkers 4  @  1 Breath Mints |
+| G3: Season 11 Game 25: Shoe Thieves 0  @  5 Moist Talkers |
+| G4: Season 11 Game 26: Shoe Thieves 6  @  8 Moist Talkers |
+| G5: Season 11 Game 27: Shoe Thieves 1  @  3 Moist Talkers |
+| G6: Season 11 Game 28: Moist Talkers 7  @  3 Steaks |
+| G7: Season 11 Game 29: Moist Talkers 8  @  3 Steaks |
+| G8: Season 11 Game 30: Moist Talkers 6  @  3 Steaks |
+| G9: Season 11 Game 31: Moist Talkers 3  @  0 Steaks |
+
+<br />
+
+| 9 Game Winning Streak by the Sunbeams |
+| ----- |
+| Season 11 Games 90, 91, 92, 96, 97, 98, 102, 103, 109 |
+| G1: Season 11 Game 91: Wild Wings 2  @  4 Sunbeams |
+| G2: Season 11 Game 92: Wild Wings 4  @  7 Sunbeams |
+| G3: Season 11 Game 93: Wild Wings 1  @  4 Sunbeams |
+| G4: Season 11 Game 97: Flowers 3  @  5 Sunbeams |
+| G5: Season 11 Game 98: Flowers 3  @  9 Sunbeams |
+| G6: Season 11 Game 99: Flowers 1  @  3 Sunbeams |
+| G7: Season 11 Game 103: Spies 0  @  2 Sunbeams |
+| G8: Season 11 Game 104: Spies 6  @  7 Sunbeams |
+| G9: Season 11 Game 110: Tigers 0  @  9 Sunbeams |
+
+<br />
+
 | 8 Game Winning Streak by the Steaks |
 | ----- |
 | Season 1 Games 35, 36, 37, 38, 39, 40, 41, 42 |
@@ -825,20 +909,6 @@ Winning streaks of 8 or more games for all teams versus all teams for all time
 | G6: Season 7 Game 30: Shoe Thieves 4  @  2 Tacos |
 | G7: Season 7 Game 31: Wild Wings 3  @  4 Shoe Thieves |
 | G8: Season 7 Game 32: Wild Wings 3  @  5 Shoe Thieves |
-
-<br />
-
-| 8 Game Winning Streak by the Wild Wings |
-| ----- |
-| Season 7 Games 92, 93, 94, 95, 96, 97, 98, 99 |
-| G1: Season 7 Game 93: Magic 0  @  3 Wild Wings |
-| G2: Season 7 Game 94: Fridays 0  @  9 Wild Wings |
-| G3: Season 7 Game 95: Fridays 1  @  3 Wild Wings |
-| G4: Season 7 Game 96: Fridays 1  @  4 Wild Wings |
-| G5: Season 7 Game 97: Wild Wings 5  @  1 Magic |
-| G6: Season 7 Game 98: Wild Wings 6  @  1 Magic |
-| G7: Season 7 Game 99: Wild Wings 7  @  4 Magic |
-| G8: Season 7 Game 100: Wild Wings 5  @  4 Breath Mints |
 
 <br />
 

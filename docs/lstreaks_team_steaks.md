@@ -1,5 +1,5 @@
 # Steaks Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -12,10 +12,12 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | ----- | ----- | ----- | ----- |
 | Steaks                         | 11         | 10         | 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 |
 | Steaks                         | 9          | 10         | 11, 12, 13, 14, 15, 16, 17, 18, 19 |
+| Steaks                         | 9          | 11         | 41, 42, 43, 44, 45, 46, 47, 48, 49 |
 | Steaks                         | 8          | 3          | 6, 7, 8, 9, 10, 11, 12, 13 |
 | Steaks                         | 6          | 5          | 61, 62, 63, 64, 65, 66 |
 | Steaks                         | 6          | 9          | 88, 89, 90, 91, 92, 93 |
 | Steaks                         | 5          | 7          | 51, 52, 53, 54, 55 |
+| Steaks                         | 5          | 11         | 78, 79, 80, 81, 82 |
 | Steaks                         | 4          | 1          | 7, 8, 9, 10 |
 | Steaks                         | 4          | 1          | 26, 27, 28, 29 |
 | Steaks                         | 4          | 1          | 47, 48, 49, 50 |
@@ -28,6 +30,8 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | Steaks                         | 4          | 8          | 62, 63, 64, 65 |
 | Steaks                         | 4          | 9          | 65, 66, 67, 68 |
 | Steaks                         | 4          | 10         | 58, 59, 60, 61 |
+| Steaks                         | 4          | 11         | 28, 29, 30, 31 |
+| Steaks                         | 4          | 11         | 73, 74, 75, 76 |
 
 
 
@@ -68,6 +72,21 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G7: Season 10 Game 17: Shoe Thieves 1  @  0 Steaks |
 | G8: Season 10 Game 18: Shoe Thieves 6  @  3 Steaks |
 | G9: Season 10 Game 19: Steaks 2  @  3 Magic |
+
+<br />
+
+| 9 Game Losing Streak by the Steaks |
+| ----- |
+| Season 11 Games 40, 41, 42, 43, 44, 45, 46, 47, 48 |
+| G1: Season 11 Game 41: Steaks 3  @  4 Pies |
+| G2: Season 11 Game 42: Steaks 1  @  4 Pies |
+| G3: Season 11 Game 43: Steaks 5  @  8 Millennials |
+| G4: Season 11 Game 44: Steaks 4  @  8 Millennials |
+| G5: Season 11 Game 45: Steaks 4  @  5 Millennials |
+| G6: Season 11 Game 46: Shoe Thieves 5  @  3 Steaks |
+| G7: Season 11 Game 47: Shoe Thieves 6  @  2 Steaks |
+| G8: Season 11 Game 48: Shoe Thieves 3  @  1 Steaks |
+| G9: Season 11 Game 49: Steaks 0  @  3 Pies |
 
 <br />
 
@@ -117,6 +136,17 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G3: Season 7 Game 53: Garages 10 @  2 Steaks |
 | G4: Season 7 Game 54: Garages 4  @  3 Steaks |
 | G5: Season 7 Game 55: Steaks 2  @  4 Lovers |
+
+<br />
+
+| 5 Game Losing Streak by the Steaks |
+| ----- |
+| Season 11 Games 77, 78, 79, 80, 81 |
+| G1: Season 11 Game 78: Steaks 4  @  5 Lovers |
+| G2: Season 11 Game 79: Steaks 1  @  4 Moist Talkers |
+| G3: Season 11 Game 80: Steaks 1  @  5 Moist Talkers |
+| G4: Season 11 Game 81: Steaks 2  @  3 Moist Talkers |
+| G5: Season 11 Game 82: Lovers 6  @  3 Steaks |
 
 <br />
 
@@ -237,6 +267,26 @@ Losing streaks of 4 or more games for Steaks versus all teams for all time
 | G2: Season 10 Game 59: Shoe Thieves 3  @  2 Steaks |
 | G3: Season 10 Game 60: Shoe Thieves 5  @  4 Steaks |
 | G4: Season 10 Game 61: Magic 3  @  0 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 11 Games 27, 28, 29, 30 |
+| G1: Season 11 Game 28: Moist Talkers 7  @  3 Steaks |
+| G2: Season 11 Game 29: Moist Talkers 8  @  3 Steaks |
+| G3: Season 11 Game 30: Moist Talkers 6  @  3 Steaks |
+| G4: Season 11 Game 31: Moist Talkers 3  @  0 Steaks |
+
+<br />
+
+| 4 Game Losing Streak by the Steaks |
+| ----- |
+| Season 11 Games 72, 73, 74, 75 |
+| G1: Season 11 Game 73: Moist Talkers 3  @  1 Steaks |
+| G2: Season 11 Game 74: Moist Talkers 7  @  3 Steaks |
+| G3: Season 11 Game 75: Moist Talkers 3  @  1 Steaks |
+| G4: Season 11 Game 76: Steaks 3  @  6 Lovers |
 
 
 

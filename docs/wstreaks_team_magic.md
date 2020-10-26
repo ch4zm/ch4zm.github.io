@@ -1,5 +1,5 @@
 # Magic Winning Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -15,6 +15,7 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 7          | 3          | 1, 2, 3, 4, 5, 6, 7 |
 | Magic                          | 7          | 7          | 42, 43, 44, 45, 46, 47, 48 |
 | Magic                          | 6          | 2          | 66, 67, 68, 69, 70, 71 |
+| Magic                          | 6          | 11         | 69, 70, 71, 72, 73, 74 |
 | Magic                          | 5          | 1          | 80, 81, 82, 83, 84 |
 | Magic                          | 5          | 1          | 87, 88, 89, 90, 91 |
 | Magic                          | 5          | 3          | 68, 69, 70, 71, 72 |
@@ -35,6 +36,8 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | Magic                          | 4          | 8          | 23, 24, 25, 26 |
 | Magic                          | 4          | 8          | 70, 71, 72, 73 |
 | Magic                          | 4          | 9          | 88, 89, 90, 91 |
+| Magic                          | 4          | 11         | 47, 48, 49, 50 |
+| Magic                          | 4          | 11         | 102, 103, 104, 105 |
 
 
 
@@ -111,6 +114,18 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G4: Season 2 Game 69: Magic 7  @  1 Millennials |
 | G5: Season 2 Game 70: Magic 8  @  2 Fridays |
 | G6: Season 2 Game 71: Magic 1  @  0 Fridays |
+
+<br />
+
+| 6 Game Winning Streak by the Magic |
+| ----- |
+| Season 11 Games 68, 69, 70, 71, 72, 73 |
+| G1: Season 11 Game 69: Pies 3  @  4 Magic |
+| G2: Season 11 Game 70: Pies 5  @  7 Magic |
+| G3: Season 11 Game 71: Pies 6  @  8 Magic |
+| G4: Season 11 Game 72: Pies 1  @  5 Magic |
+| G5: Season 11 Game 73: Breath Mints 1  @  5 Magic |
+| G6: Season 11 Game 74: Breath Mints 3  @  4 Magic |
 
 <br />
 
@@ -318,6 +333,26 @@ Winning streaks of 4 or more games for Magic versus all teams for all time
 | G2: Season 9 Game 89: Steaks 3  @  4 Magic |
 | G3: Season 9 Game 90: Steaks 3  @  6 Magic |
 | G4: Season 9 Game 91: Magic 6  @  3 Moist Talkers |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 11 Games 46, 47, 48, 49 |
+| G1: Season 11 Game 47: Magic 6  @  3 Pies |
+| G2: Season 11 Game 48: Magic 9  @  3 Pies |
+| G3: Season 11 Game 49: Lovers 4  @  9 Magic |
+| G4: Season 11 Game 50: Lovers 2  @  5 Magic |
+
+<br />
+
+| 4 Game Winning Streak by the Magic |
+| ----- |
+| Season 11 Games 101, 102, 103, 104 |
+| G1: Season 11 Game 102: Magic 7  @  6 Steaks |
+| G2: Season 11 Game 103: Magic 7  @  3 Moist Talkers |
+| G3: Season 11 Game 104: Moist Talkers 2  @  3 Magic |
+| G4: Season 11 Game 105: Moist Talkers 4  @  6 Magic |
 
 
 

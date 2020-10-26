@@ -13,7 +13,7 @@ Maxed out games (high-scoring one-run games) for all time for team Fridays (note
 | 5 | 92 | Yellowstone Magic | 9 - 8 | Hawaii Fridays | 
 | 7 | 5 | Charleston Shoe Thieves | 9 - 8 | Hawaii Fridays | 
 | 8 | 96 | New York Millennials | 9 - 8 | Hawaii Fridays | 
-| 9 | 10 | New York Millennials | 9 - 8 | Hawaii Fridays | 
+| 9 | 10 | New York Millennials | 9 - 8 | Hawai'i Fridays | 
 | 1 | 15 | San Francisco Lovers | 8 - 7 | Hawaii Fridays | 
 | 1 | 40 | Hawaii Fridays | 8 - 7 | Charleston Shoe Thieves | 
 | 2 | 26 | Charleston Shoe Thieves | 8 - 7 | Hawaii Fridays | 

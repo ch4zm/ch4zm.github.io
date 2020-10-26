@@ -1,5 +1,5 @@
 # Lovers Losing Streaks
-(Through season 10)
+(Through season 11)
 ## Summary
 
 
@@ -37,6 +37,8 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | Lovers                         | 4          | 6          | 87, 88, 89, 90 |
 | Lovers                         | 4          | 9          | 11, 12, 13, 14 |
 | Lovers                         | 4          | 9          | 62, 63, 64, 65 |
+| Lovers                         | 4          | 11         | 38, 39, 40, 41 |
+| Lovers                         | 4          | 11         | 85, 86, 87, 88 |
 
 
 
@@ -352,6 +354,26 @@ Losing streaks of 4 or more games for Lovers versus all teams for all time
 | G2: Season 9 Game 63: Lovers 0  @  2 Wild Wings |
 | G3: Season 9 Game 64: Crabs 4  @  3 Lovers |
 | G4: Season 9 Game 65: Crabs 6  @  5 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Lovers |
+| ----- |
+| Season 11 Games 37, 38, 39, 40 |
+| G1: Season 11 Game 38: Lovers 0  @  6 Tigers |
+| G2: Season 11 Game 39: Lovers 2  @  6 Tigers |
+| G3: Season 11 Game 40: Moist Talkers 5  @  4 Lovers |
+| G4: Season 11 Game 41: Moist Talkers 8  @  2 Lovers |
+
+<br />
+
+| 4 Game Losing Streak by the Lovers |
+| ----- |
+| Season 11 Games 84, 85, 86, 87 |
+| G1: Season 11 Game 85: Lovers 3  @  5 Steaks |
+| G2: Season 11 Game 86: Lovers 4  @  5 Steaks |
+| G3: Season 11 Game 87: Lovers 0  @  9 Steaks |
+| G4: Season 11 Game 88: Lovers 3  @  4 Garages |
 
 
 

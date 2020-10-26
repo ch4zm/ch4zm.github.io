@@ -18,10 +18,12 @@ Shame games (games where the loser was shamed) for all time for team Flowers (no
 | 7 | 92 | Boston Flowers | 11 - 8 | Unlimited Tacos | 
 | 7 | 10 | Boston Flowers | 10 - 7 | Philly Pies | 
 | 8 | 74 | Chicago Firefighters | 10 - 7 | Boston Flowers | 
+| 11 | 93 | Houston Spies | 9 - 6 | Boston Flowers | 
 | 3 | 57 | Yellowstone Magic | 7 - 4 | Boston Flowers | 
 | 3 | 87 | New York Millennials | 7 - 4 | Boston Flowers | 
 | 6 | 96 | Unlimited Tacos | 7 - 4 | Boston Flowers | 
 | 5 | 34 | Dallas Steaks | 6 - 3 | Boston Flowers | 
+| 11 | 80 | Unlimited Tacos | 6 - 3 | Boston Flowers | 
 | 1 | 30 | Boston Flowers | 5 - 2 | Los Angeles Tacos | 
 | 6 | 16 | Houston Spies | 5 - 2 | Boston Flowers | 
 | 7 | 69 | Baltimore Crabs | 5 - 2 | Boston Flowers | 
@@ -30,7 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Flowers (no
 | 4 | 78 | Boston Flowers | 10 - 8 | Mexico City Wild Wings | 
 | 2 | 44 | San Francisco Lovers | 9 - 7 | Boston Flowers | 
 | 2 | 68 | Boston Flowers | 9 - 7 | Hawaii Fridays | 
-| 7 | 43 | Boston Flowers | 8 - 6 | Hellmouth Sunbeams | 
-| 1 | 20 | Boston Flowers | 7 - 5 | Hawaii Fridays | 
 
 

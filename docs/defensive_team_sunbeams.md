@@ -22,6 +22,7 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 10 | 53 | San Francisco Lovers | 1 - 0 | Hellmouth Sunbeams | 
 | 10 | 71 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
 | 10 | 87 | Hellmouth Sunbeams | 1 - 0 | Charleston Shoe Thieves | 
+| 11 | 19 | Houston Spies | 1 - 0 | Hellmouth Sunbeams | 
 | 1 | 73 | Moab Sunbeams | 2 - 1 | Philly Pies | 
 | 2 | 17 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
 | 2 | 23 | Hawaii Fridays | 2 - 1 | Hellmouth Sunbeams | 
@@ -31,6 +32,5 @@ Maxed out games (high-scoring one-run games) for all time for team Sunbeams (not
 | 2 | 98 | Hades Tigers | 2 - 1 | Hellmouth Sunbeams | 
 | 3 | 2 | Hellmouth Sunbeams | 2 - 1 | Seattle Garages | 
 | 3 | 19 | Hellmouth Sunbeams | 2 - 1 | Mexico City Wild Wings | 
-| 3 | 39 | Philly Pies | 2 - 1 | Hellmouth Sunbeams | 
 
 

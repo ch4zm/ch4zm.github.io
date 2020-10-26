@@ -16,6 +16,7 @@ Shame games (games where the loser was shamed) for all time for team Magic (note
 | 8 | 64 | Mexico City Wild Wings | 10 - 6 | Yellowstone Magic | 
 | 3 | 37 | Boston Flowers | 7 - 3 | Yellowstone Magic | 
 | 5 | 21 | Yellowstone Magic | 6 - 2 | New York Millennials | 
+| 11 | 65 | Yellowstone Magic | 6 - 2 | Charleston Shoe Thieves | 
 | 9 | 99 | Hades Tigers | 13 - 10 | Yellowstone Magic | 
 | 3 | 57 | Yellowstone Magic | 7 - 4 | Boston Flowers | 
 | 5 | 71 | Yellowstone Magic | 7 - 4 | Miami Dalé | 
@@ -31,6 +32,5 @@ Shame games (games where the loser was shamed) for all time for team Magic (note
 | 2 | 46 | Chicago Firefighters | 7 - 5 | Yellowstone Magic | 
 | 8 | 39 | Hawaii Fridays | 7 - 5 | Yellowstone Magic | 
 | 10 | 89 | Charleston Shoe Thieves | 7 - 5 | Yellowstone Magic | 
-| 5 | 24 | Yellowstone Magic | 6 - 4 | Boston Flowers | 
 
 

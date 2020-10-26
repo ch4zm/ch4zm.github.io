@@ -27,7 +27,7 @@ Shutout games (games where the loser had zero runs) for season 6 for all teams (
 | 6 | 65 | Baltimore Crabs | 8 - 0 | New York Millennials | 
 | 6 | 90 | Baltimore Crabs | 8 - 0 | Miami Dalé | 
 | 6 | 2 | Boston Flowers | 7 - 0 | Miami Dalé | 
-| 6 | 23 | Philly Pies | 7 - 0 | Mexico City Wild Wings | 
+| 6 | 23 | Philly Pies | 7 - 0 | Mexico City Mild Wings | 
 | 6 | 25 | Hawaii Fridays | 7 - 0 | Charleston Shoe Thieves | 
 | 6 | 28 | New York Millennials | 7 - 0 | Miami Dalé | 
 | 6 | 41 | Philly Pies | 7 - 0 | Yellowstone Magic | 
