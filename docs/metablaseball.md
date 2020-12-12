@@ -11,3 +11,4 @@ around Conway's Game of Life, a deterministic simulation where a few simple rule
 phenomena. Golly boils existence down to its most primitive elements, life and death, and creates a splort out of it.
 
 The head of the Metablaseball Research Laboratory is Ch4zm of Hellmouth.
+
